@@ -1,0 +1,9 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Sentiment:** Neutral
+
+**Notable Events:** The ITC stock rally has fizzled out since January, and fresh price targets have been set.
+
+**News Tone:** The tone of the news is neutral, as it neither expresses a strong positive nor negative outlook on the stock. The article presents a neutral view, providing an update on the stock's performance and new price targets without expressing a clear bullish or bearish sentiment.
+
+It's worth noting that the historical news items show a mix of positive and negative sentiments, with the most recent article (2022-10-21) having a positive impact (+4.38%) and the oldest article (2021-12-15) having a negative impact (-8.42%). However, the current week's news does not exhibit a strong sentiment in either direction.

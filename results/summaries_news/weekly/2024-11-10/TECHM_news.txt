@@ -1,0 +1,15 @@
+Based on the current week's news, the sentiment is overall positive for the stocks mentioned.
+
+Notable events:
+
+* Mahindra & Mahindra's Q2 net profit jumped 35% year-on-year to Rs 3,171 crore, driven by strong auto and SUV sales.
+* Infosys and Tech Mahindra shares are in the green, along with other major IT stocks, indicating a continued upward trend.
+* IT stocks such as Persistent Systems, LTIM, TCS, and Infosys surged up to 5% on November 6.
+
+News tone:
+
+* Mahindra & Mahindra: Positive (The news is upbeat, highlighting the company's strong performance and beating expectations.)
+* Infosys and Tech Mahindra: Positive (The news is optimistic, indicating a continued upward trend in IT stocks.)
+* IT stocks: Positive (The news is encouraging, highlighting the surge in IT stocks and indicating a positive trend.)
+
+Overall, the news tone is positive for the stocks mentioned, indicating a bullish sentiment in the market.

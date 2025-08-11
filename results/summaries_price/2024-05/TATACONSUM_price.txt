@@ -1,0 +1,25 @@
+Symbol: TATACONSUM
+Month: 2024-05
+Start Price: ₹1083.12
+End Price: ₹1052.45
+12M Return: -2.83%
+6M Return: -2.83%
+3M Return: -2.83%
+Volatility: 0.223
+Sharpe Ratio: -1.516
+Max Drawdown: -0.054
+Peer Correlation (TATAMOTORS): -0.1396
+Peer Correlation (TCS): 0.4246
+Peer Correlation (TATASTEEL): 0.1426
+Average Peer Correlation: 0.1425
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+TATACONSUM, a constituent of the Tata group, has underperformed in the recent past, with negative returns across all time frames (12M, 6M, and 3M). The stock's volatility is moderate, and its Sharpe Ratio is negative, indicating poor risk-adjusted returns. The Max Drawdown of 5.4% suggests that the stock has experienced a significant decline in value. In terms of peer correlations, TATACONSUM has a strong positive correlation with TCS (0.4246) and moderate positive correlations with TATASTEEL (0.1426) and TATAMOTORS (-0.1396), with an average peer correlation of 0.1425.
+
+**Recommendation:**
+
+Based on the current performance metrics, I would recommend a **SELL** on TATACONSUM. The stock's persistent underperformance, negative returns, and poor risk-adjusted returns (Sharpe Ratio) suggest that it may not be an attractive investment opportunity at present. Additionally, the moderate volatility and significant Max Drawdown indicate that the stock may be prone to further declines in value. Investors may want to consider alternative investment opportunities with more promising returns and risk profiles.

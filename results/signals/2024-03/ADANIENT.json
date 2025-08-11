@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance over the past 12 months, high volatility, and negative Sharpe Ratio suggest it's not an attractive investment opportunity. Additionally, the high correlation with ADANIPORTS and moderate correlation with POWERGRID may indicate industry trends could lead to further declines. Fundamentals such as high valuation, poor profit margins, revenue growth concerns, and debt concerns also support a SELL decision. While the macroeconomic environment is generally positive, it's not enough to outweigh the stock's underlying issues."
+}

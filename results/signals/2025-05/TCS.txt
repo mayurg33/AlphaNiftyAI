@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: TCS's steady performance, low volatility, and decent Sharpe Ratio suggest a HOLD rating, while its limited growth prospects, slightly rich valuations, and mixed news sentiment warrant a cautious approach, especially considering the current macroeconomic environment with stable but not exceptional growth projections.

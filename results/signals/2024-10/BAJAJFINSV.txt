@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Considering the stock's poor price performance, high volatility, and low Sharpe Ratio, I recommend a HOLD. However, the company's decent growth prospects, profitability, and strong correlation with other financial services stocks suggest that it may not be a strong SELL candidate. Additionally, the mixed news sentiment and macroeconomic environment with steady growth in services and manufacturing sectors support a neutral outlook.

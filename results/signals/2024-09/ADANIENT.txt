@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the technical analysis suggests a BUY due to the stock's steady performance and favorable risk-return profile, the fundamental analysis raises concerns about the company's high valuation, low profit margin, and high leverage, which are offset by the neutral news sentiment and supportive macroeconomic environment.

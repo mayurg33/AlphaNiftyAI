@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Considering the stock's poor price performance, moderate fundamentals, and neutral news sentiment, I recommend a HOLD signal. The macroeconomic environment, with a stable repo rate and growing services sector, provides some support, but the uncertainty surrounding loan quality and credit costs warrants caution.

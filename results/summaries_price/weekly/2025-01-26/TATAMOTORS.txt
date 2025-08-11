@@ -1,0 +1,3 @@
+TATAMOTORS had a dismal week, with a -5.2% return, significantly underperforming its peers. The stock's high volatility of 28.22% contributed to its poor performance, earning a Sharpe Ratio of -0.74, indicating a poor risk-return tradeoff. Compared to its peers, TATAMOTORS was the worst performer, with TATACONSUM being the best performer with a 3.34% return. The stock's high volatility and poor performance make it a risky investment this week.
+
+[Volatility: 28.22%]

@@ -1,0 +1,12 @@
+Based on the current week's news, the sentiment is NEUTRAL for Infosys Ltd.
+
+Notable events:
+
+* Infosys Ltd is up for the fifth consecutive session, indicating a strong momentum in the stock.
+* The company has been featured in various lists of top stocks to watch, including those from Nomura and Bernstein, indicating a positive outlook from brokerages.
+* Infosys has collaborated with LogicMonitor to transform business performance and reliability of IT operations, which could be a positive development for the company.
+* The company has allotted 3.18 lakh equity shares under ESOP, which could be a neutral event.
+
+The news tone is neutral because while there are some positive developments, such as the stock's strong momentum and brokerage recommendations, there are also some neutral events, such as the ESOP allotment. Additionally, some of the historical news queries have had a negative impact on the stock, which could offset some of the positive sentiment.
+
+Overall, the neutral sentiment suggests that the stock may not experience a significant movement in either direction in the short term, but investors should continue to monitor the company's performance and news developments for any changes in sentiment.

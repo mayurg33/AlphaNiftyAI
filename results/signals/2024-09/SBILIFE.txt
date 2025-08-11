@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's underperformance in the last 12 months, negative Sharpe Ratio, and rich valuation suggest caution, while the relatively low max drawdown, moderate volatility, and promising outlook in the life insurance sector amid regulatory changes support a neutral outlook.

@@ -1,0 +1,12 @@
+**Weekly News Sentiment:** Negative
+
+**Notable Events:**
+
+1. Infosys shares fall due to SD Shibulal's family member selling a partial stake in the IT firm.
+2. Traders Diary provides a buy, sell, or hold strategy on Infosys and other stocks.
+
+**News Tone:** Negative
+
+The news tone is negative for Infosys stock this week. The first news item indicates a fall in Infosys shares, which is a negative event. Although the historical similar news items related to SD Shibulal buying Infosys shares had a positive impact, the current news is about a family member selling a partial stake, which is a negative sentiment.
+
+The second news item, Traders Diary, provides a strategy on Infosys and other stocks, but the historical similar news items have mixed impacts, with one negative and one positive impact. Overall, the news tone is negative, indicating a bearish sentiment for Infosys stock this week.

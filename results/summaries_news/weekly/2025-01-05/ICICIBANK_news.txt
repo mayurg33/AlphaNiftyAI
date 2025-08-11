@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the current week's news sentiment is POSITIVE.
+
+The news tone is positive because the article suggests that ICICI Bank and SBI are top picks that could give over 20% returns in 2025, which is a bullish outlook. This is supported by the historical data, which shows that similar news articles have had a positive impact on the stock price, with an average impact of +0.68% (calculated from the provided data).
+
+Notable events mentioned in the historical data include IDFC First Bank being considered a dark horse, and ICICI Bank, SBI, and Axis being expected to outshine HDFC Bank and Kotak over the next 5 years. These events have had varying impacts on the stock price, but overall, the tone of the news is optimistic.

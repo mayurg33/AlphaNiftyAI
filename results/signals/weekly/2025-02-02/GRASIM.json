@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 32.6,
+  "sharpe_ratio": -0.06,
+  "reasoning": "The stock's high volatility and poor Sharpe Ratio indicate a poor risk-return tradeoff. Additionally, the stretched valuation with a high P/E ratio and high debt-to-equity ratio are concerns. The news sentiment is also neutral to slightly negative due to the GST search and seizure, which may impact the stock price. Overall, it's a sell decision."
+}

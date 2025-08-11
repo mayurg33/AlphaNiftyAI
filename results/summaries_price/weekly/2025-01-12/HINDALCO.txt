@@ -1,0 +1,3 @@
+Hindalco's weekly return of 0.06% was modest, accompanied by a relatively high volatility of 28.86%. The stock underperformed its peers, particularly HCLTECH, which returned 2.15%. However, it fared better than ULTRACEMCO, which suffered a significant loss. The Sharpe Ratio of 0.02 indicates a low risk-adjusted return, and the Max Drawdown of -2.51% suggests a moderate level of risk. Overall, Hindalco's performance was lackluster this week.
+
+[Volatility: 28.86%]

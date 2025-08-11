@@ -1,0 +1,9 @@
+Based on the historical similar news and price impact, the current week's news sentiment for Persistent Systems Ltd is NEUTRAL.
+
+Notable events mentioned in the historical news include:
+
+* Hemang Jani's positive view on HCL Tech, which had a positive impact on the stock (+0.80%)
+* A change in the way IT firms hire freshers, which had a significant positive impact on the stock (+3.63%)
+* The company going ex-dividend, which had a minor negative impact on the stock (-0.12%)
+
+Overall, the news tone is neutral as the positive and negative impacts seem to balance out. The stock has risen for three consecutive sessions, but the historical news suggests that the impact of this event may not be significant enough to drive the stock's price significantly higher.

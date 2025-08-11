@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor price trends, high volatility, and negative Sharpe Ratio indicate a high-risk investment. The fundamentals analysis reveals overvaluation, declining profitability, and high leverage. While the news sentiment suggests a HOLD, the macroeconomic environment analysis does not provide a strong enough positive signal to outweigh the negative factors. Overall, the risks outweigh the potential benefits, leading to a SELL recommendation."
+}

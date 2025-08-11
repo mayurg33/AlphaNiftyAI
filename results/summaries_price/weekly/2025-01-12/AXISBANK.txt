@@ -1,0 +1,3 @@
+AXISBANK's weekly performance was disappointing, with a return of -2.13%, indicating a decline in stock value. The stock's volatility was moderate at 20.38%, suggesting a relatively stable performance compared to its peers. AXISBANK outperformed INDUSINDBK and SBIN but underperformed ICICIBANK in terms of returns. The stock's Sharpe Ratio of -0.41 indicates a relatively low risk-adjusted return. Overall, AXISBANK's performance was lackluster, but its volatility was relatively contained.
+
+[Volatility: 20.38%]

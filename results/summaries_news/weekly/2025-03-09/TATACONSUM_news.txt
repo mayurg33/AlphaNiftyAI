@@ -1,0 +1,5 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+Notable events mentioned in the news include executive movements across various companies such as Diageo India, Tata Consumer Products, Unilever, and Raymond Lifestyle.
+
+The news tone is neutral because the historical similar news shows a mix of positive and negative impacts on the stock price. The positive impact was +3.06% and the negative impacts were -1.04% and -1.59%. This suggests that the news about executive movements may not have a significant or consistent impact on the stock price.

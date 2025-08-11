@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 28.33,
+  "sharpe_ratio": -1.36,
+  "reasoning": "The stock's weekly performance was dismal, with a return of -7.15% and high volatility. The news sentiment is overall negative, with significant declines in share prices and negative rating changes from Morgan Stanley. Additionally, the company's growth metrics are a concern, with negative earnings growth and low revenue growth. Therefore, it's a good time to sell the stock."
+}

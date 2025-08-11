@@ -1,0 +1,17 @@
+**Weekly News Sentiment:** Positive
+
+**Notable Events:**
+
+1. Stock recommendations by analysts for June, featuring Nykaa, Apollo Hospitals, and Firstsource Solutions.
+2. Jefferies' top 26 bottom-up picks for June, including ICICI Bank, SBI, L&T, Bharti, and ONGC.
+3. Sensex and Nifty hitting all-time highs, with media stocks performing well.
+4. Apollo Cancer Centres launching a Robotic & Stereotactic Radiosurgery Programme with Accuray.
+5. The potential of AI-backed care in transforming chronic disease management.
+
+**News Tone:**
+
+The overall tone of the news is positive, with a focus on stock recommendations, market highs, and innovative developments in the healthcare sector. The historical data suggests that stock recommendations by analysts tend to have a positive impact on the stock prices, with an average impact of +1.45%. The news about Apollo Cancer Centres and AI-backed care also has a positive tone, with historical data indicating an average impact of +4.27% and +3.37%, respectively.
+
+The only neutral/negative news is the historical data related to market highlights, which has an average impact of -2.49%. However, the current market highlights are positive, with Sensex and Nifty hitting all-time highs.
+
+Overall, the news tone is positive, indicating a potential upward trend in the stock market.

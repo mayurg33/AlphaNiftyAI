@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock has a poor performance with a 12-month return of -12.44%, high volatility, and a negative Sharpe Ratio. Additionally, the high correlation with peers and high debt-to-equity ratio add to the risk profile. Although the company has a strong profit margin and operates in a relatively stable sector, the current sentiment is mixed, and the stock has slipped, making it a sell."
+}

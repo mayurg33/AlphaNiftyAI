@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock's poor performance over the last 12 months, high volatility, and negative Sharpe Ratio suggest a SELL. However, the positive news sentiment and strong earnings growth rate mitigate these concerns. Additionally, the macroeconomic environment appears supportive, with growth in agriculture, services, and manufacturing sectors. Considering these mixed signals, a HOLD recommendation is warranted to monitor the company's progress in addressing its concerns."
+}

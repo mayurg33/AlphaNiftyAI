@@ -1,0 +1,16 @@
+Based on the historical news data, here is a summary of the current week's news sentiment:
+
+**Divis Labs Share Price Highlights: Divis Labs Stock Price History**
+
+The news tone is **Negative**. The repeated appearance of the same news query with identical historical news and price impacts suggests that the market is still reacting to the negative sentiment surrounding Divis Labs. The historical news data shows that the stock has been impacted negatively by news related to its potential fall and LIC's shareholding crossing 5%. The only positive news was related to a 1500% dividend payout, but it seems to have been overshadowed by the negative news.
+
+**ICICI Bank, Titan, HDFC Life, Bajaj Finance: 12 largecap stocks that BofA likes for 10% to 42% upside**
+
+The news tone is **Positive**. The historical news data shows that the market has reacted positively to news related to large-cap stocks, including ICICI Bank, Titan, HDFC Life, and Bajaj Finance. The news about BofA's positive outlook on these stocks is likely to have a positive impact on their prices.
+
+Notable events:
+
+* Divis Labs' stock price has been impacted negatively by news related to its potential fall and LIC's shareholding crossing 5%.
+* BofA's positive outlook on large-cap stocks, including ICICI Bank, Titan, HDFC Life, and Bajaj Finance, is likely to have a positive impact on their prices.
+
+Overall, the news tone is mixed, with a negative sentiment surrounding Divis Labs and a positive sentiment surrounding the large-cap stocks mentioned in the second query.

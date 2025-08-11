@@ -1,0 +1,9 @@
+Based on the historical similar news and price impact, the current week's news sentiment appears to be NEUTRAL. 
+
+Notable events mentioned in the news include:
+
+* Infosys and Tata Steel being listed as stocks to watch
+* Metal counters, including Tata Steel, being discussed in terms of their potential performance
+* Other key stocks in focus, including LIC, Tata Motors, Adani Green, and Vedanta
+
+The historical price impact of similar news is mixed, with two instances showing a positive impact (+3.16% and +3.92%) and one instance showing a negative impact (-0.51%). This suggests that the news tone is not strongly biased towards a positive or negative sentiment, hence the neutral tone.

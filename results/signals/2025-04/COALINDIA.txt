@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor price trends, high volatility, and negative returns over the past 12 months, combined with its declining industry, low profitability, and high debt-to-equity ratio, outweigh the potential benefits of its low trailing PE ratio and recent price hike. Additionally, the neutral news sentiment and uncertain macroeconomic environment do not provide a strong catalyst for a price increase.

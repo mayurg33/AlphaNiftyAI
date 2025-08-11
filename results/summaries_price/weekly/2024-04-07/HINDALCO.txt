@@ -1,0 +1,3 @@
+Hindalco's weekly return of 0.26% was a modest gain, accompanied by relatively high volatility of 15.61%. Despite this, the stock's Sharpe Ratio of 0.07 indicates a somewhat favorable risk-return profile. Compared to its peers, Hindalco outperformed ITC and significantly outperformed ULTRACEMCO and HCLTECH. However, the stock's Max Drawdown of -1.33% suggests that it was still a relatively risky investment this week.
+
+[Volatility: 15.61%]

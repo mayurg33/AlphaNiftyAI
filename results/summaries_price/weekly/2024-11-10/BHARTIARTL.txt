@@ -1,0 +1,3 @@
+BHARTIARTL's weekly performance was disappointing, with a return of -1.34%, underperforming its peers BPCL and NESTLEIND. The stock's volatility was moderate at 18.54%, lower than BPCL's but higher than NESTLEIND's. With a Sharpe Ratio of -0.28, the stock's risk-adjusted return was poor, and its Max Drawdown of -1.81% indicates a relatively high risk profile. Overall, BHARTIARTL was a relatively risky and underperforming stock this week.
+
+[Volatility: 18.54%]

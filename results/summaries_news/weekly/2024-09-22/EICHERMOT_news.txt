@@ -1,0 +1,5 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+The notable event mentioned in the news is the rally in auto stocks, which lifted the Sensex and Nifty. However, the news also mentions that markets are awaiting the Fed decision, which could be a source of uncertainty.
+
+The historical similar news shows a mix of positive and negative impacts, with no clear trend. The first similar news had a positive impact of +5.59%, while the second and third similar news had negative impacts of -0.49% and -7.47%, respectively. Therefore, it's difficult to predict the exact impact of the current news on the stock market. Overall, the tone of the news is neutral, reflecting the mixed sentiment and uncertainty surrounding the Fed decision.

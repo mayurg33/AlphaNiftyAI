@@ -1,0 +1,9 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+The news "Wearables to play key role in Titan's plan to hit Rs 10,000 cr consumer sales target in biz segment" suggests that Titan is expanding its wearables segment, which could be a positive development for the company. However, the historical similar news shows a mixed impact on the stock price.
+
+On one hand, the news "Titan steps up launches under Fastrack brand; unveils audio accessories" had a positive impact of +3.71% on the stock price. This suggests that the market reacts positively to Titan's expansion into new product categories.
+
+On the other hand, the news "Titan unveils fitness-centric smartwatch" and "Watchmaker Titan expands portfolio, launches fitness gear brand TraQ" both had a negative impact of -1.31% on the stock price. This could be due to concerns about the company's ability to compete in the crowded wearables market.
+
+Overall, the news tone is neutral, as the market is likely to be cautious about Titan's ability to achieve its sales target in the wearables segment. Notable events include Titan's expansion into new product categories and its focus on wearables to drive sales growth.

@@ -1,0 +1,16 @@
+**Weekly News Summary:**
+
+The current week's news sentiment is neutral to slightly positive for the IT sector, particularly for HCL Tech.
+
+**Notable Events:**
+
+1. Emkay Global shared its pecking order for Infosys, TCS, Wipro, HCL Tech, and TechM LTIM, which may have a neutral to negative impact on the stocks.
+2. HCL Tech integrated its GenAI platform AI Force with Google Gemini, which is a positive development for the company.
+
+**Historical Context:**
+
+Based on historical data, news related to IT companies' performance and rankings tends to have a negative impact on the stock prices (average impact: -4.82% and -9.42%). However, news related to HCL Tech's partnerships and integrations with Google has a positive impact (average impact: +2.78% and +3.54%).
+
+**News Tone:**
+
+The overall news tone for the week is neutral to slightly positive, driven by the positive development of HCL Tech's integration with Google Gemini. However, the Emkay Global's pecking order news may have a neutral to negative impact on the IT sector stocks.

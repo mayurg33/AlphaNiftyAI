@@ -1,0 +1,19 @@
+**Weekly News Sentiment: Neutral**
+
+The current week's news sentiment is neutral, with a mix of positive and negative news affecting the stock market.
+
+**Notable Events:**
+
+1. **Flat Market Close**: The stock market closed flat, with Nifty above 22,900 and Sensex below 75,400, dragged down by metal and oil & gas sectors.
+2. **IT Sector Layoffs**: Indian IT companies are witnessing "silent layoffs," with the industry body commenting on the number of job cuts.
+3. **IT Company Rankings**: Emkay Global shared its pecking order for IT companies, including Infosys, TCS, Wipro, HCL Tech, and TechM LTIM.
+
+**News Tone:**
+
+* The market close news has a neutral tone, as the flat close indicates a lack of significant movement.
+* The IT sector layoffs news has a negative tone, as job cuts are typically seen as a negative indicator.
+* The IT company rankings news has a neutral tone, as it provides an analysis of the companies without expressing a clear positive or negative sentiment.
+
+**Historical Context:**
+
+Based on historical similar news, the impact on the stock market has been varied. For example, news about metal and oil & gas sectors has previously led to negative impacts (-1.33% and -3.28%). On the other hand, news about IT companies has led to both positive (+12.40%, +1.28%, +0.67%) and negative (-0.76%, -1.85%) impacts.

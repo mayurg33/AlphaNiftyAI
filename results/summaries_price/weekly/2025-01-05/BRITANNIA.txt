@@ -1,0 +1,3 @@
+Britannia's weekly return of 0.72% was modest, but its volatility of 12.5% suggests a relatively stable performance. Compared to its peers, Britannia underperformed, with NESTLEIND and RELIANCE posting returns above 3%. The stock's Sharpe Ratio of 0.23 indicates a relatively low risk-adjusted return. Despite a moderate Max Drawdown of -0.76%, Britannia's performance was lackluster this week.
+
+[Volatility: 12.5%]

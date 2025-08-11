@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Despite the positive news sentiment and supportive macroeconomic environment, the stock's underperformance, high valuation multiples, and high debt levels warrant a cautious approach, making a HOLD rating more suitable at this point.

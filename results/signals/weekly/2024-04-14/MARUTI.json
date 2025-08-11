@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 27.46,
+  "sharpe_ratio": -0.90,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate a high-risk investment. Additionally, the company's negative earnings growth and slightly overvalued trailing P/E ratio are concerns. Although the company's fundamentals are strong, the current market conditions and macroeconomic environment do not support a BUY decision."
+}

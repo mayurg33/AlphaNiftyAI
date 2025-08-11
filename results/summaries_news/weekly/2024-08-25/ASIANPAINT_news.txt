@@ -1,0 +1,14 @@
+Based on the news articles, here is a summary of the current week's news sentiment for Asian Paints:
+
+**Sentiment:** Neutral to Negative
+
+**Notable Events:**
+
+* Asian Paints, JSW Steel, and BPCL reported a decline of over 25% in Q1 profits, which is a negative event.
+* Asian Paints was mentioned as an interesting case due to its EPS growth, which is a positive event.
+* The stock received an anti-consensus 'buy' rating from Nuvama, which is a positive event.
+* However, the news tone is neutral to negative due to the decline in Q1 profits and the mixed sentiment around the stock.
+
+**Price Impact:**
+
+Based on the historical data, the price impact of similar news events has been varied. However, there is a slight bias towards a negative price impact, with an average impact of around -1.5% to -2%.

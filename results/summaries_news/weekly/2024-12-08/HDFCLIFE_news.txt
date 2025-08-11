@@ -1,0 +1,5 @@
+Based on the historical similar news, the current week's news sentiment is NEGATIVE. The news about HDFC Life Insurance's data breach, where 1.6 crore customers' information was leaked on the dark web, is likely to have a negative impact on the stock.
+
+The notable event is the data breach itself, which is a significant concern for customers and investors alike. The historical data suggests that similar news about HDFC Bank's data breach had a negative impact on the stock, with a price impact of -0.36%.
+
+The tone of the news is negative, as it highlights a major security lapse and potential risks to customers' sensitive information. This could lead to a loss of trust and confidence in the company, which may negatively affect its stock performance.

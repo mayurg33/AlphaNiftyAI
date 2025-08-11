@@ -1,0 +1,3 @@
+TATASTEEL's weekly return of -1.46% was a disappointing performance, with high volatility of 17.27%. The stock underperformed its peers, with a Sharpe Ratio of -0.33 indicating poor risk-adjusted returns. In comparison, TATACONSUM and JSWSTEEL posted positive returns, while TATAMOTORS fared worse. The stock's Max Drawdown of -2.08% suggests a moderate level of risk this week.
+
+[Volatility: 17.27%]

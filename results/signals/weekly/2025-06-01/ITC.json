@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 22.67,
+  "sharpe_ratio": -1.00,
+  "reasoning": "Although ITC's weekly performance was poor and extremely volatile, its fundamentals are strong, with a high profitability profile and reasonable valuation. The news sentiment is neutral to positive, indicating that the company is taking steps to grow its business. However, the macroeconomic environment is mixed, with some positive trends in agriculture and services, but concerns in manufacturing and employment. Given the conflicting signals, I would recommend a HOLD decision, as the stock's volatility and poor weekly performance are balanced by its strong fundamentals and positive news sentiment."
+}

@@ -1,0 +1,25 @@
+Based on the historical data, here is a summary of the current week's news sentiment:
+
+**Overall Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+1. Accenture's Q1 results and guidance are expected to have a positive impact on Indian IT stocks like Infosys, Wipro, TCS, HCL Tech, and TechM.
+2. Infosys is mentioned in multiple news articles, indicating a potential positive impact on the stock.
+3. SBI, ITC, and Lupin are also mentioned as stocks to watch, which could lead to a positive impact on their stock prices.
+
+**Positive News:**
+
+* Accenture's Q1 results and guidance are expected to have a positive impact on Indian IT stocks.
+* Infosys is mentioned in multiple news articles, indicating a potential positive impact on the stock.
+
+**Negative News:**
+
+* None of the news articles have a significantly negative tone or impact on the stocks mentioned.
+
+**Neutral News:**
+
+* The "Stocks to Watch" articles mention a range of stocks, but do not provide a clear positive or negative sentiment.
+* The "Stocks in news" article mentions a mix of stocks, including some with negative historical impacts, but the overall tone is neutral.
+
+Overall, the news tone is neutral to positive, with Accenture's Q1 results and guidance providing a potential boost to Indian IT stocks, and Infosys being mentioned in multiple news articles. However, the "Stocks to Watch" and "Stocks in news" articles have a more neutral tone, without a clear positive or negative sentiment.

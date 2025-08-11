@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's underperformance in the last 12 months, combined with its moderate volatility and poor Sharpe Ratio, indicates that it may not be an attractive investment opportunity. Additionally, the fundamental analysis reveals that the stock is overvalued, with a high PE ratio and low profitability metrics. The high debt-to-equity ratio also increases the risk of default. While the macroeconomic environment is generally positive, it is not enough to outweigh the negative factors, leading me to recommend a SELL."
+}

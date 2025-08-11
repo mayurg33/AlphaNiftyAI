@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 10.01,
+  "sharpe_ratio": 1.32,
+  "reasoning": "The stock has a respectable weekly return of 3.37% with a moderate volatility, indicating a stable performance. The Sharpe Ratio of 1.32 suggests a relatively attractive risk-return profile. Fundamentally, the company has a strong profitability profile and a reasonable valuation, despite concerns over growth metrics. The news sentiment is neutral to positive, with analysts expecting the stock to cross ₹2,000. Overall, the macroeconomic environment is supportive, with a growing services sector, low inflation, and a stable interest rate environment, making it a good time to buy."
+}

@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+The notable event is Dr. Reddy's denial of Congress' claim of conflict in payments to SEBI chief Madhabi Buch's husband Dhaval.
+
+The news tone is neutral because the historical similar news does not show a strong correlation with the stock's price impact. The price impacts range from -5.23% to +3.93%, indicating that the news has had varying effects on the stock in the past. Therefore, it is difficult to predict the exact impact of this news on the stock's price.

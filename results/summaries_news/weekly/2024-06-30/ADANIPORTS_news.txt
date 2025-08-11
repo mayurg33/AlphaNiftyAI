@@ -1,0 +1,3 @@
+Based on the current week's news, the sentiment is NEGATIVE. The notable event is that Adani Ports has entered the BSE Sensex, but the stock price has declined. This suggests that despite the positive development of being included in the Sensex, the market has reacted negatively, possibly due to other factors not mentioned in the news.
+
+In comparison to the historical similar news, the current week's news tone is more negative. The historical news had a mix of positive and negative sentiments, with the stock price rising in two instances and declining in one instance. However, the current week's news tone is purely negative, indicating a decline in the stock price.

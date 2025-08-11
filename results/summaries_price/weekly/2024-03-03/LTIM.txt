@@ -1,0 +1,3 @@
+LTIM's weekly performance was disappointing, with a return of -3.52% and a Sharpe Ratio of -1.18, indicating poor risk-adjusted returns. The stock's volatility was relatively high at 11.97%, making it a risky investment this week. Compared to its peers, LTIM underperformed TECHM and ITC, but outperformed TITAN in terms of volatility. Overall, LTIM's weekly performance was lackluster and risky.
+
+[Volatility: 11.97%]

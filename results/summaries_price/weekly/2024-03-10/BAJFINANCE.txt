@@ -1,0 +1,3 @@
+BAJFINANCE had a disappointing week, with a -2.75% return, underperforming its peers BAJAJFINSV and AXISBANK. The stock's high volatility of 48.19% contributed to its poor performance, as reflected in its negative Sharpe Ratio of -0.29. In contrast, BAJAJ-AUTO had a stellar week with an 8.18% return. Overall, BAJFINANCE was a relatively risky investment this week, with a Max Drawdown of -4.41%.
+
+[Volatility: 48.19%]

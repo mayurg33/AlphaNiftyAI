@@ -1,0 +1,25 @@
+Symbol: COALINDIA
+Month: 2024-10
+Start Price: ₹483.30
+End Price: ₹429.65
+12M Return: -11.10%
+6M Return: -11.10%
+3M Return: -11.10%
+Volatility: 0.289
+Sharpe Ratio: -4.741
+Max Drawdown: -0.131
+Peer Correlation (TATASTEEL): 0.0327
+Peer Correlation (POWERGRID): 0.2895
+Peer Correlation (TATACONSUM): 0.4289
+Average Peer Correlation: 0.2504
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Coal India (COALINDIA) has had a disappointing performance over the past 12 months, with a negative return of 11.10%. The stock's volatility is moderate at 0.289, and its Sharpe Ratio is a concerning -4.741, indicating that the returns are not justified by the level of risk taken. The maximum drawdown is 13.1%, which is a significant decline. In terms of peer correlation, COALINDIA has a low correlation with TATASTEEL, a moderate correlation with POWERGRID, and a high correlation with TATACONSUM. The average peer correlation is 0.2504.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **SELL**. The stock's poor performance over the past 12 months, combined with its high volatility and low Sharpe Ratio, suggests that it may not be a good investment opportunity at this time. Additionally, the high correlation with TATACONSUM may indicate that the stock is heavily influenced by industry-specific factors, which could lead to further declines.

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 29.99,
+  "sharpe_ratio": -1.14,
+  "reasoning": "The stock's poor performance and high volatility are concerns, but the company's strong fundamentals, including high ROE and profit margins, suggest potential for growth. The positive news sentiment and macroeconomic environment also support a hold decision. However, the high debt-to-equity ratio and negative Sharpe Ratio indicate caution is needed."
+}

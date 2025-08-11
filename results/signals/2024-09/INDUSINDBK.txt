@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's stagnant performance and negative Sharpe Ratio do not justify a buy recommendation, but the moderate volatility and relatively low maximum drawdown suggest that the stock is not overly risky. Additionally, the mixed news sentiment and market volatility, along with the neutral macroeconomic environment, support a hold recommendation.

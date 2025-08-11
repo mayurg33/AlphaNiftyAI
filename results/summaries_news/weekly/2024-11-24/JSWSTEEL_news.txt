@@ -1,0 +1,13 @@
+**Summary of Current Week's News Sentiment:**
+
+The current week's news sentiment is NEUTRAL for Zomato and JSW Steel.
+
+**Notable Events:**
+
+* Zomato is set to replace JSW Steel in the BSE Sensex index from December 23, as announced by the Bombay Stock Exchange (BSE).
+
+**News Tone:**
+
+The news tone is neutral because the historical similar news and price impact data do not show a strong positive or negative trend. The impact values are mostly small, ranging from -4.18% to +20.93%, and are scattered across both positive and negative territories. This suggests that the market reaction to Zomato replacing JSW Steel in the Sensex index is likely to be muted.
+
+However, it's worth noting that Zomato's inclusion in the Sensex index could lead to increased investor interest and potentially positive sentiment around the stock. On the other hand, JSW Steel's exclusion from the index might lead to some negative sentiment around the stock.

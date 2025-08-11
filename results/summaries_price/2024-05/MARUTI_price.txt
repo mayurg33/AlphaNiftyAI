@@ -1,0 +1,25 @@
+Symbol: MARUTI
+Month: 2024-05
+Start Price: ₹12685.53
+End Price: ₹12283.28
+12M Return: -3.17%
+6M Return: -3.17%
+3M Return: -3.17%
+Volatility: 0.217
+Sharpe Ratio: -1.763
+Max Drawdown: -0.046
+Peer Correlation (M&M): 0.3105
+Peer Correlation (TATAMOTORS): 0.3639
+Peer Correlation (BAJAJ-AUTO): 0.3143
+Average Peer Correlation: 0.3296
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Maruti Suzuki (MARUTI) has been underperforming in the recent past, with negative returns across all timeframes (12M, 6M, and 3M). The stock has declined by 3.17% in the last 3 months, with a high volatility of 0.217. The Sharpe Ratio, a measure of risk-adjusted return, is also negative at -1.763, indicating that the stock's return is not justified by its risk level. The Max Drawdown of -0.046 suggests that the stock has experienced a significant decline in value. Correlation with peers M&M, TATAMOTORS, and BAJAJ-AUTO is moderate, with an average peer correlation of 0.3296.
+
+**Recommendation:**
+
+Considering the negative returns, high volatility, and poor risk-adjusted performance, I would recommend a **SELL** on Maruti Suzuki (MARUTI) at the current price of ₹12283.28. The stock's recent underperformance and lack of momentum suggest that it may continue to decline in the short term. It's advisable to exit the stock and consider other investment opportunities that offer better risk-adjusted returns.

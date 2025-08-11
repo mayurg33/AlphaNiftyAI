@@ -1,0 +1,3 @@
+HEROMOTOCO's weekly performance was disappointing, with a return of -2.73% and a Sharpe Ratio of -0.59, indicating poor risk-adjusted returns. The stock's volatility was moderate at 24.57%, but still higher than M&M's. Compared to its peers, HEROMOTOCO underperformed MARUTI but outperformed M&M and BAJAJ-AUTO in terms of returns. Overall, the stock was relatively risky this week, with a Max Drawdown of -3.3%.
+
+[Volatility: 24.57%]

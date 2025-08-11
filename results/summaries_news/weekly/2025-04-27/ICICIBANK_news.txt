@@ -1,0 +1,14 @@
+Based on the provided news articles, here is a summary of the current week's news sentiment:
+
+**Sentiment:** Positive
+
+**Notable Events:**
+
+1. ICICI Bank and HDFC Bank share prices hit fresh records post March quarter earnings, indicating a strong performance by both banks.
+2. ICICI Bank has dethroned HDFC Bank on every financial metric, suggesting a power shift in the Indian banking sector.
+
+**News Tone:**
+
+The news tone is overall positive, with both articles highlighting the strong performance of ICICI Bank and HDFC Bank. The first article mentions that the share prices of both banks have hit fresh records, indicating a bullish sentiment. The second article suggests a power shift in the Indian banking sector, with ICICI Bank outperforming HDFC Bank on various financial metrics. This implies a positive outlook for ICICI Bank and a potential shift in investor sentiment towards the bank.
+
+Historical data suggests that similar news articles have had a positive impact on the stock prices, with an average impact of +2.23%. Therefore, it is likely that the current news will have a positive impact on the stock prices of ICICI Bank and HDFC Bank.

@@ -1,0 +1,25 @@
+Symbol: ONGC
+Month: 2024-04
+Start Price: ₹256.31
+End Price: ₹268.60
+12M Return: 4.80%
+6M Return: 4.80%
+3M Return: 4.80%
+Volatility: 0.280
+Sharpe Ratio: 2.351
+Max Drawdown: -0.035
+Peer Correlation (BPCL): 0.1451
+Peer Correlation (LT): -0.1638
+Peer Correlation (RELIANCE): 0.2368
+Average Peer Correlation: 0.0727
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+ONGC has shown a steady upward trend in April 2024, with a 4.80% return over the past 12 months, 6 months, and 3 months. The stock's volatility is relatively low at 0.280, and its Sharpe Ratio of 2.351 indicates a strong risk-adjusted performance. The maximum drawdown is relatively low at -0.035. In terms of peer correlation, ONGC has a moderate positive correlation with RELIANCE (0.2368) and a low positive correlation with BPCL (0.1451), while it has a low negative correlation with LT (-0.1638). The average peer correlation is 0.0727, indicating that ONGC's performance is not highly correlated with its peers.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **BUY**. ONGC's consistent returns, low volatility, and strong risk-adjusted performance make it an attractive investment opportunity. The low maximum drawdown also suggests that the stock is relatively stable. While the peer correlations are not extremely high, the positive correlation with RELIANCE, a major player in the energy sector, is a positive sign. Overall, ONGC's strong fundamentals and relatively low correlation with its peers make it a good addition to a diversified portfolio.

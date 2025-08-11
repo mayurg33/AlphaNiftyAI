@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 6.76,
+  "sharpe_ratio": -0.20,
+  "reasoning": "Eicher Motors has a strong profitability profile and respectable revenue and earnings growth rates, but its valuation is on the higher side and debt-to-equity ratio is a concern. The news sentiment is neutral and the macroeconomic environment is supportive of the automotive industry. However, the stock's recent performance has been lackluster, and the Sharpe Ratio indicates that the return is not sufficient to compensate for the risk. Therefore, I recommend a HOLD decision."
+}

@@ -1,0 +1,20 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Stock Radar: ICICI Bank, India Cements, BHEL, Biocon, REC, IndusInd Bank, UltraTech in focus on Monday**
+
+The news tone is Neutral to Positive. The historical data suggests that similar news has led to a positive impact on the stock price, with an average impact of +3.95%.
+
+**Stocks in news: ICICI Bank, Adani Wilmar, ACC, Dr Reddy's, IndiGo, IndusInd Bank**
+
+The news tone is Neutral to Positive. The historical data suggests that similar news has led to a mixed impact on the stock price, with an average impact of +1.57%.
+
+**IndusInd Bank raises asset concerns as NPAs zoom to 9-month highs – Is it a sell on highs now?**
+
+The news tone is Negative. The historical data suggests that similar news has led to a negative impact on the stock price, with an average impact of -2.37%.
+
+Notable events:
+
+* IndusInd Bank's asset concerns and rising NPAs may lead to a negative impact on the stock price.
+* ICICI Bank and IndusInd Bank are in focus this week, with a mix of positive and negative news surrounding them.
+
+Overall, the news tone is Neutral to Negative, with some positive sentiments surrounding ICICI Bank and other stocks in focus. However, the concerns around IndusInd Bank's asset quality may weigh on the stock price.

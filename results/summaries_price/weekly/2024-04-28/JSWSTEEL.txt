@@ -1,0 +1,3 @@
+JSWSTEEL had a strong weekly performance, returning 3.8% and outperforming its peers. The stock's volatility was high at 42.06%, indicating a riskier investment. Despite this, its Sharpe Ratio of 0.36 suggests that the returns were somewhat justified by the level of risk taken. Compared to its peers, JSWSTEEL's return was the highest, but its volatility was also the highest.
+
+[Volatility: 42.06%]

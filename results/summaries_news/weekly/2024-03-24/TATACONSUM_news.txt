@@ -1,0 +1,12 @@
+**Weekly News Sentiment: Neutral**
+
+The current week's news sentiment is neutral, with one positive news article and one negative news article.
+
+**Notable Events:**
+
+1. **Positive News:** The Nifty closed around 22,050, with the Sensex up 105 points, driven by gains in auto, metal, and realty sectors.
+2. **Negative News:** The Sensex slipped over 700 points, with the Nifty holding 21,800, due to deep losses in IT and FMCG sectors.
+
+**News Tone:**
+
+The news tone is neutral, as the positive news is balanced by the negative news. The positive news indicates a bullish trend in certain sectors, while the negative news suggests a bearish trend in other sectors. Overall, the news tone is neither overwhelmingly positive nor negative, indicating a neutral sentiment for the stock.

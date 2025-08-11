@@ -1,0 +1,3 @@
+ASIANPAINT's weekly performance was disappointing, with a return of -2.93% and a Sharpe Ratio of -1.07, indicating poor risk-adjusted returns. The stock's volatility was moderate at 10.94%, but still higher than MARUTI's 8.57%. Compared to peers, ASIANPAINT underperformed M&M but outperformed MARUTI, while SUNPHARMA was the only gainer. Overall, the stock was moderately risky this week.
+
+[Volatility: 10.94%]

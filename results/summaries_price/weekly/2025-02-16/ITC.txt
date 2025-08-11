@@ -1,0 +1,3 @@
+ITC's weekly performance was disappointing, with a return of -3.97%, underperforming its peers ICICIBANK and HINDUNILVR. The stock's volatility was high at 19.18%, indicating significant price fluctuations. Despite having a similar Sharpe Ratio to RELIANCE, ITC's return was worse, making it a relatively poor performer this week. Overall, the stock was quite risky, with a high max drawdown of -4.1%.
+
+[Volatility: 19.18%]

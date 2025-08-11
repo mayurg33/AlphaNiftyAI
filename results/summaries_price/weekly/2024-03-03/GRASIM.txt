@@ -1,0 +1,3 @@
+GRASIM's weekly return of 3.11% outperformed its peers, with a relatively high Sharpe Ratio of 0.49, indicating a decent risk-adjusted return. The stock's volatility of 24.99% was moderate, ranking second-highest among its peers. Despite a moderate max drawdown of -0.85%, GRASIM's overall performance was strong, outperforming RELIANCE and BRITANNIA, but slightly ahead of ULTRACEMCO. This week, GRASIM was a relatively risky investment, but its returns justified the risk taken.
+
+[Volatility: 24.99%]

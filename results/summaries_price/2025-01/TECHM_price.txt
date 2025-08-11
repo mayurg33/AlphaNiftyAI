@@ -1,0 +1,25 @@
+Symbol: TECHM
+Month: 2025-01
+Start Price: ₹1703.85
+End Price: ₹1674.45
+12M Return: -1.73%
+6M Return: -1.73%
+3M Return: -1.73%
+Volatility: 0.297
+Sharpe Ratio: -0.529
+Max Drawdown: -0.050
+Peer Correlation (M&M): 0.1547
+Peer Correlation (KOTAKBANK): 0.246
+Peer Correlation (TCS): 0.7273
+Average Peer Correlation: 0.376
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+TECHM, a technology stock, has underperformed in the last 12 months, with a return of -1.73%. The stock's volatility is moderate at 0.297, and its Sharpe Ratio is negative, indicating that the return is not sufficient to compensate for the risk taken. The maximum drawdown is relatively low at 5%. Correlation analysis reveals that TECHM has a high correlation with TCS (0.7273), a moderate correlation with KOTAKBANK (0.246), and a low correlation with M&M (0.1547). The average peer correlation is 0.376.
+
+**Recommendation:**
+
+Considering the stock's underperformance over the last 12 months, negative Sharpe Ratio, and moderate volatility, I would suggest a **HOLD** position for TECHM. The high correlation with TCS may indicate that the stock is closely tied to the performance of the technology sector, which may be experiencing a downturn. However, the relatively low maximum drawdown suggests that the stock has not experienced a significant decline, and the average peer correlation is not extremely high. It's essential to monitor the stock's performance and sector trends before making a buy or sell decision.

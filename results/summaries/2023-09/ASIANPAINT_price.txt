@@ -1,0 +1,1 @@
+Based on the metrics, I would recommend a HOLD on ASIANPAINT. The 3M return shows a slight rebound, and the volatility is moderate, but the Sharpe ratio is negative, indicating that the return is not sufficient to justify the risk taken.

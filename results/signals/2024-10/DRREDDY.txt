@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Despite the undervaluation and decent profitability and growth rates suggested by the fundamentals, the poor price trends and negative Sharpe Ratio, along with the neutral to mildly positive news sentiment, lead to a hold recommendation. Additionally, the macroeconomic environment, although supportive of rural spending and services sector growth, does not provide a strong catalyst for a buy signal.

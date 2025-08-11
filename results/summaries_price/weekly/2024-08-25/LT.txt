@@ -1,0 +1,3 @@
+LT's weekly performance was strong, with a 1.22% return, outperforming RELIANCE and ULTRACEMCO, but underperforming in terms of volatility. The stock's Sharpe Ratio of 0.80 indicates a relatively good balance between return and risk. However, the Max Drawdown of -0.22% suggests some degree of risk. Overall, LT's performance was decent, but its higher volatility compared to RELIANCE makes it a relatively riskier bet.
+
+[Volatility: 6.04%]

@@ -1,0 +1,7 @@
+The current week's news sentiment is NEUTRAL.
+
+The notable event is Tech Mahindra's collaboration with Microsoft to modernize workplace experiences with generative AI.
+
+Historically, similar news has had mixed impacts on the stock price. While the COO of TCS expressed optimism about generative AI, leading to a 5.92% increase, Tech Mahindra's CEO's comments on ChatGPT-like AI tools had a negative impact of -2.15%. Additionally, the news about the generative AI race creating new commercial models for IT services firms had a negative impact of -5.43%.
+
+Given the mixed historical impact, it's difficult to predict the exact price impact of this news. However, the collaboration with Microsoft could be seen as a positive development, potentially leading to modernization and innovation in workplace experiences. Overall, the news tone is neutral, and the market's reaction will depend on how investors perceive the potential benefits and risks of this collaboration.

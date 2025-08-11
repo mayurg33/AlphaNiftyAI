@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 17.22,
+  "sharpe_ratio": 0.44,
+  "reasoning": "Maruti's weekly return outperformed its peers, with a decent risk-adjusted return indicated by its Sharpe Ratio. However, its revenue and earnings growth rates are sluggish, which could be a concern. The news sentiment is neutral, and the macroeconomic environment is supportive of the automotive industry, with two-wheeler production and sales showing strong growth. Overall, the stock's financial health is strong, but growth prospects need to be monitored closely, leading to a hold decision."
+}

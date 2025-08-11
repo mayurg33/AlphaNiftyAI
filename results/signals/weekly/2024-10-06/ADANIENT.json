@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 30.2,
+  "sharpe_ratio": -0.13,
+  "reasoning": "The stock's lackluster weekly performance and high volatility suggest caution. Although the company exhibits strong earnings growth and decent ROE, the negative revenue growth and high debt-to-equity ratio are concerns. The neutral news sentiment and mixed macroeconomic environment further support a hold decision, as the stock's future direction is uncertain."
+}

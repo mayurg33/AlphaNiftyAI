@@ -1,0 +1,3 @@
+TECHM's weekly performance was disappointing, with a return of -0.51%, underperforming its peers M&M and TCS. The stock's volatility was high at 40.9%, indicating a risky investment environment. Compared to its peers, TECHM's Sharpe Ratio of -0.06 suggests it was one of the riskier investments this week, with a higher Max Drawdown of -3.11%. Overall, TECHM underperformed its peers and exhibited high volatility.
+
+[Volatility: 40.9%]

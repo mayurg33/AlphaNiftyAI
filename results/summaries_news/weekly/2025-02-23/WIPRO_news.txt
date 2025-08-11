@@ -1,0 +1,14 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Negative
+
+**Notable Events:**
+
+* Wipro Ltd has been down for the fifth straight session, which is a significant negative trend.
+* There is no specific positive news mentioned in the current week's news.
+
+**Tone:** The overall tone of the news is negative, indicating a bearish sentiment towards Wipro Ltd. The historical data suggests that Wipro's stock has been impacted negatively by various events, such as pay cuts, employee layoffs, and breaking major support levels. The current week's news continues this trend, with the stock down for five straight sessions.
+
+In contrast, the "Stocks in news" query has a mixed impact, with both positive and negative price impacts in the historical data. However, the overall tone of this news is also negative, with two out of three historical instances showing a negative price impact.
+
+Overall, the news tone is negative for Wipro Ltd, suggesting that investors may be bearish on the stock in the short term.

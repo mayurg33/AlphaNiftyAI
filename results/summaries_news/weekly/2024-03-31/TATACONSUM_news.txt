@@ -1,0 +1,3 @@
+The current week's news sentiment is **Positive**. The notable event is the Nifty 50 index jumping 30% in FY24, with 5 stocks including Bajaj Auto and Tata Motors delivering returns over 100%. This news suggests a strong performance by the Indian stock market, particularly for these specific stocks.
+
+The historical similar news and price impact analysis shows that when the Nifty 50 index was discussed in a positive light, the impact was mildly positive (+0.39%). However, when Tata Motors and Tata Consumer were mentioned specifically, the impact was negative (-1.59% and -3.89%, respectively). Despite this, the overall tone of the current news is positive, indicating a strong market performance and exceptional returns for certain stocks.

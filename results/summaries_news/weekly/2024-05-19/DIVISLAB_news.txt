@@ -1,0 +1,5 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+Notable events: The news is about a potential rejig in the Nifty index, where Trent and BEL may replace LTI Mindtree and Divi's.
+
+The tone of the news is neutral because the historical similar news events have shown mixed reactions. While one event had a positive impact (+3.31%), another event had a negative impact (-7.19%), and the third event had a relatively neutral impact (-0.78%). This suggests that the market reaction to the news is uncertain and may depend on various factors. Overall, the news tone is neutral, and investors should exercise caution while making investment decisions.

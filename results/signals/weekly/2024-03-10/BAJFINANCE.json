@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 48.19,
+  "sharpe_ratio": -0.29,
+  "reasoning": "The stock's high volatility and negative Sharpe Ratio indicate a risky investment. The news sentiment is also negative, suggesting a potential negative impact on the stock market. Although the company's financial health is strong, the high debt-to-equity ratio and slightly overvalued trailing P/E ratio are concerns. Given these factors, it's prudent to sell the stock."
+}

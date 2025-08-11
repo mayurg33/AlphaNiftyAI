@@ -1,0 +1,3 @@
+SBILIFE had a positive weekly return of 1.86%, outperforming peers HDFCLIFE and INDUSINDBK, but underperforming SBIN. The stock's volatility was moderate at 20.37%, lower than HDFCLIFE but higher than SBIN and INDUSINDBK. With a Sharpe Ratio of 0.37, the stock's return was decent considering the risk taken. The Max Drawdown of -1.43% indicates a relatively low risk of loss.
+
+[Volatility: 20.37%]

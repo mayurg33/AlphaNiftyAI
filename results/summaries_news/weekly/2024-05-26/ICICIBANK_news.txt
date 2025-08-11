@@ -1,0 +1,11 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Negative
+
+**Notable Events:**
+
+1. ICICI Bank vs Axis Bank: Which private sector lender should investors choose for long term? - This news article is neutral, but based on historical data, it has a negative impact on the stock price.
+2. ICICI Bank approves fresh 6.5 lakh shares ESOP options; stock drops 1% - This news has a negative impact on the stock price, as seen in historical data.
+3. Five stocks contribute 75% to Nifty's latest 1,000-point rally - This news is neutral, but the historical data suggests a negative impact on the stock price of banks mentioned in the article.
+
+**Overall Tone:** The overall tone of the news is neutral to negative, with two out of three news articles having a negative impact on the stock price. The first article is neutral, but the historical data suggests a negative impact. The second article has a direct negative impact on the stock price, and the third article has a negative impact on the stock price of banks mentioned in the article.

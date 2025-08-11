@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock has underperformed in the past year with negative returns across all time frames, high volatility, and a negative Sharpe Ratio. Additionally, the strong correlation with TATASTEEL, which is also experiencing poor performance, is a concern. While the fundamental analysis suggests a HOLD rating, the overall sentiment is MIXED, and the macroeconomic environment does not provide a strong catalyst for growth. Therefore, I recommend a SELL rating with a confidence score of 8."
+}

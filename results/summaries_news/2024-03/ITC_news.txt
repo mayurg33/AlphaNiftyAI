@@ -1,0 +1,4 @@
+After analyzing the recent headlines about ITC, I conclude that the overall news sentiment is NEUTRAL to POSITIVE.
+
+Final Decision: HOLD
+Reason: The stock has experienced a significant single-day gain of over 8% following the block trade by BAT, which is a positive development. However, the news is largely event-driven, and the impact of the stake sale on ITC's fundamentals is unclear, warranting a cautious hold approach.

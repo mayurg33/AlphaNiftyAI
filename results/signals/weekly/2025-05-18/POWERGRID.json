@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 31.82,
+  "sharpe_ratio": -0.35,
+  "reasoning": "The stock's high volatility and poor weekly performance are concerns, but its strong financial health and attractive dividend yield suggest a hold position. The neutral news sentiment and lack of clear direction in the macroeconomic environment also support a hold decision. However, the company's slow growth and high debt levels need to be monitored closely."
+}

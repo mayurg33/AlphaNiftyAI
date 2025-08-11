@@ -1,0 +1,10 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Positive
+
+**Notable Events:**
+
+1. Union Minister Shri G Kishan Reddy launches NIRMAN Portal, which may have a positive impact on the stock, similar to the 2021-06-09 event where a new tax portal launch had a +4.26% impact.
+2. Coal India Limited's Q1 production surges 8% to 189.3 million tonne in FY'25, which is a positive development, similar to the 2022-09-08 event where a coal price hike had a +3.30% impact, and the 2022-05-03 event where India's coal output topped 662.5 lakh tonnes in April, resulting in a +2.57% impact.
+
+The overall tone of the news is positive, with two out of three news items having a positive impact on the stock. The launch of the NIRMAN Portal and the surge in Coal India Limited's Q1 production are both positive developments that may boost the stock price.

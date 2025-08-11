@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 50.56,
+  "sharpe_ratio": -0.17,
+  "reasoning": "The stock's high volatility and negative return make it a risky investment. The company's modest revenue and earnings growth rates, combined with its high valuation, are concerns. Additionally, the negative news sentiment and short buildup in the stock further support a sell decision."
+}

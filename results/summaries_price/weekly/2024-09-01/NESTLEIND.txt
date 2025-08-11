@@ -1,0 +1,5 @@
+Here is the summary:
+
+NESTLEIND's weekly performance was disappointing, with a return of -0.75%, driven by high volatility of 11.01%. The stock underperformed its peers, with a Sharpe Ratio of -0.27, indicating a poor risk-return tradeoff. Compared to its peers, NESTLEIND's volatility was relatively moderate, but its return was still among the worst. Overall, the stock was a relatively risky investment this week.
+
+[Volatility: 11.01%]

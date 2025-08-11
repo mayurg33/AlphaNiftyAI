@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 41.22,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock has a strong weekly performance, but high volatility is a concern. The financial health is mediocre, with areas for improvement in profitability and debt management. However, the news sentiment is positive, and the macroeconomic environment is supportive. Given the mixed signals, I would recommend a HOLD decision, as the stock's potential upside is balanced by its high volatility and mediocre financial health."
+}

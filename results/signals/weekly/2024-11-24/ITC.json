@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 48.08,
+  "sharpe_ratio": 0.20,
+  "reasoning": "ITC's high volatility and moderate return make it a relatively risky investment. The company's financial health is stable, but it needs to improve its revenue growth. The news sentiment is negative, suggesting a potential decline in price. However, the macroeconomic environment is supportive of consumer goods companies like ITC, with a positive outlook for rural consumption and services sector growth."
+}

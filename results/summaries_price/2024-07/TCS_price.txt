@@ -1,0 +1,25 @@
+Symbol: TCS
+Month: 2024-07
+Start Price: ₹3915.11
+End Price: ₹4325.83
+12M Return: 10.49%
+6M Return: 10.49%
+3M Return: 10.49%
+Volatility: 0.279
+Sharpe Ratio: 4.434
+Max Drawdown: -0.028
+Peer Correlation (TATACONSUM): 0.051
+Peer Correlation (TATAMOTORS): -0.0112
+Peer Correlation (TATASTEEL): 0.1528
+Average Peer Correlation: 0.0642
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+TCS (Tata Consultancy Services) has demonstrated a strong performance in the past year, with a 12-month return of 10.49%. The stock's volatility is relatively low at 0.279, and its Sharpe Ratio of 4.434 indicates that the returns are significantly higher than the risk-free rate. The Max Drawdown of -0.028 suggests that the stock has been resilient during market downturns. Correlation analysis with peers reveals a low to moderate correlation, indicating that TCS's performance is not heavily influenced by its peers.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **BUY** on TCS. The stock's strong returns, low volatility, and high Sharpe Ratio suggest that it is a attractive investment opportunity. Additionally, the low correlation with peers indicates that TCS has the potential to perform well even if its peers experience a downturn. With a 12-month return of 10.49%, the stock appears to be on an upward trend, and I would suggest taking a long position in TCS.

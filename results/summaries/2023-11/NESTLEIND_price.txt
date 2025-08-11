@@ -1,0 +1,1 @@
+Based on the metrics, I would recommend a HOLD on NESTLEIND. The stock has shown a strong recovery in the short term (6M and 3M return) and has a relatively low volatility, indicating a stable investment, but the Sharpe Ratio, although positive, is not exceptional, suggesting that the returns are not outstanding compared to the risk taken.

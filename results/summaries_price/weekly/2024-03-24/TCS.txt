@@ -1,0 +1,3 @@
+TCS had a disappointing week, with a -5.82% return, significantly underperforming the broader market. The stock's volatility was high at 31.21%, indicating a turbulent trading period. Compared to its peers, TCS underperformed TATAMOTORS and TATASTEEL, but outperformed TATACONSUM. The stock's Sharpe Ratio of -0.75 and Max Drawdown of -5.82% suggest a high-risk investment this week.
+
+[Volatility: 31.21%]

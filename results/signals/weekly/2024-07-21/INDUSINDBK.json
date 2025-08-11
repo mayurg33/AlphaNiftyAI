@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 20.09,
+  "sharpe_ratio": -0.21,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but the bank's strong profit margin and decent ROE suggest financial stability. The neutral to positive news sentiment and stable macroeconomic environment also support a hold decision. However, the decline in revenue growth and uncertainty around debt-to-equity ratio warrant caution."
+}

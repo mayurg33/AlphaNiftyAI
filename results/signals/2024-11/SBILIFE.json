@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor returns across different time frames, high volatility, and low Sharpe Ratio indicate a poor risk-return profile. Additionally, the high maximum drawdown and mixed peer correlations suggest significant downside risk. While the debt-free balance sheet is a positive, it is not enough to overcome the other concerns. Overall, the stock's underperformance and high risk make it an unattractive investment opportunity."
+}

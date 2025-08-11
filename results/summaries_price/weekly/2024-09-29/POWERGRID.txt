@@ -1,0 +1,3 @@
+POWERGRID's weekly return of 3.84% outperformed its peers, with a notable exception of COALINDIA, which had a higher Sharpe Ratio. However, POWERGRID's high volatility of 48.4% and max drawdown of -3.06% indicate a riskier investment this week. Despite this, the stock's Sharpe Ratio of 0.32 suggests that the return was somewhat justified by the risk taken. Overall, POWERGRID's performance was strong, but investors should be cautious of its high volatility.
+
+[Volatility: 48.4%]

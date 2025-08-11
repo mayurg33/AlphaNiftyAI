@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance, high volatility, and low Sharpe Ratio indicate a lack of attractiveness. Additionally, the high correlation with peers suggests limited diversification benefits. Furthermore, the company's high debt-to-equity ratio, low profitability, and moderate growth prospects also weigh against it. While the recent news sentiment is positive, it is not enough to outweigh the fundamental concerns."
+}

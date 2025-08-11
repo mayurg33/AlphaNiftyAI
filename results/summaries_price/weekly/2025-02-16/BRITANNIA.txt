@@ -1,0 +1,3 @@
+Britannia's weekly performance was relatively strong, with a 0.61% return, outperforming its peers NESTLEIND, GRASIM, and RELIANCE, which all saw negative returns. The stock's volatility was moderate at 11.04%, lower than most of its peers. With a Sharpe Ratio of 0.22, the stock's return was somewhat justified by its risk. Overall, Britannia was a relatively safe haven this week, with a Max Drawdown of -0.6%.
+
+[Volatility: 11.04%]

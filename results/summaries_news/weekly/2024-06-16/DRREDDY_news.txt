@@ -1,0 +1,12 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Negative
+
+**Notable Events:**
+
+1. LIC raises stake in Dr Reddy's Lab: Historically, LIC's stake increase in other companies has led to a negative impact on the stock price, with an average impact of -1.86%.
+2. Dr Reddy's Labs shares in red after USFDA issues form 483 with four observations: Historically, USFDA issues have led to a significant negative impact on the stock price, with an average impact of -5.36%.
+
+**Tone:** Negative
+
+The overall tone of the news is negative, with both events having a historical precedent of negatively impacting the stock price. The USFDA issue is likely to have a more significant impact on the stock price, given its historical average impact of -5.36%. The LIC stake increase, while historically negative, may have a relatively smaller impact. Overall, the news tone is negative, suggesting a potential decline in Dr Reddy's Lab's stock price.

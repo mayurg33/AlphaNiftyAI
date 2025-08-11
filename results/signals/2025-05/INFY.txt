@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While INFY's technicals and fundamentals are strong, with a moderate volatility and high Sharpe Ratio, the negative earnings growth rate and mixed news sentiment suggest a neutral outlook. Additionally, the macroeconomic environment, although stable, does not indicate a strong growth catalyst for the IT sector.

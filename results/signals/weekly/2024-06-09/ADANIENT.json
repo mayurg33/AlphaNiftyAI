@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 180.74,
+  "sharpe_ratio": -0.22,
+  "reasoning": "The stock's dismal weekly performance with a return of -11.68% and extremely high volatility of 180.74% indicate a significant decline in value. Additionally, the company's mixed financial health, with low profitability metrics and high debt-to-equity ratio, raises concerns. The news sentiment is also mixed to negative, with more negative developments, further supporting a sell decision."
+}

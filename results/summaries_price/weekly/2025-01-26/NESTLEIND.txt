@@ -1,0 +1,3 @@
+NESTLEIND's weekly performance was lackluster, with a return of -0.28% and a Sharpe Ratio of -0.11, indicating poor risk-adjusted returns. The stock's volatility was relatively low at 10.05%, but it still experienced a significant max drawdown of -0.79%. Compared to its peers, NESTLEIND underperformed, with HINDUNILVR, BRITANNIA, and TATACONSUM all posting positive returns. Overall, the stock was relatively risky this week, with a high max drawdown.
+
+[Volatility: 10.05%]

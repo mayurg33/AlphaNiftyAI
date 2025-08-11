@@ -1,0 +1,3 @@
+ITC's weekly performance was disappointing, with a return of -1.27%, underperforming its peers. The stock's volatility was moderate at 14.49%, indicating a relatively stable price movement. However, its Sharpe Ratio of -0.35 suggests that the return was not justified by the level of risk taken. Compared to its peers, ITC was the worst performer, with ICICIBANK being the top performer. Overall, ITC was a relatively risky stock this week.
+
+[Volatility: 14.49%]

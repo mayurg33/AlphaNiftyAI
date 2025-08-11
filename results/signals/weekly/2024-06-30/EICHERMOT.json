@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 10.14,
+  "sharpe_ratio": -1.61,
+  "reasoning": "The stock's poor weekly performance, high valuation, and high debt-to-equity ratio are major concerns. Although the company has a strong profitability profile and respectable growth rates, the current market sentiment is neutral, and the macroeconomic environment is not particularly supportive of the automotive industry. With a Sharpe Ratio of -1.61, the return is not justified by the level of risk taken, making it a sell decision."
+}

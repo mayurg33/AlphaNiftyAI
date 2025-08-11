@@ -1,0 +1,25 @@
+Symbol: SUNPHARMA
+Month: 2024-12
+Start Price: ₹1797.72
+End Price: ₹1875.05
+12M Return: 4.30%
+6M Return: 4.30%
+3M Return: 4.30%
+Volatility: 0.109
+Sharpe Ratio: 4.945
+Max Drawdown: -0.014
+Peer Correlation (DRREDDY): 0.3743
+Peer Correlation (DIVISLAB): 0.1343
+Peer Correlation (HINDUNILVR): 0.3735
+Average Peer Correlation: 0.294
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Sun Pharma (SUNPHARMA) has delivered a moderate return of 4.30% over the past 12 months, with consistent performance across 6-month and 3-month periods. The stock's volatility is relatively low at 0.109, indicating stable price movements. The Sharpe Ratio of 4.945 suggests that the returns are high compared to the risk taken. The Max Drawdown of -0.014 indicates that the stock has not experienced significant losses. Correlation analysis reveals that Sun Pharma has a moderate correlation with its peers, with an average correlation of 0.294.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **BUY** on Sun Pharma (SUNPHARMA). The stock's consistent returns, low volatility, and high Sharpe Ratio indicate a strong investment opportunity. Additionally, the moderate correlation with peers suggests that Sun Pharma is not overly influenced by industry trends, which could help it to perform better in uncertain market conditions. With a Max Drawdown of -0.014, the stock appears to be a relatively safe bet. Overall, Sun Pharma's performance and risk profile make it an attractive investment opportunity.

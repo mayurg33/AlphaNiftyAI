@@ -1,0 +1,15 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Mixed
+
+**Notable Events:**
+
+1. Share price of Shriram Finance falls as Nifty weakens: This news has a negative tone, indicating a potential decline in the stock price.
+2. Two stocks from NIFTY50 gave consistent growth in PAT for four quarters: This news has a positive tone, suggesting a potential increase in the stock price.
+
+**Tone Analysis:**
+
+* The first news has a negative tone, with historical similar news showing a price impact of -6.25% and -1.21%, indicating a potential decline in the stock price.
+* The second news has a positive tone, with historical similar news showing a price impact of +6.04%, +3.06%, and +1.66%, suggesting a potential increase in the stock price.
+
+Overall, the news tone is mixed, with one negative news and one positive news. However, the positive news seems to have a stronger historical impact, which could potentially outweigh the negative news. Therefore, the overall tone is slightly positive.

@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's underperformance and high volatility, as indicated by the technical analysis, are offset by the decent fundamentals and positive news sentiment, while the macroeconomic environment suggests a stable growth outlook, leading to a neutral HOLD recommendation.

@@ -1,0 +1,12 @@
+Based on the historical similar news and price impact, the current week's news sentiment is **Negative**.
+
+The news headline "Stock market today: Nifty 50, Sensex drop on profit booking, mid and smallcaps bleed" suggests a decline in the stock market, which is a negative event.
+
+Notable events mentioned in the historical similar news include:
+
+* Profit booking leading to a drop in Nifty 50 and Sensex
+* Mid and smallcap stocks bleeding
+
+The historical impact of similar news has been predominantly negative, with two out of three instances resulting in a decline in stock prices (-3.40% and -4.99%). The only positive impact (+4.15%) was an outlier, and the overall tone of the news is bearish.
+
+Therefore, the news tone is **Negative** for the stock.

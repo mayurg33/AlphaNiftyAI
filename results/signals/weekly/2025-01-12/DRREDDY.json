@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 17.33,
+  "sharpe_ratio": 0.07,
+  "reasoning": "The stock's relatively stable performance, attractive valuation with a low forward P/E ratio, and positive news sentiment with a recent upgrade to 'Buy' by Nuvama are all bullish indicators. Additionally, the macroeconomic environment is supportive, with a growing services sector, low unemployment, and increasing private consumption. However, the high debt-to-equity ratio is a concern, which is why my confidence is not higher."
+}

@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's underperformance in the last 12 months, combined with its negative Sharpe Ratio and high valuation multiples, suggests a HOLD rating. Additionally, the moderate growth prospects and decent ROE justify a HOLD, as the stock might still have some upside potential, but the high debt-to-equity ratio and rich valuations need to be carefully monitored.

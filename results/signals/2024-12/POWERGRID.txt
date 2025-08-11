@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's poor performance and high risk profile are concerns, but the forward PE suggests potential undervaluation, and the neutral to positive news sentiment and stable macroeconomic environment do not warrant a strong sell or buy signal, leading to a hold recommendation.

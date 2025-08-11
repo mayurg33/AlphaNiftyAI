@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 14.81,
+  "sharpe_ratio": 2.22,
+  "reasoning": "The stock has delivered a strong return with relatively low risk, but its high valuation and debt position warrant caution. The news sentiment is neutral to positive, and the macroeconomic environment is supportive of the automotive industry. However, the company's fundamentals have some areas of concern, making it a hold for now."
+}

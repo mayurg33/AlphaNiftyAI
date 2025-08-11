@@ -1,0 +1,3 @@
+Maruti's weekly performance was lackluster, with a return of -0.4% and a Sharpe Ratio of -0.07, indicating poor risk-adjusted returns. The stock's volatility was moderate at 20.24%, but its Max Drawdown of -1.76% suggests that it was a relatively risky investment this week. Compared to its peers, Maruti underperformed M&M and TATAMOTORS, but outperformed BAJAJ-AUTO. Overall, Maruti's weekly performance was disappointing and relatively risky.
+
+[Volatility: 20.24%]

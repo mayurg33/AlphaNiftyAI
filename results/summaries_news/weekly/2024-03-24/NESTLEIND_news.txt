@@ -1,0 +1,14 @@
+Based on the provided news and historical data, here's a summary of the current week's news sentiment:
+
+**Current Week's News Sentiment:** Mixed
+
+**Notable Events:**
+
+1. Sensex and Nifty rebounded led by Reliance Industries, ITC, and SBI, indicating a positive trend.
+2. However, Sensex sank 736 points, and Nifty tested 21,800 in broad-selling, with the IT index shedding 3%, indicating a negative trend.
+
+**News Tone:**
+
+The news tone is mixed, with one article indicating a positive rebound in the market and the other article suggesting a broad-selling pressure. The historical data suggests that similar news in the past has had varying impacts on the stock market, ranging from -2.73% to +1.66%.
+
+Overall, the current week's news tone is neutral, as the market is experiencing both positive and negative trends. The rebound led by Reliance Industries, ITC, and SBI is a positive sign, but the broad-selling pressure and decline in the IT index are concerns.

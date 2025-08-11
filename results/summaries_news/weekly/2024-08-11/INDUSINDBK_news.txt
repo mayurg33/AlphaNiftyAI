@@ -1,0 +1,12 @@
+**Weekly News Sentiment:** Negative
+
+**Notable Events:**
+
+1. IndusInd Bank's share price fell 2.5% to Rs 1,369 due to global concerns and growth worries.
+2. The bank's stock hit a 52-week low, trading lower for the sixth straight day.
+
+**News Tone:** Negative
+
+The news tone is predominantly negative, with both articles highlighting the decline in IndusInd Bank's share price. The first article cites global concerns and growth worries as the reason for the 2.5% fall, while the second article notes that the stock has hit a 52-week low, trading lower for six consecutive days. The third article is more neutral, providing a general market update and mentioning five stocks to buy or sell, but it does not specifically impact the sentiment around IndusInd Bank.
+
+Historical data suggests that similar news in the past has had a negative impact on the stock, with declines ranging from -0.56% to -9.84%. Overall, the current week's news sentiment is negative, indicating a bearish outlook for IndusInd Bank's stock.

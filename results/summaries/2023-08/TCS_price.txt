@@ -1,0 +1,1 @@
+Based on the metrics, I would recommend a HOLD on TCS. The short-term losses (-7.88% in 6M and -0.99% in 3M) are concerning, but the relatively low volatility and positive Sharpe Ratio suggest that the investment can still generate returns in the long run.

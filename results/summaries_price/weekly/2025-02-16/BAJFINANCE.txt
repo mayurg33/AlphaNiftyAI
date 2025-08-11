@@ -1,0 +1,3 @@
+BAJFINANCE delivered a modest 1.27% weekly return, outperforming AXISBANK and BAJAJ-AUTO, but underperforming BAJAJFINSV. The stock's volatility stood at 23.65%, indicating moderate risk. Despite a relatively low Sharpe Ratio of 0.22, the stock's performance was supported by a manageable Max Drawdown of -1.15%. Overall, BAJFINANCE demonstrated a stable performance amidst a volatile market.
+
+[Volatility: 23.65%]

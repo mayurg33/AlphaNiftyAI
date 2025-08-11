@@ -1,0 +1,3 @@
+ADANIENT's weekly performance was disappointing, with a -1.55% return, underperforming its peers. The stock's volatility was relatively low at 3.3%, but its Sharpe Ratio of -1.87 indicates poor risk-adjusted returns. Compared to its peers, ADANIENT lagged behind ADANIPORTS and POWERGRID, but outperformed RELIANCE. Overall, the stock was relatively less risky this week, but its negative returns and poor Sharpe Ratio are causes for concern.
+
+[Volatility: 3.3%]

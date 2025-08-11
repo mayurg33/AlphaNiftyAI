@@ -1,0 +1,21 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Tata Steel, SAIL: Analysts give 'sell' call on steel stocks; here's why**
+
+The news tone is **Negative** for Tata Steel and SAIL. The historical data suggests that when analysts give a "sell" call on steel stocks, the impact on the stock price is negative, with an average impact of -1.85%.
+
+**Stock market opens flat, Nifty and Sensex above 24K and 79K levels - Hindustan Times**
+
+The news tone is **Neutral** for the overall stock market. The historical data suggests that when the stock market opens flat, the impact on the stock price is mixed, with an average impact of +0.49%.
+
+**Stock Radar: Neogen Chemicals, Godrej Properties, Zydus Life, JSW Energy, HFCL in focus on Monday**
+
+The news tone is **Positive** for the mentioned stocks. The historical data suggests that when stocks are in focus, the impact on the stock price is positive, with an average impact of +2.60%.
+
+Notable events:
+
+* Analysts' "sell" call on Tata Steel and SAIL may lead to a decline in their stock prices.
+* The stock market opening flat may not have a significant impact on the overall market sentiment.
+* The focus on Neogen Chemicals, Godrej Properties, Zydus Life, JSW Energy, and HFCL may lead to an increase in their stock prices.
+
+Overall, the news tone is mixed, with a negative tone for Tata Steel and SAIL, a neutral tone for the overall stock market, and a positive tone for the mentioned stocks in focus.

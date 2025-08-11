@@ -1,0 +1,3 @@
+HCLTECH's weekly performance was disappointing, with a return of -2.2% and a Sharpe Ratio of -0.64, indicating poor risk-adjusted returns. The stock's volatility was moderate at 13.72%, which is higher than HDFCLIFE but lower than TECHM. Compared to its peers, HCLTECH outperformed TECHM and HINDALCO but underperformed HDFCLIFE. The stock's risk profile was moderate, with a Max Drawdown of -2.5%.
+
+[Volatility: 13.72%]

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 5.96,
+  "sharpe_ratio": 0.59,
+  "reasoning": "The stock's weekly performance was steady but unremarkable, with a modest gain and moderate volatility. Fundamentally, ONGC appears financially stable with an attractive valuation, but its profitability metrics are a concern. The news sentiment is likely to be negative, which may impact the stock. Considering these factors, I recommend a HOLD decision, as the stock's stability and valuation are offset by its profitability concerns and potential negative news impact."
+}

@@ -1,0 +1,9 @@
+Based on the historical news data, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Events:** The news article "Dr Manmohan Singh: A visionary leader and a quiet revolutionary" has a neutral to positive tone, as it praises the former Indian Prime Minister's leadership and vision.
+
+**Price Impact:** The historical data suggests that news articles with a positive tone towards Dr. Manmohan Singh have a positive impact on the stock price, with an average impact of +2.85%. However, it's essential to note that the news sentiment is not extremely positive, and the impact may be moderate.
+
+Overall, the news tone is neutral to positive, indicating a potential moderate increase in the stock price.

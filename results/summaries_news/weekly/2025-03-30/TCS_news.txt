@@ -1,0 +1,9 @@
+Based on the historical news data, the current week's news sentiment is POSITIVE for TCS stock.
+
+The notable event is the announcement of the Q4 results FY25 date and the expectation of another cash reward in the form of a dividend. This news has historically had a positive impact on the stock price, as seen in the previous instances.
+
+The historical news data shows that when TCS announces its quarterly earnings or dividend, the stock price tends to increase. For example, on January 9, 2023, the stock surged 4.51% ahead of the December quarter results. Similarly, on January 16, 2023, the stock rose 1.39% when it traded ex-dividend.
+
+The only instance where the stock price decreased was on June 15, 2023, when it traded ex-dividend, resulting in a 1.25% decline. However, this negative impact is outweighed by the positive impacts of the other two instances.
+
+Overall, the news tone is positive for the stock, indicating that investors can expect a potential increase in the stock price following the announcement of the Q4 results FY25 date and dividend.

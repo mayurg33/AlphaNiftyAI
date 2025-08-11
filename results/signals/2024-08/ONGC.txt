@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Despite the positive news sentiment and favorable macroeconomic environment, ONGC's poor price performance, high volatility, and negative Sharpe Ratio suggest caution, while its low valuation ratios and decent profitability metrics warrant a hold rating, pending improvement in its profitability and debt situation.

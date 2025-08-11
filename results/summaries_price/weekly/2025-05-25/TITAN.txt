@@ -1,0 +1,5 @@
+Here is a concise summary of the stock's weekly performance:
+
+TITAN's weekly return of -1.05% was a disappointing performance, with a Sharpe Ratio of -0.25 indicating that the return was not sufficient to compensate for the level of risk taken. The stock's volatility of 16.38% was relatively moderate compared to its peers. In comparison to its peers, TITAN underperformed TATASTEEL but outperformed TATAMOTORS, while being more in line with TATACONSUM. Overall, the stock was moderately risky this week.
+
+[Volatility: 16.38%]

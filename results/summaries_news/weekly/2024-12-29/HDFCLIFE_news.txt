@@ -1,0 +1,21 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: GIC Re to NIACL to Go Digit and Star Health: Why are insurance stocks falling today?**
+
+The news tone is **Negative**. The query suggests that insurance stocks, including GIC Re, NIACL, Go Digit, and Star Health, are falling today. Historical data shows that similar news has led to a negative impact on stock prices, with an average impact of -0.64%.
+
+**Query 2: HDFC Life Share Price Highlights: HDFC Life Stock Price History**
+
+The news tone is **Positive**. The query focuses on the share price highlights and stock price history of HDFC Life. Historical data shows that similar news has led to a positive impact on stock prices, with an average impact of +2.21%.
+
+**Query 3: GST Council decisions likely to impact market; auto, insurance stocks to be in focus today, December 23**
+
+The news tone is **Neutral**. The query suggests that the GST Council's decisions will impact the market, with a focus on auto and insurance stocks. Historical data shows that similar news has led to both positive and negative impacts on stock prices, with an average impact of +0.02%.
+
+Notable events:
+
+* Insurance stocks, including GIC Re, NIACL, Go Digit, and Star Health, are falling today.
+* HDFC Life's share price is in focus, with a positive historical impact on stock prices.
+* The GST Council's decisions are likely to impact the market, with a focus on auto and insurance stocks.
+
+Overall, the news tone is mixed, with a negative tone for insurance stocks, a positive tone for HDFC Life, and a neutral tone for the GST Council's decisions.

@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock's lackluster performance and negative Sharpe Ratio suggest a cautious approach. However, the moderate volatility and Max Drawdown indicate that the stock may not be overly risky. The negative peer correlations suggest that BAJAJ-AUTO's stock movement may be influenced by unique factors, which could potentially lead to a turnaround. Considering the conflicting signals from the fundamentals, news sentiment, and macroeconomic environment, a HOLD position is recommended to monitor the stock's performance before making a buy or sell decision."
+}

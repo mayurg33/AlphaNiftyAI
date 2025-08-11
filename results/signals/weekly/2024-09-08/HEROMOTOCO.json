@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 7.05,
+  "sharpe_ratio": 1.65,
+  "reasoning": "The stock has a strong weekly performance, outperforming its peers, with a moderate volatility and a high Sharpe Ratio, indicating a relatively low-risk and high-return investment. The company's fundamentals are strong, with high ROE and decent profit margins, and a reasonable valuation. The news sentiment is neutral to slightly positive, and the macroeconomic environment is supportive of the automotive industry, with a growing two-wheeler production and sales."
+}

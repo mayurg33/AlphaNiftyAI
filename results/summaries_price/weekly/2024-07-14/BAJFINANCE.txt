@@ -1,0 +1,3 @@
+BAJFINANCE had a disappointing week, with a -1.32% return, underperforming its peers. The stock's high volatility of 14.74% contributed to its poor performance, with a Sharpe Ratio of -0.35 indicating a negative risk-adjusted return. Compared to its peers, BAJFINANCE had the worst return and highest volatility, making it a relatively risky investment this week.
+
+[Volatility: 14.74%]

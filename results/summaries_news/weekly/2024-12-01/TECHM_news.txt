@@ -1,0 +1,16 @@
+**Weekly News Sentiment: Neutral to Positive**
+
+The current week's news sentiment is neutral to positive, with two news articles having different tones.
+
+**Notable Events:**
+
+1. Chinese manufacturer USI opens its first development centre in India with TechM, which is a positive development for the Indian IT industry.
+2. An IT company has outperformed TCS and Tech Mahindra in terms of returns, but the article does not specify the company's name or share price.
+
+**News Tone:**
+
+The first article has a positive tone, indicating a potential boost to the Indian IT industry. The historical similar news articles also have a positive impact, with an average impact of +2.00%.
+
+The second article is neutral, as it does not provide specific details about the company or its performance. However, the historical similar news articles related to IT companies have a mixed impact, with an average impact of -3.11%. This suggests that the market reaction to IT company news can be volatile.
+
+Overall, the news tone is neutral to positive, with a slight bias towards positivity due to the first article's positive tone and the historical similar news articles' average positive impact.

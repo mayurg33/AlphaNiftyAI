@@ -1,0 +1,16 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is **NEUTRAL** with a slight **NEGATIVE** bias.
+
+**Notable Events:**
+
+1. Kotak flags overvalued stocks, including Eicher and BHEL, citing profitability concerns and unrealistic growth expectations, which may lead to a correction.
+2. An article suggests investing in Indian stocks in a Warren Buffett style, highlighting 5 stocks, but without providing a clear bullish or bearish tone.
+
+**Historical Similar News and Price Impact:**
+
+The historical data suggests that similar news events have led to both positive and negative price impacts. For example, when Shree Cement was under pressure due to valuation concerns, the stock price increased by 1.12%. On the other hand, when Kotak Mahindra Bank faced allegations of "restrictive practices," the stock price fell by 2.29%.
+
+In the context of Warren Buffett-style investing, historical data shows that similar news events have led to negative price impacts, with stocks like Tech Mahindra and TCS experiencing declines.
+
+Overall, the current week's news tone is neutral, but with a slight negative bias due to the concerns raised by Kotak about overvalued stocks. However, the article on Warren Buffett-style investing may provide some optimism for certain stocks.

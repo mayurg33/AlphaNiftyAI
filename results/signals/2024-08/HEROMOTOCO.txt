@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's steady performance, low volatility, and decent Sharpe Ratio suggest a relatively stable investment, while the mixed valuation signals, modest revenue growth, and high debt levels warrant caution, and the neutral news sentiment and supportive macroeconomic environment do not strongly lean towards a BUY or SELL.

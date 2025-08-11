@@ -1,0 +1,15 @@
+The current week's news sentiment is neutral to positive for SBI Life Insurance and SBI General Insurance.
+
+Notable events:
+
+* SBI Life Insurance's Deputy CEO is stepping down on May 24, which may have a neutral impact on the stock.
+* SBI General Insurance has forged a bancassurance partnership with Jana Small Finance Bank to increase insurance penetration, which is a positive development.
+
+Historical analysis suggests that similar news events have had a mixed impact on the stock price. However, the overall tone of the news is positive, with a higher number of positive impact events.
+
+Based on the historical data, the expected price impact of these news events is:
+
+* SBI Life Insurance Deputy CEO stepping down: +0.42% to +7.79%
+* SBI General Insurance's bancassurance partnership: +2.86% to +5.06%
+
+Overall, the news tone is neutral to positive, and the expected price impact is likely to be positive, but with a moderate magnitude.

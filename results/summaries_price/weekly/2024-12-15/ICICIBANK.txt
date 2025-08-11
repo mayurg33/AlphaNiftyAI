@@ -1,0 +1,3 @@
+ICICIBANK delivered a strong weekly performance with a 1.71% return, outperforming its peers INDUSINDBK, SBIN, and HDFCBANK. The stock's volatility was relatively moderate at 9.64%, lower than INDUSINDBK and SBIN, but higher than HDFCBANK. With a Sharpe Ratio of 0.70, ICICIBANK's return was decently compensated for its risk. Overall, the stock's performance was robust, and it was one of the less risky options in its peer group this week.
+
+[Volatility: 9.64%]

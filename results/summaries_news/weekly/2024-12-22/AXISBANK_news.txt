@@ -1,0 +1,28 @@
+Based on the news articles and historical similar news, here is a summary of the current week's news sentiment for Axis Bank:
+
+**News Sentiment:** Neutral to slightly Negative
+
+**Notable Events:**
+
+* Axis Bank's credit card rules changed from December 20, with revised rates for finance charges, cash payment fees, and more.
+* The bank was included in JM Financial Services' top 12 picks for 2025, along with other stocks like Maruti Suzuki and KPIT Tech.
+* The stock market has been falling ahead of the Fed outcome, with the Sensex and Nifty down for the fifth session.
+
+**Positive News:**
+
+* Axis Bank was included in JM Financial Services' top 12 picks for 2025, indicating a positive outlook for the stock.
+* The bank's share price closed up 0.05% from the previous day.
+
+**Negative News:**
+
+* The change in credit card rules may have a negative impact on the bank's customers and potentially affect its business.
+* The overall stock market sentiment is negative, with the Sensex and Nifty down for the fifth session.
+* Investors have lost ₹18.5 lakh crore as the Nifty records its worst week of 2024.
+
+**Historical Similar News Impact:**
+
+* The historical data suggests that news related to Axis Bank's credit card rules changes has had a negative impact on the stock price in the past, with an average impact of -1.68%.
+* News related to top stock picks has had a mixed impact, with an average impact of +1.35%.
+* News related to the overall stock market sentiment has had a negative impact, with an average impact of -1.45%.
+
+Overall, the news sentiment for Axis Bank is neutral to slightly negative, with some positive news related to its inclusion in top stock picks, but negative news related to the credit card rules changes and the overall stock market sentiment.

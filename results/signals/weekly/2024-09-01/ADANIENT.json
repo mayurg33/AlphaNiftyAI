@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 9.34,
+  "sharpe_ratio": -0.69,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate poor risk-adjusted returns. Additionally, the company's financial health is fragile, with a high debt-to-equity ratio and negative revenue growth. Although the macroeconomic environment is supportive, the company's specific weaknesses outweigh the general positive trends."
+}

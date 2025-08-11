@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 19.32,
+  "sharpe_ratio": -0.85,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate poor risk-adjusted returns. Additionally, the company's high valuation and slow growth metrics are concerns. Although the company's financial health is strong, the removal from the SENSEX index and subsequent selling pressure may lead to further decline in the stock price."
+}

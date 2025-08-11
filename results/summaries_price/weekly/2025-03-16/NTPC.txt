@@ -1,0 +1,3 @@
+NTPC's weekly performance was positive, with a return of 0.76%, outperforming POWERGRID but underperforming ONGC. The stock's volatility was relatively low at 4.58%, indicating a relatively stable performance compared to its peers. With a Sharpe Ratio of 0.88, NTPC's return was decent considering the risk taken. Overall, NTPC's performance was satisfactory, with a relatively low-risk profile compared to its peers.
+
+[Volatility: 4.58%]

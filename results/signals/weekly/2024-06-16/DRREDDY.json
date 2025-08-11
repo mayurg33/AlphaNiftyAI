@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 11.85,
+  "sharpe_ratio": -0.11,
+  "reasoning": "The stock's weekly performance was lackluster with a negative Sharpe Ratio, indicating poor risk-adjusted returns. The news sentiment is negative, with two notable events having a historical precedent of negatively impacting the stock price. Although the company's financial health is stable, the debt-to-equity ratio is high, which may be a concern. Overall, the negative news sentiment and poor weekly performance outweigh the stable financial health, leading to a SELL decision."
+}

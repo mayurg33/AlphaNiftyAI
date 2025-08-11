@@ -1,0 +1,3 @@
+HINDUNILVR's weekly performance was disappointing, with a return of -2.33% and a Sharpe Ratio of -0.82, indicating poor risk-adjusted returns. The stock's volatility was moderate at 11.27%, but still contributed to its underperformance compared to its peers. While it outperformed NESTLEIND and TATACONSUM, it lagged behind RELIANCE. Overall, the stock was moderately risky this week.
+
+[Volatility: 11.27%]

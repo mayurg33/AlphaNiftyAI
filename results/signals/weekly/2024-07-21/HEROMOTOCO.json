@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 7.82,
+  "sharpe_ratio": -2.18,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but the company's strong financial health, reasonable valuation, and positive news sentiment suggest that the decline may be temporary. However, the high debt-to-equity ratio and mixed impact of EV-related news on the stock price are reasons to exercise caution. Overall, a hold decision is warranted until the company's growth prospects and debt levels are clarified."
+}

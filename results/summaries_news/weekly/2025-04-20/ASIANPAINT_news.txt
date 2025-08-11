@@ -1,0 +1,13 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: Market Trading Guide: Bharti Hexacom, Asian Paints are among 6 stock recommendations for Tuesday**
+
+* Notable events: Bharti Hexacom and Asian Paints are among the recommended stocks for trading on Tuesday.
+* News tone: Positive. The historical data suggests that similar news has led to a positive impact on the stock prices, with an average impact of +4.45% (calculated from the three historical events).
+
+**Query 2: Jio Financial shares gain 2% as board to consider first-ever dividend**
+
+* Notable events: Jio Financial's board is set to consider paying its first-ever dividend, leading to a 2% gain in its shares.
+* News tone: Positive. The historical data suggests that similar news has led to a mixed impact on the stock prices, but the overall tone is slightly positive, with an average impact of +0.13% (calculated from the three historical events).
+
+Overall, the news tone for the current week is positive, with both queries indicating a positive sentiment towards the stocks. The recommended stocks, including Bharti Hexacom and Asian Paints, are expected to perform well, and Jio Financial's dividend consideration is seen as a positive development for its shareholders.

@@ -1,0 +1,33 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Stocks to Watch, Dec 9: GCPL, IndiGo, M&M, CEAT, Bajaj Auto, Paytm, SBI**
+
+* Historical impact: +0.07%, -1.50%, -1.06% (mixed sentiment)
+* News tone: Neutral
+
+**Stocks in news: Bajaj Auto, Star Health, Awfis Space, NTPC Green, Ujjivan SFB**
+
+* Historical impact: -1.50%, +4.96%, -2.02% (mixed sentiment)
+* News tone: Neutral
+
+**Bajaj Finance pivots to profitability with AI, scales back payments ambitions | Company Business News**
+
+* Historical impact: +3.18%, +6.28%, -0.88% (positive sentiment)
+* News tone: Positive
+
+**Bajaj Finance stock may face near-term pain as it marches ahead on growth, seeking wider market share | Stock Market News**
+
+* Historical impact: -0.39%, -0.41%, -1.29% (negative sentiment)
+* News tone: Negative
+
+**Stocks To Watch: Bajaj Auto, Star Health, NTPC Green, Biocon, Ujjivan SFB, And Others**
+
+* Historical impact: -1.50%, +4.96%, -3.81% (mixed sentiment)
+* News tone: Neutral
+
+Notable events:
+
+* Bajaj Finance's pivot to profitability with AI and scaling back payments ambitions is seen as a positive development.
+* Bajaj Finance's stock may face near-term pain due to growth and market share ambitions, which is seen as a negative development.
+
+Overall, the news tone for Bajaj Auto and Bajaj Finance is mixed, with some positive and negative sentiments. The news tone for the other stocks mentioned is neutral.

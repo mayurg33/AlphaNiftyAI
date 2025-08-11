@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 19.69,
+  "sharpe_ratio": -0.45,
+  "reasoning": "NTPC's financial health is satisfactory, with a strong track record of profitability and reasonable valuation. However, the high debt-to-equity ratio is a concern. The news sentiment is neutral to positive, but the historical impact of similar news on stock prices is mixed. Given the moderate volatility and relatively low return per unit of risk taken, I recommend a hold decision."
+}

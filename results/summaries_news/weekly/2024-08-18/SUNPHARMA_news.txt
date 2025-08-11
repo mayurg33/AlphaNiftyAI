@@ -1,0 +1,12 @@
+Based on the historical similar news and price impact, the current week's news sentiment for Sun Pharma is NEUTRAL to SLIGHTLY NEGATIVE.
+
+The two news articles are similar, with Sun Pharma investing/acquiring a stake in Pharmazz for up to $15 million. The historical similar news suggests that the market reaction to such news has been mixed in the past.
+
+Notable events from the historical similar news include:
+
+* Sun Pharma acquiring an 11.28% stake in Zenotech from Daiichi Sankyo, which had a negative impact of -1.11% on the stock.
+* Sun Pharma being among the top losers on a particular day, which had a significant negative impact of -4.41% on the stock.
+* Sun Pharma winning U.S. FDA approval for an anti-fungal injection, which had a positive impact of +0.67% on the stock.
+* Sun Pharma's shares falling after a bid for Concert Pharma, which had a negative impact of -0.12% on the stock.
+
+Overall, the news tone is neutral to slightly negative, indicating that the market may react negatively to this news, but the impact may not be significant.

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 44.77,
+  "sharpe_ratio": 0.14,
+  "reasoning": "The stock's high volatility and low Sharpe Ratio indicate high risk, but the company's strong fundamentals, such as high gross margins and EBITDA margins, suggest a profitable business model. The positive news sentiment and capex announcement are encouraging, but the stretched valuation and high debt-to-equity ratio are concerns. Overall, I'm neutral on the stock, and a HOLD decision is warranted."
+}

@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL to NEGATIVE.
+
+The news about Bajaj Housing Finance eyeing a valuation of Rs 56-59k Cr for its IPO is significant, but the historical data suggests that IPO-related news may have a negative impact on the stock price. The average impact of the historical news is around -2.5%, which indicates a negative tone.
+
+Notable events in the historical data include Mobikwik filing for a $255 million IPO, SBI MF and Axis MF investing in MTAR Tech's pre-IPO round, and the LIC IPO news. These events had a negative impact on the stock price, ranging from -0.80% to -4.69%.
+
+Overall, the news tone is neutral to negative, suggesting that investors may be cautious about the IPO valuation and its potential impact on the stock price.

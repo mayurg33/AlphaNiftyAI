@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 32.62,
+  "sharpe_ratio": -0.37,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns. However, the company's strong fundamentals, including high ROE and EBITDA margins, suggest a solid underlying business. The neutral news sentiment and supportive macroeconomic environment, with strong rural consumption and services sector growth, also support the stock. But the high debt-to-equity ratio and expensive valuation are drawbacks, leading me to recommend a HOLD decision."
+}

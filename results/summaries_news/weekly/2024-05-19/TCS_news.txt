@@ -1,0 +1,11 @@
+Based on the news articles, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Negative
+
+**Notable Events:**
+
+1. TCS AI for Business Study - Key Findings: The study highlights the importance of AI adoption in businesses, but the sentiment around this news is neutral.
+2. Tata Consultancy Services COO N Ganapathy Subramaniam to retire: The retirement of a senior executive may lead to some uncertainty, and the sentiment around this news is slightly negative.
+3. Senior execs slow on going with AI-related enterprise changes: TCS study: This news suggests that senior executives are hesitant to adopt AI-related changes, which may impact business growth, leading to a negative sentiment.
+
+**Overall Sentiment:** The overall sentiment is neutral to negative, with two out of three news articles having a negative tone. The retirement of a senior executive and the slow adoption of AI-related changes by senior executives may lead to some uncertainty and concern among investors. However, the TCS AI for Business Study's key findings are neutral, which balances out the overall sentiment.

@@ -1,0 +1,3 @@
+TATAMOTORS underperformed its peers this week, with a weekly return of -1.3% compared to -0.92% for TATASTEEL and -0.82% for MARUTI. The stock's volatility was higher than its peers, at 18.05%, indicating a riskier investment. The Sharpe Ratio of -0.28 suggests that the stock's return was not justified by its level of risk. Overall, TATAMOTORS was a relatively poor performer this week, with high volatility and a low Sharpe Ratio.
+
+[Volatility: 18.05%]

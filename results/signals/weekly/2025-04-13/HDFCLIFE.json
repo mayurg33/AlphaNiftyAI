@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 27.45,
+  "sharpe_ratio": 0.57,
+  "reasoning": "The stock's high volatility and low Sharpe Ratio indicate a relatively risky investment. Additionally, the company's valuation seems to be stretched with a high trailing and forward P/E ratio, suggesting it may be overpriced. Furthermore, the debt-to-equity ratio is relatively high, which could be a concern. Overall, the stock's lackluster performance and high volatility make it a relatively risky investment, leading me to recommend a SELL."
+}

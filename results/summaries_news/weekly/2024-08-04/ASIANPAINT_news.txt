@@ -1,0 +1,7 @@
+Based on the current week's news, the sentiment is **Negative**.
+
+The notable event is the massive 886-point fall in the Sensex, resulting in a whopping Rs 4.5 lakh crore wiped off the market, attributed to a global sell-off and six other factors.
+
+The news tone is negative, indicating a significant decline in the market value, which is likely to have a detrimental impact on investor sentiment and stock prices.
+
+In contrast, the historical similar news and price impact mentioned are all positive, with stock prices rising by 3.29% to 3.85%. However, these historical events do not seem to be related to the current market situation, and the negative sentiment of the current news dominates the overall tone.

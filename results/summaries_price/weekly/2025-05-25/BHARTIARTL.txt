@@ -1,0 +1,3 @@
+BHARTIARTL delivered a weekly return of 0.74%, outperforming BPCL and NESTLEIND, but underperforming SBILIFE. The stock's volatility was relatively low at 8.86%, indicating a less turbulent week compared to its peers. With a Sharpe Ratio of 0.33, the stock's return was moderately compensated for its risk. Overall, BHARTIARTL's performance was decent, but its Max Drawdown of -0.52% suggests some downside risk.
+
+[Volatility: 8.86%]

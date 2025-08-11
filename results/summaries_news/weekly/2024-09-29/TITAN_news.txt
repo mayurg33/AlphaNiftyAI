@@ -1,0 +1,16 @@
+**Weekly News Sentiment:**
+
+The overall sentiment of this week's news is **Positive**.
+
+**Notable Events:**
+
+1. The Indian stock market ended at an intra-day high, with Nifty crossing 26,000 and Sensex closing 250 points higher, driven by strong performance in Media and Energy stocks.
+2. Titan's fragrance brand, SKINN, is expanding its product range and launching an affordable line, which could boost sales and revenue.
+
+**Historical Similar News Impact:**
+
+Based on historical data, the market impact of similar news is mixed. The first query, related to the stock market, has a neutral to negative impact (-0.40% to -3.52%). The second query, related to Titan, has a mixed impact (+0.53% to -3.07%). However, the overall tone of this week's news is positive, suggesting a potential upside for the stock.
+
+**News Tone:**
+
+The news tone is **Positive** for the stock, driven by the strong market performance and Titan's expansion plans. The launch of an affordable product line by SKINN could attract more customers and increase sales, which could have a positive impact on Titan's stock price.

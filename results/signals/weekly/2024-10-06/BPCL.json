@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 38.34,
+  "sharpe_ratio": 0,
+  "reasoning": "BPCL's weekly performance was dismal with a return of -8.03% and high volatility, indicating a sharp decline in its stock price. The company's fundamentals are a mixed bag, with undervaluation and decent dividend yield, but also negative revenue and earnings growth rates, and high leverage. The news sentiment is likely to be neutral to slightly negative, and the macroeconomic environment is not particularly supportive of the stock."
+}

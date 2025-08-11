@@ -1,0 +1,19 @@
+**Weekly News Sentiment Summary:**
+
+The overall sentiment of this week's news is **Positive**. The news articles are dominated by positive reports on the banking sector, with many banks topping Q2 estimates and analysts expecting significant returns from top picks like ICICI Bank and ONGC.
+
+**Notable Events:**
+
+1. ICICI Bank and ONGC are expected to give 30-60% return in 1 year, according to analysts.
+2. Almost all banks have topped Q2 estimates, with BFSI sector's 15% YoY Q2 earnings growth outperforming Nifty.
+3. Two NIFTY50 stocks have shown consistent growth in PAT for four quarters.
+
+**News Tone:**
+
+The news tone is **Positive** for the following reasons:
+
+* Many articles highlight the strong performance of banks in Q2, with analysts expecting significant returns from top picks.
+* The BFSI sector's earnings growth has outperformed Nifty, indicating a strong sectoral performance.
+* The consistent growth in PAT for two NIFTY50 stocks is a positive sign for the market.
+
+The historical similar news and price impact data also suggest a positive tone, with many articles resulting in a positive impact on stock prices.

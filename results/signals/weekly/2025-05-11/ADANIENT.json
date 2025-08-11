@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 28.02,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's dismal weekly performance, high volatility, and poor risk-adjusted performance suggest a high-risk, low-return investment. Additionally, the company's high debt levels and negative revenue growth are significant concerns. Although the news sentiment is positive, it may not be enough to outweigh the fundamental weaknesses, leading me to recommend a sell decision."
+}

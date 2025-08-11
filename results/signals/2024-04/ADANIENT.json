@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock's negative price trends, high volatility, and negative Sharpe Ratio suggest a SELL position. However, the positive news sentiment and strong macroeconomic environment, particularly in the services sector and consumer behavior, provide a counterbalancing effect. The fundamentals analysis suggests a HOLD rating due to concerns around overvaluation, low ROE, and high debt levels. Overall, the mixed signals lead to a HOLD recommendation, with a moderate confidence level."
+}

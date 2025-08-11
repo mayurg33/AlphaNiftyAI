@@ -1,0 +1,5 @@
+Here is the summary:
+
+BAJAJ-AUTO's weekly performance was disappointing, with a return of -1.35%, indicating a decline in stock value. The stock's volatility was moderate at 18.82%, which is relatively lower compared to its peers. In comparison to its peers, BAJAJ-AUTO underperformed BAJFINANCE and BAJAJFINSV, but outperformed MARUTI. The stock's Sharpe Ratio of -0.28 and Max Drawdown of -1.75% suggest that it was a relatively risky investment this week.
+
+[Volatility: 18.82%]

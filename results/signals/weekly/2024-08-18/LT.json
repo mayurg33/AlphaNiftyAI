@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 9.89,
+  "sharpe_ratio": -0.05,
+  "reasoning": "The stock's lackluster performance and moderate volatility suggest a cautious approach. While the company's financial health is stable, its high valuation and debt position are concerns. The news sentiment is neutral to positive, but not strong enough to outweigh the fundamental concerns. Therefore, I recommend a HOLD decision."
+}

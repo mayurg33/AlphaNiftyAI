@@ -1,0 +1,3 @@
+RELIANCE had a strong weekly performance, returning 6.71% and outperforming its peers. The stock's volatility was high at 29.78%, indicating significant price fluctuations. Despite the risk, RELIANCE's Sharpe Ratio of 0.88 suggests that its returns were relatively attractive considering the volatility. Compared to its peers, RELIANCE outperformed LT, GRASIM, and HINDUNILVR in terms of returns, but was riskier than all three.
+
+[Volatility: 29.78%]

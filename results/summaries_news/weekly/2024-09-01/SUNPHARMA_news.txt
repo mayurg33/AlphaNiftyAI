@@ -1,0 +1,18 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is NEUTRAL.
+
+**Notable Events:**
+
+1. A billionaire is taking 4,500 employees on a tour to Vietnam, but the billionaire's identity is not disclosed.
+2. The pharmaceutical sector is scaling new peaks as investors look beyond high-growth plays.
+
+**Sentiment Analysis:**
+
+The first news item is neutral, as it doesn't provide any specific information about the company or the billionaire's identity, which could impact the stock price.
+
+The second news item is slightly positive, as it indicates that the pharmaceutical sector is performing well and attracting investor attention. This could lead to a positive impact on pharma stocks.
+
+**Historical Similar News and Price Impact:**
+
+Based on historical data, news related to billionaires and their wealth can have a negative impact on the stock price (average impact: -2.35%). However, news related to the pharmaceutical sector has had a mixed impact, with both positive and negative effects (average impact: -0.48%).

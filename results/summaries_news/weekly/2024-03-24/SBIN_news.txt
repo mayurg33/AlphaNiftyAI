@@ -1,0 +1,11 @@
+Based on the historical data, here's a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+1. SBI FD rates: The news about SBI offering higher interest rates on special fixed deposits is likely to have a positive impact on the stock, as seen in the historical data (average impact: +2.75%).
+2. Bharti Airtel, State Bank of India, Zomato on Jefferies hotlist: The inclusion of SBI in Jefferies' hotlist for 5 years may have a neutral to slightly positive impact on the stock, as seen in the historical data (average impact: -0.02%).
+3. SBI Customers Alert!: The news about SBI's online and app services being unavailable for a period on March 23 may have a neutral impact on the stock, as seen in the historical data (average impact: +1.32%).
+
+**Overall Tone:** The overall tone of the news is neutral to positive, with the SBI FD rates news being the most significant positive driver. The other two news items are likely to have a neutral impact on the stock.

@@ -1,0 +1,13 @@
+Based on the provided historical news and price impact, here is a summary of the current week's news sentiment for Tata Motors:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+* Tata Motors' shares rose in early trade due to multiple developments (June 30, 2022)
+* The stock extended gains, defying weakness in most auto stocks, with a 10% increase in 3 days (January 11, 2023)
+* Analysts predicted a potential 22% return in a year despite the chip shortage (September 20, 2022)
+
+**Tone Analysis:**
+
+The news tone is generally neutral to positive for Tata Motors. The most recent news (January 11, 2023) has a strong positive impact (+6.51%), indicating a bullish sentiment. The earlier news (June 30, 2022) had a mildly negative impact (-1.16%), but it was followed by a more positive development (September 20, 2022) with a relatively neutral impact (-1.95%). Overall, the news tone suggests that the stock has been experiencing some volatility, but the recent trend is leaning towards a positive sentiment.

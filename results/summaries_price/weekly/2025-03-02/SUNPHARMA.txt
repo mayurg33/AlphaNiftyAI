@@ -1,0 +1,3 @@
+SUNPHARMA's weekly performance was disappointing, with a return of -2.82%, outperforming only DRREDDY among its peers. The stock's volatility was exceptionally high at 43.75%, indicating a highly turbulent week. The Sharpe Ratio of -0.34 suggests that the stock's return was not justified by its risk. Despite being less negative than some peers, SUNPHARMA's performance was still lackluster and risky this week.
+
+[Volatility: 43.75%]

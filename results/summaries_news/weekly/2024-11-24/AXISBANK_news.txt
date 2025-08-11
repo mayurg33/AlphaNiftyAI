@@ -1,0 +1,14 @@
+**Weekly News Sentiment:** Neutral to Slightly Negative
+
+**Notable Events:**
+
+1. Axis Bank and Bank of India are planning to raise funds through AT-I bonds, which may impact their stock prices.
+2. Most banks have reported strong Q2 results, beating estimates.
+
+**News Tone:**
+
+The news tone is neutral to slightly negative for the stock. The first news item about Axis Bank and Bank of India raising funds through AT-I bonds has historically had a negative impact on Axis Bank's stock price, with an average impact of -4.72%. This could be due to concerns about the bank's capital adequacy and the potential dilution of shareholder value.
+
+On the other hand, the second news item about banks topping Q2 estimates is generally positive, as it indicates strong financial performance. However, the historical impact of similar news items has been mixed, with both positive and negative price movements.
+
+Overall, the news tone is neutral to slightly negative, as the potential negative impact of the AT-I bond issuance may outweigh the positive impact of the strong Q2 results.

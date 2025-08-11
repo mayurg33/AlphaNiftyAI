@@ -1,0 +1,17 @@
+Based on the current week's news, the sentiment is mixed.
+
+The first news article mentions that Power Grid, Coal India, ONGC, and NTPC are among the largest losers in Nifty-50 Stocks, with the Nifty PSE Index cracking 5%. This news has a negative tone, indicating a decline in the stock prices of these companies.
+
+On the other hand, the second news article reports that KEC International has received orders worth ₹2,257 crore across its various businesses. This news has a positive tone, suggesting a potential increase in the company's revenue and stock price.
+
+Notable events:
+
+* Power Grid, Coal India, ONGC, and NTPC are among the largest losers in Nifty-50 Stocks.
+* KEC International receives large orders across its businesses.
+
+News tone:
+
+* Negative for Power Grid, Coal India, ONGC, and NTPC due to their decline in stock prices.
+* Positive for KEC International due to the large orders received.
+
+Overall, the news tone is mixed, with one article having a negative tone and the other having a positive tone.

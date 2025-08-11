@@ -1,0 +1,5 @@
+Here is the summary:
+
+NESTLEIND's weekly performance was relatively stable, with a modest decline of 0.07%, outperforming its peers HINDUNILVR, BRITANNIA, and TATACONSUM. The stock's volatility of 8.36% was lower than its peers, indicating a relatively calm week. Despite this, the Sharpe Ratio of -0.03 suggests that the stock's return was not sufficient to compensate for its risk. Overall, NESTLEIND was one of the less risky options in its peer group this week.
+
+[Volatility: 8.36%]

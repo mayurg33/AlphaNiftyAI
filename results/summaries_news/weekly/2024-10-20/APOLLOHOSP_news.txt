@@ -1,0 +1,17 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: Top 5 Hospital Stocks in India Poised for Major Growth in 2025**
+The news tone is **Neutral**. The historical data suggests that similar news had a mixed impact on the stock price, with two instances showing a negative impact (-1.81% and -2.24%) and one instance showing a slightly negative impact (-0.33%). This indicates that the market may not have a strong reaction to this news, and the impact could be neutral.
+
+**Query 2: Shardul Amarchand Mangaldas Advises Apollo Hospitals Enterprise and Apollo Healthco In Relation To Investment By Advent International And Its Investment Into Keimed**
+The news tone is **Positive**. The historical data suggests that similar news had a positive impact on the stock price, with two instances showing a significant positive impact (+3.63% and +3.63%). This indicates that the market may react positively to this news, and the impact could be positive for Apollo Hospitals Enterprise and Apollo Healthco.
+
+**Query 3: 4 Stocks in which promoters reduced their pledge to keep an eye on**
+The news tone is **Positive**. The historical data suggests that similar news had a positive impact on the stock price, with three instances showing a significant positive impact (+5.15%, +4.87%, and +3.36%). This indicates that the market may react positively to this news, and the impact could be positive for the mentioned stocks.
+
+Notable events:
+
+* Apollo Hospitals Enterprise and Apollo Healthco are in focus due to the investment by Advent International and its investment into Keimed.
+* Promoters reducing their pledge in certain stocks may be seen as a positive sign by the market.
+
+Overall, the news tone for the week is **Positive**, with two out of three queries having a positive sentiment. However, it's essential to note that the impact of news on stock prices can be unpredictable and influenced by various factors.

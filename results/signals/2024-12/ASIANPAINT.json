@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance, high volatility, and low Sharpe Ratio indicate a lack of justification for the risk taken. The mediocre profitability and declining growth rates further support a SELL decision. Although the news sentiment is mixed, the fundamental analysis suggests that the company needs to improve before considering a BUY or HOLD recommendation."
+}

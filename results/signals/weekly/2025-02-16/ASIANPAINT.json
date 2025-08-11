@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 7,
+  "volatility": 10.97,
+  "sharpe_ratio": -0.62,
+  "reasoning": "The stock's weekly performance was lackluster with a negative return and poor risk-adjusted returns. The company's growth metrics are a concern, with negative revenue and earnings growth rates, and the valuation is relatively high. The news tone is also negative due to the expected loss on the divestment of its Indonesia business, which has historically resulted in a negative impact on the stock price."
+}

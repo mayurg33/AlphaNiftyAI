@@ -1,0 +1,15 @@
+Based on the current week's news, the sentiment is NEUTRAL to NEGATIVE for the oil stocks, particularly BPCL, HPCL, IOCL, ONGC, and Oil India.
+
+Notable events:
+
+1. A former BPCL executive, Subikash Jena, has joined Payal Group of Industries, which may not have a significant impact on the stock.
+2. The government has raised the windfall tax on crude oil, which has negatively affected oil stocks, including ONGC, Oil India, and Indian Oil.
+3. The article discussing whether to sell or hold BPCL, HPCL, and IOCL shares amidst rising crude oil prices is neutral, as it presents both positive and negative views.
+
+Historical context:
+
+* The news about a former executive joining another company has historically had a negative impact on the stock (average impact: -2.22%).
+* The article discussing the sell or hold decision for oil stocks has historically had both positive and negative impacts (average impact: +1.57%).
+* The news about the government raising the windfall tax on crude oil has historically had a negative impact on oil stocks (average impact: -1.29%).
+
+Overall, the current week's news tone is neutral to negative for the oil stocks, with the windfall tax hike being the most significant negative event.

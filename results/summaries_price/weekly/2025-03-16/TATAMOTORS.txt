@@ -1,0 +1,3 @@
+TATAMOTORS posted a weekly return of 1.13%, outperforming its peers, with a Sharpe Ratio of 0.16 indicating a relatively low risk-adjusted return. The stock's volatility was high at 40.41%, resulting in a Max Drawdown of -1.92%. Compared to its peers, TATAMOTORS was the only stock to post a positive return, making it the top performer for the week. However, its high volatility suggests that investors should exercise caution.
+
+[Volatility: 40.41%]

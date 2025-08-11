@@ -1,0 +1,16 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Mixed
+
+**Notable Events:**
+
+1. LTIMindtree and L&T Technology Services are focusing on high-growth nodes, which could be a positive development for the IT sector.
+2. The stock market has been dragged down by banks and IT stocks, with the Sensex shedding 203 points and the Nifty ending below 25,200.
+
+**Tone:**
+
+The tone of the news is mixed. The first news item suggests a positive tone, as it indicates growth opportunities for IT companies. The historical similar news items also suggest a positive impact, with an average impact of +3.03%.
+
+However, the second news item has a negative tone, as it reports a decline in the stock market indices. The historical similar news items for this query also suggest a negative impact, with an average impact of -2.51%.
+
+Overall, the news tone is neutral, as the positive development in the IT sector is offset by the decline in the stock market indices.

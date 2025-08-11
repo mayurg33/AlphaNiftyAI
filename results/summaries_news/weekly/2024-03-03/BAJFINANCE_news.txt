@@ -1,0 +1,5 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+Notable events: Shri Dharmendra Pradhan, the Union Minister of Petroleum and Natural Gas, has launched Project ODISERV.
+
+The news tone is neutral because the historical similar news does not show a clear trend of positive or negative impact on the stock. The impact of the news on the stock price is inconsistent, with one instance showing a positive impact (+5.27%), another showing a negative impact (-8.39%), and the third showing a positive impact (+7.54%). Therefore, it is difficult to predict the exact impact of the current news on the stock price.

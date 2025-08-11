@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+The notable event is Bharti Airtel prepaying Rs 8,465 crore to the Department of Telecommunications (DoT) to clear liabilities against spectrum acquired in 2016.
+
+The historical data shows that similar news events have had varying impacts on the stock price. In one instance, the impact was positive (+2.72%), while in another instance, it was negative (-6.85%). The most recent similar event had a slightly negative impact (-0.49%). Therefore, it's difficult to predict the exact impact of this news on the stock price. Overall, the tone of the news is neutral, as it's a one-time payment to clear liabilities, which may not have a significant long-term impact on the company's financials.

@@ -1,0 +1,3 @@
+CIPLA's weekly performance was disappointing, with a return of -2.61% and a Sharpe Ratio of -0.61, indicating poor risk-adjusted returns. The stock's volatility was relatively high at 22.66%, making it a risky investment this week. Compared to its peers, CIPLA underperformed SUNPHARMA and DIVISLAB, but outperformed GRASIM. Overall, the stock's high volatility and negative returns make it a cautious investment opportunity.
+
+[Volatility: 22.66%]

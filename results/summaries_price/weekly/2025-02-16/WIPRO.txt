@@ -1,0 +1,3 @@
+WIPRO's weekly performance was disappointing, with a return of -3.43% and a Sharpe Ratio of -1.15, indicating poor risk-adjusted returns. The stock's volatility was moderate at 11.92%, but its max drawdown was significant at -3.43%. Compared to its peers, WIPRO underperformed INFY and TCS, but outperformed POWERGRID. Overall, WIPRO was a relatively risky investment this week.
+
+[Volatility: 11.92%]

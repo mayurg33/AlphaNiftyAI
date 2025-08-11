@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 58.17,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's weekly performance was dismal with a return of -5.74%, indicating a highly risky investment environment. The news sentiment is negative, with reasons cited for the decline including plans to invest in rights issues of listed subsidiaries and broad losses in the auto sector. Furthermore, the company's debt-to-equity ratio is a concern, suggesting a high level of debt. Although the company's financial health is stable, the overall sentiment is bearish, leading me to recommend a sell."
+}

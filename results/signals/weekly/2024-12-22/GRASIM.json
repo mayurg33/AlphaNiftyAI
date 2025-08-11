@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 19.54,
+  "sharpe_ratio": -1.52,
+  "reasoning": "The stock's weekly performance was dismal with a return of -7.32% and a Sharpe Ratio of -1.52, indicating poor risk-adjusted returns. The company's valuation seems stretched with a high trailing P/E ratio and an even higher forward P/E ratio. Additionally, the high debt-to-equity ratio is a significant concern. The overall news sentiment is also predominantly negative, which further supports a sell decision."
+}

@@ -1,0 +1,3 @@
+KOTAKBANK's weekly performance was lackluster, with a return of -0.23%, indicating a slight decline in value. The stock's volatility was relatively high at 22.41%, suggesting significant price fluctuations. Compared to its peers, KOTAKBANK outperformed M&M and TECHM but underperformed ICICIBANK. The stock's Sharpe ratio of -0.04 and max drawdown of -2.18% indicate a relatively high level of risk.
+
+[Volatility: 22.41%]

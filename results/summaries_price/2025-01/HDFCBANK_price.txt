@@ -1,0 +1,25 @@
+Symbol: HDFCBANK
+Month: 2025-01
+Start Price: ₹1782.75
+End Price: ₹1698.75
+12M Return: -4.71%
+6M Return: -4.71%
+3M Return: -4.71%
+Volatility: 0.196
+Sharpe Ratio: -2.728
+Max Drawdown: -0.091
+Peer Correlation (HDFCLIFE): 0.3346
+Peer Correlation (ICICIBANK): 0.555
+Peer Correlation (SBIN): 0.603
+Average Peer Correlation: 0.4975
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+HDFCBANK's stock performance has been disappointing over the past year, with a 12-month return of -4.71%. The stock's volatility is moderate at 0.196, and its Sharpe Ratio of -2.728 indicates that the return is not justified by the level of risk taken. The maximum drawdown of -0.091 suggests that the stock has experienced a significant decline in value. In terms of peer correlation, HDFCBANK has a moderate to high correlation with its peers, particularly ICICIBANK and SBIN.
+
+**Recommendation:**
+
+Based on the analysis, I would suggest a **SELL** rating for HDFCBANK. The stock's poor performance over the past year, combined with its high volatility and low Sharpe Ratio, indicate that it may not be a good investment opportunity at this time. Additionally, the high correlation with its peers suggests that the stock may be subject to similar market and industry risks, which could lead to further declines in value.

@@ -1,0 +1,3 @@
+LT's weekly performance was disappointing, with a return of -2.73% and a Sharpe Ratio of -0.39, indicating poor risk-adjusted returns. The stock's volatility was high at 27.41%, making it a risky investment this week. Compared to its peers, LT underperformed RELIANCE and ULTRACEMCO, but outperformed ONGC. Overall, LT's weekly performance was lackluster, with high volatility making it a risky bet.
+
+[Volatility: 27.41%]

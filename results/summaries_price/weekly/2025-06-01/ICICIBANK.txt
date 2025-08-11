@@ -1,0 +1,3 @@
+ICICIBANK's weekly performance was disappointing, with a -1.01% return, underperforming its peers INDUSINDBK, SBIN, and HDFCBANK. The stock's volatility was moderate at 11.32%, indicating a relatively stable but still risky investment. The Sharpe Ratio of -0.35 suggests that the stock's return was not sufficient to compensate for its risk. Overall, ICICIBANK was a relatively poor performer this week.
+
+[Volatility: 11.32%]

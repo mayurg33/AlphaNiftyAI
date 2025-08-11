@@ -1,0 +1,15 @@
+**Summary of Current Week's News Sentiment:**
+
+The overall sentiment of the news articles this week is **Negative** for Hindustan Unilever (HUL) stock.
+
+**Notable Events:**
+
+1. HUL's Q2 net profit fell to Rs 2,591 crore, missing estimates, and the company declared a dividend of Rs 29 per share.
+2. HUL shares tumbled nearly 5% after the Q2 results disappointed investors.
+3. The company decided to separate its ice cream business following a board decision.
+
+**News Tone:**
+
+The news tone is predominantly negative, with most articles focusing on the disappointing Q2 results, the subsequent fall in share price, and the concerns over the company's performance in urban areas. The decision to separate the ice cream business was also reported, but it did not seem to have a significant positive impact on the overall sentiment.
+
+The historical data suggests that similar news events in the past have led to a negative impact on the stock price, with an average impact of around -2% to -3%. Therefore, it is likely that the current news sentiment will continue to weigh on the stock price in the short term.

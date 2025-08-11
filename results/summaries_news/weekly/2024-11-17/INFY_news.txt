@@ -1,0 +1,9 @@
+Based on the provided historical news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Negative
+
+**Notable Event:** The Infosys HR head's statement that "India we see in GIFT City is not the India we see outside" suggests a contrast between the country's economic growth and development in specific areas (like GIFT City) versus the rest of the country. This statement may raise concerns about the uneven distribution of growth and development in India.
+
+**Tone:** The tone of this news is neutral to negative, as it highlights a potential issue with India's growth story. While Infosys is a prominent IT company, the HR head's statement may not have a direct impact on the company's stock price. However, it may contribute to a negative sentiment around the Indian economy and market.
+
+Historical context suggests that Infosys-related news can have a positive impact on the stock price (e.g., +3.67% on 2022-06-24). However, the current news tone is more cautious and may not have a significant positive impact on the stock price.

@@ -1,0 +1,9 @@
+Based on the current week's news, here is a summary of the sentiment:
+
+**Hero MotoCorp:**
+The news tone is positive for Hero MotoCorp. The company has opened an assembly facility with a capacity of 75,000 units in Nepal, which is a significant expansion move. Historically, similar news has had a positive impact on the stock, with price increases ranging from +0.29% to +6.35%.
+
+**ITC:**
+The news tone is neutral for ITC. The company is involved in a boardroom dispute with Hotel Leela, but the news is more focused on the demerger of its hotels business. Historically, similar news has had mixed impacts on the stock, with both positive (+1.36%, +1.63%) and negative (-2.75%) price movements.
+
+Overall, the news sentiment for Hero MotoCorp is positive, while it is neutral for ITC. Notable events include Hero MotoCorp's expansion into Nepal and ITC's boardroom dispute with Hotel Leela.

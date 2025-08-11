@@ -1,0 +1,25 @@
+Symbol: SUNPHARMA
+Month: 2024-04
+Start Price: ₹1614.37
+End Price: ₹1488.38
+12M Return: -7.80%
+6M Return: -7.80%
+3M Return: -7.80%
+Volatility: 0.233
+Sharpe Ratio: -4.502
+Max Drawdown: -0.089
+Peer Correlation (DRREDDY): 0.6533
+Peer Correlation (DIVISLAB): -0.1086
+Peer Correlation (HINDUNILVR): -0.0595
+Average Peer Correlation: 0.1617
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Sun Pharma (SUNPHARMA) has been experiencing a decline in its stock price, with a 12-month return of -7.80%. The stock's volatility is moderate, with a standard deviation of 0.233. The Sharpe Ratio is -4.502, indicating that the returns are not justified by the level of risk taken. The Max Drawdown is -0.089, suggesting that the stock has experienced a significant decline in value. In terms of peer correlation, SUNPHARMA has a strong positive correlation with DRREDDY (0.6533), but negative correlations with DIVISLAB and HINDUNILVR. The average peer correlation is 0.1617.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **SELL** position for SUNPHARMA. The stock's decline in value over the past 12 months, combined with its high volatility and poor risk-adjusted returns (as indicated by the Sharpe Ratio), suggest that it may not be a good investment opportunity at this time. Additionally, the Max Drawdown suggests that the stock has experienced a significant decline in value, which may indicate a downward trend. While the strong positive correlation with DRREDDY may suggest some potential for growth, the overall analysis suggests that it may be wise to avoid SUNPHARMA for now.

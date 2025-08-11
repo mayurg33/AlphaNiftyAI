@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 26.48,
+  "sharpe_ratio": 0.16,
+  "reasoning": "The stock's volatility is high, and its Sharpe Ratio is low, indicating a relatively low risk-adjusted return. However, the company's fundamentals are strong, with a track record of profitability and growth. The news sentiment is neutral to positive, with strong Q1 earnings and a positive brokerage outlook. Given the mixed signals, I would recommend a HOLD decision, as the stock's strengths are offset by its weaknesses in debt management and high volatility."
+}

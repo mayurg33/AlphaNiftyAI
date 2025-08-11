@@ -1,0 +1,25 @@
+Symbol: LTIM
+Month: 2024-04
+Start Price: ₹4780.01
+End Price: ₹4607.51
+12M Return: -3.61%
+6M Return: -3.61%
+3M Return: -3.61%
+Volatility: 0.217
+Sharpe Ratio: -2.144
+Max Drawdown: -0.061
+Peer Correlation (TECHM): 0.6464
+Peer Correlation (TITAN): 0.092
+Peer Correlation (ITC): 0.0161
+Average Peer Correlation: 0.2515
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+LTIM's stock price has been declining, with a 12-month return of -3.61%. The stock's volatility is moderate, with a standard deviation of 0.217. The Sharpe Ratio is negative, indicating that the return is not justified by the risk taken. The maximum drawdown is -6.1%, which is a significant decline. The peer correlation analysis shows that LTIM has a strong correlation with TECHM (0.6464) but weak correlations with TITAN (0.092) and ITC (0.0161).
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **SELL**. The declining stock price, negative Sharpe Ratio, and significant maximum drawdown indicate that the stock is not performing well. Additionally, the strong correlation with TECHM may not be beneficial if TECHM's performance is also declining. With a 12-month return of -3.61%, it's likely that the stock will continue to underperform in the short term. It's best to sell the stock and re-allocate the funds to a more promising investment opportunity.

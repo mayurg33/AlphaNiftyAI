@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 12.59,
+  "sharpe_ratio": -1.33,
+  "reasoning": "The stock's weekly performance was disappointing, with a return of -3.14% and a high volatility of 12.59%. The Sharpe ratio of -1.33 suggests that the return was not justified by the level of risk taken. Additionally, the news sentiment is negative, with a decline in ONGC's Q4 profit, which is expected to have a bearish impact on the stock price. Therefore, it's a good time to sell the stock."
+}

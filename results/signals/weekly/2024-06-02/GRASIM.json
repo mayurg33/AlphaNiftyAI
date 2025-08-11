@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 30.99,
+  "sharpe_ratio": -0.40,
+  "reasoning": "The stock's high volatility and negative returns indicate a concerning investment. The company's financial health is stable, but it may be facing challenges in terms of profitability and debt management. The news sentiment is neutral to positive, but the macroeconomic environment suggests a mixed impact on the stock price. Overall, the risks outweigh the potential benefits, leading to a SELL decision."
+}

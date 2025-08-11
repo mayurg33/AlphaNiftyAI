@@ -1,0 +1,14 @@
+Based on the news articles, here is a summary of the current week's news sentiment for Sun Pharma:
+
+**News Sentiment:** Mixed
+
+**Notable Events:**
+
+1. Sun Pharma hits a 52-week high on USFDA all-clear to Ankleshwar unit, indicating a positive development for the company.
+2. Sun Pharma recalls 55,000 bottles of a generic drug from the US market due to manufacturing norms violation, which is a negative event.
+
+**Tone:** Neutral
+
+The news tone is neutral because the positive impact of the USFDA all-clear to Ankleshwar unit is offset by the negative impact of the drug recall due to manufacturing norms violation. While the company's stock may have benefited from the positive news, the recall incident may have dampened the sentiment.
+
+Historical data suggests that similar news events have had varying impacts on the stock price. For instance, a USFDA all-clear to a unit has led to a positive impact (+2.41%) in the past, while a drug recall has resulted in a negative impact (-1.31% to -1.59%). Therefore, the overall tone is neutral, reflecting the mixed nature of the news.

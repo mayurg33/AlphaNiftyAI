@@ -1,0 +1,7 @@
+Based on the provided news, the current week's news sentiment is **Positive**.
+
+The notable event is that the Nifty ends Friday's session 469 points higher, indicating a strong upward trend in the stock market. This suggests that the short-term trend remains positive, which is a bullish signal for investors.
+
+Comparing this news with historical similar news, we can see that the impact of positive news on stock prices has been significant in the past. For example, Wipro Ltd's stock price rose by 4.68% after a similar positive news event, and Tech Mahindra Ltd's stock price increased by 3.78% after a similar event.
+
+Overall, the news tone is **Positive**, indicating a favorable outlook for the stock market and potentially leading to further gains in the short term.

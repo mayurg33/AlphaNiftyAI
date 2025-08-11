@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 6.05,
+  "sharpe_ratio": 0.60,
+  "reasoning": "The stock's strong weekly performance, low volatility, and moderate risk-adjusted return indicate a relatively safe haven. The company's good financial health, attractive valuation, and modest growth metrics also support a buy decision. Although the high debt-to-equity ratio is a concern, the overall positive sentiment and strong Q4 results outweigh this weakness."
+}

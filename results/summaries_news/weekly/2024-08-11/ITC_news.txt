@@ -1,0 +1,17 @@
+Based on the historical data, here is a summary of the current week's news sentiment:
+
+**ITC:**
+The news tone is positive for ITC. Both news articles suggest buying ITC shares, which is a bullish signal. Historically, similar news articles have had a positive impact on ITC's stock price, with an average impact of +2.05%.
+
+**Tata Motors:**
+The news tone is also positive for Tata Motors. Both news articles suggest buying Tata Motors shares, which is a bullish signal. Historically, similar news articles have had a positive impact on Tata Motors' stock price, with an average impact of +4.51%.
+
+**Adani Power:**
+The news tone is negative for Adani Power. One news article suggests avoiding Adani Power stock, which is a bearish signal. Historically, similar news articles have had a mixed impact on Adani Power's stock price, with an average impact of +0.55%.
+
+Notable events:
+
+* Both news articles suggest buying ITC and Tata Motors shares, which could lead to an increase in their stock prices.
+* The news article suggesting avoiding Adani Power stock could lead to a decrease in its stock price.
+
+Overall, the news tone is positive for ITC and Tata Motors, and negative for Adani Power.

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 10.97,
+  "sharpe_ratio": -0.57,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but its reasonable valuation and stable financial health are positives. The news sentiment is neutral to negative, but historical data suggests the fine imposed by FIU may not significantly impact the stock price. The macroeconomic environment is generally positive, with growth in agriculture, services, and manufacturing, which could support the bank's growth prospects."
+}

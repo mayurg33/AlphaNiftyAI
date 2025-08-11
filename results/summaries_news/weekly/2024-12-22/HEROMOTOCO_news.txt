@@ -1,0 +1,9 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEGATIVE. The top 5 losers of NIFTY 50 experiencing a day of decline for leading stocks is a bearish indicator.
+
+Notable events mentioned in the historical news include:
+
+* Jefferies' positive outlook on RIL, which had a positive impact of +3.23%
+* Bajaj Finance, Tata Steel, UltraTech Cement, and Shree Cement hitting 52-week lows, which had a negative impact of -3.62%
+* Hindalco Industries cracking 5%, with experts predicting more pain ahead, which had a negative impact of -3.55%
+
+The overall tone of the news is negative, suggesting that the decline in leading stocks may continue, which could lead to a further decline in the NIFTY 50 index.

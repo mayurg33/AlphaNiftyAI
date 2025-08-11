@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 29.41,
+  "sharpe_ratio": -0.29,
+  "reasoning": "The stock's poor performance this week, with a return of -2.19% and a Sharpe Ratio of -0.29, indicates poor risk-adjusted returns. The news sentiment is predominantly negative due to the fraud detection and deferment of Q4 results, which has led to a significant decline in the company's share price. Although the company's fundamentals appear strong, the high debt-to-equity ratio and negative news sentiment outweigh the positives, making it a sell decision."
+}

@@ -1,0 +1,252 @@
+{
+  "ADANIENT": [
+    "ADANIPORTS",
+    "RELIANCE",
+    "POWERGRID"
+  ],
+  "ADANIPORTS": [
+    "ADANIENT",
+    "MARUTI",
+    "SBIN"
+  ],
+  "APOLLOHOSP": [
+    "DRREDDY",
+    "HDFCLIFE",
+    "BHARTIARTL"
+  ],
+  "ASIANPAINT": [
+    "M&M",
+    "MARUTI",
+    "SUNPHARMA"
+  ],
+  "AXISBANK": [
+    "INDUSINDBK",
+    "SBIN",
+    "ICICIBANK"
+  ],
+  "BAJAJ-AUTO": [
+    "BAJFINANCE",
+    "BAJAJFINSV",
+    "MARUTI"
+  ],
+  "BAJFINANCE": [
+    "BAJAJFINSV",
+    "BAJAJ-AUTO",
+    "AXISBANK"
+  ],
+  "BAJAJFINSV": [
+    "BAJFINANCE",
+    "BAJAJ-AUTO",
+    "SHRIRAMFIN"
+  ],
+  "BPCL": [
+    "ONGC",
+    "SBIN",
+    "RELIANCE"
+  ],
+  "BHARTIARTL": [
+    "BPCL",
+    "SBILIFE",
+    "NESTLEIND"
+  ],
+  "BRITANNIA": [
+    "NESTLEIND",
+    "GRASIM",
+    "RELIANCE"
+  ],
+  "CIPLA": [
+    "SUNPHARMA",
+    "DIVISLAB",
+    "GRASIM"
+  ],
+  "COALINDIA": [
+    "TATASTEEL",
+    "POWERGRID",
+    "TATACONSUM"
+  ],
+  "DIVISLAB": [
+    "DRREDDY",
+    "SUNPHARMA",
+    "CIPLA"
+  ],
+  "DRREDDY": [
+    "DIVISLAB",
+    "SUNPHARMA",
+    "HINDUNILVR"
+  ],
+  "EICHERMOT": [
+    "BAJAJ-AUTO",
+    "M&M",
+    "HEROMOTOCO"
+  ],
+  "GRASIM": [
+    "RELIANCE",
+    "ULTRACEMCO",
+    "BRITANNIA"
+  ],
+  "HCLTECH": [
+    "HDFCLIFE",
+    "TECHM",
+    "HINDALCO"
+  ],
+  "HDFCBANK": [
+    "HDFCLIFE",
+    "ICICIBANK",
+    "SBIN"
+  ],
+  "HDFCLIFE": [
+    "HDFCBANK",
+    "SBILIFE",
+    "HINDUNILVR"
+  ],
+  "HEROMOTOCO": [
+    "MARUTI",
+    "M&M",
+    "BAJAJ-AUTO"
+  ],
+  "HINDALCO": [
+    "ITC",
+    "ULTRACEMCO",
+    "HCLTECH"
+  ],
+  "HINDUNILVR": [
+    "RELIANCE",
+    "NESTLEIND",
+    "TATACONSUM"
+  ],
+  "ICICIBANK": [
+    "INDUSINDBK",
+    "SBIN",
+    "HDFCBANK"
+  ],
+  "ITC": [
+    "ICICIBANK",
+    "RELIANCE",
+    "HINDUNILVR"
+  ],
+  "INDUSINDBK": [
+    "ICICIBANK",
+    "AXISBANK",
+    "SBIN"
+  ],
+  "INFY": [
+    "TCS",
+    "ITC",
+    "WIPRO"
+  ],
+  "JSWSTEEL": [
+    "TATASTEEL",
+    "ULTRACEMCO",
+    "BAJAJ-AUTO"
+  ],
+  "KOTAKBANK": [
+    "M&M",
+    "TECHM",
+    "ICICIBANK"
+  ],
+  "LTIM": [
+    "TECHM",
+    "TITAN",
+    "ITC"
+  ],
+  "LT": [
+    "RELIANCE",
+    "ULTRACEMCO",
+    "ONGC"
+  ],
+  "M&M": [
+    "TECHM",
+    "MARUTI",
+    "KOTAKBANK"
+  ],
+  "MARUTI": [
+    "M&M",
+    "TATAMOTORS",
+    "BAJAJ-AUTO"
+  ],
+  "NTPC": [
+    "POWERGRID",
+    "COALINDIA",
+    "ONGC"
+  ],
+  "NESTLEIND": [
+    "HINDUNILVR",
+    "BRITANNIA",
+    "TATACONSUM"
+  ],
+  "ONGC": [
+    "BPCL",
+    "LT",
+    "RELIANCE"
+  ],
+  "POWERGRID": [
+    "COALINDIA",
+    "ITC",
+    "NTPC"
+  ],
+  "RELIANCE": [
+    "LT",
+    "GRASIM",
+    "HINDUNILVR"
+  ],
+  "SBILIFE": [
+    "HDFCLIFE",
+    "SBIN",
+    "INDUSINDBK"
+  ],
+  "SHRIRAMFIN": [
+    "BAJFINANCE",
+    "M&M",
+    "BAJAJFINSV"
+  ],
+  "SBIN": [
+    "ICICIBANK",
+    "AXISBANK",
+    "HDFCBANK"
+  ],
+  "SUNPHARMA": [
+    "DRREDDY",
+    "DIVISLAB",
+    "HINDUNILVR"
+  ],
+  "TCS": [
+    "TATACONSUM",
+    "TATAMOTORS",
+    "TATASTEEL"
+  ],
+  "TATACONSUM": [
+    "TATAMOTORS",
+    "TCS",
+    "TATASTEEL"
+  ],
+  "TATAMOTORS": [
+    "TATASTEEL",
+    "TATACONSUM",
+    "MARUTI"
+  ],
+  "TATASTEEL": [
+    "TATAMOTORS",
+    "TATACONSUM",
+    "JSWSTEEL"
+  ],
+  "TECHM": [
+    "M&M",
+    "KOTAKBANK",
+    "TCS"
+  ],
+  "TITAN": [
+    "TATACONSUM",
+    "TATASTEEL",
+    "TATAMOTORS"
+  ],
+  "ULTRACEMCO": [
+    "GRASIM",
+    "HEROMOTOCO",
+    "LT"
+  ],
+  "WIPRO": [
+    "INFY",
+    "TCS",
+    "POWERGRID"
+  ]
+}

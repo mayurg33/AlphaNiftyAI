@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 70.85,
+  "sharpe_ratio": -0.02,
+  "reasoning": "The stock's high volatility and poor Sharpe Ratio indicate a risky investment. The negative news sentiment and weak Q3 earnings further support a sell decision. Additionally, the company's high debt-to-equity ratio and stagnant revenue growth are concerns. While the stock may be moderately valued, the risks outweigh the potential benefits."
+}

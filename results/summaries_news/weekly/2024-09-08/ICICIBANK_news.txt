@@ -1,0 +1,16 @@
+Based on the provided news and historical data, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Positive
+
+**Notable Events:**
+
+* ICICI Bank shares closed 1.4% up after clarification on Congress allegation, indicating a positive impact on the stock price.
+
+**Historical Context:**
+
+* The first query shows that when multiple stocks are mentioned together, the impact on the stock price is generally neutral to positive, with an average impact of +0.15%.
+* The second query shows that news related to ICICI Bank specifically has had a mixed impact on the stock price in the past, with both positive and negative effects.
+
+**Tone Analysis:**
+
+The overall tone of the news is positive, driven by the 1.4% increase in ICICI Bank's share price after the clarification on the Congress allegation. This suggests that the market has responded favorably to the news, and the stock is likely to continue its upward trend in the short term.

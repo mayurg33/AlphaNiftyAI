@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 29.17,
+  "sharpe_ratio": 0.33,
+  "reasoning": "The stock's decent performance is overshadowed by high volatility and negative news sentiment. While the company's strong fundamentals and stable financial position support its premium valuation, the insider trading violations and SEBI warnings are a concern. Additionally, the macroeconomic environment is mixed, with some positive trends in agriculture and services, but also rising unemployment and trade deficit. Overall, it's a hold decision until the news sentiment improves and the company addresses the insider trading issues."
+}

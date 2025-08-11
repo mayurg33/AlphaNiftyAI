@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 9.27,
+  "sharpe_ratio": -1.29,
+  "reasoning": "The stock's high volatility and negative Sharpe Ratio indicate that the return is not justified by its risk. Although the company's financial health is decent, the high valuation and debt position are concerns. The neutral news sentiment and macroeconomic environment do not provide a strong catalyst for growth, hence a HOLD decision is recommended."
+}

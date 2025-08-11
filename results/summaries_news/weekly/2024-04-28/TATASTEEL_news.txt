@@ -1,0 +1,16 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: HAL and Tata Steel among 10 stocks that saw highest number of shareholder addition**
+
+The news tone is **Positive** for Tata Steel. The historical data suggests that news related to Tata Steel's investments and allocations have a positive impact on the stock price. In this case, the news about Tata Steel being among the top 10 stocks with the highest number of shareholder additions is likely to have a positive impact on the stock price.
+
+**Query 2: Need to be watchful about steel imports amid surge, says T V Narendran**
+
+The news tone is **Neutral** to **Negative** for Tata Steel. The historical data suggests that news related to steel imports and anti-dumping duties have a mixed impact on the stock price. While some news items have a positive impact, others have a negative impact. In this case, the news about being watchful about steel imports amid a surge may have a neutral to negative impact on the stock price.
+
+**Notable Events:**
+
+* Tata Steel's investment in TSML (Rs 54 crore) in August 2022 had a positive impact on the stock price.
+* Concerns about high steel prices in February 2021 had a positive impact on JSW Steel's stock price.
+
+Overall, the news tone for Tata Steel is **Positive** due to the news about shareholder additions, but **Neutral** to **Negative** due to the concerns about steel imports.

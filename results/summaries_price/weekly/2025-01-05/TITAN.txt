@@ -1,0 +1,3 @@
+TITAN's weekly return of 5.96% outperformed most of its peers, with only TATAMOTORS surpassing it. The stock's volatility was significantly higher than its peers, indicating a riskier investment. Despite this, its Sharpe Ratio of 0.74 suggests that the returns were somewhat justified by the risk taken. Overall, TITAN's performance was strong, but investors should be cautious of its high volatility.
+
+[Volatility: 31.74%]

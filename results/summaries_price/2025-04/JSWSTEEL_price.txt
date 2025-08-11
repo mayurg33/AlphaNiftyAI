@@ -1,0 +1,25 @@
+Symbol: JSWSTEEL
+Month: 2025-04
+Start Price: ₹1056.25
+End Price: ₹1029.80
+12M Return: -2.50%
+6M Return: -2.50%
+3M Return: -2.50%
+Volatility: 0.430
+Sharpe Ratio: -0.618
+Max Drawdown: -0.119
+Peer Correlation (TATASTEEL): 0.8753
+Peer Correlation (ULTRACEMCO): 0.4467
+Peer Correlation (BAJAJ-AUTO): 0.8461
+Average Peer Correlation: 0.7227
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+JSWSTEEL's stock performance has been lackluster, with negative returns across all time frames (12M, 6M, and 3M) and a Sharpe Ratio of -0.618, indicating poor risk-adjusted performance. The stock has experienced a maximum drawdown of 11.9%, and its volatility is relatively high at 0.430. While it has a strong correlation with its peers TATASTEEL and BAJAJ-AUTO, its correlation with ULTRACEMCO is relatively low.
+
+**Recommendation:**
+
+Based on the analysis, I would suggest **SELL** JSWSTEEL. The negative returns across all time frames, high volatility, and poor Sharpe Ratio indicate that the stock is not a attractive investment opportunity at this time. Additionally, the high maximum drawdown suggests that the stock is prone to significant price drops, which could result in further losses for investors.

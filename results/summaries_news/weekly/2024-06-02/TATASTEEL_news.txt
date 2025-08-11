@@ -1,0 +1,11 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Tata Steel's Noamundi Iron Mine celebrates 100 Years of Sustainable Mining**
+
+The news tone is NEUTRAL. The historical data shows a mix of positive and negative price impacts in response to similar news about Tata Steel's sustainability and mining operations. The average impact is around -1.16%, but the range is wide (-6.38% to +13.25%). This suggests that the market reaction to this news is uncertain and may depend on other factors.
+
+**Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - June 3**
+
+The news tone is POSITIVE. The historical data shows that Sumeet Bagadia's recommendations have generally had a positive impact on the market, with an average impact of around +1.44%. Although there is one instance of a negative impact (-6.48%), the overall trend suggests that the market responds positively to his recommendations.
+
+Notable events: Tata Steel's Noamundi Iron Mine celebrates a significant milestone of 100 years of sustainable mining, while Sumeet Bagadia provides stock recommendations for the week.

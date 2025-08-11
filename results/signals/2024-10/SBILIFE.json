@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock's poor price trends, high volatility, and negative Sharpe Ratio suggest a SELL. However, the fundamentals analysis reveals some strengths, such as a reasonable ROE and debt-free status, which prevent a SELL recommendation. The news sentiment is neutral to positive, and the macroeconomic environment is supportive of growth. Considering these mixed signals, a HOLD recommendation is warranted, allowing for further monitoring of the company's performance."
+}

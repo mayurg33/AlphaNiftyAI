@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock has underperformed in the last 12 months with a return of -3.02%, and its Sharpe Ratio is -1.487, indicating poor risk-adjusted returns. However, the high correlation with Britannia Industries suggests that NESTLEIND may be influenced by similar market and sector trends. Furthermore, the mixed fundamental signals, including high PE multiples and low growth rates, but also low debt levels and decent ROE, warrant a HOLD recommendation. The neutral news sentiment with a slight negative bias and the stable macroeconomic environment also support a HOLD decision."
+}

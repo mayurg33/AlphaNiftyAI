@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 7.11,
+  "sharpe_ratio": -2.13,
+  "reasoning": "The stock's poor performance this week, with a -3.77% return and a Max Drawdown of -3.77%, indicates a high-risk investment. The negative news sentiment, with a 'Sell' call from UBS and a predicted 45-46% downside, further supports a bearish outlook. Although the company's fundamentals appear strong, with high ROE and EBITDA margins, its sluggish revenue growth and high debt-to-equity ratio are concerns. Overall, the risks outweigh the potential benefits, leading to a SELL decision."
+}

@@ -1,0 +1,13 @@
+Based on the historical similar news, the current week's news sentiment for Hero FinCorp is NEUTRAL.
+
+Notable events:
+
+* Hero FinCorp's board has approved a ₹4,000 crore IPO, which is a significant development for the company.
+
+Historical context:
+
+* The news about KFin tech's IPO filing had a negative impact (-5.48%) on the stock, suggesting that investors may be cautious about IPOs in the financial sector.
+* The news about LIC IPO had a positive impact (+10.51%) on the stock, indicating that investors are interested in large-scale IPOs.
+* The news about Hero MotoCorp's investment in Hero FinCorp had a negative impact (-2.48%) on the stock, suggesting that investors may be concerned about the company's financials.
+
+Overall, the news tone is neutral because while the IPO approval is a significant positive development, the historical context suggests that investors may be cautious about the company's financials and the IPO process.

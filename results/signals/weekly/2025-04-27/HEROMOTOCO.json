@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 35.03,
+  "sharpe_ratio": -0.05,
+  "reasoning": "The stock's lackluster performance and high volatility are concerns, but the company's financial health, reasonable valuation, and positive news sentiment are positives. However, the high debt-to-equity ratio and low revenue growth rate are weaknesses. Given the mixed signals, a hold decision is recommended, with a moderate confidence level."
+}

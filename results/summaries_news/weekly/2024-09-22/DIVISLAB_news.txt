@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+The news article mentions that Divi's Lab, AEL, and M&M are among the top movers and shakers in FY25, along with a trading guide. While this news may be informative and provide insights for investors, the historical data suggests that similar news articles have had varying impacts on the stock prices.
+
+In the past, similar news articles have had both positive and negative impacts on stock prices. For example, the article from 2022-07-04 had a positive impact of +0.31%, while the article from 2021-01-21 had a negative impact of -2.62%. The article from 2021-10-26 had a positive impact of +1.94%.
+
+Overall, the news tone is neutral, as it does not convey a strong positive or negative sentiment. The article appears to be providing information and guidance for investors, rather than expressing a clear opinion or making a strong recommendation.

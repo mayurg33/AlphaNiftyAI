@@ -1,0 +1,3 @@
+TITAN's weekly return of 3.96% outperformed TATACONSUM but underperformed TATASTEEL and TATAMOTORS. The stock's volatility of 35.9% was higher than TATACONSUM's but lower than TATASTEEL's. With a Sharpe Ratio of 0.44, TITAN's risk-adjusted return was moderate. The Max Drawdown of -1.62% indicates a relatively stable performance.
+
+[Volatility: 35.9%]

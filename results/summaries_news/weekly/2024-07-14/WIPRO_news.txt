@@ -1,0 +1,8 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* Q1 results of major companies such as RIL, Infosys, Paytm, Jio Financial, and Wipro are expected to be declared next week, which may impact the market movement.
+* Stocks to watch include Reliance Industries, Wipro, ONGC, RVNL, Mahindra & Mahindra, Bansal Wires, and Emcure Pharma.
+
+The news tone is neutral because the historical data shows a mix of positive and negative impacts on the stock prices. The average impact of the similar news is around +1.5%, which is not significantly positive or negative. The market is likely to be influenced by the earnings results of the major companies and global trends, but the overall sentiment is neutral.

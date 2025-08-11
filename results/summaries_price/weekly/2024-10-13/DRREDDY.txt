@@ -1,0 +1,3 @@
+DRREDDY's weekly performance was lackluster, with a return of -0.16% and a Sharpe Ratio of -0.05, indicating poor risk-adjusted returns. The stock's volatility was moderate at 13.17%, but its Max Drawdown of -1.23% suggests some downside risk. Compared to its peers, DRREDDY underperformed DIVISLAB but outperformed SUNPHARMA and HINDUNILVR. Overall, the stock was moderately risky this week.
+
+[Volatility: 13.17%]

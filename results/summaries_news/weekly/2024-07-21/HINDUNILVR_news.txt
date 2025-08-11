@@ -1,0 +1,12 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Overall Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+1. Stocks in news: Bajaj Auto, Jio Financial, HUL, Vedanta, Lupin, SpiceJet, Angel One, and JNK India - This news is likely to have a positive impact on the stocks mentioned, with an average historical impact of +2.82%.
+2. Q1 results: L&T, Axis Bank, HUL, Nestle, Indigo among companies to declare earnings next week - The historical impact of earnings results is mixed, with an average impact of -0.35%. However, this news is likely to have a neutral to positive impact on the stocks mentioned.
+3. Hindustan Unilever approves sale of Pureit water purification business to A. O. Smith for ₹601 crore - This news is likely to have a neutral to positive impact on HUL, with an average historical impact of +0.81%.
+4. Stocks to watch, July 16: Vedanta, HUL, Lupin, SpiceJet, Jio Fin Services - This news is likely to have a mixed impact on the stocks mentioned, with an average historical impact of -0.67%. However, the impact could be positive for some stocks like HUL and Vedanta.
+
+**Tone:** The overall tone of the news is neutral to positive, with a focus on earnings results and stocks in news. The sale of Pureit water purification business by HUL is a positive development, while the stocks to watch list has a mixed impact. Overall, the news is likely to have a positive impact on the stock market, with some stocks experiencing a boost due to their earnings results and others being watched closely by investors.

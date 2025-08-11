@@ -1,0 +1,16 @@
+**Weekly News Sentiment Summary**
+
+The overall sentiment of this week's news is **Positive**.
+
+**Notable Events:**
+
+1. Ramky Infrastructure and KEC International both received significant orders, leading to a surge in their stock prices.
+2. India is keen to speed up power grid link talks with Sri Lanka, which could lead to new business opportunities.
+
+**News Tone:**
+
+* Positive: 3 news articles (Ramky Infrastructure up 7%, Stock jumps 7%, KEC International bags news orders)
+* Neutral: 1 news article (India keen to speed up power grid link talks with Sri Lanka)
+* Negative: 0 news articles
+
+The news tone is predominantly positive, driven by the significant order wins by Ramky Infrastructure and KEC International, which led to a surge in their stock prices. The news about India's efforts to speed up power grid link talks with Sri Lanka is neutral, as it doesn't have a direct impact on the stock prices. Overall, the sentiment is upbeat, indicating a positive outlook for the stocks involved.

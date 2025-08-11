@@ -1,0 +1,11 @@
+Based on the historical news data, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* There is no specific positive or negative news event that stands out for the mentioned stocks (Tata Steel, OIL, M&M, and IIFL Finance) in the current week.
+
+News tone:
+
+* The overall tone is neutral as there is no strong positive or negative sentiment in the recent news articles. The historical data shows a mix of positive and negative impacts, but none of them are recent or significant enough to sway the sentiment in either direction.
+
+It's essential to note that this analysis is based on a limited dataset and may not reflect the complete market situation. It's always recommended to do thorough research and consider multiple sources before making any investment decisions.

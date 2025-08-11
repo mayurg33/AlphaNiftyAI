@@ -1,0 +1,3 @@
+BPCL's weekly return of 1.56% outperformed its peers, with a notable positive performance amidst a generally bearish market. The stock's volatility of 37.4% was higher than its peers, indicating a riskier investment. Despite this, BPCL's Sharpe Ratio of 0.23 suggests that the returns were somewhat justified by the level of risk taken. Overall, BPCL was a bright spot in an otherwise lackluster week for its peers.
+
+[Volatility: 37.4%]

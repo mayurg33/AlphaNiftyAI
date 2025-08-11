@@ -1,0 +1,3 @@
+APOLLOHOSP underperformed its peers this week, with a negative return of -1.18% compared to returns ranging from 1.71% to 5.74% among its peers. The stock's volatility was relatively high at 24.55%, indicating a risky investment environment. The Sharpe Ratio of -0.19 suggests that the stock's return was not sufficient to compensate for its risk. Overall, APOLLOHOSP was a poor performer this week, with high volatility and a negative return.
+
+[Volatility: 24.55%]

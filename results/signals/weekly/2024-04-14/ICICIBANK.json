@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 18.63,
+  "sharpe_ratio": 0.45,
+  "reasoning": "ICICIBANK's strong profit margin and decent ROE indicate financial health, but high forward P/E ratio suggests overvaluation. The stock's high volatility and moderate Sharpe Ratio warrant caution. Meanwhile, the macroeconomic environment is supportive, with strong agriculture and services sectors, and easing inflation. However, the high valuation and volatility outweigh the positive fundamentals, leading to a HOLD decision."
+}

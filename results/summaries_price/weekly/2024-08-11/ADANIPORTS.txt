@@ -1,0 +1,3 @@
+ADANIPORTS posted a weekly return of 2.67%, outperforming MARUTI but underperforming ADANIENT. The stock's volatility was relatively high at 32.74%, indicating a riskier investment. Despite this, its Sharpe Ratio of 0.33 suggests that the return was somewhat justified by the level of risk taken. The stock's Max Drawdown of -1.61% indicates a moderate level of downside risk.
+
+[Volatility: 32.74%]

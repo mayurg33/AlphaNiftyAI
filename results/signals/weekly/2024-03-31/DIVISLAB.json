@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 33.48,
+  "sharpe_ratio": 0.38,
+  "reasoning": "The stock's moderate weekly performance and high volatility suggest caution. Although the company's fundamentals are strong, its valuation appears stretched. The positive news sentiment and macroeconomic environment are supportive, but the high volatility and moderate Sharpe Ratio outweigh these positives, leading to a hold decision."
+}

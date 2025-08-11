@@ -1,0 +1,1 @@
+Based on these metrics, I would recommend a HOLD on INFY. The 12M return is positive, indicating a long-term trend, but the recent 6M return is negative, suggesting a possible correction, and the Sharpe Ratio is moderate, indicating a balance between risk and return.

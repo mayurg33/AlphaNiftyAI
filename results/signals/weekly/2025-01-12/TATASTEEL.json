@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 21.96,
+  "sharpe_ratio": -0.65,
+  "reasoning": "The stock's poor weekly performance, high volatility, and low Sharpe Ratio indicate poor risk-adjusted returns. Additionally, the company's high debt-to-equity ratio, low ROE, and profit margins are causes for concern. Although the macroeconomic environment is supportive, the company's fundamentals outweigh the positive news sentiment, leading to a SELL decision."
+}

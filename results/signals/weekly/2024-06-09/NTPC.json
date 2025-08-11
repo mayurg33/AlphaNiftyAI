@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 145.49,
+  "sharpe_ratio": -0.19,
+  "reasoning": "NTPC's financial health appears stable, with strong profitability and reasonable valuation. However, high debt levels are a concern. The news sentiment is neutral to slightly positive, with some positive developments around sustainability efforts. Given the high volatility and negative Sharpe Ratio, I'm cautious and recommend a HOLD decision."
+}

@@ -1,0 +1,3 @@
+TATACONSUM had a relatively stable week, with a modest return of 0.85% and low volatility of 2.32%. This performance was underwhelming compared to its peers, with TATAMOTORS and TATASTEEL posting significantly higher returns. However, TATACONSUM's Sharpe Ratio of 1.45 suggests that its return was relatively risk-efficient. Overall, the stock's low volatility and decent Sharpe Ratio make it a relatively low-risk investment option this week.
+
+[Volatility: 2.32%]

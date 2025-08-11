@@ -1,0 +1,3 @@
+SBIN's weekly performance was strong, with a 1.95% return, outperforming HDFCBANK but underperforming ICICIBANK and AXISBANK. The stock's volatility was relatively low at 8.59%, indicating a relatively stable performance. With a Sharpe Ratio of 0.90, SBIN demonstrated a good balance between return and risk. Overall, SBIN's performance was solid, with a lower risk profile compared to its peers.
+
+[Volatility: 8.59%]

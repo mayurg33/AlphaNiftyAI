@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 29.12,
+  "sharpe_ratio": -0.49,
+  "reasoning": "The stock's high volatility and poor risk-adjusted returns indicate a high-risk investment. The company's financial health is vulnerable due to high debt levels and declining revenue. Additionally, the valuation seems expensive with a high P/E ratio, suggesting the stock may be overpriced. Therefore, it's a sell decision."
+}

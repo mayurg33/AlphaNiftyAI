@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor price trends, with negative returns over various time periods, suggest a downward trend. The high correlation with peers and moderate volatility further support a sell recommendation. Although the news sentiment is bullish, the company's weak fundamentals, including low profitability and high debt levels, outweigh the positives. The macroeconomic environment is generally positive, but it may not be enough to offset ONGC's internal issues."
+}

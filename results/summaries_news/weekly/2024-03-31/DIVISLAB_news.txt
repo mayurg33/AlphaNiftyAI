@@ -1,0 +1,18 @@
+**Weekly News Sentiment:** The overall sentiment of the current week's news is **Positive**.
+
+**Notable Events:**
+
+1. Dr. Murali Divi's remarkable journey to become the richest businessman in T & AP, with a net worth of $7 billion.
+2. The introduction of T+0 settlement, which is expected to have a significant impact on the stock market.
+3. The Sensex and Nifty indices have been trending upward, with the Sensex gaining over 600 points and the Nifty settling above 22,300.
+4. A day trading guide has been provided, recommending seven stocks to buy or sell on Thursday, March 28.
+
+**News Tone:**
+
+* Positive: The news tone is positive for Dr. Murali Divi's achievement, the Sensex and Nifty's upward trend, and the day trading guide.
+* Neutral: The introduction of T+0 settlement is a neutral event, as its impact on the market is yet to be seen.
+* Negative: There are no negative news events reported in the current week.
+
+**Historical Similar News and Price Impact:**
+
+The historical data suggests that news related to billionaires and business leaders can have a positive impact on the stock market, with an average impact of +1.42%. News related to stock market indices and trading guides can also have a positive impact, with an average impact of +1.35%. However, news related to company-specific events can have a mixed impact, with an average impact of -0.35%.

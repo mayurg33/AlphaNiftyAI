@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 7,
+  "volatility": 88.57,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock has shown strong weekly performance with a 3.45% return, and its fundamentals appear solid with high ROE and gross margins. The news sentiment is neutral to positive, driven by strong Q1 results and RBI approval for Shriram Capital's ARC launch. Although the company's revenue growth has been sluggish and debt-to-equity ratio is high, the overall analysis suggests a BUY decision with moderate confidence."
+}

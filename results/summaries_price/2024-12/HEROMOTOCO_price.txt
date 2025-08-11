@@ -1,0 +1,25 @@
+Symbol: HEROMOTOCO
+Month: 2024-12
+Start Price: ₹4632.22
+End Price: ₹4058.76
+12M Return: -12.38%
+6M Return: -12.38%
+3M Return: -12.38%
+Volatility: 0.151
+Sharpe Ratio: -10.923
+Max Drawdown: -0.124
+Peer Correlation (MARUTI): 0.6501
+Peer Correlation (M&M): 0.3925
+Peer Correlation (BAJAJ-AUTO): 0.5406
+Average Peer Correlation: 0.5277
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Hero MotoCorp (HEROMOTOCO) has had a disappointing performance in 2024, with a 12.38% decline in stock price over the past year, resulting in a negative Sharpe Ratio of -10.923. The stock's volatility is moderate at 0.151, and it has experienced a maximum drawdown of 12.38%. In terms of peer correlation, Hero MotoCorp has a strong correlation with Maruti (0.6501) and moderate correlations with M&M (0.3925) and Bajaj-Auto (0.5406).
+
+**Recommendation:**
+
+Based on the negative return over the past year, high volatility, and poor Sharpe Ratio, I would recommend a **SELL** on Hero MotoCorp. The stock's poor performance and high drawdown indicate a lack of upward momentum, and the high volatility suggests that investors may be taking on excessive risk. Additionally, the strong correlation with Maruti suggests that Hero MotoCorp may be subject to similar market pressures, which could further exacerbate its decline.

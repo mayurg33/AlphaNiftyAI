@@ -1,0 +1,10 @@
+The current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* TCS, Infosys, and Bajaj Auto are set to announce dividends, which could have a positive impact on their stock prices.
+* HDFC Life, Wipro, and JFSL will share their Q4 results, which could be a market-moving event.
+
+Historical context suggests that dividend announcements from TCS and Infosys have had a positive impact on their stock prices in the past, with an average impact of +4.23%. However, there is also a instance where TCS shares traded ex-dividend, which had a negative impact of -2.39%.
+
+Overall, the news tone is neutral as it is a mix of positive and negative historical events. The market's reaction to the upcoming dividend announcements and Q4 results will depend on the actual numbers and guidance provided by the companies.

@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 30.46,
+  "sharpe_ratio": -0.12,
+  "reasoning": "The stock's high volatility and negative returns make it a less attractive option for investors. Additionally, the company's mixed fundamentals, with negative revenue growth and unclear debt position, warrant caution. The news sentiment is also mixed, with some positive news offset by negative news and concerns over microfinance loan stress. Overall, the stock's poor performance and uncertain outlook justify a sell decision."
+}

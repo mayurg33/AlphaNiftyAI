@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 6.91,
+  "sharpe_ratio": -1.18,
+  "reasoning": "The stock's negative return and poor risk-adjusted performance are concerns. The news sentiment is also negative, which historically has had a negative impact on the stock price. Furthermore, the company's high debt levels are a concern, and the macroeconomic environment, although stable, does not provide a strong growth catalyst. Therefore, it is recommended to sell the stock."
+}

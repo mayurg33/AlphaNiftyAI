@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 29.49,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's modest return and high volatility make it a risky investment. Although the company has a strong profitability profile and reasonable valuation, its high debt-to-equity ratio is a major concern. The news sentiment is neutral, and the macroeconomic environment is mixed, with both positive and negative indicators. Therefore, I recommend a HOLD decision, as the stock's risks and uncertainties outweigh its potential benefits."
+}

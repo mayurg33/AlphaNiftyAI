@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 24.09,
+  "sharpe_ratio": 0.01,
+  "reasoning": "The stock's poor risk-adjusted returns, high volatility, and max drawdown indicate a risky investment. Additionally, the company's stretched valuation, high debt-to-equity ratio, and negative earnings growth are concerning. The recent US court ruling has also negatively impacted the stock's price, further supporting a sell decision."
+}

@@ -1,0 +1,10 @@
+Based on the historical similar news and price impact, the current week's news sentiment is predominantly negative for the auto stocks, particularly Bajaj Auto, Hero MotoCorp, Maruti, and Tata Motors.
+
+Notable events include:
+
+* Bajaj Auto, Hero MotoCorp, Maruti, and Tata Motors shares falling up to 10% in a single day, with Bajaj Auto plummeting 13%.
+* FII selling contributing to the decline in Sensex and Nifty.
+
+The news tone is negative for the auto stocks, with most of the historical similar news having a negative impact on the stock prices. The average impact of the similar news is around -1.5% to -2.0%. However, it's worth noting that there are some instances where the impact was positive, such as the first query where the impact was +9.50%.
+
+Overall, the current week's news sentiment suggests that the auto stocks, particularly Bajaj Auto, Hero MotoCorp, Maruti, and Tata Motors, may continue to face selling pressure in the short term.

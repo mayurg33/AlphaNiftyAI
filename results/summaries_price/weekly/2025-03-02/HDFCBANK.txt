@@ -1,0 +1,3 @@
+HDFCBANK had a strong weekly performance, returning 3.3% and outperforming its peers. The stock's volatility was relatively low at 12.31%, indicating a relatively stable week. In comparison, its peers HDFCLIFE, ICICIBANK, and SBIN all had negative returns, with SBIN experiencing the largest decline. Overall, HDFCBANK's Sharpe Ratio of 1.40 suggests that its return was achieved with relatively low risk. 
+
+[Volatility: 12.31%]

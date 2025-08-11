@@ -1,0 +1,3 @@
+ONGC's weekly performance was relatively resilient, with a -0.79% return, outperforming its peers BPCL, LT, and RELIANCE, which saw returns ranging from -4.94% to -8.03%. Despite this, ONGC's Sharpe Ratio of -0.17 indicates that its return was not sufficient to compensate for its volatility. The stock's Max Drawdown of -1.9% suggests a moderate level of risk. Overall, ONGC's performance was relatively stable compared to its peers, but still carries a significant level of risk.
+
+[Volatility: 24.1%]

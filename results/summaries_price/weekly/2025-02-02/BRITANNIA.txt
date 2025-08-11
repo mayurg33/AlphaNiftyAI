@@ -1,0 +1,3 @@
+Britannia's weekly return of 0.48% was modest, but its volatility of 23.57% suggests a relatively turbulent ride for investors. Compared to its peers, Britannia underperformed NESTLEIND and RELIANCE, but outperformed GRASIM. The stock's Sharpe Ratio of 0.07 indicates a relatively low risk-adjusted return, while its Max Drawdown of -2.69% suggests a moderate level of risk. Overall, Britannia's weekly performance was lackluster, with higher volatility than some of its peers.
+
+[Volatility: 23.57%]

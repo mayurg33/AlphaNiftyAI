@@ -1,0 +1,5 @@
+Based on the historical news data, the current week's news sentiment is POSITIVE.
+
+The notable event is that the news article indicates that Titan (NSE:TITAN) is using debt reasonably well, which suggests that the company is managing its debt effectively.
+
+The overall tone of the news is positive, as it implies that Titan's debt management is a sign of good financial health, which can lead to increased investor confidence and potentially drive up the stock price.

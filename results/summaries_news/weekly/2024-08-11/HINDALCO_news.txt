@@ -1,0 +1,11 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: FIR registered against Hindalco eight years after preliminary enquiry**
+
+The news tone is NEUTRAL for Hindalco. The historical similar news shows a mixed impact, with two instances of positive impact (+2.81% and +3.18%) and one instance of negative impact (-0.41%). This suggests that the market reaction to the FIR registration against Hindalco is uncertain and may depend on other factors.
+
+**Query 2: Q1 Results 2024: IRFC, NMDC, Apollo Hospitals, Hero MotoCorp, Reliance Power, Hindalco, IRCTC – Key earnings to watch out for this week**
+
+The news tone is NEUTRAL for the mentioned stocks. The historical similar news shows a mixed impact, with one instance of positive impact (+1.90%), one instance of neutral impact (-0.45%), and one instance of negative impact (-1.57%). This suggests that the market reaction to the Q1 results will depend on the actual earnings performance of each company and may not have a uniform impact on all the mentioned stocks.
+
+Notable events for the week include the Q1 results of several key companies, which may have a significant impact on their stock prices. The FIR registration against Hindalco is a notable event, but its impact on the stock is uncertain. Overall, the news tone is neutral, and investors should focus on the actual earnings performance and other market factors to make informed investment decisions.

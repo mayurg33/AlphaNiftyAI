@@ -1,0 +1,7 @@
+**Current Week's News Sentiment:** Neutral to Negative
+
+**Notable Event:** SBI (State Bank of India) users are facing issues with mobile banking and fund transfers, causing an outage.
+
+**Historical Context:** This is not the first time SBI has experienced technical issues with its digital services. In the past, similar outages have had a mixed impact on the stock price, with some instances resulting in a positive impact (+2.93% and +0.55%) and others having no significant impact.
+
+**News Tone:** The news tone is neutral to negative, as the outage is likely to cause inconvenience to SBI customers and may affect the bank's reputation. However, the historical context suggests that the impact on the stock price may not be significantly negative.

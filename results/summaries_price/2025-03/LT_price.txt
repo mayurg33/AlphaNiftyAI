@@ -1,0 +1,25 @@
+Symbol: LT
+Month: 2025-03
+Start Price: ₹3167.76
+End Price: ₹3460.03
+12M Return: 9.23%
+6M Return: 9.23%
+3M Return: 9.23%
+Volatility: 0.227
+Sharpe Ratio: 5.558
+Max Drawdown: -0.027
+Peer Correlation (RELIANCE): 0.3293
+Peer Correlation (ULTRACEMCO): 0.5412
+Peer Correlation (ONGC): 0.5762
+Average Peer Correlation: 0.4822
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+The stock LT has shown a strong performance in the past 12 months, with a return of 9.23%. The volatility of the stock is relatively low at 0.227, indicating a stable price movement. The Sharpe Ratio is impressive at 5.558, suggesting that the returns are generated with minimal risk. The max drawdown is a mere -0.027, indicating that the stock has been resilient to market downturns. The peer correlations suggest that LT has a moderate correlation with its peers, with the highest correlation being with ONGC at 0.5762.
+
+**Recommendation:**
+
+Based on the strong performance, low volatility, and impressive Sharpe Ratio, I would recommend a **BUY** on LT. The stock's ability to generate consistent returns with minimal risk makes it an attractive investment opportunity. Additionally, the moderate correlation with its peers suggests that LT has a unique value proposition that can help it continue to outperform its peers. With a strong 12-month return and a low max drawdown, I believe that LT is a good addition to a portfolio.

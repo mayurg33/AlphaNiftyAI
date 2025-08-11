@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's poor price performance and high volatility, combined with mediocre fundamentals and mixed news sentiment, warrant a cautious approach. However, the positive macroeconomic environment, particularly in the services sector and rural consumption, may support the company's growth prospects, making a hold recommendation more suitable than a sell.

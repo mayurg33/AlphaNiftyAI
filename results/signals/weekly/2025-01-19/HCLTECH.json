@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 68.6,
+  "sharpe_ratio": -0.59,
+  "reasoning": "The stock's dismal weekly performance, high volatility, and poor risk-adjusted return (Sharpe ratio) suggest a strong sell signal. Additionally, the negative news sentiment and disappointing Q3 results further support this decision. Although the company's fundamentals appear strong, the growth metrics are a concern, and the high debt-to-equity ratio is a weakness."
+}

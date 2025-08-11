@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 41.97,
+  "sharpe_ratio": 0.59,
+  "reasoning": "The stock has a strong weekly performance, but its high volatility and debt-to-equity ratio are concerns. The company's financial health is a mixed bag, with strong profitability but negative revenue growth. The news sentiment is neutral, and the macroeconomic environment is generally positive, but the company's high indebtedness and stretched valuation make it a hold for now."
+}

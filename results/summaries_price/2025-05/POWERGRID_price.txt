@@ -1,0 +1,25 @@
+Symbol: POWERGRID
+Month: 2025-05
+Start Price: ₹303.05
+End Price: ₹289.75
+12M Return: -4.39%
+6M Return: -4.39%
+3M Return: -4.39%
+Volatility: 0.274
+Sharpe Ratio: -1.934
+Max Drawdown: -0.069
+Peer Correlation (COALINDIA): 0.4573
+Peer Correlation (ITC): 0.7566
+Peer Correlation (NTPC): 0.7683
+Average Peer Correlation: 0.6607
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+PowerGrid's stock performance has been disappointing over the past 12 months, with a return of -4.39%. The stock's volatility is moderate at 0.274, and its Sharpe Ratio is a concerning -1.934, indicating that the returns have not justified the level of risk taken. The maximum drawdown is relatively low at -0.069, but the overall trend is bearish. In terms of peer correlation, PowerGrid has a moderate correlation with Coal India, but a high correlation with ITC and NTPC, with an average peer correlation of 0.6607.
+
+**Recommendation:**
+
+Based on the analysis, I would suggest a **SELL** recommendation for PowerGrid. The consistently negative returns over the past 12 months, 6 months, and 3 months, combined with a high Sharpe Ratio, indicate that the stock is not generating sufficient returns to justify the risk. Additionally, the high correlation with its peers, particularly ITC and NTPC, may suggest that the stock is heavily influenced by industry trends rather than its own fundamentals. Until there is a significant improvement in the company's performance and a reversal of the bearish trend, it may be wise to exit the stock.

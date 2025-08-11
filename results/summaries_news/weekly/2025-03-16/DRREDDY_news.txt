@@ -1,0 +1,12 @@
+Based on the provided news, here is a summary of the current week's news sentiment:
+
+**Notable Events:**
+
+1. Dr. Reddy's share price highlights: The stock has seen positive movements in the past, driven by appetite for pharma stocks and being part of top funds' buy lists.
+2. Dr. Reddy's Issues a Nationwide Recall of Levetiracetam in 0.75% Sodium Chloride Injection 1,000 mg/100 mL, in the U.S., due to Mislabeling of Infusion Bag: This news is likely to have a negative impact on the stock price.
+
+**News Sentiment:**
+
+The overall news sentiment for Dr. Reddy's stock is **Negative**. The recall of Levetiracetam in the U.S. due to mislabeling is a significant negative event that may lead to a decline in the stock price. Although the company has seen positive movements in the past, the current recall news outweighs the positive sentiment.
+
+The historical data suggests that similar negative news, such as recalls or regulatory issues, have led to a decline in the stock price, ranging from -0.93% to -6.22%. Therefore, it is likely that the current news will have a similar negative impact on the stock price.

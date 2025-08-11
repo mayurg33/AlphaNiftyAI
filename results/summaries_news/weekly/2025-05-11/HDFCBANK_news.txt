@@ -1,0 +1,9 @@
+Based on the historical news data, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Events:** The current news article compares SBI and HDFC Bank, highlighting 3 key factors to watch, which suggests a neutral tone. However, historical data shows that similar news articles have had a positive impact on the stock prices, with the highest impact being +4.60% in 2022.
+
+**Tone:** The overall tone of the news is neutral, as it presents a comparison between the two banks without taking a strong stance. However, the historical data suggests that such news articles have had a positive impact on the stock prices, which could indicate a slightly positive tone.
+
+It's essential to note that the impact of news on stock prices can be influenced by various factors, including market conditions, investor sentiment, and the overall economic environment. Therefore, this analysis should be considered in conjunction with other factors before making an investment decision.

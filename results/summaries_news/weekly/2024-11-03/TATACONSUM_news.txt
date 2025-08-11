@@ -1,0 +1,15 @@
+**Weekly News Sentiment: Neutral**
+
+The current week's news sentiment is neutral, with two news articles having opposite tones.
+
+**Notable Events:**
+
+1. **Muhurat Trading Stocks To Buy:** Tata Consumer and Bajaj Finance are among the top 10 Diwali picks from various sectors, indicating a positive sentiment towards these stocks.
+2. **FMCG firms express concern over inflation:** FMCG firms are worried about inflation and may hike prices, which could negatively impact their stock performance.
+
+**News Tone:**
+
+* The first article has a **Positive** tone, as it highlights top stock picks for Diwali, which could lead to increased investor interest and potential price appreciation.
+* The second article has a **Negative** tone, as it suggests that FMCG firms may hike prices due to inflation, which could negatively impact their stock performance.
+
+Overall, the neutral sentiment is due to the contrasting tones of the two news articles. While the first article is positive, the second article is negative, resulting in a balanced sentiment for the week.

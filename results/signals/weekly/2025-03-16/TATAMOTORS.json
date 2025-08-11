@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 40.41,
+  "sharpe_ratio": 0.16,
+  "reasoning": "The stock's high volatility and low Sharpe Ratio indicate a relatively low risk-adjusted return. Although it outperformed its peers, its mixed financial health and concerns about profitability and growth metrics suggest caution. The news sentiment is neutral, and the macroeconomic environment is supportive of the automotive industry, but not strongly bullish. Therefore, a hold decision is recommended."
+}

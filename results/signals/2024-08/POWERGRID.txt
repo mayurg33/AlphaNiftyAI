@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Despite the stock's poor performance and negative Sharpe Ratio, the decent profitability and valuation metrics suggest a HOLD recommendation. Additionally, the positive news sentiment and strong macroeconomic environment, particularly in the services sector, may support the stock's growth. However, the high debt levels and slow growth rates are concerns that need to be monitored.

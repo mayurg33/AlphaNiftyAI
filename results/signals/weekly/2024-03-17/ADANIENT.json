@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 89.37,
+  "sharpe_ratio": -0.08,
+  "reasoning": "The stock's high volatility and negative returns indicate a risky investment. Additionally, the company's high debt-to-equity ratio and negative revenue growth are major concerns. Although the company has strong profitability and earnings growth, these positives are outweighed by the negatives. Therefore, I recommend selling the stock."
+}

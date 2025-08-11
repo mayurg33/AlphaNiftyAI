@@ -1,0 +1,5 @@
+Based on the historical similar news, the sentiment of the current week's news is NEUTRAL.
+
+The news about KKR-backed InCred being in talks with advisers on a $470 million IPO is a notable event, but the impact on the stock is uncertain. The historical similar news shows a mixed reaction, with one instance having a positive impact (+2.21%) and another having a negative impact (-1.50%). The third instance is unrelated to IPO news and has a negative impact (-4.00%), but it's not directly comparable to the current news.
+
+Overall, the news tone is neutral, as it's unclear how the market will react to InCred's potential IPO. The outcome will depend on various factors, including the company's financial performance, market conditions, and investor sentiment.

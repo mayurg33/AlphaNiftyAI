@@ -1,0 +1,25 @@
+Symbol: TATACONSUM
+Month: 2025-05
+Start Price: ₹1146.20
+End Price: ₹1106.30
+12M Return: -3.48%
+6M Return: -3.48%
+3M Return: -3.48%
+Volatility: 0.239
+Sharpe Ratio: -1.757
+Max Drawdown: -0.046
+Peer Correlation (TATAMOTORS): 0.4306
+Peer Correlation (TCS): 0.7092
+Peer Correlation (TATASTEEL): 0.6241
+Average Peer Correlation: 0.588
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+TATACONSUM's performance has been disappointing, with a 12-month return of -3.48%, indicating a decline in value. The stock's volatility is moderate, with a standard deviation of 0.239. The Sharpe Ratio, a measure of risk-adjusted return, is -1.757, suggesting that the stock's returns are not justified by its level of risk. The Max Drawdown of -0.046 indicates that the stock has experienced a moderate decline from its peak. Correlation analysis reveals that TATACONSUM has a moderate to high correlation with its peers, particularly TCS (0.7092) and TATASTEEL (0.6241).
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **SELL**. The stock's negative returns, high volatility, and poor risk-adjusted performance (as indicated by the Sharpe Ratio) suggest that it may not be a good investment opportunity at this time. Additionally, the moderate to high correlation with its peers may indicate that the stock is not providing sufficient diversification benefits. It may be prudent to re-evaluate the stock's fundamentals and wait for a more favorable entry point or consider alternative investment opportunities.

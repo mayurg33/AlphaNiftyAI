@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+The notable event is that Sumeet Bagadia has recommended a "Sell on rise" strategy for Nifty Bank, which may indicate a cautious outlook for the banking sector.
+
+The historical data shows that similar news has had varying impacts on the stock prices, with one instance resulting in a +5.20% increase, while the other two instances resulted in declines of -7.19% and -3.67%, respectively. This mixed bag of outcomes suggests that the news tone is neutral, and the market's reaction to this news is uncertain.

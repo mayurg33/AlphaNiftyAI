@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 36.81,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's dismal weekly performance with a return of -8.29% and high volatility of 36.81% makes it a risky investment. Additionally, the company's high debt-to-equity ratio of 315.41 poses a risk to its financial health. Although the company has a strong profitability profile, its growth metrics are a concern. The neutral to negative news sentiment and mixed macroeconomic environment further support a sell decision."
+}

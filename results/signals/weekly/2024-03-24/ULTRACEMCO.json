@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 20.26,
+  "sharpe_ratio": 0.15,
+  "reasoning": "The stock's moderate volatility and relatively unimpressive risk-adjusted return suggest a cautious approach. While the company's strong profitability metrics are a positive, the high valuation and debt concerns are negatives. The neutral news sentiment and mixed historical impact of similar news on the stock price further support a hold decision."
+}

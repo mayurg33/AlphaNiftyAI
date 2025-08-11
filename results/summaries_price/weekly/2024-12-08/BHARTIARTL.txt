@@ -1,0 +1,3 @@
+BHARTIARTL's weekly performance was disappointing, with a return of -2.78%, significantly underperforming its peers. The stock's volatility was high at 29.25%, indicating a risky investment environment. Compared to its peers, BHARTIARTL's return was the lowest, and its Sharpe ratio was the worst, suggesting poor risk-adjusted performance. Overall, the stock was a poor bet this week.
+
+[Volatility: 29.25%]

@@ -1,0 +1,27 @@
+Symbol: HINDUNILVR
+Month: 2024-08
+Start Price: ₹2667.04
+End Price: ₹2728.37
+12M Return: 2.30%
+6M Return: 2.30%
+3M Return: 2.30%
+Volatility: 0.127
+Sharpe Ratio: 2.326
+Max Drawdown: -0.020
+Peer Correlation (RELIANCE): 0.2403
+Peer Correlation (NESTLEIND): 0.3499
+Peer Correlation (TATACONSUM): 0.2873
+Average Peer Correlation: 0.2925
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Hindustan Unilever Ltd (HINDUNILVR) has shown a steady performance over the past 12 months, with a return of 2.30%. The stock has maintained a consistent upward trend, with a low volatility of 0.127, indicating a relatively stable investment. The Sharpe Ratio of 2.326 suggests that the return is higher than the risk-free rate, making it an attractive investment. The Max Drawdown of -0.020 indicates that the stock has a low risk of significant losses. 
+
+In terms of peer correlation, HINDUNILVR has a moderate correlation with its peers, RELIANCE, NESTLEIND, and TATACONSUM, with an average correlation of 0.2925. This suggests that the stock's performance is not heavily influenced by its peers.
+
+**Recommendation:**
+
+Based on the analysis, I recommend a **BUY**. The stock's consistent returns, low volatility, and attractive Sharpe Ratio make it an attractive investment opportunity. Additionally, the low Max Drawdown and moderate peer correlation suggest that the stock has a relatively low risk profile. Overall, HINDUNILVR appears to be a stable and profitable investment, making it a good addition to a portfolio.

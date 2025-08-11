@@ -1,0 +1,15 @@
+**Weekly News Sentiment:** Positive
+
+The current week's news sentiment is overwhelmingly positive, with both news headlines indicating record highs for the Sensex and Nifty. The news tone is upbeat, with IT and FMCG stocks leading the rally.
+
+**Notable Events:**
+
+* Sensex soars to 81,343, a new high
+* Nifty sets a new high at 24,800
+* IT and FMCG stocks shine, leading the market rally
+
+**Historical Similar News and Price Impact:**
+
+While there are some mixed signals from historical similar news, the overall tone is positive. The impact of similar news in the past has been mostly positive, with a few instances of negative impact. However, the positive impacts (+0.87%, +2.62%) outweigh the negative impacts (-0.49%, -2.99%, -1.03%).
+
+Overall, the news tone is positive, indicating a bullish sentiment in the market.

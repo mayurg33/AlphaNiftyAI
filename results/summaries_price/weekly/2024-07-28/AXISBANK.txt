@@ -1,0 +1,3 @@
+AXISBANK's weekly performance was dismal, with a return of -8.2%, significantly underperforming its peers. The stock's volatility was extremely high at 34.8%, indicating a highly turbulent week. With a Sharpe Ratio of -0.96, the stock's return was not justified by its risk. AXISBANK was the worst performer among its peers, with a Max Drawdown of -8.31% highlighting its riskiness.
+
+[Volatility: 34.8%]

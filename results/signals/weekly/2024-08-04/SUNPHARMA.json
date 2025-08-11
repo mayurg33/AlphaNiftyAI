@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 17.34,
+  "sharpe_ratio": 0.12,
+  "reasoning": "The stock's weekly return is modest, and its volatility is relatively high. Although the company's Q1 results are strong, its financial health is mixed, with high debt and declining earnings growth. The news sentiment is neutral to positive, but the historical context suggests a mixed market reaction. Given these factors, I'm inclined to hold the stock, but with a moderate level of confidence."
+}

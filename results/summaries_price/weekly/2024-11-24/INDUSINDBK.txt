@@ -1,0 +1,3 @@
+INDUSINDBK underperformed its peers this week, with a negative return of -0.64% compared to ICICIBANK's 1.96% and AXISBANK's 1.44%. The stock's volatility was moderate at 28.61%, which is higher than AXISBANK's 3.21% but lower than SBIN's 61.48%. The Sharpe Ratio of -0.11 indicates that the stock's return was not sufficient to compensate for its risk. Overall, INDUSINDBK was a relatively risky investment this week.
+
+[Volatility: 28.61%]

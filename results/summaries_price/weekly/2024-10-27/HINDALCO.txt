@@ -1,0 +1,3 @@
+Hindalco's weekly performance was dismal, with a return of -8.23%, significantly underperforming its peers. The stock's volatility was high at 21.82%, indicating a turbulent week. Compared to its peers, Hindalco's return was the lowest, and its Sharpe ratio was also the worst, suggesting poor risk-adjusted performance. Overall, Hindalco was a high-risk, underperforming stock this week.
+
+[Volatility: 21.82%]

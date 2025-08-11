@@ -1,0 +1,1 @@
+Based on the metrics, I would recommend a HOLD on WIPRO. The 12M return is positive, indicating a long-term uptrend, but the recent 6M and 3M returns are negative, suggesting a temporary correction, which aligns with the moderate volatility and decent Sharpe Ratio.

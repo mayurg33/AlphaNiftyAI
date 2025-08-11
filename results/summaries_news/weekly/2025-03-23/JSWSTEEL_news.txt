@@ -1,0 +1,9 @@
+Based on the current week's news, the sentiment is mixed.
+
+The first news article "JSW Steel Faces Financial Challenges Amid Declining Profits and Liquidity Concerns" has a negative tone, indicating that the company is facing financial difficulties, which could impact its stock price.
+
+On the other hand, the second news article "SAIL, Tata Steel, JSW Steel shares rise up to 5%; here's why" has a positive tone, suggesting that the shares of these steel companies, including JSW Steel, are rising due to some positive developments.
+
+Notable events include the decline in profits and liquidity concerns for JSW Steel, as well as the rise in shares of steel companies, including JSW Steel, SAIL, and Tata Steel.
+
+Overall, the news tone is neutral, as the negative news about JSW Steel's financial challenges is balanced by the positive news about the rise in shares of steel companies. However, if I had to lean slightly, I would say the tone is slightly negative due to the financial challenges faced by JSW Steel.

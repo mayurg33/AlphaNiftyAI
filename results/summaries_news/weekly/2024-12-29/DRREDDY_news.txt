@@ -1,0 +1,17 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Stock Alert: Whirlpool of India, Aster DM Healthcare, Dr Reddy's Laboratories**
+The news tone is NEUTRAL to SLIGHTLY NEGATIVE. The historical data suggests that similar news related to pharma companies has had a mixed impact on stock prices, with some instances resulting in a negative impact (-0.13% to -0.57%) and others having no significant impact.
+
+**Dr Reddy’s Labs Q3 Results FY 2025 date and time: Quarterly earnings announcement schedule**
+The news tone is NEUTRAL. The historical data shows that quarterly earnings announcements have had varying impacts on stock prices, ranging from a significant negative impact (-8.71%) to a slight positive impact (+0.13%).
+
+**Trade Spotlight: How should you trade Dr Reddy's Labs, Aegis Logistics, Techno Electric, KFin...**
+The news tone is NEUTRAL to SLIGHTLY POSITIVE. The historical data suggests that similar news related to trade and stock recommendations has had a mixed impact on stock prices, with some instances resulting in a negative impact (-4.05% to -2.95%) and others having a positive impact (+0.76%).
+
+Notable events:
+
+* Dr. Reddy's Laboratories is featured in two news articles, one related to its quarterly earnings announcement and the other related to trade recommendations.
+* The news tone is generally neutral, with some instances of slightly negative or positive sentiment.
+
+Overall, the news tone is NEUTRAL, with no strong positive or negative sentiment dominating the news.

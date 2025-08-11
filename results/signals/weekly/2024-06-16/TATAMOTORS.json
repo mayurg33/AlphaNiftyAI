@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 7,
+  "volatility": 10.56,
+  "sharpe_ratio": 0.70,
+  "reasoning": "The stock's respectable weekly return and relatively attractive risk-return profile, as indicated by the Sharpe Ratio, suggest a BUY decision. The neutral to positive news sentiment and lack of significant negative news also support this decision. Additionally, the macroeconomic environment, with a growing services sector and improving rural consumption, is likely to benefit the automotive industry, including Tata Motors. However, the high debt-to-equity ratio and stagnant revenue growth are concerns that temper my confidence."
+}

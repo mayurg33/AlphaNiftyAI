@@ -1,0 +1,7 @@
+Based on the historical news data, the current week's news sentiment is NEUTRAL.
+
+The notable event is the concern about Coal India missing its FY25 production guidance, which has raised uncertainty about the company's performance.
+
+Historically, news related to Coal India's production and pricing has had a mixed impact on the stock price. While the news about a coal price hike being difficult had a positive impact (+3.30%), the news about a leap in production and improved dispatches had a relatively minor positive impact (+0.38%). The news about CIL initiating new projects had a moderate positive impact (+0.99%).
+
+Overall, the news tone is neutral, as it is unclear how the market will react to the concerns about missing production guidance. The historical data suggests that the stock price may be sensitive to news about production and pricing, but the impact can be unpredictable.

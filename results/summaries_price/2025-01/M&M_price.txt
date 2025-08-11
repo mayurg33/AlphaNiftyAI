@@ -1,0 +1,25 @@
+Symbol: M&M
+Month: 2025-01
+Start Price: ₹3082.00
+End Price: ₹2989.85
+12M Return: -2.99%
+6M Return: -2.99%
+3M Return: -2.99%
+Volatility: 0.315
+Sharpe Ratio: -0.953
+Max Drawdown: -0.128
+Peer Correlation (TECHM): 0.1547
+Peer Correlation (MARUTI): 0.5434
+Peer Correlation (KOTAKBANK): 0.2248
+Average Peer Correlation: 0.3076
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+M&M (Mahindra and Mahindra) has underperformed in the last 12 months, with a return of -2.99%. The stock's volatility is moderate at 0.315, and its Sharpe Ratio is -0.953, indicating that the return is not justified by the level of risk taken. The maximum drawdown is -0.128, which is relatively high. The peer correlations suggest that M&M has a moderate correlation with TECHM (0.1547) and KOTAKBANK (0.2248), but a strong correlation with MARUTI (0.5434).
+
+**Recommendation:**
+
+Based on the analysis, I would suggest a **HOLD** position on M&M. The stock's underperformance in the last 12 months, combined with its high volatility and low Sharpe Ratio, indicates that the risk-reward ratio is not favorable. Additionally, the high maximum drawdown suggests that the stock is prone to significant price drops. However, the strong correlation with MARUTI, a peer in the automotive industry, could indicate that M&M's performance is closely tied to industry trends rather than company-specific factors. Therefore, I would recommend holding the stock and monitoring its performance closely, rather than buying or selling at this time.

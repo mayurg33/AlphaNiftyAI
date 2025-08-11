@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 7,
+  "volatility": 23.31,
+  "sharpe_ratio": 0.23,
+  "reasoning": "The stock's recent decline of over 20% from its highs, combined with the negative news sentiment and lack of earnings growth, suggests a bearish outlook. Additionally, the company's mixed financial health, with concerns around revenue growth and debt position, further supports a sell decision. The moderate volatility and low Sharpe Ratio also indicate a relatively high risk profile, which reinforces the sell recommendation."
+}

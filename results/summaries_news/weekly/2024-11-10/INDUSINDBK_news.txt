@@ -1,0 +1,21 @@
+Based on the current week's news, here is a summary of the sentiment:
+
+**IndusInd Bank and IDFC First Bank**
+
+The news tone is neutral to positive for IndusInd Bank and IDFC First Bank. The positive news is that LIC has bought shares of these banks in Q2, which could be seen as a vote of confidence. However, historical data suggests that similar news in the past has had a mixed impact, with some instances resulting in a negative impact on the stock price.
+
+**RIL, IndusInd Bank, Bajaj Finance, Maruti Suzuki India, and BPCL**
+
+The news tone is negative for these stocks, as they have been downgraded post-Q2 results. Historical data suggests that similar news in the past has had a mixed impact, with some instances resulting in a positive impact (e.g., Maruti Suzuki) and others resulting in a negative impact (e.g., BPCL).
+
+**Indian banks' microfinance loan stress**
+
+The news tone is neutral to negative for Indian banks, as bankers say that microfinance loan stress will persist despite new regulations. Historical data suggests that similar news in the past has had a mixed impact, with some instances resulting in a negative impact (e.g., HDFC Bank) and others resulting in a positive impact (e.g., Rate hikes).
+
+Notable events:
+
+* LIC's purchase of shares in IndusInd Bank and IDFC First Bank
+* Downgrades of RIL, IndusInd Bank, Bajaj Finance, Maruti Suzuki India, and BPCL post-Q2 results
+* Concerns over microfinance loan stress in Indian banks
+
+Overall, the news tone is mixed, with some positive news (LIC's purchase of shares) and some negative news (downgrades and concerns over microfinance loan stress).

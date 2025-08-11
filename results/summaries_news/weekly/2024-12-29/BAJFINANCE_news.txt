@@ -1,0 +1,27 @@
+**Summary of the current week's news sentiment:**
+
+The overall sentiment of the news articles this week is NEUTRAL for Bajaj Finance and Bajaj Housing Finance. There are both positive and negative articles, but none of them seem to have a strong impact on the stock price.
+
+**Notable events:**
+
+1. G Chokkalingam's comment on Bajaj Finance and HDFC Bank's prospects for 2025, which seems to be a neutral article.
+2. Bajaj Housing Finance's share price closed up 1.07% from the previous day, indicating a positive trend.
+3. The article discussing Bajaj Housing Finance's shares hovering near all-time low levels, which could be seen as a neutral or slightly negative article.
+4. The article on how to trade Adani Power, Bajaj Finance, and PNC Infratech, which seems to be a neutral article providing trading advice.
+
+**Positive news tone:**
+
+* Bajaj Housing Finance's share price increase of 1.07% from the previous day.
+* The article discussing Bajaj Housing Finance's interest rate reduction, which had a positive impact of +3.35% in the past.
+
+**Negative news tone:**
+
+* The article discussing Bajaj Housing Finance's shares hovering near all-time low levels, which could be seen as a negative trend.
+* The historical article about Bajaj Finance shares crashing, which had a negative impact of -8.90% in the past.
+
+**Neutral news tone:**
+
+* G Chokkalingam's comment on Bajaj Finance and HDFC Bank's prospects for 2025, which doesn't seem to have a strong positive or negative impact.
+* The article on how to trade Adani Power, Bajaj Finance, and PNC Infratech, which provides neutral trading advice.
+
+Overall, the news tone is neutral, with no strong positive or negative sentiment dominating the articles.

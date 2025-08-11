@@ -1,0 +1,3 @@
+TITAN's weekly performance was disappointing, with a return of -1.97% and a Sharpe Ratio of -2.39, indicating poor risk-adjusted returns. The stock's volatility was relatively low at 4.39%, but still underperformed its peers, with TATAMOTORS being the only peer to post a positive return. Overall, TITAN was a relatively low-risk stock this week, but its poor performance makes it an unattractive option.
+
+[Volatility: 4.39%]

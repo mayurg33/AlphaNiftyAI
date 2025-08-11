@@ -1,0 +1,3 @@
+ITC's weekly performance was modest, with a return of 0.38%, accompanied by relatively low volatility of 3.74%. This suggests a stable performance, but underperformed its peers, particularly RELIANCE, which saw a significant return of 8.6%. ITC's Sharpe Ratio of 0.40 indicates a moderate risk-adjusted return. Overall, ITC's performance was lackluster, but its low volatility makes it a relatively safer bet.
+
+[Volatility: 3.74%]

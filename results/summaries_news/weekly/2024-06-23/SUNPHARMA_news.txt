@@ -1,0 +1,8 @@
+The current week's news sentiment is NEGATIVE for Sun Pharma's stock. Both news headlines report the USFDA issuing a warning letter to Sun Pharma's Dadra unit due to manufacturing practice violations, which has caused the stock to slip or extend its fall.
+
+Notable events:
+
+* USFDA warning letter to Sun Pharma's Dadra unit
+* Manufacturing practice violations at the Dadra unit
+
+The news tone is NEGATIVE, indicating a potential negative impact on the stock price. The historical similar news and price impact suggest that the stock has previously reacted negatively to such news, with price impacts ranging from -1.00% to -4.41%.

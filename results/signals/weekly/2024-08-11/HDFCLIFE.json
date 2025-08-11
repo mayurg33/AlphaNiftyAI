@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 50.59,
+  "sharpe_ratio": -0.08,
+  "reasoning": "The stock underperformed its peers with a weekly return of -1.2%, indicating poor performance. The high volatility of 50.59% and negative Sharpe Ratio of -0.08 suggest a risky investment. Additionally, the negative news sentiment and high valuation with a high trailing and forward P/E ratio further support a sell decision."
+}

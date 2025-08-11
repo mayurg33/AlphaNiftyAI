@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 24.6,
+  "sharpe_ratio": -0.28,
+  "reasoning": "The stock's high volatility and negative Sharpe Ratio indicate high risk, but its strong financial health and positive news sentiment suggest a potential upward trend. However, the high forward P/E ratio and stretched valuation are concerns. Given the mixed signals, a HOLD decision is recommended, with a moderate confidence level of 6."
+}

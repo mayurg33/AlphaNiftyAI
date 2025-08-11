@@ -1,0 +1,3 @@
+M&M's weekly performance was exceptional, with a 15.12% return, significantly outperforming its peers. The stock's high Sharpe Ratio of 1.88 indicates that its returns were not driven by excessive risk-taking. In fact, its volatility of 30.45% was higher than most peers, but the stock's performance was strong enough to justify the risk. Overall, M&M was a top performer this week, with a notable outperformance compared to its peers.
+
+[Volatility: 30.45%]

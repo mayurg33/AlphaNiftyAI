@@ -1,0 +1,3 @@
+TATACONSUM's weekly performance was disappointing, with a return of -1.17%, underperforming its peers TATAMOTORS and TATASTEEL. The stock's volatility was moderate at 15.37%, lower than TATAMOTORS but higher than TATASTEEL. Despite a relatively low volatility, the stock's Sharpe Ratio was -0.40, indicating poor risk-adjusted returns. Overall, TATACONSUM was a relatively risky investment this week.
+
+[Volatility: 15.37%]

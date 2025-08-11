@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 14.38,
+  "sharpe_ratio": 0.30,
+  "reasoning": "The stock's modest weekly performance is overshadowed by its high volatility and underperformance compared to its peers. The Sharpe Ratio indicates that the return is not adequately compensated for the level of risk taken. Furthermore, the company's mixed financial health, negative news sentiment, and potential $5-billion expense in the Netherlands all contribute to a bearish outlook."
+}

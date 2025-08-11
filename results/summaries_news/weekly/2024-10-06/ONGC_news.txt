@@ -1,0 +1,11 @@
+**Weekly News Sentiment:** Positive
+
+**Notable Events:**
+
+1. ONGC and Oil India shares gain despite a jump in oil prices, indicating a positive sentiment towards these stocks.
+2. The Israel-Iran war drives BPCL, HPCL, and IOCL share prices further down, while ONGC shares extend gains, suggesting a positive sentiment towards ONGC.
+3. Rising crude oil prices put oil & gas, paint, and tyre stocks in focus, with ONGC gaining and BPCL among the largest Nifty 50 losers, implying a positive sentiment towards ONGC.
+
+**News Tone:** Positive
+
+The news tone is overall positive for ONGC, as all three news articles suggest a gain or extension of gains for the stock. The historical data also supports this sentiment, with most of the past news articles having a positive impact on ONGC's share price. The only exception is the news article from 2022-07-06, which had a negative impact, but it seems to be an outlier.

@@ -1,0 +1,7 @@
+Based on the query, here is a summary of the current week's news sentiment:
+
+**Sentiment:** Positive
+
+**Notable Events:** JM Financial has bet on UltraTech, Ambuja, and JK Cement, indicating a positive outlook for the cement sector.
+
+**News Tone:** The news tone is positive, suggesting that the cement sector is experiencing a revival, which is likely to benefit the mentioned stocks. The historical similar news also shows a positive impact on the stock prices, with an average impact of +1.51% (calculated from the provided historical data).

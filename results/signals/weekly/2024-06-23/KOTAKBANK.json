@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 8.4,
+  "sharpe_ratio": 2.04,
+  "reasoning": "The stock has a strong weekly performance with a high Sharpe Ratio, indicating a relatively high risk-adjusted return. Fundamentals are strong, with high ROE and profit margins, and a reasonable valuation. News sentiment is overall positive, with Macquarie's recommendation and Kotak's growth targets likely to have a positive impact on the stock price. The macroeconomic environment is also supportive, with a stable repo rate and growing private consumption."
+}

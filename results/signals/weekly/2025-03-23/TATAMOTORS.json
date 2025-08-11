@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 21.33,
+  "sharpe_ratio": 1.16,
+  "reasoning": "The stock's strong weekly performance, with a return of 6.34%, and a relatively moderate level of volatility, suggests a good risk-reward profile. The company's low trailing P/E ratio and decent profitability profile are positives. Although the debt-to-equity ratio is a concern, the overall news sentiment is positive, and the macroeconomic environment is supportive of the automotive industry. Therefore, I recommend a BUY decision."
+}

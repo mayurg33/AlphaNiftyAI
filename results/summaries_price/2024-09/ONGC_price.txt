@@ -1,0 +1,25 @@
+Symbol: ONGC
+Month: 2024-09
+Start Price: ₹312.18
+End Price: ₹284.81
+12M Return: -8.77%
+6M Return: -8.77%
+3M Return: -8.77%
+Volatility: 0.280
+Sharpe Ratio: -3.992
+Max Drawdown: -0.126
+Peer Correlation (BPCL): 0.4932
+Peer Correlation (LT): 0.4536
+Peer Correlation (RELIANCE): 0.3319
+Average Peer Correlation: 0.4262
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Oil and Natural Gas Corporation (ONGC) has had a disappointing performance in the past 12 months, with a return of -8.77%. The stock's volatility is moderate at 0.280, and its Sharpe Ratio is a dismal -3.992, indicating poor risk-adjusted returns. The maximum drawdown of -0.126 suggests that the stock has experienced significant price drops in the past. Correlation with peers BPCL, LT, and RELIANCE is moderate to low, averaging 0.4262.
+
+**Recommendation:**
+
+Based on the poor performance, high volatility, and low Sharpe Ratio, I would recommend a **SELL**. The stock's returns have been consistently negative across different time horizons, and the high volatility increases the risk of further losses. Additionally, the low Sharpe Ratio suggests that the returns are not justified by the level of risk taken. It may be prudent to exit the stock and consider alternative investment opportunities with better risk-return profiles.

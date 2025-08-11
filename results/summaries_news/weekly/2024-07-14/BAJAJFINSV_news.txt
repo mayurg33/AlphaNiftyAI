@@ -1,0 +1,5 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+Notable events: Bajaj Finserv AMC has announced the launch of a new product, Savings+, targeted at retail investors.
+
+The news tone is neutral because the historical similar news events have shown mixed reactions. While the 2021 news about Sebi nod to set up a mutual fund had a significant positive impact (+6.92%), the more recent news about the Flexi Cap NFO had a negative impact (-5.08%). The third similar news had a mildly positive impact (+0.40%). Therefore, it's difficult to predict the exact impact of the current news on the stock price.

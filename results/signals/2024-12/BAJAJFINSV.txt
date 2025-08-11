@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's underperformance in the last 12 months, high volatility, and negative Sharpe Ratio are concerns, but the high correlation with BAJFINANCE and moderate correlation with SHRIRAMFIN suggest potential industry trends that could lead to a turnaround, and the company's growth prospects and decent profitability are positives, making it a hold for now.

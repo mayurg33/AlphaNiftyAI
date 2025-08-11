@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the current week's news sentiment is **Positive**.
+
+The notable event is that Sensex hits a new closing peak, and Nifty hits a record closing high, indicating a strong upward trend in the Indian stock market.
+
+The news tone is **Positive** as the historical data suggests that similar news events have led to a significant increase in the stock market, with an average impact of +10.35% (calculated from the provided historical data). This suggests that the market is likely to react positively to this news, leading to an increase in stock prices.

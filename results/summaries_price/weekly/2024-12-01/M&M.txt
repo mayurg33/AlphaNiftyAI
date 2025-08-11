@@ -1,0 +1,3 @@
+M&M's weekly return of -2.61% was a disappointing performance, accompanied by high volatility of 41.63%. The stock underperformed its peers, with a Sharpe Ratio of -0.24 indicating poor risk-adjusted returns. In comparison, TECHM and KOTAKBANK also had negative returns, but MARUTI managed a positive return of 0.44%. The stock's Max Drawdown of -4.82% suggests a high level of risk this week.
+
+[Volatility: 41.63%]

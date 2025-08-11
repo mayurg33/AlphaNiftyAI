@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 37.4,
+  "sharpe_ratio": 0.23,
+  "reasoning": "BPCL's recent performance is promising, with a positive return amidst a bearish market. However, its high volatility and moderate Sharpe Ratio suggest that the returns may not be sustainable. Fundamentally, the company's low P/E ratio and high dividend yield are attractive, but its growth metrics are a concern. Given the mixed signals, I recommend a HOLD decision."
+}

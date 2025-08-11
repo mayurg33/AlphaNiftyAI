@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 18.49,
+  "sharpe_ratio": -0.30,
+  "reasoning": "Wipro's weekly performance was disappointing and risky, but its fundamentals are strong with high profitability and reasonable valuation. The news sentiment is neutral to positive, and the macroeconomic environment is supportive with growth in services sector and private consumption. However, the slow revenue growth rate is a concern, and the high volatility and poor Sharpe Ratio suggest caution, leading me to recommend a HOLD decision."
+}

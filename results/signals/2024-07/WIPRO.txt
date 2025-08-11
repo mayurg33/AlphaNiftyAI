@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor price trends and technicals, combined with the negative news sentiment, outweigh the decent fundamentals. Additionally, the macroeconomic environment, although positive, may not be enough to offset WIPRO's specific issues, leading to a likely underperformance in the short term.

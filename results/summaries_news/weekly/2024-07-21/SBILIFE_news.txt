@@ -1,0 +1,17 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Overall Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+1. Q1 earnings season is around the corner, with top companies set to declare results between July 22 and July 27. This event is likely to drive market sentiment in the coming week.
+2. Rajesh Palviya of Axis Securities has recommended SBI Life, Orient Cement, and TCS, which could lead to increased interest in these stocks.
+3. The announcement under Regulation 30 (LODR)-Change in Directorate may have a positive impact on the stock, as seen in previous instances.
+
+**News Tone:**
+
+* The Q1 earnings news tone is neutral, with historical impacts ranging from -2.57% to +2.94%.
+* The announcement under Regulation 30 (LODR)-Change in Directorate has a positive tone, with historical impacts of +5.08% and +10.44%.
+* The stocks in focus news tone is positive, with historical impacts of +3.79%, +3.57%, and +0.97%.
+
+Overall, the news tone is neutral to positive, with a focus on Q1 earnings and specific stock recommendations. However, the impact of these events on the stock market will depend on various factors, including the actual earnings results and market sentiment.

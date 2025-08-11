@@ -1,0 +1,3 @@
+WIPRO's weekly performance was disappointing, with a return of -5.9%, driven by high volatility of 54.97%. The stock underperformed its peers, with a Sharpe Ratio of -0.57, indicating poor risk-adjusted returns. Compared to its peers, WIPRO's volatility was significantly higher, making it a riskier investment this week. 
+
+[Volatility: 54.97%]

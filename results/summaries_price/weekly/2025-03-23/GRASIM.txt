@@ -1,0 +1,3 @@
+GRASIM's weekly return of 2.92% was respectable, but its volatility of 18.49% was relatively high. The stock underperformed RELIANCE but outperformed BRITANNIA, while its Sharpe Ratio of 0.62 indicates a moderate risk-adjusted return. ULTRACEMCO's higher return came with significantly higher volatility. Overall, GRASIM's performance was decent, but its risk profile was elevated this week.
+
+[Volatility: 18.49%]

@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 37.85,
+  "sharpe_ratio": -0.52,
+  "reasoning": "The stock's high volatility and poor risk-adjusted returns, combined with its underperformance compared to peers, suggest a sell decision. Additionally, the company's high debt levels and declining earnings growth are concerns that need to be monitored. The negative news related to the FDA's action on the Dadra plant has weighed on the stock price, and the positive news from Belarus is not enough to offset the negative sentiment."
+}

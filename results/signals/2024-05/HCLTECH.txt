@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's declining price trend and negative Sharpe Ratio suggest caution, while its reasonable valuation, decent financial performance, and neutral news sentiment provide no strong conviction to buy or sell. The macroeconomic environment, with steady growth in services and manufacturing, supports a hold decision.

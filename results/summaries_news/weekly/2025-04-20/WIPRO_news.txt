@@ -1,0 +1,14 @@
+Based on the historical data, the current week's news sentiment for Wipro is NEUTRAL to NEGATIVE.
+
+Notable events:
+
+* Wipro announced its Q4 results, reporting a 25.9% increase in net profit, but also provided a cautious guidance for Q1FY26, which led to a downgrade by brokerages and a 6% drop in stock price.
+* The company's revenue growth guidance for Q1FY26 was cut, which may have contributed to the negative sentiment.
+
+The news tone is neutral to negative due to the following reasons:
+
+* The positive news of Wipro's Q4 profit jump was offset by the cautious guidance and revenue growth concerns, leading to a negative impact on the stock price.
+* Brokerages downgraded Wipro shares, citing weak guidance and tariff-related caution, which further contributed to the negative sentiment.
+* Historical data suggests that Wipro's stock price has been volatile, with both positive and negative impacts from similar news events in the past.
+
+Overall, the current week's news sentiment for Wipro is neutral to negative, reflecting the mixed bag of positive and negative news events.

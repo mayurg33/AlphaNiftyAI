@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 29.47,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's weekly performance was disappointing, with a return of -1.71% and high volatility. The company's growth metrics are a concern, with negative revenue and earnings growth, and the valuation is relatively high. The news sentiment is also negative, suggesting a decline in the stock price in the short term. Therefore, I recommend selling the stock."
+}

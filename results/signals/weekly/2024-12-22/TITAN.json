@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 10.05,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's weekly performance was lackluster, and its risk profile is concerning due to high Max Drawdown. However, the company's fundamentals are strong, with high profit margins and decent EBITDA margins. The news sentiment is positive, suggesting strong growth potential. Considering these mixed signals, I recommend a HOLD decision."
+}

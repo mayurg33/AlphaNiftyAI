@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 12.0,
+  "sharpe_ratio": -0.05,
+  "reasoning": "The stock's lackluster weekly performance and poor risk-adjusted returns suggest caution. However, Infosys' strong profitability profile and reasonable valuation indicate that the stock is not overpriced. The macroeconomic environment is also supportive, with a strong services sector and improving rural consumption. Therefore, I recommend a hold decision, as the stock's strengths outweigh its weaknesses, but the growth metrics are a concern."
+}

@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock has experienced a significant decline in its price, with a 12-month return of -16.19%. The Sharpe Ratio is -6.078, indicating poor risk-adjusted returns. Additionally, the news sentiment is strongly negative, and the macroeconomic environment, although supportive of consumer spending, does not seem to be benefiting the company specifically. Therefore, I recommend a SELL."
+}

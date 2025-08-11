@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While ICICIBANK's technicals suggest a stable performance with low volatility and attractive Sharpe Ratio, its fundamentals indicate a stretched valuation and moderate growth prospects. Meanwhile, the macroeconomic environment is supportive, but the news sentiment is neutral to positive, warranting a cautious approach.

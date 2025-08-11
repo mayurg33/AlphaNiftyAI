@@ -1,0 +1,20 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: Suzlon Energy, ITC, Tata Power, RVNL, IRCON, RITES, PFC: Stocks to watch this Budget**
+
+The news tone is **Positive**. The historical data suggests that similar news articles have led to a positive impact on the stock price, with an average increase of around 1.12% to 1.69%. This suggests that investors are optimistic about these stocks ahead of the budget.
+
+**Query 2: Infosys, ITC, Coal India, GSFC, ONGC among top dividend-paying companies to watch ahead of Budget 2024**
+
+The news tone is **Neutral**. The historical data shows a mixed impact on the stock price, with both positive and negative movements. The average impact is around +0.55% to -1.81%. This suggests that investors are cautious about these dividend-paying companies ahead of the budget.
+
+**Query 3: ITC Limited's (NSE:ITC) CEO Looks Due For A Compensation Raise**
+
+The news tone is **Neutral**. The historical data shows a mixed impact on the stock price, with both positive and negative movements. The average impact is around +0.81% to -8.44%. This suggests that investors are neutral about the news of the CEO's compensation raise.
+
+Notable events:
+
+* ITC is mentioned in two separate news articles, which could indicate increased investor interest in the company.
+* The budget season is approaching, and investors are watching these stocks closely for potential opportunities.
+
+Overall, the news tone is **Neutral to Positive**, with some stocks expected to benefit from the budget season, while others may be more volatile.

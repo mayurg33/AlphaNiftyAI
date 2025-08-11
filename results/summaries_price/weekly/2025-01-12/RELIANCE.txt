@@ -1,0 +1,3 @@
+RELIANCE had a positive weekly return of 1.96%, outperforming peers LT and GRASIM, but underperforming HINDUNILVR. The stock's volatility was relatively high at 26.32%, indicating a moderate level of risk. Despite this, the Sharpe Ratio of 0.30 suggests that the return was somewhat justified by the level of risk taken. Overall, RELIANCE had a decent week, but investors should be cautious of the stock's volatility.
+
+[Volatility: 26.32%]

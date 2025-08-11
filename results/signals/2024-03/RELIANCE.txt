@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the news sentiment is positive, highlighting growth potential, the fundamental analysis reveals concerns such as high valuation multiple, low earnings growth rate, and high debt-to-equity ratio, which are not outweighed by the macroeconomic environment's supportive factors, leading to a neutral outlook.

@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 10.91,
+  "sharpe_ratio": -0.92,
+  "reasoning": "The stock's weekly performance was disappointing, with a -2.5% return, and its Sharpe Ratio indicates that the return was not justified by its risk. Additionally, the news sentiment is negative, with a predicted 25% downside in the stock after the launch of the Vida V2 e-scooter. Although the company's fundamentals appear strong, the sluggish revenue growth and high debt-to-equity ratio are concerns."
+}

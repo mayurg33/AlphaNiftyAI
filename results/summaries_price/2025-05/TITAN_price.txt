@@ -1,0 +1,25 @@
+Symbol: TITAN
+Month: 2025-05
+Start Price: ₹3342.00
+End Price: ₹3555.00
+12M Return: 6.37%
+6M Return: 6.37%
+3M Return: 6.37%
+Volatility: 0.196
+Sharpe Ratio: 4.061
+Max Drawdown: -0.026
+Peer Correlation (TATACONSUM): 0.3128
+Peer Correlation (TATASTEEL): 0.1804
+Peer Correlation (TATAMOTORS): 0.6839
+Average Peer Correlation: 0.3924
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+TITAN has delivered a consistent 6.37% return over the past 12, 6, and 3 months, indicating a stable and upward trend. The stock's volatility is relatively low at 0.196, and its Sharpe Ratio of 4.061 suggests that the returns are generated with minimal risk. The Max Drawdown of -0.026 indicates that the stock has not experienced any significant downturns. In terms of peer correlation, TITAN has a strong correlation with TATAMOTORS (0.6839), a moderate correlation with TATACONSUM (0.3128), and a weak correlation with TATASTEEL (0.1804).
+
+**Recommendation:**
+
+Based on the analysis, I would suggest a **BUY** rating for TITAN. The consistent returns, low volatility, and high Sharpe Ratio indicate that the stock is a good investment opportunity. The strong correlation with TATAMOTORS, which is a related industry peer, suggests that TITAN is well-positioned to benefit from industry trends. Additionally, the stock's relatively low Max Drawdown suggests that it has a strong downside protection. Overall, TITAN appears to be a stable and attractive investment opportunity, making it a good candidate for a BUY rating.

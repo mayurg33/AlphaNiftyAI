@@ -1,0 +1,10 @@
+Based on the current week's news, the sentiment is NEUTRAL.
+
+The two news articles are related to Hindustan Unilever's (HUL) demerger of its ice-cream business. The first article reports that HUL has received approval from the National Stock Exchange (NSE) and Bombay Stock Exchange (BSE) for the demerger, while the second article provides details on the number of shares that shareholders will receive following the demerger.
+
+Notable events:
+
+* HUL receives approval from NSE and BSE for demerger of ice-cream business
+* Demerger details revealed, including share distribution to shareholders
+
+The tone of the news is neutral, as it primarily provides factual information about the demerger process and its implications. There is no strong positive or negative sentiment expressed in the articles. The historical similar news and price impact suggest that the market reaction to HUL's news can be varied, ranging from -1.80% to +5.97%.

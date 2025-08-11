@@ -1,0 +1,15 @@
+**Weekly News Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+1. BPCL, HPCL, and Oil India have been granted licenses to build gas infrastructure in Jammu and Kashmir and the Northeast, which is a positive development for the companies.
+2. The Indian Institute of Corporate Affairs hosted a webinar on corporate governance, which may have a neutral impact on the stock market.
+3. GPPL celebrated 25 years of successful LPG handling at the port, which is a positive event for the company.
+
+**News Tone:**
+
+The overall news tone is neutral to positive. The license granted to BPCL, HPCL, and Oil India is a positive development, and GPPL's celebration of 25 years of successful LPG handling is also a positive event. The webinar hosted by the Indian Institute of Corporate Affairs is a neutral event.
+
+**Historical Similar News and Price Impact:**
+
+Based on historical data, the news about BPCL, HPCL, and Oil India bagging licenses for building gas infrastructure in J&K and the Northeast may have a positive impact on the stock price, with an average impact of +0.29%. The webinar hosted by the Indian Institute of Corporate Affairs may have a neutral to positive impact, with an average impact of +0.55%. The news about GPPL celebrating 25 years of successful LPG handling may have a positive impact, with an average impact of +2.07%.

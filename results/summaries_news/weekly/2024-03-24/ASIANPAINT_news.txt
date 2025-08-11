@@ -1,0 +1,10 @@
+**Weekly News Sentiment:** Mixed
+
+**Notable Events:**
+
+1. Technical analysts recommend a contra buy on Asian Paints, expecting a bounce back after forming a base around 2700.
+2. Grasim launches Opus, a new paint brand, at a 5-6% discount, challenging Asian Paints' market share.
+
+**News Tone:** Neutral to Negative
+
+The first news article has a positive tone, suggesting a potential upside for Asian Paints based on technical analysis. However, the second article has a negative tone, indicating increased competition for Asian Paints from Grasim's new paint brand, which could lead to a decline in Asian Paints' market share and stock price. Overall, the news tone is neutral to negative, as the positive sentiment from the technical analysis is offset by the negative sentiment from the increased competition.

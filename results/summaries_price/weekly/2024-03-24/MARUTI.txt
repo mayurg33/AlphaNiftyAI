@@ -1,0 +1,3 @@
+Maruti's weekly return of 6.03% outperformed its peers, with a notable lead over M&M and TATAMOTORS. However, its high volatility of 33.2% indicates a riskier investment. Despite this, its Sharpe Ratio of 0.71 suggests a relatively good balance between return and risk. In comparison, BAJAJ-AUTO's Sharpe Ratio was higher, but Maruti's return was still superior.
+
+[Volatility: 33.2%]

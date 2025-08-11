@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 44.76,
+  "sharpe_ratio": 0.14,
+  "reasoning": "The stock's high volatility and relatively low Sharpe Ratio suggest a risky investment. However, the company's strong financial health, decent EBITDA margins, and moderate dividend yield are positives. The news sentiment is overall positive, with a historical impact suggesting a potential increase in stock price. Considering these factors, I would recommend a HOLD decision, as the stock's high valuation and debt levels need to be monitored closely."
+}

@@ -1,0 +1,18 @@
+**Weekly News Sentiment Summary**
+
+The overall sentiment of this week's news is **Positive**.
+
+**Notable Events:**
+
+1. **Laurus Labs vs Divis Labs**: The comparison of these two pharma stocks is neutral, but the historical data suggests a positive impact on Laurus Labs.
+2. **Divi's Labs Upgrade**: BofA's upgrade of Divi's Labs to "Buy" with a target price is a significant positive event, which could boost the stock's performance.
+3. **Share Market Highlights**: The flat trading of Sensex and Nifty, accompanied by the outperformance of IT stocks, is a neutral event.
+4. **Contract Manufacturing**: The article highlighting contract manufacturing as a growth opportunity for the pharma industry is a positive event, which could benefit pharma stocks.
+
+**News Tone:**
+
+* **Positive**: Divi's Labs upgrade, Contract Manufacturing growth opportunity
+* **Neutral**: Share Market Highlights, Laurus Labs vs Divis Labs comparison
+* **Negative**: None
+
+Overall, the positive events and tone of the news suggest a favorable outlook for pharma stocks, particularly Divi's Labs, and the industry as a whole.

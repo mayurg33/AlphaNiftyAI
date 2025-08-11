@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Despite the stock's poor performance and high volatility, the company's decent profitability, low debt, and moderate revenue growth rate suggest that it may not be a bad investment opportunity. However, the high PE ratio, negative earnings growth, and neutral to slightly negative news sentiment warrant a cautious approach, making a HOLD signal more appropriate. The macroeconomic environment, with a growing services sector and improving rural consumption, may also support the company's future performance.

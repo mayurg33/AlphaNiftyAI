@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 55.45,
+  "sharpe_ratio": 0.22,
+  "reasoning": "The stock's moderate weekly performance and high volatility suggest a risky investment environment. Although the company's fundamentals are strong, with high EBITDA and gross margins, the valuation appears rich and the debt-to-equity ratio is a concern. The positive news sentiment and macroeconomic environment support the stock, but the Sharpe Ratio indicates that the return is not adequately compensated for the risk taken. Therefore, a HOLD decision is recommended."
+}

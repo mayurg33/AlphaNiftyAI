@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 20.37,
+  "sharpe_ratio": -0.61,
+  "reasoning": "The stock's high volatility and negative returns make it a cautionary investment. However, the company's strong profitability profile and attractive valuation suggest potential upside. The macroeconomic environment is also supportive, with a strong monsoon season and easing inflation. Given the mixed signals, a hold decision is warranted."
+}

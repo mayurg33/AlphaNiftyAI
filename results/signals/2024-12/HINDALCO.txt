@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the stock's poor performance and high volatility suggest a SELL, the low valuation, decent profitability, and impressive growth rates support a HOLD rating. Additionally, the positive news sentiment and favorable macroeconomic environment, particularly in the services sector, contribute to a neutral outlook.

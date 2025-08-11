@@ -1,0 +1,25 @@
+Based on the current week's news, here is a summary of the sentiment, notable events, and tone for each stock:
+
+**JIO Financial Services**
+
+* Sentiment: Negative
+* Notable Event: 4 stocks cross below their 200 DMAs, indicating a negative breakout
+* Tone: Negative
+
+The news tone is negative for JIO Financial Services, suggesting a potential decline in stock price. The historical data shows that similar news events have resulted in a negative impact on the stock price, with an average impact of -0.34%.
+
+**Oil and Gas Companies**
+
+* Sentiment: Neutral
+* Notable Event: Unusual revenue reported, but shares remain muted with no gains
+* Tone: Neutral
+
+The news tone is neutral for Oil and Gas Companies, indicating no significant impact on the stock price. The historical data shows that similar news events have resulted in both positive and negative impacts on the stock price, with an average impact of +0.45%.
+
+**Government may scrap windfall tax on crude oil**
+
+* Sentiment: Positive
+* Notable Event: Potential scrapping of windfall tax on crude oil
+* Tone: Positive
+
+The news tone is positive for Oil and Gas Companies, suggesting a potential increase in stock price. The historical data shows that similar news events have resulted in a positive impact on the stock price, with an average impact of +3.54%.

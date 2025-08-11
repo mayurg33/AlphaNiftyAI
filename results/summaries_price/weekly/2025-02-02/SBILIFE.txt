@@ -1,0 +1,3 @@
+SBILIFE had a decent week, returning 2.1% to investors, but its high volatility of 28.39% may have made it a bumpy ride. While it underperformed HDFCLIFE and INDUSINDBK, it outperformed SBIN in terms of returns. The stock's Sharpe Ratio of 0.24 suggests that its returns were not entirely justified by its risk-taking, and its Max Drawdown of -1.97% indicates some potential for losses. Overall, SBILIFE's weekly performance was mediocre, with a higher risk profile compared to its peers.
+
+[Volatility: 28.39%]

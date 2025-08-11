@@ -1,0 +1,11 @@
+Here's my thought process and recommendation:
+
+1. **Valuation**: The trailing PE and forward PE ratios are relatively low at 10.22 and 10.29, respectively. This suggests that the stock may be undervalued compared to its peers.
+
+2. **Profitability**: The ROE (Return on Equity) is 16.98%, which is reasonable, indicating that the company is generating decent returns on shareholders' equity. The profit margin is low at 3.03%, but this is not unusual for the Oil & Gas Refining & Marketing industry.
+
+3. **Growth**: However, the revenue growth and earnings growth are both negative (-4.6% and -8.4%, respectively). This is a concern, as it indicates that the company's top and bottom lines are contracting.
+
+4. **Leverage**: The debt-to-equity ratio is high at 75.07, which may increase the risk of investing in the company.
+
+Considering these factors, I would recommend **HOLD** for now. While the valuation appears attractive, the negative growth trends and high leverage are concerns that need to be monitored closely. It's essential to observe how the company addresses these issues before making a more bullish or bearish call.

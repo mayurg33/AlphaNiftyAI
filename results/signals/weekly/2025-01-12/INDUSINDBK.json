@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 39.73,
+  "sharpe_ratio": -0.33,
+  "reasoning": "The stock's high volatility and negative returns make it an unattractive investment option. The news sentiment is also bearish, indicating a downward trend. Although the company has a strong profitability profile, its revenue growth has been negative, which is a concern. Overall, the risks outweigh the potential benefits, leading to a sell decision."
+}

@@ -1,0 +1,26 @@
+**Summary of Current Week's News Sentiment:**
+
+The overall sentiment of the news articles this week is **Negative** for Dr. Reddy's Labs. The majority of the articles report a decline in the company's shares post Q3 results, with some analysts cutting target prices. The news tone is predominantly negative, with a few neutral articles.
+
+**Notable Events:**
+
+* Dr. Reddy's Labs Q3 results: Net profit rises 2.5% at Rs 1,413 crore, revenue up 16%.
+* Shares slide 6-7% post Q3 results.
+* Jefferies and Nuvama cut target price for Dr. Reddy's.
+
+**Positive Articles:**
+
+* Dr Reddy's Labs Q3 Results: Net profit up 2.5% at Rs 1,413 crore, beats estimate (neutral tone)
+* Dr Reddy's Labs Q3 Results: Cons PAT rises 2% YoY to Rs 1,413 crore, revenue up 16% (neutral tone)
+
+**Negative Articles:**
+
+* Dr Reddy's Labs shares slide 6% post Q3 results. Should you buy, sell, or hold? (negative tone)
+* Dr Reddy's shares tank 7% post Q3 results; should you buy, sell or hold? (negative tone)
+* Explained: Why Dr Reddy's share price cracked 6% in early trade (negative tone)
+* Jefferies, Nuvama cut target price for Dr Reddy’s. 3 thing to know… (negative tone)
+
+**Neutral Articles:**
+
+* Dr. Reddy’s Q3 & 9MFY25 Financial Results (neutral tone)
+* Dr Reddy's Labs Q3 Preview: Lower Revlimid contribution, subdued US sales to dent earnings growth (neutral tone)

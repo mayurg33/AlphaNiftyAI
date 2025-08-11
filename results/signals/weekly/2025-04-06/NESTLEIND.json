@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 21.26,
+  "sharpe_ratio": 0.32,
+  "reasoning": "The stock's modest weekly performance and relatively high volatility indicate a moderate level of risk. While its fundamentals appear strong, the high valuation and negative earnings growth are concerns. The news sentiment is mixed, with a positive impact from HDFC Bank's news, but a negative impact from Nestle India's downgrade. Given these mixed signals, a hold decision is warranted."
+}

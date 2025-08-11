@@ -1,0 +1,8 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* TCS is set to announce its Q4 results on April 12, which will be closely watched by investors.
+* The focus will be on the company's guidance, dividend, and other key metrics.
+
+The news tone is neutral because the historical similar news has shown both positive and negative price impacts. In the past, news about TCS's dividend and ex-dividend dates has led to both increases (+4.51%) and decreases (-3.19%) in the stock price. Therefore, it's difficult to predict the exact impact of the current news on the stock price.

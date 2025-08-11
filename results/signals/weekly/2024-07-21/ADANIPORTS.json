@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 15.52,
+  "sharpe_ratio": -0.59,
+  "reasoning": "The stock has underperformed the market with a weekly return of -1.72% and high volatility. Although the company's financial health is good with high EBITDA and gross margins, its high debt-to-equity ratio and rich valuation are concerns. The positive news sentiment and macroeconomic environment support the stock, but the risks outweigh the benefits, leading to a hold decision."
+}

@@ -1,0 +1,3 @@
+INFY's weekly performance was disappointing, with a return of -2.67%, slightly underperforming its peer TCS but outperforming WIPRO. The stock's volatility was relatively moderate at 13.29%, lower than its peers ITC and WIPRO. The Sharpe Ratio of -0.80 indicates that the stock's return was not justified by its risk, making it a relatively risky investment this week. Overall, INFY's performance was lackluster, but its lower volatility provided some comfort.
+
+[Volatility: 13.29%]

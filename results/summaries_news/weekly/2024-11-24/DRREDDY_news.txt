@@ -1,0 +1,14 @@
+Based on the current week's news, the sentiment is mixed to negative for the stocks mentioned.
+
+Notable events:
+
+* Dr. Reddy's Labs faced a setback with the USFDA issuing seven observations to its Hyderabad manufacturing plant, leading to a 3% decline in its stock price.
+* Dr. Reddy's and Aurobindo Pharma signed MoUs with the Telangana Government for new pharma city facilities, which could be a positive development for the companies.
+
+The news tone is:
+
+* Negative for Dr. Reddy's Labs due to the USFDA observations and the subsequent decline in its stock price.
+* Neutral for Aurobindo Pharma, as the MoU signing is a positive development, but the impact is not significant enough to outweigh the negative sentiment around Dr. Reddy's Labs.
+* Neutral for the other stocks mentioned (Adani Group, Wipro, UPL, Bharti Airtel, Tata Power, PSP Projects, and Garden Reach Shipbuilders), as there are no significant positive or negative events reported.
+
+Overall, the news tone is leaning towards being negative, primarily due to the Dr. Reddy's Labs incident.

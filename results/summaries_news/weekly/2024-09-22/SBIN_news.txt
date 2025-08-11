@@ -1,0 +1,13 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Bajaj Finance:**
+
+* The news tone is neutral to slightly positive. The company has overtaken State Bank of India to become the third most valued finance group, which is a notable achievement.
+* However, historical data suggests that the stock may experience some volatility, with two out of three similar news events resulting in a negative impact (-3.11% and -2.86%). Only one event had a positive impact (+2.99%).
+
+**State Bank of India:**
+
+* The news tone is neutral. The bank has raised Rs 7,500 cr at 7.33% rate via tier-2 bonds, which is a significant fundraising event.
+* Historical data suggests that the stock may react positively to such news, with one out of three similar news events resulting in a positive impact (+4.10%). However, two events had a negative impact (-3.11% and -3.95%).
+
+Overall, the news tone for the week is neutral, with both Bajaj Finance and State Bank of India experiencing mixed sentiments based on historical data. Notable events include Bajaj Finance overtaking State Bank of India in terms of market capitalization and State Bank of India's successful fundraising via tier-2 bonds.

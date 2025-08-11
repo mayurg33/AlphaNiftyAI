@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor returns, high volatility, and low Sharpe Ratio indicate poor risk-adjusted returns. Additionally, the fundamental analysis suggests overvaluation, marginal profitability, slowing growth, and high debt. Although the macroeconomic environment is generally positive, the automotive industry's growth is not strong enough to justify the current valuation. Therefore, I recommend a SELL."
+}

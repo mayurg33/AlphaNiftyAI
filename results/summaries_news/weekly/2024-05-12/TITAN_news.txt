@@ -1,0 +1,7 @@
+**Current Week's News Sentiment:** Negative
+
+**Notable Events:** Titan Company's Q4 results missed estimates, leading to a 7% fall in its share price.
+
+**News Tone:** The news tone is predominantly negative, with all five news articles reporting a decline in Titan's share price due to disappointing Q4 results. The articles discuss the reasons behind the fall, brokerages' reactions, and whether investors should buy, sell, or hold the stock. The overall sentiment is bearish, with no positive news or outlook reported.
+
+**Historical Context:** The historical data suggests that Titan's share price has been volatile, with both positive and negative movements in response to various events. However, in similar situations where the company's results missed estimates, the share price has fallen (e.g., -5.34% on 2021-02-18).

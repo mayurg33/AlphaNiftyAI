@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor price trends, high volatility, and extremely low Sharpe Ratio indicate a high-risk investment. Additionally, the Max Drawdown suggests a significant decline from its peak. While the fundamentals and news sentiment are not extremely negative, they do not outweigh the poor price performance. The macroeconomic environment is generally positive, but it is not strong enough to justify holding onto the stock given its poor performance."
+}

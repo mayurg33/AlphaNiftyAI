@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor price trends, high volatility, and negative Sharpe Ratio suggest a high risk of losses, while its fundamentals, such as high valuation, low ROE, and declining earnings growth, indicate underperformance. Additionally, the macroeconomic environment, although positive for the overall economy, does not seem to have a direct positive impact on Sun Pharma's specific industry or business.

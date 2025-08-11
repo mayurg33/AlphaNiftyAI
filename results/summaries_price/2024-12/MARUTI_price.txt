@@ -1,0 +1,25 @@
+Symbol: MARUTI
+Month: 2024-12
+Start Price: ₹11239.30
+End Price: ₹10858.40
+12M Return: -3.39%
+6M Return: -3.39%
+3M Return: -3.39%
+Volatility: 0.141
+Sharpe Ratio: -3.002
+Max Drawdown: -0.051
+Peer Correlation (M&M): 0.4683
+Peer Correlation (TATAMOTORS): 0.6306
+Peer Correlation (BAJAJ-AUTO): 0.7031
+Average Peer Correlation: 0.6007
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Maruti's stock performance has been disappointing, with a 12-month return of -3.39%, indicating a decline in value. The stock's volatility is moderate at 0.141, and the Sharpe Ratio is a negative 3.002, suggesting that the returns are not justified by the risk taken. The Max Drawdown of -0.051 indicates that the stock has fallen by around 5.1% from its peak. Correlation analysis with peers shows that Maruti's stock movement is closely linked with BAJAJ-AUTO and TATAMOTORS, with correlations of 0.7031 and 0.6306, respectively.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **SELL**. The stock's negative returns, high volatility, and poor risk-adjusted performance (as indicated by the Sharpe Ratio) suggest that investors may not be adequately compensated for the risk taken. Additionally, the high correlation with peers may indicate a lack of diversification benefits. With a Max Drawdown of -0.051, the stock has already fallen significantly, and there may be further downside risk.

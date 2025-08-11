@@ -1,0 +1,3 @@
+ADANIPORTS had a dismal week, with a -6.18% return, significantly underperforming its peers. The stock's volatility was relatively low at 10.69%, but its Sharpe Ratio of -3.13 indicates poor risk-adjusted performance. Compared to its peers, ADANIPORTS had the worst return, but its volatility was the lowest. Overall, the stock was a high-risk investment this week.
+
+[Volatility: 10.69%]

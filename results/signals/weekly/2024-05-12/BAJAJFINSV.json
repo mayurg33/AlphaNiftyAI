@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 20.91,
+  "sharpe_ratio": -0.45,
+  "reasoning": "The stock's lackluster performance and high debt-to-equity ratio are concerns, but its strong track record of profitability and growth metrics are positives. The positive news sentiment and favorable macroeconomic environment, particularly in the automotive industry, may support the stock's growth. However, the high valuation and debt position warrant caution, leading to a hold decision."
+}

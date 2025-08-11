@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 7,
+  "volatility": 21.0,
+  "sharpe_ratio": -0.37,
+  "reasoning": "The stock's volatility is moderate, and its Sharpe Ratio indicates poor risk-adjusted returns, but the company's financial health is stable with strong profitability and attractive valuation. The news sentiment is neutral to positive, and the macroeconomic environment is supportive of the pharma sector. Considering these factors, I recommend a BUY decision."
+}

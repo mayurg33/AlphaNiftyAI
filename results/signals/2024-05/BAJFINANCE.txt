@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the news sentiment is positive, the stock's underperformance in the past 12 months, high volatility, and poor Sharpe Ratio suggest caution. Additionally, the high valuation and high debt levels are concerns, but the company's strong profitability and growth rates support a neutral outlook.

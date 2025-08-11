@@ -1,0 +1,11 @@
+**Summary of Current Week's News Sentiment:**
+
+The overall sentiment of the news is **NEGATIVE** for Kotak Mahindra Bank's stock. The news tone is dominated by reports of the Reserve Bank of India (RBI) imposing restrictions on the bank, resulting in a significant decline in its stock price.
+
+**Notable Events:**
+
+1. RBI imposes restrictions on Kotak Mahindra Bank, banning it from adding new digital customers.
+2. The bank's shares dive 10% to a 52-week low, eroding Rs 4,281 crore from mutual funds.
+3. Uday Kotak, the bank's CEO, loses Rs 10,800 crore in a single day due to the RBI action.
+
+The news tone is predominantly negative, with most articles reporting on the RBI's restrictions and their impact on the bank's stock price and business. The historical similar news and price impact queries also suggest a negative sentiment, with most impacts ranging from -1.85% to -5.62%.

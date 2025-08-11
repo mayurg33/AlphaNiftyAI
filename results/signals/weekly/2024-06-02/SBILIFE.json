@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 41.05,
+  "sharpe_ratio": -0.15,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate a risky investment. However, the company's financial health is decent, with no debt and strong profitability metrics. The news sentiment is neutral, and the macroeconomic environment is generally positive, with growth in agriculture, services, and manufacturing sectors. Given these mixed signals, a HOLD decision is recommended."
+}

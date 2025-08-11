@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL to SLIGHTLY NEGATIVE for the stocks of SBI, HDFC Bank, and ICICI Bank.
+
+The news that these banks continue to be systemically important as per the RBI is a neutral to slightly negative event, as it does not bring any significant new information or changes to their status. The historical data shows that similar news in the past has had a negative impact on the stock prices, ranging from -0.99% to -3.94%.
+
+Notable events mentioned in the historical news include the RBI's declaration of these banks as domestic systemically important banks, which had a negative impact on the stock prices. There is no significant positive news or events mentioned in the historical data that could offset the negative tone.
+
+Overall, the news tone is neutral to slightly negative, indicating that the stock prices of SBI, HDFC Bank, and ICICI Bank may not be significantly affected by this news, but may experience a slight decline.

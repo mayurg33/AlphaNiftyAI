@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 26.92,
+  "sharpe_ratio": 0.64,
+  "reasoning": "The stock has shown strong weekly performance, outperforming peers, but with high volatility. Fundamentals are robust, with high gross margins and EBITDA margins, decent revenue and earnings growth, and a strong balance sheet. However, the valuation looks stretched, and the news sentiment, although positive, may not sustain in the long term. Hence, a hold decision is recommended."
+}

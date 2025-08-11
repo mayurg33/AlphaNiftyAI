@@ -1,0 +1,7 @@
+Based on the provided historical news, here is a summary of the current week's news sentiment for ICICI Bank:
+
+**Current Week's News Sentiment:** Neutral
+
+**Notable Events:** None in the current week, as the provided news is historical and does not include any recent events.
+
+**News Tone:** The news tone is neutral, as there are no recent news articles provided. However, based on the historical news, it can be seen that the tone is mixed, with some articles having a positive impact (+0.26% and +2%) and others having a negative impact (-0.58% and -0.25%).

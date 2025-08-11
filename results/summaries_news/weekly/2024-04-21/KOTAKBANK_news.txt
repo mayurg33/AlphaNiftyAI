@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the sentiment of the current week's news is NEUTRAL to NEGATIVE.
+
+The notable event is Deepak Sharma joining the board of Suryoday Small Finance Bank. However, the historical similar news suggests that such events have had a negative impact on the stock price in the past. For instance, SBI appointing a new DMD had a -4.62% impact, and Paytm introducing a new payment feature had a -4.00% impact. Even the news about Equitas Small Finance Bank had a -0.31% impact.
+
+Therefore, based on this historical data, it is likely that the news of Deepak Sharma joining the board of Suryoday Small Finance Bank may have a negative impact on the stock price. However, the actual impact may vary depending on various factors, including market conditions and investor sentiment.

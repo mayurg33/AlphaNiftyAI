@@ -1,0 +1,3 @@
+JSWSTEEL's weekly return of 1.65% was modest, but its high volatility of 49.0% suggests a turbulent ride for investors. The stock underperformed its peers, particularly BAJAJ-AUTO and TATASTEEL, which posted higher returns with lower volatility. The Sharpe Ratio of 0.14 indicates that the stock's return was not adequately compensated for the risk taken. Overall, JSWSTEEL was a relatively risky investment this week.
+
+[Volatility: 49.0%]

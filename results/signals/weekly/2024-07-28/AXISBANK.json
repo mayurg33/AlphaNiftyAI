@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 34.8,
+  "sharpe_ratio": -0.96,
+  "reasoning": "The stock's dismal weekly performance, high volatility, and negative Sharpe Ratio indicate a high-risk investment. The news sentiment is predominantly negative, with concerns over loan growth and credit costs. Although the company's financial health appears stable, its growth prospects seem limited, making it a sell."
+}

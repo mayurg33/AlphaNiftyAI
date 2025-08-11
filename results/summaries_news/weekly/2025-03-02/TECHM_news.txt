@@ -1,0 +1,13 @@
+**Weekly News Sentiment:** Negative
+
+**Notable Events:**
+
+1. Tech Mahindra Ltd drops for fifth straight session, indicating a bearish trend.
+2. Tech Mahindra integrates IndusQ AI model with Qualcomm AI Hub globally, a positive development.
+3. Nifty IT Sees Worst Monthly Fall Since April 2022, with TCS, Tech Mahindra, and Mphasis Down, indicating a sector-wide decline.
+
+**News Tone:**
+
+The overall news tone is negative for Tech Mahindra Ltd. The stock has been dropping for five consecutive sessions, which is a significant bearish signal. Although the integration of IndusQ AI model with Qualcomm AI Hub globally is a positive development, it may not be enough to offset the negative sentiment surrounding the stock's decline. The sector-wide decline in Nifty IT, with other major IT stocks like TCS and Mphasis also falling, adds to the negative tone.
+
+Based on the historical similar news and price impact, the negative sentiment is likely to continue, with a potential price impact of around -3.50% to -6.01%. However, it's essential to consider other market and economic factors before making any investment decisions.

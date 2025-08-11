@@ -1,0 +1,17 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to slightly Negative
+
+**Notable Events:**
+
+* Sensex ends down 50 points, while Nifty settles at 22,530, indicating a mixed market performance.
+* Metal, PSB, and O&G stocks gain, while FMCG, IT, Bank, and FS stocks drag the market.
+* Metal stocks shine in the second news article, which is a positive development.
+
+**Tone Analysis:**
+
+The first news article has a neutral to slightly negative tone, as the Sensex ends down 50 points, and some sectors like FMCG, IT, Bank, and FS drag the market. The historical similar news articles also suggest a negative impact, with an average impact of -1.21%.
+
+The second news article has a more positive tone, as metal stocks shine, and the historical similar news articles suggest a mixed impact, with an average impact of +0.49%. However, the overall tone of the week's news is still neutral to slightly negative, given the mixed market performance and the drag from certain sectors.
+
+Overall, the news tone is neutral to slightly negative, indicating that the market is experiencing some volatility and uncertainty, but with some positive developments in certain sectors like metals.

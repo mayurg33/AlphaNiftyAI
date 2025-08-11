@@ -1,0 +1,7 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* The news mentions that Neogen Chemicals, Godrej Properties, Zydus Life, JSW Energy, and HFCL will be in focus on Monday, but it does not provide a clear direction or opinion on the stocks.
+
+The news tone is neutral because it does not convey a strong positive or negative sentiment. The historical similar news shows a mix of positive and negative impacts, ranging from +0.63% to -5.13%. Therefore, it is difficult to determine a clear direction for the stocks mentioned.

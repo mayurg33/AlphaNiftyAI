@@ -1,0 +1,10 @@
+Based on the historical similar news and price impact, the current week's news sentiment is Positive.
+
+Notable events:
+
+* ICICI Securities wants to delist, and mutual funds are buying its shares.
+* ICICI Bank approves delisting of ICICI Securities, with a focus on the share exchange ratio.
+* The board of ICICI Securities is set to consider share delisting on June 29.
+* ICICI Securities will become a 100% subsidiary of ICICI Bank upon delisting.
+
+The news tone is Positive, as all the historical similar news and price impact show a positive impact on the stock price, with an average impact of +0.81%. The delisting news and the involvement of mutual funds seem to be driving the positive sentiment.

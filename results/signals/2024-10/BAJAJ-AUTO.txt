@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor performance, high volatility, and negative Sharpe Ratio suggest that the risks associated with holding this stock outweigh the potential benefits. Additionally, the high valuation multiples and declining earnings growth are concerns, and the macroeconomic environment, although supportive of the automotive industry, is not strong enough to justify a BUY signal.

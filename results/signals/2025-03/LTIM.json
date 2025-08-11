@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance over the past 12 months, high volatility, and negative Sharpe Ratio indicate a high level of risk and low returns. Additionally, the maximum drawdown suggests that the stock is prone to significant price declines. While the company's profitability is decent, its growth rates are moderate, and its debt levels are high, which further supports a sell decision."
+}

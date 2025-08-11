@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's underperformance over the past 12 months, combined with its moderate volatility and negative Sharpe Ratio, suggests a HOLD position, as the current price may not be attractive enough to warrant a BUY. However, the decent ROE, profit margin, and earnings growth, along with the neutral news sentiment and stable macroeconomic environment, indicate that the company has some positive momentum, which warrants a HOLD rather than a SELL.

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 21.71,
+  "sharpe_ratio": 0.09,
+  "reasoning": "The stock's weekly return is modest, and its volatility is relatively high. Although the company's fundamentals appear strong, the high debt-to-equity ratio is a concern. The news sentiment is neutral, and the macroeconomic environment is supportive of the automotive industry. Given these mixed signals, I recommend a HOLD decision."
+}

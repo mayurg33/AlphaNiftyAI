@@ -1,0 +1,17 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Notable Events:**
+
+* Apollo Hospitals has partnered with Ion Beam Applications (IBA) to introduce proton therapy in India, with an investment of ₹250 crore in the Proteus One proton therapy system.
+* Apollo Health has acquired a Lucknow-based diagnostics company.
+* IndiGo, Hyundai, TCS, and NMDC are also in the news, but the impact of their news is not as significant as Apollo Hospitals'.
+
+**News Sentiment:**
+
+The overall news sentiment for Apollo Hospitals is **Positive**. The partnership with IBA and the investment in proton therapy are significant developments that could have a positive impact on the stock. The acquisition of a diagnostics company also adds to the positive sentiment.
+
+The historical data suggests that news related to Apollo Hospitals' partnerships and investments has a positive impact on the stock, with an average impact of +2.45%. The only negative impact was seen in one instance, but it was not directly related to Apollo Hospitals' business.
+
+For IndiGo, Hyundai, TCS, and NMDC, the news sentiment is **Neutral**, as the news is not particularly significant or impactful.
+
+Overall, the news tone is **Positive** for Apollo Hospitals and **Neutral** for the other stocks mentioned.

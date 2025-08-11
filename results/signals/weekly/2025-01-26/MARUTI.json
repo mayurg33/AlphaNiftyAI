@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 15.95,
+  "sharpe_ratio": -0.10,
+  "reasoning": "Maruti's relatively resilient weekly return and lower volatility compared to peers are positives. However, the stock's Sharpe Ratio indicates a relatively risky investment. Fundamentally, the company's strong market capitalization, high gross margins, and respectable ROE are strengths, but sluggish revenue and earnings growth are concerns. Given the mixed signals, I recommend a HOLD decision."
+}

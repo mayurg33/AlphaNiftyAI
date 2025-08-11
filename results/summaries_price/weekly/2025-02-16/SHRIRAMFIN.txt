@@ -1,0 +1,3 @@
+SHRIRAMFIN underperformed its peers this week, with a weekly return of -3.86% compared to BAJFINANCE's 1.27% and BAJAJFINSV's 2.73%. The stock's volatility was high at 38.56%, indicating significant price fluctuations. The Sharpe Ratio of -0.39 suggests that the stock's return was not justified by its risk. Overall, SHRIRAMFIN was a risky investment this week, with a Max Drawdown of -3.97%.
+
+[Volatility: 38.56%]

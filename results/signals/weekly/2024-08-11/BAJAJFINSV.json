@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 22.28,
+  "sharpe_ratio": -0.08,
+  "reasoning": "The stock's recent performance has been disappointing, with a negative return and poor risk-adjusted returns indicated by the Sharpe Ratio. Additionally, the company's high debt-to-equity ratio and high valuation multiples are concerns. The negative news sentiment due to the GST evasion notice also weighs on the stock's prospects."
+}

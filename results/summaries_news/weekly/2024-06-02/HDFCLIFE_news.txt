@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Event:** IDFC First Bank's board has approved a plan to raise ₹3,200 crore via a preferential issue.
+
+**Tone:** The news tone is neutral to positive for the stock. While there is no direct historical precedent for IDFC First Bank's specific news, similar news from other companies suggests a mixed impact. The positive impact from SBI's bond issuance (+2.64%) and the neutral impact from Gurmeet Chadha's betting on banks in 2023 (+0.00%) suggest that the market may react positively to IDFC First Bank's fundraising plan. However, the negative impact from PGCIL's proposal to raise ₹11,000 crore (-3.55%) serves as a cautionary note, indicating that the market may also react negatively to the news. Overall, the tone is neutral to positive, with a slight bias towards positivity.

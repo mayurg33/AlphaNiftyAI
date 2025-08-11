@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 21.07,
+  "sharpe_ratio": -0.27,
+  "reasoning": "The stock's high volatility and negative Sharpe Ratio indicate that the risk is not justified by the return. Additionally, the negative news sentiment and decline in share price due to Q4 results and cautious commentary from analysts suggest a further decline in the share price. The company's financial health is stable but requires improvement in growth prospects and debt management. Therefore, it's a good time to sell the stock."
+}

@@ -1,0 +1,15 @@
+Based on the current week's news, the sentiment is NEUTRAL to POSITIVE for TCS.
+
+Notable events:
+
+* TCS reported strong Q4 results, beating street expectations with a PAT of Rs 12,434 crore.
+* The company declared a dividend of Rs 28 per share.
+* CEO K Krithivasan mentioned global macro uncertainty, which might be a concern for investors.
+
+The news tone is neutral to positive because:
+
+* Most of the news headlines are positive, highlighting the company's strong performance and dividend declaration.
+* The historical similar news and price impact analysis shows that similar news in the past has had a positive impact on the stock price, with an average impact of around 2-3%.
+* However, there are some concerns mentioned in the news, such as global macro uncertainty, which might temper the positive sentiment.
+
+Overall, the news tone is neutral to positive, indicating that the stock might see some upside movement, but with some caution due to the mentioned concerns.

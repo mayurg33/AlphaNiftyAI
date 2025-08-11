@@ -1,0 +1,25 @@
+**Weekly News Sentiment Summary**
+
+The overall sentiment of this week's news is **NEUTRAL**. While there are some positive news articles, there are also neutral and negative ones, resulting in a balanced tone.
+
+**Notable Events:**
+
+1. Apollo Hospitals' Suneeta R emphasizes the need to invest more in healthcare, citing a projected disease burden of $3 trillion by 2035.
+2. Garmin and Apollo Hospitals partner for health monitoring and wellness, a positive development for the healthcare sector.
+3. Mehta Equities recommends Bajaj Finserv and Jindal Steel as top picks for the week, which could impact their stock prices.
+
+**Positive News:**
+
+* Garmin and Apollo Hospitals' partnership (healthcare sector)
+* Mehta Equities' top recommendations (Bajaj Finserv and Jindal Steel)
+
+**Negative News:**
+
+* Disease burden projected to hit $3 trillion by 2035 (healthcare sector)
+
+**Neutral News:**
+
+* Stock market setup and global outlook amid Iran-Israel war (market analysis)
+* Trade recommendations for Nifty 50 (market analysis)
+
+The neutral tone of the news is due to the balance of positive and negative news articles. While there are some encouraging developments in the healthcare sector, the projected disease burden and market analysis articles temper the overall sentiment.

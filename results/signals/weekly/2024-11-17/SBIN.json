@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 16.5,
+  "sharpe_ratio": -1.67,
+  "reasoning": "The stock's poor performance and high volatility are concerns, but its strong market capitalization and low P/E ratios suggest undervaluation. The news sentiment is neutral to slightly positive, and the macroeconomic environment is supportive of the banking sector. However, the lack of debt-to-equity ratio data and sluggish revenue and earnings growth rates are weaknesses that prevent a buy recommendation."
+}

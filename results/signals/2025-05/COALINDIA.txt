@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the technical analysis suggests a BUY due to the stock's steady performance and attractive Sharpe Ratio, the fundamental analysis raises concerns about the company's profitability, high debt-to-equity ratio, and declining revenue and earnings growth. Meanwhile, the news sentiment is neutral, and the macroeconomic environment is stable, but not particularly supportive of the coal industry.

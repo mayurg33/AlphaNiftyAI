@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 33.2,
+  "sharpe_ratio": 0.71,
+  "reasoning": "The stock's high volatility and Sharpe Ratio indicate a balance between return and risk. Fundamentally, the company's strong profitability and debt management are positives, but slow growth rates are a concern. The neutral news sentiment and macroeconomic environment, which suggests a growing automotive industry, do not provide a clear buy or sell signal. Therefore, a hold decision is recommended."
+}

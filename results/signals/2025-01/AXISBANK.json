@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor price trends, with negative returns across all time frames, high volatility, and a poor Sharpe Ratio, suggest a high-risk investment. Additionally, the high correlation with its peers indicates that the stock is likely to continue to move in tandem with the sector, which has been experiencing a downturn. Although the fundamentals suggest a relatively stable business model, the decline in earnings growth and lack of comprehensive data are concerns. Overall, the risks outweigh the potential benefits, leading to a SELL recommendation."
+}

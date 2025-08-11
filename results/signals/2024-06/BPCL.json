@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor price trends, high volatility, and negative Sharpe Ratio suggest a high-risk investment. Additionally, the company's low profitability, thin profit margins, and high debt-to-equity ratio raise concerns about its ability to create value for shareholders. Although the macroeconomic environment is positive, the company's fundamentals outweigh the positive news sentiment and macroeconomic factors, leading to a SELL recommendation."
+}

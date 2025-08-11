@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor price performance, high volatility, and negative Sharpe Ratio, combined with the overwhelmingly negative news sentiment and concerns over the bank's financial health and governance, outweigh any potential benefits from the macroeconomic environment, leading to a SELL recommendation.

@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 21.76,
+  "sharpe_ratio": -0.31,
+  "reasoning": "BPCL's weekly performance was disappointing with a return of -2.16% and a max drawdown of -2.16%. The stock's volatility is moderate, but the Sharpe ratio is negative, indicating that the return is not sufficient to compensate for the risk taken. Additionally, the company's growth metrics are a concern, with negative revenue and earnings growth, and a high debt-to-equity ratio. Therefore, it is recommended to sell the stock."
+}

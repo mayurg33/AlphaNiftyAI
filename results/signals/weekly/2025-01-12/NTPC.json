@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 27.24,
+  "sharpe_ratio": -1.59,
+  "reasoning": "The stock's weekly performance was disappointing, with a return of -5.88%, and its volatility was high at 27.24%, indicating a risky investment environment. The debt-to-equity ratio of 130.86 is a concern, suggesting high leverage. Additionally, the news sentiment is negative, which is likely to put downward pressure on the stock price. Therefore, I recommend selling the stock."
+}

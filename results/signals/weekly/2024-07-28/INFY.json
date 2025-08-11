@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 25.28,
+  "sharpe_ratio": 0.59,
+  "reasoning": "INFY's weekly performance was decent but not exceptional, with a mediocre risk-adjusted return. The company's strong profitability profile and reasonable valuation are positives, but concerns around growth metrics and high debt-to-equity ratio are negatives. The macroeconomic environment is generally supportive, with growth in agriculture, services, and manufacturing, but the company's specific issues outweigh the broader positives, leading to a hold decision."
+}

@@ -1,0 +1,3 @@
+M&M's weekly return of 1.12% was modest, but its high volatility of 32.49% suggests a turbulent ride for investors. The stock underperformed its peers, particularly TECHM, which posted a significantly higher return. With a Sharpe Ratio of 0.14, M&M's risk-adjusted performance was lackluster. The Max Drawdown of -2.02% indicates a moderate level of risk.
+
+[Volatility: 32.49%]

@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 7,
+  "volatility": 23.35,
+  "sharpe_ratio": 0.02,
+  "reasoning": "The stock's lackluster weekly performance, high volatility, and low Sharpe Ratio suggest a risky investment environment. Additionally, the neutral to negative news sentiment, with a potential downward pressure on the stock, and the company's high debt-to-equity ratio are concerns. While the company's fundamentals are strong, the current market conditions and news sentiment outweigh the positives, leading to a sell decision."
+}

@@ -1,0 +1,3 @@
+ADANIENT's weekly return of 4.91% was in line with its peers, but its volatility of 52.14% was significantly higher, indicating a riskier investment. The stock's Sharpe Ratio of 0.50 suggests that the return was not adequately compensated for the level of risk taken. Compared to its peers, ADANIENT underperformed in terms of risk-adjusted return, with ADANIPORTS and RELIANCE posting higher Sharpe Ratios. However, its Max Drawdown of -2.14% was relatively contained.
+
+[Volatility: 52.14%]

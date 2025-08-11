@@ -1,0 +1,13 @@
+Based on the current week's news, the sentiment is mixed.
+
+Notable events:
+
+* Hero Motocorp attributes a loss of Rs 390 crore in investee company Ather Energy, which is a negative news.
+* Delhi HC quashes summon issued to Hero Motocorp Chairman Pawan Munjal for forex DRI case, which is a positive news.
+
+Historical context:
+
+* The previous news related to Ather Energy investments had a positive impact on the stock, with gains ranging from 3.23% to 5.81%.
+* The previous news related to the Chairman's legal issues had a negative impact on the stock, with losses ranging from 4.14% to 5.48%.
+
+Overall, the news tone is neutral for the stock. The negative news about the loss in Ather Energy is offset by the positive news about the Delhi HC quashing the summon issued to the Chairman. However, the historical context suggests that the market may react negatively to the news about the loss in Ather Energy, and positively to the news about the Chairman's legal issues being resolved.

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 10.78,
+  "sharpe_ratio": -0.58,
+  "reasoning": "The stock's weekly performance was disappointing, with a return of -1.57%. Although the company's financial health appears stable, its valuation seems slightly rich. The news sentiment is Neutral to Positive, but concerns surrounding Cipla's US FDA observations temper the overall positive sentiment. Given the mixed signals, I recommend a HOLD decision."
+}

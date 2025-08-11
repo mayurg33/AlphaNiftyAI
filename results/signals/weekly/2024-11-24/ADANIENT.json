@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 217.5,
+  "sharpe_ratio": -0.50,
+  "reasoning": "The stock's dismal weekly performance, high volatility, and negative Sharpe Ratio indicate a high level of risk. Additionally, the company's high debt-to-equity ratio and rich valuation are significant concerns. The news sentiment is also overwhelmingly negative, which could lead to further decline in stock price."
+}

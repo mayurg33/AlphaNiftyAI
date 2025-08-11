@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 28.9,
+  "sharpe_ratio": -0.05,
+  "reasoning": "The stock's price trend is lackluster, and its financial health is fragile due to high debt-to-equity ratio and low profitability metrics. However, the news sentiment is neutral, and the macroeconomic environment is supportive, with a positive trend in the services sector and agricultural growth. Given the mixed signals, I recommend a HOLD decision with moderate confidence."
+}

@@ -1,0 +1,15 @@
+Based on the provided historical similar news and price impact, here's a summary of the current week's news sentiment:
+
+**Query 1: ICICI Prudential vs HDFC Life - Which Life Insurance Stock is Better?**
+
+The news tone is NEUTRAL. The query is a comparative analysis of two life insurance stocks, which doesn't convey a clear positive or negative sentiment. Historical data suggests that news related to life insurance stocks can have varying impacts on the stock price, ranging from -16.68% to +10.37%. This query is likely to spark interest and discussion among investors, but its impact on the stock price is uncertain.
+
+**Query 2: Now, dollar-denominated insurance policies for overseas-bound students, parents saving for children’s...**
+
+The news tone is POSITIVE. The introduction of dollar-denominated insurance policies for overseas-bound students and parents saving for their children's education is a new development that could attract investors' attention. Historical data shows that news related to insurance services and partnerships has generally had a positive impact on stock prices, with an average impact of +1.74%. This news could lead to increased interest in life insurance stocks, potentially driving up their prices.
+
+Notable events:
+
+* No notable events are mentioned in the current week's news.
+
+Overall, the news tone for the current week is NEUTRAL to POSITIVE, with a focus on comparative analysis and new developments in the life insurance sector.

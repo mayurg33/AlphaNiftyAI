@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock has underperformed in the past 12 months with a return of -2.45%, and its Sharpe Ratio is -1.899, indicating a poor risk-adjusted return. However, the moderate volatility and low maximum drawdown suggest that it may not be a highly risky investment. Additionally, the high correlation with TATAMOTORS could indicate that TCS is closely tied to the Tata group's performance, which may be a positive factor. Overall, the lack of growth and earnings momentum, combined with the CEO's warning on AI potentially disrupting the call centre industry, warrants a HOLD recommendation for now."
+}

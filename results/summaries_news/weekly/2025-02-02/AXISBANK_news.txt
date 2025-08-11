@@ -1,0 +1,15 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is mixed, with one positive news article and one negative news article.
+
+**Notable Events:**
+
+1. **RBI Liquidity Boost**: The Reserve Bank of India's (RBI) decision to provide liquidity has boosted bank and financial services stocks, including IDFC First, Axis, ICICI, and HDFC.
+2. **Stock Market Crash**: Jio Financial, Tata Motors, and Axis Bank have hit 52-week lows, indicating a decline in the stock market.
+
+**News Tone:**
+
+* The news tone for the RBI liquidity boost is **Positive**, as it has led to a rise in bank and financial services stocks.
+* The news tone for the stock market crash is **Negative**, as it has resulted in a decline in stock prices, with Jio Financial, Tata Motors, and Axis Bank hitting 52-week lows.
+
+Overall, the news tone is mixed, with one positive event and one negative event. However, the negative event seems to have a stronger impact, as it has resulted in a decline in stock prices.

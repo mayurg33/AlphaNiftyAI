@@ -1,0 +1,3 @@
+CIPLA's weekly performance was disappointing, with a return of -0.48%, underperforming its peers. The stock's volatility was high at 44.97%, indicating significant price fluctuations. Compared to its peers, CIPLA's Sharpe Ratio was the second-worst, suggesting poor risk-adjusted returns. Overall, CIPLA was a relatively risky investment this week, with a Max Drawdown of -4.77%.
+
+[Volatility: 44.97%]

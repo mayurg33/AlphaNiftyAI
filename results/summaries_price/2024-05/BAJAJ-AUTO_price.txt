@@ -1,0 +1,25 @@
+Symbol: BAJAJ-AUTO
+Month: 2024-05
+Start Price: ₹8813.83
+End Price: ₹8788.77
+12M Return: -0.28%
+6M Return: -0.28%
+3M Return: -0.28%
+Volatility: 0.213
+Sharpe Ratio: -0.065
+Max Drawdown: -0.047
+Peer Correlation (BAJFINANCE): 0.1181
+Peer Correlation (BAJAJFINSV): 0.0797
+Peer Correlation (MARUTI): 0.3143
+Average Peer Correlation: 0.1707
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Bajaj Auto's stock (BAJAJ-AUTO) has been underperforming in the last 12 months, with a return of -0.28%. The stock has also been volatile, with a volatility of 0.213, and has a negative Sharpe Ratio of -0.065, indicating that the return is not sufficient to compensate for the level of risk taken. The max drawdown of -0.047 suggests that the stock has experienced a moderate decline in value. The peer correlations with BAJFINANCE, BAJAJFINSV, and MARUTI are 0.1181, 0.0797, and 0.3143, respectively, indicating a moderate correlation with MARUTI.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **SELL**. The stock's underperformance in the last 12 months, high volatility, and negative Sharpe Ratio indicate that it may not be a good investment opportunity at this time. Additionally, the max drawdown suggests that the stock has been declining in value, which may continue if the underlying factors are not addressed. While the peer correlations are not extremely high, the correlation with MARUTI is moderate, which may indicate some sector-specific risks. Overall, it may be prudent to exit the stock and explore other investment opportunities with better returns and lower risk profiles.

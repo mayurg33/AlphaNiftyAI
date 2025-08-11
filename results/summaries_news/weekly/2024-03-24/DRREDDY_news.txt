@@ -1,0 +1,14 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Slightly Positive
+
+**Notable Events:**
+
+1. Dr. Reddy's Laboratories launches Versavo® (bevacizumab) in the UK, which is a positive development for the company.
+2. Dr. Reddy's enters a licensing pact to market Pharmazz's novel therapy Centhaquine in India, which is another positive move for the company.
+
+**Tone Analysis:**
+
+The tone of the news is neutral to slightly positive. The launch of Versavo® in the UK is a positive event, but the historical impact of similar news has been mixed, with a negative impact of -2.31% in one instance. However, the licensing pact with Pharmazz is a positive development, and the historical impact of similar news has been mostly positive, with a positive impact of +0.13% in one instance.
+
+Overall, the news tone is leaning towards being positive, but the historical impact suggests that the stock price may not react significantly to these announcements.

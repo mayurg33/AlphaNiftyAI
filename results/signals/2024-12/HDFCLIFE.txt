@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's underperformance in the last 12 months, high valuation, and moderate volatility suggest a HOLD rating, as the risk-return profile is not attractive. Additionally, the mixed news sentiment and moderate correlation with peers indicate that the stock may not be a complete outlier in the industry, but a more detailed analysis of the company's fundamentals and industry trends is necessary to make a more informed decision.

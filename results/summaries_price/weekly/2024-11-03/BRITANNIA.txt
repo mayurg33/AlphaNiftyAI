@@ -1,0 +1,3 @@
+Britannia's weekly performance was disappointing, with a return of -0.51%, underperforming its peers. The stock's high volatility of 22.91% contributed to its poor performance, making it a risky investment this week. In comparison, peers such as NESTLEIND, GRASIM, and RELIANCE outperformed Britannia, with returns ranging from 0.32% to 1.96%. Britannia's Sharpe Ratio of -0.08 and Max Drawdown of -1.55% further highlight its underperformance and riskiness.
+
+[Volatility: 22.91%]

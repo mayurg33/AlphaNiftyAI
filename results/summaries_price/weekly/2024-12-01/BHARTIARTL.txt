@@ -1,0 +1,3 @@
+BHARTIARTL had a strong weekly performance, returning 3.07% and outperforming its peers. The stock's volatility was high at 37.88%, but its Sharpe Ratio of 0.33 indicates that the return was somewhat justified by the level of risk taken. Compared to its peers, BHARTIARTL was the only stock to post a positive return, making it a standout performer for the week. However, its high volatility and max drawdown of -1.16% suggest that the stock was quite risky.
+
+[Volatility: 37.88%]

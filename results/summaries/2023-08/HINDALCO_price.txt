@@ -1,0 +1,1 @@
+Based on the metrics, I would recommend a HOLD on Hindalco. The negative returns in the short-term (3M and 12M) are concerning, but the volatility is relatively low, indicating that the stock is not experiencing extreme price swings, and the Sharpe Ratio of 0.84 suggests that the returns are reasonable considering the risk taken.

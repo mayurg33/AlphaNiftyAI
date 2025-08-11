@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 27.31,
+  "sharpe_ratio": -0.60,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate poor risk-adjusted returns. The news sentiment is predominantly negative, with a significant decline in stock price and potential impact from KTM's liquidity crisis. Additionally, the company's high debt-to-equity ratio and declining earnings growth are concerns. Overall, the stock's risks outweigh its potential benefits, making it a sell."
+}

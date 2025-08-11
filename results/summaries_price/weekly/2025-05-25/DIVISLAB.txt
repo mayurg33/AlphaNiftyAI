@@ -1,0 +1,3 @@
+DIVISLAB's weekly performance was disappointing, with a return of -1.47% and a Sharpe Ratio of -0.25, indicating poor risk-adjusted returns. The stock's volatility was high at 23.11%, which is in line with its peer SUNPHARMA but higher than DRREDDY. Compared to its peers, DIVISLAB underperformed DRREDDY but outperformed SUNPHARMA, while being on par with CIPLA. Overall, the stock was relatively risky this week.
+
+[Volatility: 23.11%]

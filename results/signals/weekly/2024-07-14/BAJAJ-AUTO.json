@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 6.58,
+  "sharpe_ratio": -0.63,
+  "reasoning": "The stock's lackluster weekly performance and moderate volatility indicate a neutral sentiment. While the company's financial health is strong, its negative earnings growth and rich valuation are concerns. The news sentiment is neutral to positive, but not strong enough to outweigh the fundamental concerns. In this scenario, a hold decision is recommended, as the stock's risk profile is moderate and the macroeconomic environment is supportive of the automotive industry."
+}

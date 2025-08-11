@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 106.93,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock has a high return and volatility, indicating a high-risk, high-reward play. However, the company's financial health is fragile, with negative revenue growth and high leverage. The positive news sentiment and macroeconomic environment are supportive, but I would need to see improvement in the company's fundamentals before making a buy decision."
+}

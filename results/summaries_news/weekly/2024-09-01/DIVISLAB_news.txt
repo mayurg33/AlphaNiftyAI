@@ -1,0 +1,14 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Positive
+
+**Notable Events:**
+
+1. Divi's Lab and LTIMindtree shares jump despite exclusion from Nifty 50 index, indicating a positive market reaction to the news.
+2. Analysts recommend three stocks, including Divi's Labs, Indian Bank, and Granules India, which suggests a positive outlook for these stocks.
+
+**Tone Analysis:**
+
+The tone of the news is overall positive, with both news items indicating a positive market reaction or analyst recommendations. The historical similar news also suggests a positive impact, with an average impact of +1.35%. The only negative impact mentioned is -3.67%, but it is an outlier compared to the other positive impacts.
+
+Therefore, the overall tone of the news is positive, suggesting that the stock prices of Divi's Lab, LTIMindtree, Indian Bank, and Granules India may experience an upward trend in the short term.

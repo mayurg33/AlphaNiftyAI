@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's poor returns and negative Sharpe Ratio indicate a lack of investment appeal, while the strong correlation with TATACONSUM and decent fundamentals suggest stability. However, the sluggish revenue growth and declining earnings growth are concerns that need to be addressed before considering a buy.

@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's underperformance over the last 12 months, negative Sharpe Ratio, and moderate volatility suggest caution, while the high correlation with TCS and decent fundamentals, including profitability and earnings growth, warrant a hold decision until further clarity on the sustainability of the profit growth.

@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL to POSITIVE.
+
+The notable event is that CLSA, a reputed brokerage firm, has recommended investing in Tata Motors, NTPC, Nestle, and Britannia. This is a positive signal for these stocks.
+
+Historically, when CLSA has made similar recommendations, the impact on the stock prices has been mixed. In one instance, the impact was negative (-0.86%), but in two other instances, the impact was positive (+2.97% and +4.45%). This suggests that the market has responded positively to CLSA's recommendations in the past.
+
+Overall, the news tone is neutral to positive, indicating that investors may consider these stocks for investment, but should also do their own research and analysis before making a decision.

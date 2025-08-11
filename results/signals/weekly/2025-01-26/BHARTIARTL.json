@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 10.44,
+  "sharpe_ratio": 0.09,
+  "reasoning": "The stock has a strong market capitalization and healthy profitability metrics, indicating efficient operations. The news sentiment is positive, with a strategic partnership with Bajaj Finance and an upgrade in outlook from Moody's. Although the debt-to-equity ratio is a concern, the overall financial health is strong, and the macroeconomic environment is supportive, with a growing services sector and low unemployment rate."
+}

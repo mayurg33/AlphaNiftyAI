@@ -1,0 +1,25 @@
+Symbol: POWERGRID
+Month: 2025-04
+Start Price: ₹289.30
+End Price: ₹307.45
+12M Return: 6.27%
+6M Return: 6.27%
+3M Return: 6.27%
+Volatility: 0.323
+Sharpe Ratio: 2.793
+Max Drawdown: -0.053
+Peer Correlation (COALINDIA): 0.5366
+Peer Correlation (ITC): -0.0385
+Peer Correlation (NTPC): 0.7075
+Average Peer Correlation: 0.4019
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+POWERGRID has demonstrated a steady performance over the past 12 months, with a return of 6.27% and a Sharpe Ratio of 2.793, indicating a high return per unit of risk. The stock's volatility is moderate at 0.323, and the maximum drawdown is relatively low at -0.053. In terms of peer correlation, POWERGRID has a strong positive correlation with NTPC (0.7075) and a moderate positive correlation with COALINDIA (0.5366), while showing a weak negative correlation with ITC (-0.0385).
+
+**Recommendation:**
+
+Based on the analysis, I would suggest a **BUY** recommendation for POWERGRID. The stock's consistent performance, low volatility, and high Sharpe Ratio indicate a strong investment opportunity. Additionally, the strong positive correlation with NTPC, a similar company in the power sector, suggests that POWERGRID is likely to continue its upward trend. With a moderate average peer correlation, POWERGRID is not overly influenced by its peers, which reduces the risk of a sector-wide downturn. Overall, POWERGRID appears to be a stable and attractive investment opportunity.

@@ -1,0 +1,7 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+The notable event is that Bajaj Group is a step closer to a public issue, which could be a significant development for the company. However, the impact of this news is not explicitly stated.
+
+Comparing this news to historical similar news, we can see that the sentiment is mixed. The news about MobiKwik delaying its IPO had a negative impact (-9.14%), while the news about Bajaj Housing Finance extending its festive offer had a positive impact (+1.28%). The news about Little upside left in Bajaj Finance had a slightly positive impact (+1.78%).
+
+Overall, the news tone is neutral, as it is unclear how the market will react to Bajaj Group's potential public issue. The impact could be positive, negative, or neutral, depending on various factors such as market conditions and investor sentiment.

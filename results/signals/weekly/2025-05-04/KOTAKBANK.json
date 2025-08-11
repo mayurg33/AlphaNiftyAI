@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 11.22,
+  "sharpe_ratio": -0.93,
+  "reasoning": "The stock's weekly performance was disappointing, with a return of -1.97%, underperforming its peers. The news sentiment is negative, with a decline in net profit and profitability due to high provisions, which historically has led to a decline in the stock price. Furthermore, the company's growth metrics are a concern, with negative revenue and earnings growth. Although the company's profitability profile is strong, the overall picture suggests a sell decision."
+}

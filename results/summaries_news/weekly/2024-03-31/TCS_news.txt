@@ -1,0 +1,16 @@
+Based on the historical news data, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Negative
+
+**Notable Events:**
+
+1. Breakingviews - Tata's forced IPO will only bring problems: This news article suggests that a forced IPO of Tata's unit will bring problems, which is likely to have a negative impact on the stock price.
+2. 3 Bonus Issues: Tata Group IT Giant To Recommend Dividend In 14 Days, Buy?: Although this news article mentions a potential dividend payout, the historical data suggests that such announcements have had a mixed impact on the stock price, with two instances resulting in a negative impact and one instance resulting in a positive impact.
+
+**Historical Context:**
+
+The historical data suggests that news related to IPOs and divestments have had a negative impact on the stock price, with an average impact of -1.26%. On the other hand, news related to dividends and bonus issues have had a mixed impact, with an average impact of -0.06%.
+
+**Overall Tone:**
+
+The overall tone of the news is negative, with the forced IPO news likely to have a negative impact on the stock price. The dividend announcement may provide some temporary respite, but the historical data suggests that it may not be enough to offset the negative sentiment surrounding the IPO news.

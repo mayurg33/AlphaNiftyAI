@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the current week's news sentiment is POSITIVE.
+
+The notable event is that the Sensex gained 267 points and the Nifty ended near 22,600, with FMCG and realty stocks performing well.
+
+The historical data suggests that similar news in the past has had a positive impact on the stock market, with two out of three instances showing a positive impact (+0.43% and +0.67%). Although one instance showed a negative impact (-5.07%), the overall tone of the news is positive, indicating a likely upward trend in the market.

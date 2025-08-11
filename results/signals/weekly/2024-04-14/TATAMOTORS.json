@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 8.78,
+  "sharpe_ratio": 0.32,
+  "reasoning": "The stock has a relatively low volatility and a decent Sharpe Ratio, indicating a stable performance. Fundamentally, the company is undervalued with low P/E ratios, and the news sentiment is positive driven by strong JLR sales. Although there are concerns around growth and debt, the macroeconomic environment is supportive with a strong agriculture and rural consumption sector, which could benefit Tata Motors."
+}

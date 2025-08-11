@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 46.91,
+  "sharpe_ratio": -0.54,
+  "reasoning": "The stock's high volatility and poor risk-adjusted returns, as indicated by the Sharpe Ratio, make it a concerning investment. Additionally, the company's growth metrics are a concern, with negative revenue and earnings growth, and high debt levels. The news sentiment is neutral to slightly negative, which doesn't provide a strong upside catalyst. Therefore, I recommend selling the stock."
+}

@@ -1,0 +1,10 @@
+**Current Week's News Sentiment:** Negative
+
+**Notable Events:**
+
+1. TCS and Infosys are experiencing a dip in younger employees, which may impact their future growth and competitiveness.
+2. A US court has ordered TCS to pay $194 million in penal charges for misappropriation of trade secrets, a significant financial burden.
+
+**News Tone:** The overall tone of the news is negative, indicating potential challenges for TCS and Infosys. The dip in younger employees may lead to concerns about the companies' ability to innovate and adapt to changing market conditions. The court order to pay $194 million in penal charges is a significant financial setback for TCS, which may impact its profitability and investor sentiment.
+
+Historical data suggests that similar news events have led to negative price impacts, such as the -6.60% impact on TCS stock in 2022-07-11, and the -3.83% impact in 2021-04-12. Therefore, it is likely that the current news will have a negative impact on the stock prices of TCS and Infosys.

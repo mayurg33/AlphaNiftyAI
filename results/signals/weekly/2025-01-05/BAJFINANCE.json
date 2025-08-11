@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 52.24,
+  "sharpe_ratio": 0.57,
+  "reasoning": "The stock's strong weekly performance, with a 7.53% return, and positive news sentiment, driven by a 28% growth in AUM and record quarterly customer addition, suggest a bullish trend. The company's financial health, with a high ROE and profit margins, also supports a buy decision. Although the high debt-to-equity ratio and premium valuation are concerns, the overall positive fundamentals and news sentiment outweigh these weaknesses."
+}

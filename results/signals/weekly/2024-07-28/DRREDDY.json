@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 13.27,
+  "sharpe_ratio": 0.48,
+  "reasoning": "The stock's modest return and relatively low volatility make it a less risky bet. However, its underperformance compared to peers and mixed Q1 results suggest caution. The company's strong financial health and attractive valuation are positives, but the high debt-to-equity ratio is a concern. Overall, a hold decision is warranted until the company's growth prospects become clearer."
+}

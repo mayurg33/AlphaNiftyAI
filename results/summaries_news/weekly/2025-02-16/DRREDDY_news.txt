@@ -1,0 +1,14 @@
+Based on the historical news data, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+1. The news highlights the importance of pharma stocks, including Dr. Reddy's Laboratories, in the investment portfolios of top funds.
+2. There is an increased appetite for pharma stocks, which could lead to a boost in share prices.
+
+**Tone Analysis:**
+
+The news tone is generally neutral to positive, with two out of three historical news events having a positive impact on the stock price. The only negative impact was observed on 2021-03-10, but it was not directly related to Dr. Reddy's Laboratories.
+
+The recent news on 2023-08-14, which mentions pharma stocks offering a margin of safety, has a positive impact of +0.76%. This suggests that the current news sentiment is leaning towards a positive tone, indicating a potential boost to the share price of Dr. Reddy's Laboratories.

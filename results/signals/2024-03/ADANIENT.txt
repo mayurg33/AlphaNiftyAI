@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor performance over the past 12 months, high volatility, and negative Sharpe Ratio suggest it's not an attractive investment opportunity. Additionally, the high valuation, poor profit margins, and debt concerns from the fundamentals analysis further support a SELL signal.

@@ -1,0 +1,3 @@
+M&M's weekly performance was disappointing, with a return of -2.19%, indicating a decline in stock value. The stock's volatility was moderate at 19.68%, suggesting moderate price fluctuations. Compared to its peers, M&M underperformed TECHM and MARUTI, but outperformed KOTAKBANK in terms of return. The stock's Sharpe Ratio of -0.59 indicates that the return was not sufficient to compensate for the risk taken. Overall, M&M was a moderately risky investment this week.
+
+[Volatility: 19.68%]

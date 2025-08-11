@@ -1,0 +1,15 @@
+**Weekly News Sentiment:** Negative
+
+The current week's news sentiment is predominantly negative, with two out of three news headlines indicating a decline in the stock market. The news tone is bearish, with the Sensex and Nifty 50 sliding for six consecutive days, and the FMCG pack being the worst hit.
+
+**Notable Events:**
+
+1. The Sensex slipped 111 points in subdued trade, while the Nifty held 23,500.
+2. The stock market continued its downward trend for the sixth day, with bears dominating Dalal Street.
+3. The FMCG pack was the worst hit, indicating a sector-specific decline.
+
+**Historical Similar News and Price Impact:**
+
+The historical data suggests that similar news headlines have resulted in negative price impacts in the past. For instance, news about the Sensex and Nifty sliding has led to price declines of -0.99% to -3.23%. However, there are some instances of positive price impacts, such as +4.79% and +3.48%, which were driven by specific stock recommendations or positive earnings results.
+
+Overall, the current week's news sentiment is negative, indicating a bearish tone in the stock market.

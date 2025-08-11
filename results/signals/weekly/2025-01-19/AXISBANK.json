@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 7,
+  "volatility": 40.5,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative news sentiment are major concerns. Additionally, the company's sluggish revenue and earnings growth rates indicate limited growth prospects. Although the financial health is stable, the overall picture suggests a SELL decision."
+}

@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's underperformance and negative returns across all time frames, combined with its moderate volatility and relatively low Max Drawdown, suggest a cautious approach. Additionally, the company's mixed fundamental metrics, such as high P/E ratios and decent but not exceptional ROE, do not justify a strong BUY signal. However, the macroeconomic environment, with a strong monsoon and easing inflation, may support gradual improvement in FMCG demand, making a HOLD position reasonable for now.

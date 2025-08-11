@@ -1,0 +1,3 @@
+LT's weekly performance was modest, with a return of 0.48%, significantly underperforming its peers RELIANCE and ULTRACEMCO. The stock's volatility was relatively moderate at 18.32%, lower than most of its peers. Despite a low Sharpe Ratio of 0.11, the stock's max drawdown was contained at -1.51%. Overall, LT's performance was lackluster this week, and it was a relatively less risky bet compared to its peers.
+
+[Volatility: 18.32%]

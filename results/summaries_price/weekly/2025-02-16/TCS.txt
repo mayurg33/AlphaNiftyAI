@@ -1,0 +1,3 @@
+TCS experienced a decline of 2.53% in the week starting 2025-02-16, with a Sharpe Ratio of -0.61, indicating poor risk-adjusted returns. The stock's volatility was relatively moderate at 16.49%, but its Max Drawdown of -3.14% suggests a notable decline in value. Compared to its peers, TCS underperformed TATASTEEL but outperformed TATACONSUM and TATAMOTORS in terms of returns. Overall, the stock's performance was lackluster, and its risk profile was moderate.
+
+[Volatility: 16.49%]

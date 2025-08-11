@@ -1,0 +1,25 @@
+Symbol: BAJFINANCE
+Month: 2024-04
+Start Price: ₹720.65
+End Price: ₹688.11
+12M Return: -4.52%
+6M Return: -4.52%
+3M Return: -4.52%
+Volatility: 0.363
+Sharpe Ratio: -1.510
+Max Drawdown: -0.082
+Peer Correlation (BAJAJFINSV): 0.6837
+Peer Correlation (BAJAJ-AUTO): -0.5253
+Peer Correlation (AXISBANK): 0.2603
+Average Peer Correlation: 0.1396
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+Here is a short summary and recommendation based on the provided data:
+
+**Summary:**
+BAJFINANCE has underperformed in the last 12 months, with a return of -4.52%. The stock's volatility is moderate at 0.363, and its Sharpe Ratio is -1.510, indicating a poor risk-adjusted return. The maximum drawdown has been around 8.2%. The stock has a strong positive correlation with BAJAJFINSV (0.6837), a moderate positive correlation with AXISBANK (0.2603), and a strong negative correlation with BAJAJ-AUTO (-0.5253).
+
+**Recommendation:**
+Based on the negative returns, high volatility, and poor Sharpe Ratio, I would recommend a **SELL** on BAJFINANCE. The stock's underperformance and high drawdown suggest that it may continue to decline in the short term. Additionally, the negative correlation with BAJAJ-AUTO, a peer stock, may indicate a sector-specific issue that could further weigh on BAJFINANCE's performance.

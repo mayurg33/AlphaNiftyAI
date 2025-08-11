@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 18.74,
+  "sharpe_ratio": 0,
+  "reasoning": "ITC's stock has underperformed its peers and has high volatility, indicating significant price fluctuations. However, its financial health is strong, with high profitability and reasonable valuation. The news sentiment is neutral, and the macroeconomic environment is supportive of growth. Considering these factors, I recommend a HOLD decision, as the stock's potential for future growth is balanced by its current underperformance and high volatility."
+}

@@ -1,0 +1,10 @@
+**Weekly News Sentiment:** Positive
+
+**Notable Events:**
+
+1. Eicher Motors shares jumped 6% on UBS upgrade, indicating a strong positive sentiment.
+2. The verdict on interest liability on delayed payment of tax in GST did not seem to have a significant negative impact on the stock.
+
+**News Tone:** Positive
+
+The overall tone of the news is positive, driven primarily by the UBS upgrade, which led to a 6% jump in Eicher Motors shares. The historical data suggests that positive news related to sales and upgrades tends to have a significant positive impact on the stock price. Although the GST verdict could have been a concern, the historical data suggests that similar news related to tax and input tax credit has not had a significant negative impact on the stock in the past. Overall, the positive sentiment from the UBS upgrade outweighs any potential concerns from the GST verdict, leading to a positive news tone for the week.

@@ -1,0 +1,3 @@
+HDFCLIFE's weekly performance was disappointing, with a return of -2.04%, outperforming only SBILIFE among its peers. The stock's volatility was moderate at 14.59%, lower than HDFCBANK and HINDUNILVR. The Sharpe Ratio of -0.56 indicates that the stock's return was not sufficient to compensate for its risk. Overall, HDFCLIFE underperformed its peers this week and was moderately risky.
+
+[Volatility: 14.59%]

@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 16.09,
+  "sharpe_ratio": -0.17,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate poor risk-adjusted returns. Additionally, the negative news sentiment, including the court order to pay $194 million in penal charges, is likely to have a negative impact on the stock price. Furthermore, the company's growth metrics are a concern, with negative earnings growth and slow revenue growth. Therefore, it's a good time to sell the stock."
+}

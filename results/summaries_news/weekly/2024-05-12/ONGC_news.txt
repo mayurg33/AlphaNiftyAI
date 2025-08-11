@@ -1,0 +1,5 @@
+Based on the current week's news, the sentiment is NEUTRAL.
+
+The notable event is that a Maharatna PSU (Public Sector Undertaking) is considering a dividend of Rs 10.25 and 3 bonuses on May 20. The news tone is neutral because it doesn't explicitly convey a positive or negative sentiment. The dividend announcement is a neutral event, and the impact on the stock price will depend on market expectations and other factors.
+
+Historically, similar news has had varying impacts on the stock price. In one instance, the impact was -0.59%, while in another, it was +1.39%. There was also an instance where the stock price dropped by -4.74% due to lower-than-expected dividend. Therefore, the current news tone is neutral, and the market's reaction to the dividend announcement will determine the stock's future direction.

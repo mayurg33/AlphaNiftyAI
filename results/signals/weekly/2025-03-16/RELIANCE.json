@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 13.56,
+  "sharpe_ratio": 0.30,
+  "reasoning": "The stock's decent risk-adjusted return and moderate volatility suggest a HOLD decision. However, the high debt-to-equity ratio and relatively high volatility are concerns. The neutral news sentiment and decent macroeconomic environment also support a HOLD decision, as there is no strong reason to BUY or SELL."
+}

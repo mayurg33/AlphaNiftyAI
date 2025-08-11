@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 7.03,
+  "sharpe_ratio": -0.08,
+  "reasoning": "The stock's performance is lackluster, but its financial health is strong, with high gross margins and EBITDA margins. The news sentiment is slightly positive, suggesting a potential rebound. However, the debt-to-equity ratio is high, and revenue and earnings growth rates are low, warranting caution. Therefore, I recommend holding the stock for now."
+}

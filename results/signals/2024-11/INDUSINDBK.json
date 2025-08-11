@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock has underperformed in the last 12 months with a return of -6.27%, high volatility, and a poor Sharpe Ratio. The max drawdown of -0.100 suggests significant declines in value. Although the fundamentals are mixed, the lack of earnings growth data and debt-to-equity ratio makes it difficult to make a stronger recommendation. Considering the overall analysis, I recommend a SELL."
+}

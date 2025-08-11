@@ -1,0 +1,25 @@
+Symbol: TITAN
+Month: 2024-12
+Start Price: ₹3306.85
+End Price: ₹3253.15
+12M Return: -1.62%
+6M Return: -1.62%
+3M Return: -1.62%
+Volatility: 0.181
+Sharpe Ratio: -1.056
+Max Drawdown: -0.073
+Peer Correlation (TATACONSUM): 0.3683
+Peer Correlation (TATASTEEL): 0.4281
+Peer Correlation (TATAMOTORS): 0.2591
+Average Peer Correlation: 0.3518
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Titan Company Ltd (TITAN) has underperformed in the last 12 months, with a return of -1.62%. The stock's volatility is moderate at 0.181, and its Sharpe Ratio is -1.056, indicating that the return is not compensating for the risk taken. The maximum drawdown is -0.073, which is relatively low. In terms of peer correlation, TITAN has a moderate correlation with its peers, with an average correlation of 0.3518.
+
+**Recommendation:**
+
+Based on the analysis, I would suggest a **HOLD** position for TITAN. The stock's underperformance in the last 12 months, combined with its negative Sharpe Ratio, indicates that it may not be the best investment opportunity at this time. However, the moderate volatility and low maximum drawdown suggest that the stock is not extremely risky. Additionally, the peer correlation is not overly high, which could indicate some diversification benefits. Therefore, I would recommend holding onto the stock for now and re-evaluating it in the future if its performance improves.

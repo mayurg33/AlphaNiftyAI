@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 24.06,
+  "sharpe_ratio": -0.65,
+  "reasoning": "The stock's dismal weekly performance, high volatility, and poor Sharpe Ratio indicate a highly risky investment. Additionally, the company's mixed financial health, rich valuation, and moderate debt burden are concerns. Although the news sentiment is neutral to positive, the historical data suggests that dividend announcements have had a mixed impact on the stock price, and the KTM lifeline news is unclear in its implications."
+}

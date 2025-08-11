@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock's poor price trends, high volatility, and negative Sharpe Ratio suggest a SELL, but the fundamental analysis reveals a large-cap company with a relatively low PE ratio and moderate ROE, indicating potential undervaluation. However, concerns about declining revenue growth and high debt-to-equity ratio prevent a BUY recommendation. The neutral to slightly negative news sentiment and mixed macroeconomic environment further support a HOLD rating."
+}

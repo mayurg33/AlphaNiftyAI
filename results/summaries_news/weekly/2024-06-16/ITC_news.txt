@@ -1,0 +1,5 @@
+Based on the historical news data, the current week's news sentiment is NEUTRAL to SLIGHTLY NEGATIVE.
+
+The notable event is the upcoming announcement of ITC's demerger record date in 2024, which has sparked interest and speculation among investors. However, the historical news data suggests that demerger-related news has had a mixed impact on the stock price, with two instances of negative impact (-1.58% and -5.07%) and one instance of positive impact (+2.59%).
+
+The overall tone of the news is neutral, as the market is awaiting the announcement and its implications for the company's future prospects. The share ratio will be a key factor in determining the impact of the demerger on the stock price.

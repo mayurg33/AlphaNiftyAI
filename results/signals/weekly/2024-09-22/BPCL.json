@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 35.95,
+  "sharpe_ratio": -0.30,
+  "reasoning": "The stock's high volatility and poor risk-adjusted performance, as indicated by its Sharpe Ratio, make it a risky investment. Additionally, the negative news sentiment and consistent decline in stock price over the past five sessions suggest a downward trend. Furthermore, the company's financial health is mixed, with weaknesses in revenue and earnings growth, as well as a high debt-to-equity ratio, which may pose a risk to its financial stability."
+}

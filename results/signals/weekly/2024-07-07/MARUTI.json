@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 8.42,
+  "sharpe_ratio": -0.02,
+  "reasoning": "The stock's recent performance is lackluster, but its volatility is relatively low, indicating a stable performance. Fundamentally, the company is financially healthy with strong profitability and debt management. However, its growth metrics are sluggish. The news sentiment is positive, and the macroeconomic environment is supportive of the automotive industry. Overall, the stock's strengths and weaknesses balance out, making it a HOLD."
+}

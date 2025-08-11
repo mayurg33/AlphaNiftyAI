@@ -1,0 +1,10 @@
+Based on the current week's news, the sentiment is NEUTRAL.
+
+Notable events:
+
+1. Sun Pharma sets board meeting date to consider Q3 results 2025 and interim dividend, which is a neutral event as it is a routine announcement.
+2. JM Financial recommends buying Sun Pharma with a target price of Rs 2094, which is a positive event.
+
+Historical analysis suggests that similar news events have had mixed impacts on the stock price. The first news event is similar to past events where the company announced quarterly results or dividend declarations, which had a negative impact on the stock price (-3.08%, -2.36%, and -2.20%). However, the second news event is similar to a past event where an analyst recommended buying the stock, which had a positive impact (+0.67%). Other past events had mixed impacts (-4.41% and -1.11%).
+
+Overall, the current week's news tone is neutral, with one positive event (buy recommendation) and one neutral event (board meeting announcement). The historical analysis suggests that the stock price may be volatile in response to these events.

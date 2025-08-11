@@ -1,0 +1,15 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: From Tata Steel to JSW Steel: Heres what analysts make of metal sectors stocks**
+
+The news tone is NEUTRAL for metal sector stocks. The historical data shows that analysts' opinions on metal sector stocks have had varying impacts on the stock price. While some analysts' positive views led to a 1.94% increase, others' views resulted in a 5.96% and 8.47% decline. Therefore, it's difficult to predict the exact impact of this news on the stock price.
+
+**Query 2: Top gainers and losers: BPCL, Shriram Finance, L&T major drag as NIFTY drops below 25,300; JSW Steel leads movers**
+
+The news tone is NEGATIVE for the broader market, but POSITIVE for JSW Steel specifically. The historical data shows that news about top gainers and losers has often led to a decline in the market, with a negative impact on the NIFTY index. However, in one instance, the news led to a 2.03% increase. The fact that JSW Steel is leading the movers suggests that it might be an outlier, and its stock price might be positively impacted.
+
+Notable events:
+
+* Analysts' opinions on metal sector stocks are divided, making it difficult to predict the impact on the stock price.
+* The broader market is under pressure, with the NIFTY index dropping below 25,300.
+* JSW Steel is leading the movers, which could be a positive sign for its stock price.

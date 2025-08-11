@@ -1,0 +1,1 @@
+Based on these metrics, I recommend a HOLD on LT. The short-term returns are inconsistent, but the Sharpe Ratio indicates that the returns are sufficient to compensate for the risk taken.

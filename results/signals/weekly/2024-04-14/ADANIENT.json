@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 20.78,
+  "sharpe_ratio": -0.11,
+  "reasoning": "The stock's weekly performance was lackluster, with a negative Sharpe Ratio indicating poor risk-adjusted returns. The company's financial health is a cause for caution, with low profitability metrics, high valuation, and high debt-to-equity ratio. Additionally, the news sentiment is neutral, and the macroeconomic environment, although showing some positive trends, is not strong enough to outweigh the company's weaknesses."
+}

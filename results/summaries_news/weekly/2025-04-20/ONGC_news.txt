@@ -1,0 +1,5 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+The news tone is neutral because the impact of similar news in the past has been inconsistent. In one instance, the impact was positive (+0.57%), while in two other instances, the impact was negative (-2.87% and -0.59%). This suggests that the market reaction to India stepping up oil and gas exploration and awarding new blocks is unpredictable and may not have a significant impact on the stock.
+
+Notable events mentioned in the historical similar news include the government receiving bids for oil and gas blocks, India lining up hydrocarbon blocks under the Open Acreage Licensing Policy (OALP), and the country getting bids for oil and gas blocks in various bid rounds.

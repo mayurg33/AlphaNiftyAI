@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 24.2,
+  "sharpe_ratio": -0.32,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative news sentiment suggest downward pressure on the stock. Additionally, the company's valuation looks stretched, which may lead to a correction. Although the company's financial health is robust, the negative sentiment and high valuation outweigh the positives, making it a sell decision."
+}

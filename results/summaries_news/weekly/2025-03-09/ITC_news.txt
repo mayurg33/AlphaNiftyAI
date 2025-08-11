@@ -1,0 +1,13 @@
+Based on the current week's news, the sentiment is NEUTRAL.
+
+Notable events:
+
+* Wells Fargo sells ITC stocks worth Rs 106 crore, which could be a negative signal for the stock.
+* ITC shares hit a 52-week low, which may raise concerns among investors.
+
+Historical context:
+
+* The sale of ITC stocks by Wells Fargo is reminiscent of the Morgan Stanley overweight report in 2021, which had a positive impact on the stock. However, the current sale could have a negative impact.
+* The 52-week low alert is similar to the 2022-06-07 event, which had a negative impact on the stock.
+
+Overall, the news tone is neutral because while the sale of stocks by Wells Fargo could be a negative signal, the 52-week low alert could also be a buying opportunity for some investors. The historical context suggests that the impact of these events on the stock price is uncertain, hence the neutral sentiment.

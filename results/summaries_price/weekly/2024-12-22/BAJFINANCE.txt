@@ -1,0 +1,3 @@
+BAJFINANCE had a disappointing week, with a -5.0% return, outperforming only BAJAJ-AUTO among its peers. The stock's volatility was relatively moderate at 10.1%, but its Sharpe Ratio of -2.00 indicates poor risk-adjusted performance. Despite a lower return than BAJAJ-AUTO, BAJFINANCE's lower volatility made it a relatively less risky bet this week. Overall, the stock's performance was lackluster, and investors may want to reassess their positions.
+
+[Volatility: 10.1%]

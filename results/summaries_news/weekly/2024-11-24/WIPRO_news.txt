@@ -1,0 +1,14 @@
+The current week's news sentiment for Wipro is overall positive.
+
+Notable events:
+
+* Wipro's board has fixed a record date for a bonus issue, which has led to a 3% jump in the stock price.
+* Wipro Chairman Rishad Premji has stressed the importance of work-life balance, which may have a positive impact on employee morale and productivity.
+
+Historical context:
+
+* In the past, Wipro's stock has reacted positively to news related to strong IT services outlook, digital services demand, and acquisitions, with price impacts ranging from +4.63% to +9.14%.
+* However, the stock has also reacted negatively to news related to employee layoffs, salary cuts, and moonlighting, with price impacts ranging from -2.63% to -2.96%.
+* A positive statement from Azim Premji, the founder of Wipro, had a positive impact of +2.38% on the stock.
+
+Overall, the news tone is positive for Wipro, driven by the bonus issue and the chairman's emphasis on work-life balance.

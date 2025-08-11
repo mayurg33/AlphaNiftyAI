@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock has underperformed in the past year with a 12-month return of -4.93%. The Sharpe Ratio is -3.090, indicating that the stock's return is not sufficient to compensate for its risk. Additionally, the high correlation with TATASTEEL and moderate correlations with other peers suggest industry-specific factors may lead to further declines in value. The macroeconomic environment, although supportive of growth, may not be enough to offset the stock's poor performance."
+}

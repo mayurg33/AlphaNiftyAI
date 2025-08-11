@@ -1,0 +1,11 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL. 
+
+Notable events mentioned in the news include:
+
+* Sensex extending its gain to the 4th day
+* Nifty ending above 22,400
+* Hindalco and Cipla being the top gainers
+
+The historical similar news shows a mix of positive and negative impacts on the stock price. For instance, on 2021-09-23, Wipro Ltd's stock price rose 3.63% due to a positive news event. On the other hand, on 2023-02-06, the news event had a negative impact of -5.22% on the stock price. However, on 2022-08-04, the news event had a negative impact of -2.19% on Hindalco's stock price, despite being a top gainer.
+
+Overall, the news tone is neutral, indicating that the market is reacting positively to the Sensex and Nifty's gains, but the impact on individual stocks like Hindalco and Cipla is uncertain and may vary.

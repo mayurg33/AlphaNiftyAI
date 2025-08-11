@@ -1,0 +1,3 @@
+DIVISLAB's weekly performance was moderate, with a return of 1.6%, outperforming DRREDDY but underperforming CIPLA. The stock's volatility was relatively high at 33.48%, similar to CIPLA's volatility. Despite this, DIVISLAB's Sharpe Ratio of 0.38 indicates a relatively low risk-adjusted return. Overall, the stock's performance was decent, but its high volatility and moderate Sharpe Ratio suggest a cautious approach.
+
+[Volatility: 33.48%]

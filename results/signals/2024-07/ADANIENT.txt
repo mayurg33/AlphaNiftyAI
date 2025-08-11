@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's underperformance and high valuation are concerns, but the moderate volatility and low Max Drawdown suggest it may not be overly vulnerable to significant declines. Additionally, the mixed news sentiment and supportive macroeconomic environment, particularly in the services sector, contribute to a neutral outlook.

@@ -1,0 +1,11 @@
+Based on the historical data, here's a summary of the current week's news sentiment:
+
+**Query 1: Shares to buy: Prashanth Tapse of Mehta Equities suggests buying Apollo Hospitals, Power Grid, SBI in the short term**
+
+The overall sentiment of this news is NEUTRAL. The historical data shows a mix of positive and negative impacts, with a slight leaning towards positivity. The average impact is around +0.48%. Notable events include State Bank of India's investment in JSW Cement, which had a positive impact of +1.31%. However, there's also a negative impact of -1.86% from a similar "shares to buy" recommendation.
+
+**Query 2: Adani Ports, Piramal Pharma: Six must-have stocks to beat the markets**
+
+The overall sentiment of this news is POSITIVE. The historical data shows a strong positive impact, with an average impact of around +3.14%. Notable events include Adani Group debt being seen as a value opportunity by Goldman and JPMorgan, which had a positive impact of +4.87%. Although there's a negative impact of -0.31% from a similar "Adani Ports" news, the overall tone is positive.
+
+In summary, the current week's news sentiment is mixed, with one query having a neutral tone and the other having a positive tone.

@@ -1,0 +1,3 @@
+Hindalco's weekly performance was strong, with a return of 6.85%, outperforming its peers ITC and ULTRACEMCO. However, this came with high volatility of 59.17%, making it a risky investment. In comparison, HCLTECH had similar volatility but underperformed Hindalco in terms of returns. Hindalco's Sharpe Ratio of 0.61 indicates that its returns were not entirely justified by its risk-taking.
+
+[Volatility: 59.17%]

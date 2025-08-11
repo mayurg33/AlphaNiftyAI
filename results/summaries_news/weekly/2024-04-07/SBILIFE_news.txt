@@ -1,0 +1,8 @@
+Based on the historical similar news and price impact, the current week's news sentiment is POSITIVE.
+
+Notable events:
+
+* IRDAI's new regulation on surrender charges is seen as a positive development for the insurance industry, particularly for SBI Life and LIC.
+* The news suggests that SBI Life and LIC are top buys in the insurance space, indicating a positive outlook for these companies.
+
+The tone of the news is positive, as it implies that the new regulation will benefit SBI Life and LIC, and investors are likely to respond positively to this news. The historical price impact of similar news also supports this assessment, with positive impacts ranging from +0.30% to +3.15%.

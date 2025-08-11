@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Despite the stock's undervaluation and strong fundamentals, the declining price trend and poor risk-adjusted returns (Sharpe Ratio) suggest caution, while the mixed news sentiment and uncertain macroeconomic environment further support a neutral outlook.

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 43.75,
+  "sharpe_ratio": -0.34,
+  "reasoning": "The stock's high volatility and negative Sharpe Ratio indicate a risky investment. However, the company's strong gross margin and EBITDA margin suggest financial stability. The positive news sentiment and buy recommendation from JM Financial are encouraging, but the high valuation and debt levels are concerns. Overall, I recommend a HOLD decision, as the stock's potential upside is balanced by its risks."
+}

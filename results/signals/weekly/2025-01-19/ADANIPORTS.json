@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 27.45,
+  "sharpe_ratio": 1.28,
+  "reasoning": "The stock has a strong weekly performance with a high return and moderate risk. However, the company's valuation looks stretched, and the debt-to-equity ratio is a concern. The macroeconomic environment is supportive, with a growing services sector and improving employment rates. Given the mixed signals, I recommend a HOLD decision."
+}

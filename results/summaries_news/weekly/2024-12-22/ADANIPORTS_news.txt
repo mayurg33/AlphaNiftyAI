@@ -1,0 +1,11 @@
+Based on the historical data, here's a summary of the current week's news sentiment:
+
+**Query 1: Adani Ports, ICICI Bank, TCS: How to trade these 3 buzzing largecap stocks**
+
+The news sentiment is **Positive**. The historical data shows that similar news articles have had a positive impact on the stock prices, with an average impact of +4.11%. The notable events mentioned in the historical data are Adani Ports being in the traders' spotlight, Adani Enterprises and ICICI Bank adding more market capitalization than RIL in 2022, and November stock picks including SBI, IndusInd, and Ashok Leyland. These events suggest that the news tone is optimistic about the stocks mentioned.
+
+**Query 2: Six Stocks In News At Noon: Cipla To Shriram Finance — Top Gainers And Losers**
+
+The news sentiment is **Neutral**. The historical data shows that similar news articles have had a mixed impact on the stock prices, with an average impact of -1.53%. The notable events mentioned in the historical data are investors subscribing to Bharti Airtel's rights issue, an increase in appetite for pharma stocks, and top stock picks for January including TCS, SBI Life, and Cipla. These events suggest that the news tone is neutral, with both positive and negative sentiments present.
+
+Overall, the news tone for the week is **Positive** for Adani Ports, ICICI Bank, and TCS, while it's **Neutral** for Cipla and Shriram Finance.

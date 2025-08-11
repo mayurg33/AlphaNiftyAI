@@ -1,0 +1,8 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* The IndusInd promoter company is planning to raise its stake in the bank to 26%.
+* This move is similar to previous instances where the RBI allowed promoters to increase their stake in banks.
+
+The news tone is neutral because the historical impact of similar news has been mixed. In one instance, the impact was positive (+2.62%), while in the other two instances, the impact was negative (-0.58% and -1.66%). This suggests that the market reaction to this news is uncertain and could go either way.

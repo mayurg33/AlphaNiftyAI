@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 35.34,
+  "sharpe_ratio": 0.13,
+  "reasoning": "The stock's high volatility and low Sharpe Ratio indicate a risky investment. The negative news sentiment, particularly the government's decision not to relax the GST demand, may put pressure on the company's financials. Additionally, the company's growth metrics are a concern, with negative earnings growth and slow revenue growth. Therefore, it's a good time to sell the stock."
+}

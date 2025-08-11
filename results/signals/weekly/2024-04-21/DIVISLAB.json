@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 23.37,
+  "sharpe_ratio": -0.27,
+  "reasoning": "The stock's poor risk-adjusted performance and high volatility are concerns. However, the company's strong financial health and profitability metrics are positives. The macroeconomic environment is also supportive, with a strong services sector and improving rural consumption. Given the mixed signals, I recommend a HOLD decision."
+}

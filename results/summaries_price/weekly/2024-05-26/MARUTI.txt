@@ -1,0 +1,3 @@
+Maruti's weekly performance was impressive, with a 4.23% return, outperforming its peers M&M, TATAMOTORS, and BAJAJ-AUTO. The stock's volatility was moderate at 25.06%, lower than M&M's but higher than TATAMOTORS' and BAJAJ-AUTO's. With a Sharpe Ratio of 0.89, the stock's return was relatively risk-adjusted. Overall, Maruti's performance was strong, with no max drawdown, indicating a relatively low-risk week.
+
+[Volatility: 25.06%]

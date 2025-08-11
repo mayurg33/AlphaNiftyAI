@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock's poor performance, high volatility, and negative Sharpe Ratio suggest a SELL recommendation. However, the low valuation ratios and decent ROE indicate potential undervaluation. The high debt-to-equity ratio and negative earnings growth are concerns. The positive news sentiment and favorable macroeconomic environment provide some optimism. Overall, a HOLD rating is recommended to monitor the company's progress in improving its profitability and debt situation."
+}

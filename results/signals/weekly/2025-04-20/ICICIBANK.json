@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 36.47,
+  "sharpe_ratio": 0.91,
+  "reasoning": "ICICIBANK's recent performance is decent, with a strong profit margin and decent ROE. However, the forward P/E ratio is high, indicating potential overvaluation. The news sentiment is positive, but the macroeconomic environment is mixed, with some positive trends in agriculture and services, but also concerns about inflation and trade deficit. Overall, I'm cautious and recommend a HOLD decision."
+}

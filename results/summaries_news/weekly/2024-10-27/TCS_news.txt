@@ -1,0 +1,5 @@
+The current week's news sentiment is positive. The notable event is that TCS has launched an NVIDIA business unit to accelerate AI adoption for customers across industries.
+
+Historically, similar news related to AI and partnerships have had a positive impact on the stock price. For example, when TCS launched a generative AI offering in an expanded tie-up with Google Cloud, the impact was +3.06%. Similarly, when TCS scaled up its Microsoft Azure partnership, the impact was +0.45%. This suggests that the market reacts positively to TCS's efforts to expand its AI capabilities and partnerships.
+
+Therefore, based on this news, the tone is positive for the stock.

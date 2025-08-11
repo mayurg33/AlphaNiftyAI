@@ -1,0 +1,11 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: Why Sun Pharma may be in focus on Monday**
+
+The historical news sentiment around Sun Pharma is mixed. There is one positive news with a +0.67% impact, one neutral news with a -0.44% impact, and one negative news with a -1.00% impact. The notable events include the company's growth in Indian and US businesses, receiving a USFDA directive for corrective action at a plant, and winning US FDA approval for an anti-fungal injection. The overall tone of the news is neutral.
+
+**Query 2: Stock Radar: Hero MotoCorp, Premier Energies, Sun Pharma, Afcons Infrastructure, Zen Technologies in focus...**
+
+The historical news sentiment around this query is mostly negative. There are three negative news with impacts ranging from -0.30% to -4.41%, and one negative news with a -2.18% impact. The notable events include a stellar debut of Policybazaar, recovery hopes for two-wheeler stocks, and a revival in the domestic market and export ramp-up for Hero MotoCorp. The overall tone of the news is negative.
+
+In summary, the current week's news sentiment is neutral for Sun Pharma and negative for the stocks mentioned in the Stock Radar query.

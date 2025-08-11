@@ -1,0 +1,3 @@
+ITC's weekly performance was disappointing, with a return of -4.31%, significantly underperforming its peers. The stock's volatility was high at 23.03%, indicating a turbulent week. Compared to its peers, ITC's return was the lowest, and its Sharpe Ratio was the worst, suggesting poor risk-adjusted performance. Overall, ITC was a risky bet this week, with a high max drawdown of -4.31%.
+
+[Volatility: 23.03%]

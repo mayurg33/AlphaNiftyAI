@@ -1,0 +1,1 @@
+Based on the metrics, I would recommend a HOLD. The recent returns are negative, but the volatility is relatively low, and the Sharpe Ratio suggests that the returns are not too bad considering the risk taken.

@@ -1,0 +1,18 @@
+Based on the historical data, here is a summary of the current week's news sentiment:
+
+**Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+* ONGC, India's flagship energy major, is exploring mini-LNG plants to evacuate natural gas from isolated fields.
+
+**Historical Context:**
+
+* The query "ONGC – India’s flagship Energy major" has a mixed historical impact, with two negative events (-2.51% and -4.30%) and one positive event (+3.58%).
+* The query "ONGC looks at mini-LNG plants to evacuate natural gas from isolated fields" has a predominantly positive historical impact, with three positive events (+6.40%, +3.05%, and +1.11%).
+
+**News Tone:**
+
+* The current week's news tone is neutral to positive, as ONGC is taking proactive steps to evacuate natural gas from isolated fields, which could lead to increased production and revenue. The historical data suggests that such initiatives have had a positive impact on the stock in the past.
+
+Overall, the news tone is cautiously optimistic, and investors may view this development as a positive step forward for ONGC. However, it's essential to consider other market and economic factors that may influence the stock's performance.

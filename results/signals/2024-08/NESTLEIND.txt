@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's steady performance, low volatility, and decent risk-adjusted return are positives, but high valuation, low profitability, and struggling growth are concerns. The neutral news sentiment and stable macroeconomic environment further support a HOLD rating, as there are no strong catalysts to suggest a significant upside or downside.

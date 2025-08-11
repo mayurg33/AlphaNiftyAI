@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's underperformance and negative Sharpe Ratio, combined with its high PE ratio, low profit margin, and high debt-to-equity ratio, suggest that it is overvalued and carries significant risks. Additionally, the macroeconomic environment, although generally positive, does not provide a strong enough tailwind to justify the current valuation.

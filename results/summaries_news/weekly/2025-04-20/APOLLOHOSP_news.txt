@@ -1,0 +1,14 @@
+Based on the historical news data, here is a summary of the current week's news sentiment:
+
+**Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+* Apollo Hospitals is planning to expand its presence in India through acquisitions and greenfield projects, with a focus on strengthening its market leadership in the country's evolving healthcare landscape.
+* The company has announced ₹6,000-crore capacity expansion plans, with a focus on North India.
+
+**News Tone:**
+
+The news tone is neutral to positive, indicating that the market is likely to react positively to these announcements. The expansion plans and acquisition strategy are expected to strengthen Apollo Hospitals' market position and drive growth. While there are some historical instances of negative price impact, the overall sentiment is positive, with a historical average impact of around +0.42%.
+
+It's worth noting that the historical news data is limited, and the impact of the news may vary depending on various market and economic factors. However, based on the current news, the sentiment appears to be positive, and investors may react favorably to these announcements.

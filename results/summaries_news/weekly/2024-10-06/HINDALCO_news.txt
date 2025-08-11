@@ -1,0 +1,13 @@
+Based on the historical similar news, the sentiment of the current week's news is NEUTRAL to POSITIVE.
+
+Notable events:
+
+* Hindalco and JSW Steel are in the race to acquire copper mines in Jharkhand, which could be a positive development for both companies.
+
+Historical context:
+
+* In the past, when Jindal Steel and Power and Hindalco bagged coal mines in Odisha, the stock price surged by 2.81%.
+* When JSW Steel's iron ore requirement was met in-house, the stock price fell by 5.19%, indicating a negative impact.
+* However, in another instance, JSW Steel's stock surged by 13% due to a relentless rally, indicating a strong positive impact.
+
+Overall, the news tone is neutral to positive, as the acquisition of copper mines could be a positive development for both Hindalco and JSW Steel, but the historical context suggests that the impact could be mixed.

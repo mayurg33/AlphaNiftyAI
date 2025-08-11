@@ -1,0 +1,25 @@
+Symbol: CIPLA
+Month: 2024-10
+Start Price: ₹1664.85
+End Price: ₹1551.75
+12M Return: -6.79%
+6M Return: -6.79%
+3M Return: -6.79%
+Volatility: 0.425
+Sharpe Ratio: -1.785
+Max Drawdown: -0.156
+Peer Correlation (SUNPHARMA): 0.3811
+Peer Correlation (DIVISLAB): 0.2451
+Peer Correlation (GRASIM): 0.1929
+Average Peer Correlation: 0.273
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+CIPLA's stock performance has been disappointing over the past 12 months, with a return of -6.79%. The volatility of the stock is moderate at 0.425, and the Sharpe Ratio is -1.785, indicating that the returns are not justified by the level of risk taken. The maximum drawdown of -0.156 is also a concern. However, the correlation with its peers is relatively low, suggesting that CIPLA's performance is not strongly linked to the broader pharmaceutical industry.
+
+**Recommendation:**
+
+Based on the poor performance and high volatility, I would recommend a **SELL** position on CIPLA. The low Sharpe Ratio and high maximum drawdown indicate that the stock is not a good investment opportunity at present. Additionally, the low correlation with peers suggests that CIPLA's underperformance is not just a sector-wide issue, but rather a company-specific problem. It may be wise to reassess the stock's fundamentals and wait for a turnaround before considering a BUY or HOLD position.

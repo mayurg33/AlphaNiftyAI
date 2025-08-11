@@ -1,0 +1,3 @@
+CIPLA had a strong weekly performance, delivering a 3.94% return, significantly outperforming its peers. The stock's volatility was relatively low at 7.48%, indicating a relatively stable performance. Compared to its peers, CIPLA's Sharpe Ratio of 2.06 suggests it offered a high return per unit of risk taken. Overall, CIPLA was a low-risk, high-return stock this week, outperforming its peers.
+
+[Volatility: 7.48%]

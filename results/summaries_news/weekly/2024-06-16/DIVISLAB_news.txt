@@ -1,0 +1,13 @@
+Based on the news articles, the sentiment for the current week is NEUTRAL to POSITIVE.
+
+Notable events:
+
+* JM Financial expects Trent and BEL to enter the Nifty50 index, which is a positive development for these stocks.
+* The stock market has been trending higher, with the Nifty closing at 23,400 and the Sensex above 76,800.
+* There are expectations of a drift towards 23,160-23,100 in the Nifty, but this is not a strongly bearish sentiment.
+
+The tone of the news is generally positive, with a focus on potential additions to the Nifty50 index and the overall market trend being higher. However, there are some neutral to mildly bearish sentiments expressed in some articles, such as the expectation of a drift in the Nifty.
+
+The historical data suggests that similar news articles have had a mixed impact on the stock prices, with some positive and some negative effects. However, the overall trend is slightly positive, with an average impact of around 2-3% increase in stock prices.
+
+In terms of specific stocks, Trent and BEL are likely to benefit from their potential inclusion in the Nifty50 index, while Zomato's addition to the index has already been decoded by JM Financial. Jio Financial is mentioned as a stock that may not enter the Nifty50 index, but this is not a strongly bearish sentiment.

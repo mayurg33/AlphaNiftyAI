@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 11.51,
+  "sharpe_ratio": 0.28,
+  "reasoning": "Wipro's financial health is stable, with a strong profitability profile and reasonable valuation. However, the revenue growth rate is relatively low, and the debt-to-equity ratio is a concern. The news sentiment is negative due to the replacement from the Sensex benchmark, which may impact investor sentiment. Considering the mixed signals, a hold decision is recommended."
+}

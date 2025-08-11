@@ -1,0 +1,1 @@
+Based on the historical news data, the current week's news sentiment is **Positive**. The notable event is the "Buy ITC, target price Rs 515" recommendation by JM Financial, which is likely to have a positive impact on the stock price. This is supported by a similar event in the past (2022-02-06) where JM Financial's "buy" call resulted in a +7.23% impact on the stock price.

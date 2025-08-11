@@ -1,0 +1,25 @@
+Symbol: NTPC
+Month: 2025-03
+Start Price: ₹314.40
+End Price: ₹357.60
+12M Return: 13.74%
+6M Return: 13.74%
+3M Return: 13.74%
+Volatility: 0.336
+Sharpe Ratio: 5.538
+Max Drawdown: -0.034
+Peer Correlation (POWERGRID): 0.6928
+Peer Correlation (COALINDIA): 0.5747
+Peer Correlation (ONGC): 0.3772
+Average Peer Correlation: 0.5482
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+NTPC, a power generation company, has demonstrated strong performance in the past 12 months with a return of 13.74%. The stock's volatility is moderate at 0.336, and its Sharpe Ratio of 5.538 indicates a high risk-adjusted return. The max drawdown of -0.034 suggests that the stock has been relatively stable. In terms of peer correlation, NTPC has a high correlation with POWERGRID (0.6928) and moderate correlations with COALINDIA (0.5747) and ONGC (0.3772).
+
+**Recommendation:**
+
+Based on the analysis, I recommend a **BUY**. The strong 12-month return, high Sharpe Ratio, and moderate volatility suggest that NTPC is a attractive investment opportunity. The high correlation with POWERGRID, a similar company in the power sector, indicates that NTPC is likely to continue benefiting from trends in the industry. Additionally, the relatively low max drawdown suggests that the stock is less prone to significant price drops. Overall, NTPC appears to be a solid investment choice for those seeking exposure to the power generation sector.

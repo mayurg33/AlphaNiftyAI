@@ -1,0 +1,3 @@
+TATACONSUM delivered a respectable weekly return of 1.82%, outperforming TATASTEEL but underperforming TATAMOTORS and TCS. The stock's volatility of 7.25% was relatively low compared to its peers, indicating a relatively stable performance. The Sharpe Ratio of 0.99 suggests that the stock's return was decent considering its risk. With a Max Drawdown of -0.21%, the stock was relatively resilient to losses.
+
+[Volatility: 7.25%]

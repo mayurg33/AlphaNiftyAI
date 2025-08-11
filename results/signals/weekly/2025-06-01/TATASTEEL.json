@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 16.28,
+  "sharpe_ratio": -0.22,
+  "reasoning": "The stock's mixed financial health, with high debt levels and negative revenue growth, is a concern. However, its decent profitability and dividend yield provide some comfort. The news sentiment is neutral to positive, but historical volatility suggests caution. Given the moderate risk profile and reasonable valuation, I recommend a HOLD decision for now."
+}

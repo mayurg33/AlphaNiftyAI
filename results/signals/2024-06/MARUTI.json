@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 8,
+  "reasoning": "The stock's poor returns, high volatility, and low Sharpe Ratio suggest a SELL, but the fundamentals show a decent profitability profile, strong balance sheet, and modest revenue growth. The news sentiment is also neutral, and the macroeconomic environment is generally positive, with growth in the services sector, low inflation, and a stable repo rate. Considering these mixed signals, I recommend a HOLD with a moderate confidence level."
+}

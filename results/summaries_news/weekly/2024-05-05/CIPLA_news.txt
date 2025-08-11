@@ -1,0 +1,5 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+Notable events: Cipla and Glenmark are recalling drugs from the US market due to manufacturing issues, as reported by the USFDA.
+
+The news tone is neutral because the historical similar news has shown varying price impacts, ranging from +0.29% to -0.87%. This suggests that the market reaction to such news is unpredictable and may not have a significant impact on the stock price.

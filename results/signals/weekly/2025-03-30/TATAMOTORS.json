@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 7,
+  "volatility": 45.85,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock has a high volatility of 45.85%, indicating a risky investment. The news sentiment is negative, with a decline in shares and a plan to raise funds, which may indicate a potential downward trend. Additionally, the company's high debt-to-equity ratio of 61.55 is a major concern, which may impact its financial flexibility. Overall, the stock's poor performance and negative news sentiment outweigh its decent valuation and profitability metrics."
+}

@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While TATACONSUM has demonstrated strong price performance and low volatility, its high valuation multiples and moderate profitability metrics are concerns. Additionally, the mixed news sentiment and stable macroeconomic environment do not provide a strong conviction for a BUY signal.

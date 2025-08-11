@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 52.87,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's dismal weekly performance, high volatility, and poor risk-adjusted performance indicate a high-risk investment. Although the company's fundamentals are strong, with a good track record of profitability and promising growth metrics, the high valuation and debt position are concerns. The neutral to slightly positive news sentiment and favorable macroeconomic environment are not enough to outweigh the stock's poor performance, leading me to recommend a sell."
+}

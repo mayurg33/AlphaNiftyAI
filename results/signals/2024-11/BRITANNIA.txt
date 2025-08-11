@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor price trends, high volatility, and negative Sharpe Ratio suggest a high-risk investment, while the fundamentals indicate overvaluation and slow growth. Additionally, the high debt-to-equity ratio and recent FSSAI notice add to the concerns, making a SELL recommendation prudent.

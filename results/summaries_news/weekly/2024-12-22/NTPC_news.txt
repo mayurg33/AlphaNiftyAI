@@ -1,0 +1,9 @@
+Based on the provided news, here is a summary of the current week's news sentiment:
+
+**Sentiment:** Negative
+
+**Notable Event:** NTPC's share price closed at ₹341.95, down -2.09% from yesterday's ₹349.25.
+
+**News Tone:** The news tone is negative, indicating a decline in the stock's value. The current news highlights a 2.09% drop in NTPC's share price, which is a negative event.
+
+In contrast, the historical similar news and price impact show some positive events, such as NTPC surging 6% on heavy volumes and hitting a 2-year high, as well as Tata Power shares being expected to recover in 2023. However, these positive events do not outweigh the current negative news, resulting in an overall negative sentiment for the stock.

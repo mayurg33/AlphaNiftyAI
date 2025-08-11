@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 33.2,
+  "sharpe_ratio": 0.05,
+  "reasoning": "The stock's modest weekly return and high volatility indicate a moderate level of risk. While the company's profitability profile is strong, its high debt-to-equity ratio and valuation are concerns. The neutral news sentiment and stable macroeconomic environment do not provide a clear direction for the stock, leading me to recommend a HOLD decision."
+}

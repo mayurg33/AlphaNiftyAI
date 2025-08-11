@@ -1,0 +1,5 @@
+The current week's news sentiment is NEUTRAL for Kotak Mahindra Bank.
+
+The notable event is the appointment of Ketaki Bhagwati as an independent director on the bank's Board.
+
+Historically, news related to the bank's leadership and succession planning has had a significant impact on the stock price. In the past, news about Uday Kotak's non-executive role after his CEO tenure had a positive impact (+0.25%), while news about the regulator's review of the succession plan had a negative impact (-1.47%). However, the current news about the appointment of an independent director does not seem to have a significant impact on the stock price, hence the neutral sentiment.

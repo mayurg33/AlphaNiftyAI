@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 27.34,
+  "sharpe_ratio": -0.70,
+  "reasoning": "The stock's high volatility and poor performance this week, combined with its stretched valuation and high debt levels, suggest a sell decision. Additionally, the news sentiment is neutral to negative, which may further impact the stock price. The company's financial health is good, but the concerns outweigh the strengths, leading to a sell recommendation."
+}

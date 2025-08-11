@@ -1,0 +1,10 @@
+**Weekly News Sentiment:** Positive
+
+**Notable Events:**
+
+1. Divi's Laboratories announced its Q4 results, reporting a 67% increase in net profit to Rs 538 crore, and declared a dividend of Rs 30 per share.
+2. The company's founder's daughter bought two properties in Hyderabad worth Rs 80 crore.
+
+**News Tone:** The overall news tone is positive, driven by the strong Q4 results and dividend declaration. The news articles highlighting the company's financial performance are neutral to positive, with impact scores ranging from +0.31% to +8.05%. The news about the founder's daughter buying properties is neutral, with a negative impact score of -2.28%. However, this news is not directly related to the company's financial performance and is unlikely to significantly impact the stock price.
+
+Overall, the positive news sentiment is expected to have a positive impact on the stock price, driven by the strong Q4 results and dividend declaration.

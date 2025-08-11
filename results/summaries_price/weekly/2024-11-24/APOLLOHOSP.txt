@@ -1,0 +1,3 @@
+APOLLOHOSP demonstrated a strong weekly performance with a 2.87% return, outperforming its peers DRREDDY and BHARTIARTL. The stock's Sharpe Ratio of 0.52 indicates a relatively attractive risk-adjusted return. However, its high volatility of 29.2% and max drawdown of -0.82% suggest that the stock carries significant risk. Overall, APOLLOHOSP outperformed its peers this week, but investors should be cautious of its high volatility.
+
+[Volatility: 29.2%]

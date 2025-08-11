@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 6.94,
+  "sharpe_ratio": -0.14,
+  "reasoning": "The stock's weekly performance was lackluster, with a return of -0.24%, and the Sharpe Ratio suggests that the return was not sufficient to compensate for its risk. The fundamentals indicate a mixed financial health with high profit margin and decent dividend yield, but also high trailing P/E ratio and decline in revenue growth. The news sentiment is NEGATIVE, which may put downward pressure on the stock price."
+}

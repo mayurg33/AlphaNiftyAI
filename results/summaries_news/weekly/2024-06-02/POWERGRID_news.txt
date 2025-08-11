@@ -1,0 +1,12 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Positive
+
+**Notable Events:**
+
+1. The first news article recommends buying a Maharatna PSU stock after its latest acquisition update, with a target price of Rs 350. This is a strong buy recommendation.
+2. The second news article features Sumeet Bagadia, a well-known analyst, recommending three stocks to buy on Monday, June 3.
+
+**Tone:** The overall tone of the news is positive, with both articles suggesting buying opportunities in the market. The first article provides a specific stock recommendation with a target price, while the second article features a reputable analyst's recommendations.
+
+The historical similar news and price impact also suggest a positive tone, with most of the impacts being positive (e.g., +0.59%, +1.37%, +2.06%, +3.18%). The only negative impact is -5.44% and -6.03%, but these are outweighed by the positive impacts.

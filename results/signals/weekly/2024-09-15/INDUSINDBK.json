@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 18.73,
+  "sharpe_ratio": 0.53,
+  "reasoning": "The stock's decent weekly return and Sharpe Ratio suggest that the return is somewhat justified by the risk taken. However, the high volatility and mixed financial health, including a high trailing P/E ratio and decline in revenue growth, raise concerns. Additionally, the neutral news sentiment and uncertain macroeconomic environment do not provide a clear direction for the stock. Therefore, a hold decision is recommended."
+}

@@ -1,0 +1,5 @@
+Based on the current week's news, the sentiment is NEGATIVE. The news tone is negative due to the 4% fall in Bajaj Auto's share price, which has hit a 52-week low, and a decline of 13% in just 8 days.
+
+Notable events mentioned in the news include the stock's decline, which is likely to have a negative impact on investor sentiment.
+
+Comparing this news to historical similar news, we can see that a similar decline in Bajaj Finance shares in 2021 led to a -2.02% impact, while a decline in Bajaj Auto stock in 2022 due to a target price cut led to a -6.34% impact. This suggests that the current news is likely to have a negative impact on the stock price.

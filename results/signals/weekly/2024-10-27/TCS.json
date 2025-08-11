@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 18.95,
+  "sharpe_ratio": -0.11,
+  "reasoning": "The stock's price trend is relatively resilient compared to its peers, but its volatility is a concern. Fundamentally, the company is financially healthy with a strong profitability profile, but its growth metrics are sluggish. The news sentiment is positive, and the macroeconomic environment is supportive of the services sector, which TCS operates in. However, the stock's high volatility and low Sharpe Ratio suggest a HOLD decision."
+}

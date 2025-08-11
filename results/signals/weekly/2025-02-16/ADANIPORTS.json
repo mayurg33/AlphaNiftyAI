@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 28.33,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's poor performance and high volatility make it a risky investment. However, the company's strong fundamentals, such as high EBITDA margins and revenue growth, suggest potential for future growth. The mixed news sentiment and neutral macroeconomic environment also do not provide a clear direction for the stock. Therefore, a hold decision is recommended, pending further evaluation and clarification of the stock's direction."
+}

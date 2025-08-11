@@ -1,0 +1,25 @@
+Symbol: APOLLOHOSP
+Month: 2025-02
+Start Price: ₹6831.44
+End Price: ₹6052.60
+12M Return: -11.40%
+6M Return: -11.40%
+3M Return: -11.40%
+Volatility: 0.284
+Sharpe Ratio: -5.503
+Max Drawdown: -0.127
+Peer Correlation (DRREDDY): 0.1526
+Peer Correlation (HDFCLIFE): 0.6896
+Peer Correlation (BHARTIARTL): 0.0602
+Average Peer Correlation: 0.3008
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Apollo Hospitals (APOLLOHOSP) has underperformed in the last 12 months, with a return of -11.40%. The stock's volatility is moderate at 0.284, and its Sharpe Ratio is -5.503, indicating poor risk-adjusted returns. The maximum drawdown is -0.127, which is relatively high. Correlation analysis with peers shows mixed results, with a strong correlation with HDFCLIFE (0.6896) and low correlations with DRREDDY (0.1526) and BHARTIARTL (0.0602).
+
+**Recommendation:**
+
+Based on the poor returns, high volatility, and low Sharpe Ratio, I would recommend a **SELL** position on Apollo Hospitals (APOLLOHOSP). The stock's underperformance and high drawdown suggest that it may continue to struggle in the near term. Additionally, the mixed correlation with peers indicates that the stock may not be a good hedge against market fluctuations. Investors may want to consider alternative investment opportunities with stronger returns and more stable performance.

@@ -1,0 +1,3 @@
+AXISBANK's weekly return of 0.48% outperformed its peers, with a relatively lower volatility of 12.53%. The stock's Sharpe Ratio of 0.16 indicates a modest risk-adjusted return. Compared to its peers, AXISBANK's performance was relatively strong, with INDUSINDBK and SBIN experiencing negative returns. The stock's Max Drawdown of -0.78% suggests a moderate level of risk.
+
+[Volatility: 12.53%]

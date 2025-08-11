@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock's price trend is bearish, with a 12-month return of -4.65%, which suggests a SELL. However, the fundamental analysis indicates that the stock is undervalued with a forward PE ratio of 10.35 and strong earnings growth rate of 25.1%, which suggests a BUY. The news sentiment analysis also suggests a HOLD due to the company's recent deal with Nokia and the reappointment of its CEO and chairman. Considering the mixed signals, a HOLD decision is recommended with a moderate confidence level of 7."
+}

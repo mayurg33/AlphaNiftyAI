@@ -1,0 +1,14 @@
+The current week's news sentiment for Asian Paints is NEGATIVE.
+
+Notable events:
+
+* The stock has hit a fresh 52-week low, down 18% since Q2 earnings.
+* The stock is near a 4-year low, raising concerns about its performance.
+
+The news tone is negative due to the following reasons:
+
+* The stock's decline to a 52-week low and 4-year low indicates a bearish trend.
+* The lack of positive news or catalysts to drive the stock's growth.
+* The historical news impact analysis shows that similar news in the past has resulted in a negative impact on the stock price, with an average impact of around -5%.
+
+Overall, the current week's news sentiment suggests that the stock is under pressure, and investors may be cautious about its prospects in the short term.

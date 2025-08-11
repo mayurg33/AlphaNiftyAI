@@ -1,0 +1,19 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to slightly Negative
+
+**Notable Events:**
+
+1. T+0 settlement kick starts today, which means that investors will receive their shares or money on the same day of trading, reducing the settlement cycle.
+2. The World's 10 Biggest Oil Exporters list is published, which may have implications for oil-related stocks.
+3. 25 stocks will be eligible for the same-day settlement cycle from tomorrow, which may affect trading volumes and investor behavior.
+
+**Tone Analysis:**
+
+The tone of the news is neutral to slightly negative. The historical data suggests that news related to settlement cycles and oil exporters has had a mixed impact on stock prices in the past. While some news items have had a positive impact (e.g., +5.71% and +0.73%), others have had a negative impact (e.g., -5.73%, -2.61%, -4.09%, -11.10%, and -12.69%).
+
+The T+0 settlement cycle news may have a neutral impact, as it is a procedural change that may not directly affect stock prices. However, it may lead to increased trading volumes and volatility in the short term.
+
+The news about oil exporters may have a negative impact on oil-related stocks, given the historical data. However, the impact may be limited to specific stocks and not affect the broader market.
+
+Overall, the news tone is neutral to slightly negative, with a possibility of short-term volatility in specific stocks.

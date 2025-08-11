@@ -1,0 +1,16 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is **NEUTRAL**.
+
+**Notable Events:**
+
+1. The first news article highlights stocks with high 5-year net profit CAGR, which could be a positive signal for investors.
+2. The second article discusses concerns that could impact the valuation of HDB Financial Services, a subsidiary of HDFC Bank, ahead of its IPO.
+
+**Sentiment Analysis:**
+
+The overall sentiment is neutral because the two news articles have opposing tones. The first article is positive, suggesting that investors should keep an eye on stocks with high growth potential. The second article, however, raises concerns about the valuation of HDB Financial Services, which could negatively impact its IPO.
+
+Historical data suggests that similar news articles have had varying impacts on stock prices. For example, news about TCS and NTPC had positive impacts, while news about HDFC Bank's IPO plans had a negative impact. However, more recent news about HDFC Bank's merger and growth story had a positive impact.
+
+Overall, the neutral sentiment reflects the mixed tone of the two news articles, and investors should exercise caution when making investment decisions based on these news items.

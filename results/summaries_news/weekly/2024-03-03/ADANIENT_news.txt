@@ -1,0 +1,18 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: Adani Enterprises & SBI: Here's what Vinit Bolinjkar of Ventura Securities says on these 2 stocks**
+
+The sentiment around this news is **Positive**. The historical data suggests that when analysts or experts make positive comments about Adani Group stocks, the price tends to increase. In the past, similar news has led to a price impact of +0.21% to +17.27%.
+
+**Query 2: Adani Group EBITDA hits Rs 79k cr in 2023**
+
+The sentiment around this news is also **Positive**. The historical data indicates that when Adani Group announces strong financial performance, such as high EBITDA, the stock price tends to rise. In the past, similar news has led to a price impact of +3.19% to +8.05%.
+
+**Notable Events:**
+
+* Adani Group's strong EBITDA performance in 2023
+* Positive comments from analysts/experts on Adani Enterprises and SBI stocks
+
+**Overall Sentiment:**
+
+The overall sentiment for Adani Enterprises and Adani Group stocks is **Positive** this week, driven by the strong EBITDA performance and positive comments from analysts/experts.

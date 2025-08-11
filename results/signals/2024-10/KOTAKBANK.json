@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock has underperformed in the past 12 months with a return of -7.89%, indicating poor performance. The Sharpe Ratio is negative, suggesting poor risk-adjusted returns. Additionally, the maximum drawdown is 9.4%, indicating downside risk. Although the fundamentals are mixed, the news sentiment is neutral to slightly negative, and the macroeconomic environment is stable, the overall picture suggests a SELL rating."
+}

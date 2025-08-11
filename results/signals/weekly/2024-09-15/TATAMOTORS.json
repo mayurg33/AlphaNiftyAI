@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 49.86,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock has underperformed its peers with a -4.49% return, and its high volatility makes it a risky investment. The company's financial health is mixed, with concerns around low profit margins, negative revenue growth, and high leverage. The news sentiment is predominantly negative, with a historical impact of around -2% to -3% on the stock price, suggesting a likely short-term decline."
+}

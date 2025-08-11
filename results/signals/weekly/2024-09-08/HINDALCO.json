@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 14.76,
+  "sharpe_ratio": -0.66,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but its stable financial position, low P/E ratio, and revenue growth suggest undervaluation. The news sentiment is neutral, and the macroeconomic environment is supportive of growth. However, the high debt-to-equity ratio and negative Sharpe Ratio indicate caution, leading to a hold decision."
+}

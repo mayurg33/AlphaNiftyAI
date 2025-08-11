@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 37.76,
+  "sharpe_ratio": -1.00,
+  "reasoning": "The stock's dismal weekly performance with a return of -9.25% and high volatility of 37.76% indicates a significant decline in value. The Sharpe Ratio of -1.00 further highlights its poor risk-adjusted performance. Although the company's fundamentals appear strong, the high debt-to-equity ratio and low dividend yield are concerns. Given the mixed news sentiment and neutral overall tone, I recommend selling the stock."
+}

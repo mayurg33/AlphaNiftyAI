@@ -1,0 +1,25 @@
+Symbol: GRASIM
+Month: 2024-07
+Start Price: ₹2715.96
+End Price: ₹2766.12
+12M Return: 1.85%
+6M Return: 1.85%
+3M Return: 1.85%
+Volatility: 0.176
+Sharpe Ratio: 1.332
+Max Drawdown: -0.035
+Peer Correlation (RELIANCE): -0.1357
+Peer Correlation (ULTRACEMCO): 0.369
+Peer Correlation (BRITANNIA): 0.3741
+Average Peer Correlation: 0.2025
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Grasim Industries Ltd (GRASIM) has exhibited a stable performance in the past 12 months, with a return of 1.85% and relatively low volatility of 0.176. The Sharpe Ratio of 1.332 indicates that the returns are attractive given the level of risk. The max drawdown of -0.035 suggests that the stock has not experienced any significant downturns. In terms of peer correlation, GRASIM has a moderate positive correlation with ULTRACEMCO and BRITANNIA, and a negative correlation with RELIANCE.
+
+**Recommendation:**
+
+Based on the analysis, I would suggest a **BUY** recommendation for GRASIM. The stock's stable performance, attractive Sharpe Ratio, and low volatility make it an attractive investment opportunity. The moderate positive correlation with peers in the industry also suggests that GRASIM is likely to benefit from any positive trends in the sector. With a relatively low max drawdown, the risk of significant losses appears to be limited. Overall, GRASIM appears to be a stable and attractive investment opportunity in the current market conditions.

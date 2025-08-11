@@ -1,0 +1,3 @@
+M&M's weekly performance was strong, with a 7.02% return, outperforming its peers TECHM and MARUTI. However, its high volatility of 40.9% suggests a risky investment. Despite this, its Sharpe Ratio of 0.67 indicates a relatively good risk-adjusted return. Compared to KOTAKBANK, M&M underperformed in terms of risk-adjusted return.
+
+[Volatility: 40.9%]

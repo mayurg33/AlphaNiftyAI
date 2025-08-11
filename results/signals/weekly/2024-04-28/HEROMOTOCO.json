@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 16.68,
+  "sharpe_ratio": 0.98,
+  "reasoning": "The stock has demonstrated a strong weekly performance with a 4.17% return, outperforming its peers. The company's financial health is stable, with a strong ROE and decent profit margins. Although the debt-to-equity ratio is a concern, the valuation seems reasonable and the dividend yield is decent. The news sentiment is neutral to slightly positive, and the macroeconomic environment is supportive of the automotive industry, with two-wheeler production and sales showing strong growth."
+}

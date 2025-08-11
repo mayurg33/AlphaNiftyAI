@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance, high volatility, and negative Sharpe Ratio indicate that the risk is not justified by the potential returns. Additionally, the high correlation with peers suggests that the stock is likely to continue to move in tandem with the broader automotive sector, which may not be favorable in the current market conditions. The negative news sentiment and missed Q2 estimates further support a SELL decision."
+}

@@ -1,0 +1,5 @@
+The current week's news sentiment is **Positive**. The news article reports that brokerages are bullish on Shriram Finance due to strong AUM growth and healthy asset quality, with a predicted upside of 60%. This suggests that analysts have a favorable view of the company's performance and expect its stock to rise.
+
+Notable event: Brokerages' positive outlook on Shriram Finance's Q3 performance.
+
+News tone: **Positive**.

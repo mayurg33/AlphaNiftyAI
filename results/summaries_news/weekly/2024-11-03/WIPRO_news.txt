@@ -1,0 +1,11 @@
+Based on the provided historical news and price impact, here is a summary of the current week's news sentiment for Wipro stocks:
+
+**News Sentiment:** Neutral to Negative
+
+**Notable Events:**
+
+* Wipro's uninspiring guidance led to a 5.90% decline in stock price on May 2, 2022.
+* A comparison with TCS and Infosys shares highlighted Wipro's underperformance since 2021, resulting in a 0.80% decline on December 12, 2022.
+* A recovery from 52-week lows was observed on November 30, 2022, with a 2.38% increase in stock price.
+
+**Tone:** The overall tone of the news is neutral to negative, with two out of three news articles having a negative impact on the stock price. The negative sentiments are driven by uninspiring guidance and underperformance compared to peers. However, the recovery from 52-week lows provides some positivity.

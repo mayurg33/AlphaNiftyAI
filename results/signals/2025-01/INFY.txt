@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's lackluster performance, moderate volatility, and fair valuation suggest a neutral outlook, while the strong positive correlations with TCS and WIPRO, as well as the healthy balance sheet, indicate that INFY may benefit from positive trends in the IT sector, but growth concerns and mixed news sentiment warrant a cautious approach.

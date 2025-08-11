@@ -1,0 +1,3 @@
+LTIM had a strong weekly performance, with a 3.68% return, outperforming its peers TECHM and ITC, but slightly underperforming TITAN. The stock's volatility was relatively moderate at 16.76%, lower than its peers TECHM and TITAN, but higher than ITC. With a Sharpe Ratio of 0.86, LTIM demonstrated a relatively attractive risk-return profile this week.
+
+[Volatility: 16.76%]

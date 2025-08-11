@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 28.96,
+  "sharpe_ratio": 0.11,
+  "reasoning": "The stock's weekly performance is decent, but high volatility and moderate risk suggest caution. Fundamentals are strong, but valuation is rich, and earnings growth is slow. Neutral news sentiment and a supportive macroeconomic environment don't provide a clear buy or sell signal, so it's best to hold for now."
+}

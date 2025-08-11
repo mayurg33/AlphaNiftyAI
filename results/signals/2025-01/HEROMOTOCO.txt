@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the stock's technicals and news sentiment are positive, the high debt level and slightly rich valuation are concerns, and the macroeconomic environment, although supportive, does not provide a strong catalyst for a BUY signal.

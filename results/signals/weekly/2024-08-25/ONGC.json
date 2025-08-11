@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 7.1,
+  "sharpe_ratio": -2.78,
+  "reasoning": "The stock's poor weekly performance and high max drawdown indicate a risky investment. However, its attractive valuation multiples and high dividend yield are positives. The news sentiment is neutral to positive, with potential price impact of +3% to +5%. Considering the mixed fundamentals and uncertain macroeconomic environment, a hold decision is recommended."
+}

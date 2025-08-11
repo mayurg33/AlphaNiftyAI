@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock's poor price trends, high volatility, and low Sharpe Ratio suggest a SELL, but the low valuation, moderate profitability, and potential for future growth indicate a HOLD. Additionally, the macroeconomic environment is generally positive, with growth in agriculture, services, and manufacturing, which could support the company's performance. However, the high debt levels and declining earnings growth are concerns that prevent a BUY recommendation."
+}

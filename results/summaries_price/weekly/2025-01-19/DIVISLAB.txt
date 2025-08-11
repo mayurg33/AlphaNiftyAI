@@ -1,0 +1,3 @@
+DIVISLAB's weekly return of 3.2% outperformed its peers, with a Sharpe Ratio of 0.30 indicating a moderate risk-adjusted return. The stock's volatility was relatively high at 42.58%, with a Max Drawdown of -1.89%, suggesting a bumpy ride for investors. Compared to its peers, DIVISLAB outperformed DRREDDY and CIPLA, but underperformed SUNPHARMA. Overall, the stock's performance was decent, but its high volatility makes it a relatively risky investment.
+
+[Volatility: 42.58%]

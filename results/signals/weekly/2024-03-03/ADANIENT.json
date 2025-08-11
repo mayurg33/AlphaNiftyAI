@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 32.04,
+  "sharpe_ratio": -0.03,
+  "reasoning": "The stock's weekly performance was lackluster, with a negative Sharpe Ratio, indicating poor risk-adjusted returns. However, the news sentiment is positive, driven by strong EBITDA performance and positive comments from analysts. The company's financial health is a mixed bag, with some positive growth trends offset by profitability and debt concerns. Given the conflicting signals, I recommend a HOLD decision."
+}

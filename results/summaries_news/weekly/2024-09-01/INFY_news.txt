@@ -1,0 +1,5 @@
+Based on the provided historical similar news, the current week's news sentiment is NEUTRAL.
+
+The notable event is Infosys CEO Salil Parekh sharing an important update on onboarding delays.
+
+The tone of the news is neutral because the historical similar news shows a mix of positive and negative price impacts. The reappointment of Salil Parekh as CEO & MD had a negative impact (-3.63%), while Infosys being selected as bp's primary application services partner had a positive impact (+1.52%). Therefore, it is difficult to determine a clear positive or negative tone for the stock based on this news.

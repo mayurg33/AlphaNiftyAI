@@ -1,0 +1,14 @@
+Based on the current week's news, the sentiment is NEUTRAL to POSITIVE for L&T's stock.
+
+Notable events:
+
+* Dharmesh Shah of ICICI Securities recommends buying L&T today, which is a positive signal.
+* L&T arm secures an ultra-mega order from NTPC, which is a significant development, but the stock is down, indicating some uncertainty.
+
+The news tone is neutral to positive because:
+
+* Two out of three news articles have a positive tone, with one recommending buying L&T and the other highlighting a significant order win.
+* The third article mentions the stock being down despite the order win, which adds a neutral tone to the overall sentiment.
+* Historical data suggests that similar news events have had a positive impact on the stock price, with an average impact of around 2-4%.
+
+Overall, the news sentiment is leaning towards a positive tone, but with some caution due to the mixed reaction to the ultra-mega order win.

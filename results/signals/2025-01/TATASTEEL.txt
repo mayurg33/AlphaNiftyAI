@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's underperformance and negative Sharpe Ratio are concerns, but the moderate volatility and average peer correlations suggest that the stock is not extremely overvalued or undervalued. Additionally, the mixed news sentiment and supportive macroeconomic environment, particularly in the services sector and consumer behavior, warrant a neutral outlook.

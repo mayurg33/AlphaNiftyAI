@@ -1,0 +1,5 @@
+Based on the historical similar news, the current week's news sentiment for HDFC Bank is NEUTRAL.
+
+The notable event is HDFC Bank's target to lower its CD (Credit-Deposit) ratio quickly, which suggests that the bank is focusing on improving its efficiency and balance sheet management.
+
+The historical news impact is mixed, with two negative impacts (-0.99% and -4.14%) and one positive impact (+0.13%). This suggests that the market reaction to HDFC Bank's news has been inconsistent in the past. However, the overall tone of the news is neutral, indicating that the market is not overly optimistic or pessimistic about the bank's plan to lower its CD ratio.

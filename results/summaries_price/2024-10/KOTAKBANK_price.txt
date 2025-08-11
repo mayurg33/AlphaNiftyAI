@@ -1,0 +1,25 @@
+Symbol: KOTAKBANK
+Month: 2024-10
+Start Price: ₹1879.40
+End Price: ₹1731.10
+12M Return: -7.89%
+6M Return: -7.89%
+3M Return: -7.89%
+Volatility: 0.265
+Sharpe Ratio: -3.592
+Max Drawdown: -0.094
+Peer Correlation (M&M): 0.1275
+Peer Correlation (TECHM): -0.0354
+Peer Correlation (ICICIBANK): 0.1889
+Average Peer Correlation: 0.0937
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+Here is a short summary and recommendation:
+
+**Summary:**
+Kotak Mahindra Bank (KOTAKBANK) has underperformed in the past 12 months, with a return of -7.89%. The stock's volatility is moderate at 0.265, but its Sharpe Ratio is negative, indicating poor risk-adjusted returns. The maximum drawdown is 9.4%, suggesting some downside risk. In terms of peer correlation, KOTAKBANK has a low correlation with M&M (0.1275) and TECHM (-0.0354), but a moderate correlation with ICICIBANK (0.1889).
+
+**Recommendation:**
+Based on the negative returns, high volatility, and poor risk-adjusted performance, I would recommend a **SELL** rating for KOTAKBANK. The stock's underperformance and high drawdown risk suggest that it may not be a good investment opportunity at this time. Additionally, the low correlation with peers does not provide any diversification benefits. Investors may want to consider alternative banking stocks with better performance and risk profiles.

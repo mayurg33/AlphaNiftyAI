@@ -1,0 +1,13 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+1. Axis Securities has recommended HDFC Bank, ICICI Bank, SBI, HCL Tech, Lupin, and Aurobindo Pharma as top picks for December, which is a positive sentiment.
+2. Trade Spotlight has highlighted ICICI Bank among other stocks, which could be a neutral to positive sentiment.
+3. However, ICICI Bank's offices were searched by Maharashtra GST in a tax-related probe, which is a negative sentiment.
+
+**Overall Sentiment:**
+
+The overall sentiment is neutral to positive, as the positive recommendations from Axis Securities and Trade Spotlight are somewhat offset by the negative news of ICICI Bank's offices being searched in a tax-related probe. The historical data suggests that similar news events have had varying impacts on the stock price, ranging from -3.02% to +6.76%. Therefore, it is difficult to predict the exact impact of these news events on the stock price.

@@ -1,0 +1,16 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**REC, PFC & IndiGo:**
+
+The news tone is NEUTRAL to POSITIVE for these stocks. The historical data suggests that Axis Securities' views on these stocks have had a mixed impact in the past, with one instance showing a positive impact of +0.24% and two instances showing a negative impact of -2.24%. However, the overall sentiment is leaning towards a neutral to positive tone, indicating that the market may react positively to Rajesh Palviya's views on these stocks.
+
+**Power Grid Corp:**
+
+The news tone is NEUTRAL for Power Grid Corp. The historical data shows that the company's acquisitions and project transfers have had a mixed impact on its stock price, with two instances showing a negative impact of -8.45% and one instance showing a positive impact of +1.26%. The overall sentiment is neutral, indicating that the market may not react strongly to this news.
+
+Notable events:
+
+* REC, PFC, and IndiGo are in focus due to Axis Securities' views on these stocks.
+* Power Grid Corp has acquired Bhadla-III and Bikaner-III Transmission projects.
+
+Overall, the news tone is neutral to positive for REC, PFC, and IndiGo, while it is neutral for Power Grid Corp.

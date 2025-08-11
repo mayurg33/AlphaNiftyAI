@@ -1,0 +1,25 @@
+Symbol: HEROMOTOCO
+Month: 2024-05
+Start Price: ₹4417.42
+End Price: ₹4957.89
+12M Return: 12.24%
+6M Return: 12.24%
+3M Return: 12.24%
+Volatility: 0.259
+Sharpe Ratio: 5.756
+Max Drawdown: -0.028
+Peer Correlation (MARUTI): 0.433
+Peer Correlation (M&M): 0.2695
+Peer Correlation (BAJAJ-AUTO): 0.4766
+Average Peer Correlation: 0.393
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Hero MotoCorp Ltd. (HEROMOTOCO) has demonstrated strong performance in the past 12 months, with a return of 12.24%. The stock's volatility is relatively low at 0.259, and its Sharpe Ratio of 5.756 indicates a high risk-adjusted return. The Max Drawdown of -0.028 suggests that the stock has been relatively stable. In terms of peer correlation, Hero MotoCorp has a moderate correlation with its peers, with an average correlation of 0.393.
+
+**Recommendation:**
+
+Based on the data, I would recommend a **BUY** on Hero MotoCorp Ltd. (HEROMOTOCO). The stock's strong performance, low volatility, and high Sharpe Ratio suggest that it is a good investment opportunity. The moderate peer correlation indicates that the stock is not overly dependent on its peers, which could reduce its risk. Additionally, the Max Drawdown is relatively low, indicating that the stock has been stable in the past. Overall, the data suggests that Hero MotoCorp is a strong investment opportunity, and I would recommend buying the stock.

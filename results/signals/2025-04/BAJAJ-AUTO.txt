@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's flat performance, moderate volatility, and low Sharpe Ratio suggest a neutral outlook, while the high PE ratios, low profit margin, and declining earnings growth rate are concerns. Additionally, the mixed news sentiment and uncertain macroeconomic environment contribute to the hold recommendation.

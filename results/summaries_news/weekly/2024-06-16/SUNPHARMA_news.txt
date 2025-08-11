@@ -1,0 +1,20 @@
+Based on the historical news data, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+* The article "Best Pharma Stock: Sun Pharma vs Cipla" suggests a neutral tone, as it presents a comparison between the two pharma stocks without taking a clear stance.
+* There are no other notable events reported in the current week.
+
+**Tone Analysis:**
+
+* The historical data shows that Sun Pharma has received positive news coverage in the past, with a significant impact of +4.52% on November 3, 2022.
+* However, there is also a negative impact of -0.44% on November 3, 2021, indicating that the stock is not immune to negative news.
+* Overall, the tone of the current week's news is neutral to positive, as the comparison article does not convey a strong negative sentiment.
+
+**Price Impact:**
+
+* Based on historical data, the price impact of the current week's news is likely to be neutral to mildly positive, given the lack of strong negative sentiment.
+
+Please note that this analysis is based on limited historical data and may not reflect the full picture. It's essential to consider other market and economic factors that may influence the stock's performance.

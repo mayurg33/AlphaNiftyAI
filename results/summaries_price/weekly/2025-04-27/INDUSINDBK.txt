@@ -1,0 +1,3 @@
+INDUSINDBK's weekly performance was disappointing, with a return of -0.71% and a high volatility of 54.42%. The stock underperformed its peers, with a Sharpe Ratio of -0.04, indicating poor risk-adjusted returns. Compared to its peers, INDUSINDBK's volatility was significantly higher, making it a riskier investment this week. 
+
+[Volatility: 54.42%]

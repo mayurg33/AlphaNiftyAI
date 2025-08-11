@@ -1,0 +1,3 @@
+M&M's weekly performance was disappointing, with a return of -5.17%, significantly underperforming its peers. The stock's high volatility of 62.0% contributed to its poor performance, making it a risky investment this week. In comparison, peers TECHM and MARUTI posted positive returns, while KOTAKBANK's return was closer to M&M's. Overall, M&M's Sharpe Ratio of -0.32 indicates a poor risk-return tradeoff.
+
+[Volatility: 62.0%]

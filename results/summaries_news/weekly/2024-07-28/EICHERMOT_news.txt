@@ -1,0 +1,19 @@
+**Weekly News Sentiment Summary:**
+
+The overall sentiment of this week's news is **Positive**.
+
+**Notable Events:**
+
+1. Budget 2024: Hero MotoCorp, Eicher, TVS, and Bajaj share prices rose up to 3% due to expected rural demand boost.
+2. Sensex surged over 1,150 points, and Nifty topped 24,750, resulting in a significant jump in investor wealth.
+3. Tata Motors' market capitalization crossed Rs 4 trillion for the first time.
+
+**News Tone:**
+
+The news tone is **Positive** for the following reasons:
+
+* The Budget 2024 news is expected to boost rural demand, leading to a rise in share prices of Hero MotoCorp, Eicher, TVS, and Bajaj.
+* The Sensex and Nifty surge indicates a strong market performance, which is a positive sign for investors.
+* Tata Motors' market capitalization crossing Rs 4 trillion is a significant milestone, indicating the company's growth and stability.
+
+While historical similar news may have had negative impacts, the current news tone is predominantly positive, suggesting a favorable outlook for the stocks mentioned.

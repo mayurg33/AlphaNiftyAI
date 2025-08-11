@@ -1,0 +1,4 @@
+Based on the recent headlines about CIPLA, the overall news sentiment is NEUTRAL.
+
+Final Decision: HOLD
+Reason: While Cipla's Q4 results show a 30% YoY profit jump and the company has declared a dividend, analysts are divided on the stock's outlook due to concerns over margin pressure in FY26, which could lead to further volatility in the share price.

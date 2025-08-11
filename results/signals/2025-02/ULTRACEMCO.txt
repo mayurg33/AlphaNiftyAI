@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Considering ULTRACEMCO's poor price performance, high volatility, and negative Sharpe Ratio, I recommend a HOLD signal. However, the company's decent profitability and moderate growth prospects, along with the neutral news sentiment and supportive macroeconomic environment, suggest that it may not be wise to sell immediately.

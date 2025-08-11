@@ -1,0 +1,17 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+1. The US Fed rate cuts may impact the IT sector, with some stocks being recommended to buy (Query 1).
+2. TCS, Infosys, and Wipro are among the top NIFTY losers, but the reasons behind this are not entirely clear (Query 2).
+3. Infosys and Wipro are planning to start techfin centres at GIFT City, which could be a positive development (Query 3).
+
+**Tone Analysis:**
+
+* Query 1 has a neutral tone, as it discusses the potential impact of US Fed rate cuts on the IT sector, but also recommends some stocks to buy.
+* Query 2 has a negative tone, as it mentions that TCS, Infosys, and Wipro are among the top NIFTY losers, without providing a clear reason.
+* Query 3 has a positive tone, as it announces a new development in the techfin sector, which could be beneficial for Infosys and Wipro.
+
+Overall, the news tone is neutral to positive, as the negative sentiment in Query 2 is balanced by the positive tone in Query 3. The neutral tone in Query 1 does not significantly impact the overall sentiment.

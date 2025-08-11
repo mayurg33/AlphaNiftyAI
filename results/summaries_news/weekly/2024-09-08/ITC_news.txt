@@ -1,0 +1,7 @@
+**Weekly News Sentiment:** Positive
+
+**Notable Events:** Over 330 stocks, including TCS, Infosys, ITC, and HCL Tech, hit 52-week highs on the BSE, indicating a strong bullish trend in the stock market.
+
+**News Tone:** The news tone is overwhelmingly positive, suggesting a strong upward momentum in the stock market. The fact that a large number of stocks are hitting 52-week highs indicates a broad-based rally, which is a bullish sign for the market. This news is likely to have a positive impact on investor sentiment, leading to further buying interest in the market.
+
+In comparison to historical similar news, the current news tone is more positive. While there are some instances of negative impact in the past (e.g., -2.45% and -3.67%), the overall sentiment is positive, with a notable example of ITC's stock price increasing by 4.38% after hitting a 52-week high.

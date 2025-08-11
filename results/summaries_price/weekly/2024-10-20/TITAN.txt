@@ -1,0 +1,3 @@
+TITAN's weekly performance was disappointing, with a return of -3.33%, underperforming its peers. The stock's volatility was relatively moderate at 14.87%, lower than most of its peers. Despite this, TITAN's Sharpe Ratio was a dismal -0.90, indicating poor risk-adjusted returns. The stock's Max Drawdown of -3.62% suggests a relatively high level of risk this week.
+
+[Volatility: 14.87%]

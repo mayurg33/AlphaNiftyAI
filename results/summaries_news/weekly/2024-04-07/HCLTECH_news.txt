@@ -1,0 +1,3 @@
+The current week's news sentiment is NEUTRAL. The notable event is the upcoming Q4 earnings season for major Indian IT companies, including TCS, Infosys, and HCL Technologies, with the dates announced.
+
+Historical data suggests that the news tone around earnings announcements can be volatile, with past instances showing both positive (+3.17%) and negative (-2.90%, -0.80%) impacts on the stock price. Therefore, it's difficult to predict the exact sentiment of the current news, and a neutral tone is assigned. The market will likely be watching the earnings announcements closely, and the stock prices may react accordingly.

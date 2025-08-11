@@ -1,0 +1,16 @@
+**Weekly News Sentiment:**
+
+The overall sentiment of this week's news is **NEUTRAL**.
+
+**Notable Events:**
+
+1. The first news article compares Titan and Kalyan Jewellers, two prominent jewellery stocks, in the context of rising gold rates. This article presents a neutral tone, as it provides a balanced analysis of both stocks without taking a clear stance.
+2. The second news article highlights the stock market's decline, with the Nifty and Sensex experiencing significant dips. This article has a **NEGATIVE** tone, as it reports on a downward trend in the market.
+
+**Historical Similar News and Price Impact:**
+
+The historical data suggests that news related to jewellery stocks can have both positive and negative impacts on the stock price. For example, in 2021, Titan's shares jumped 7% to hit a record high, while in 2023, the stock experienced a 3.15% decline.
+
+Similarly, news related to the stock market's performance can also have varying impacts. In 2022, news about certain stocks hitting 52-week lows led to an 8.14% decline, while in 2021, a positive outlook on bank stocks resulted in a smaller decline of 8.03%.
+
+Overall, the current week's news sentiment is neutral, with one article presenting a balanced analysis and the other reporting on a market decline.

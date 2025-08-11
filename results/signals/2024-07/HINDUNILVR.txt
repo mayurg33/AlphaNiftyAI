@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the technical analysis suggests a strong upside potential, the fundamental analysis raises concerns about the company's high valuation, weak financial performance, and high debt levels. Meanwhile, the news sentiment is neutral, and the macroeconomic environment is generally positive, but not exceptionally strong.

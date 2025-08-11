@@ -1,0 +1,25 @@
+Symbol: TATASTEEL
+Month: 2025-05
+Start Price: ₹138.18
+End Price: ₹157.35
+12M Return: 13.88%
+6M Return: 13.88%
+3M Return: 13.88%
+Volatility: 0.292
+Sharpe Ratio: 5.753
+Max Drawdown: -0.022
+Peer Correlation (TATAMOTORS): 0.1507
+Peer Correlation (TATACONSUM): 0.6241
+Peer Correlation (JSWSTEEL): 0.5957
+Average Peer Correlation: 0.4568
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Tata Steel (TATASTEEL) has delivered an impressive 13.88% return over the past 12 months, with consistent performance across 6-month and 3-month periods. The stock's volatility is relatively low at 0.292, and its Sharpe Ratio of 5.753 indicates strong risk-adjusted returns. The maximum drawdown of -0.022 is minimal, suggesting that the stock has been resilient during downturns. In terms of peer correlations, Tata Steel exhibits a moderate correlation with JSWSTEEL and TATACONSUM, but a relatively low correlation with TATAMOTORS.
+
+**Recommendation:**
+
+Based on the strong performance, low volatility, and attractive risk-adjusted returns, I recommend a **BUY** on Tata Steel. The stock's consistent returns across different time periods suggest a stable trend, and its low correlation with TATAMOTORS provides a diversification benefit. While the correlation with JSWSTEEL and TATACONSUM is moderate, it is not excessively high, indicating that Tata Steel can still provide a relatively independent performance. Overall, the stock's attractive metrics and industry outlook make it an attractive addition to a portfolio.

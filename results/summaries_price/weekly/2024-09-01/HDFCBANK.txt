@@ -1,0 +1,3 @@
+HDFCBANK's weekly performance was disappointing, with a return of -0.19% and a Sharpe Ratio of -0.47, indicating poor risk-adjusted returns. The stock's volatility was relatively low at 1.56%, but it still underperformed its peers, including HDFCLIFE and ICICIBANK, which posted returns of 1.8% and 1.31%, respectively. The stock's risk profile was moderate, with a Max Drawdown of -0.19%.
+
+[Volatility: 1.56%]

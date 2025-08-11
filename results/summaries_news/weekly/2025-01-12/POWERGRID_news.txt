@@ -1,0 +1,11 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Stocks in news: Indo Farm, Bharti Airtel, Power Grid, IndiGo, Zydus Life, Vodafone Idea & NMDC**
+
+The historical data suggests that when multiple stocks are mentioned in the news, the impact on the stock price is generally negative, with an average impact of -2.24%. This is likely due to the fact that the news is not specific to one particular stock, and the attention is divided among multiple companies.
+
+**Power Grid Corporation shares in focus after winning bids for two inter-state transmission projects**
+
+The historical data suggests that when Power Grid Corporation wins bids for transmission projects, the impact on the stock price is generally positive, with an average impact of +1.87%. This is likely due to the fact that winning bids is a positive development for the company, indicating growth and expansion opportunities.
+
+Overall, the news tone is mixed, with a slightly positive bias towards Power Grid Corporation. The news about multiple stocks in focus may have a neutral to negative impact, while the news about Power Grid Corporation winning bids is likely to have a positive impact on the stock price.

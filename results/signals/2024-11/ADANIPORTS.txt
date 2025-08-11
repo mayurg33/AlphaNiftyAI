@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the stock's poor price trend and high volatility suggest a SELL, the company's strong growth prospects and decent profitability fundamentals warrant a HOLD. Additionally, the mixed news sentiment and neutral macroeconomic environment do not provide a clear directional signal.

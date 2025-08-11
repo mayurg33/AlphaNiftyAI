@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's flat performance and moderate volatility suggest a lack of clear growth catalysts, while the elevated PE multiples and negative revenue and earnings growth do not justify a BUY rating. However, the macroeconomic environment, with a strong monsoon and easing inflation, may support the company's performance, making a SELL rating premature.

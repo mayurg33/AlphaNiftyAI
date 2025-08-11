@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock has a negative return over the past 12 months, high volatility, and a poor Sharpe Ratio, indicating a poor risk-return profile. The company operates in a declining industry, has low profitability and returns, and a high debt-to-equity ratio. Although the trailing PE ratio is low, the other factors outweigh this consideration, leading to a SELL recommendation."
+}

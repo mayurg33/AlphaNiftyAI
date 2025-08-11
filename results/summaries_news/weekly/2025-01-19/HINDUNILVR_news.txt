@@ -1,0 +1,16 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is mixed, with one positive news and one neutral/negative news.
+
+**Notable Events:**
+
+1. **Positive News:** The World Economic Forum (WEF) has declared Hindustan Unilever's (HUL) Assam factory as an E2E Value Chain Lighthouse, which is a prestigious recognition. This news is likely to have a positive impact on HUL's stock.
+2. **Neutral/Negative News:** HDFC Bank and Hindustan Unilever are facing struggles due to middle-class struggles, which may impact their business. This news has a neutral/negative tone and may put pressure on their stock prices.
+
+**Historical Similar News and Price Impact:**
+
+The historical data suggests that positive news related to recognition or awards (e.g., HDFC Bank winning a CII award) tends to have a positive impact on the stock price (around +3% to +6%). On the other hand, news related to struggles or challenges (e.g., Assam CM's request to transfer ONGC's northeast acreages) tends to have a negative impact on the stock price (around -1% to -2%).
+
+**Overall Sentiment:**
+
+The overall sentiment for this week is neutral, with one positive news and one neutral/negative news. The positive news about HUL's Assam factory may boost its stock price, while the struggles faced by HDFC Bank and Hindustan Unilever may put pressure on their stock prices.

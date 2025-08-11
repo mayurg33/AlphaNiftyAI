@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor performance, high volatility, and negative Sharpe Ratio suggest an unfavorable risk-return profile, while the negative news sentiment and declining earnings growth rate further support a SELL signal. Additionally, the macroeconomic environment, although positive for the automotive industry, may not be enough to offset BAJAJ-AUTO's internal issues.

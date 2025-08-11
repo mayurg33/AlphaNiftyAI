@@ -1,0 +1,18 @@
+Based on the current week's news, here is a summary of the sentiment:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+1. Sensex rejig on Monday: Zomato to replace JSW Steel, with expected inflows of $513 million. This news has a positive tone, indicating potential gains for Zomato.
+2. Markets slump over 1 per cent, which has a negative tone, indicating a decline in the market.
+
+**Historical Context:**
+
+The historical data suggests that news related to JSW Steel has had both positive and negative impacts in the past. The news about Zomato replacing JSW Steel in the Sensex has a mixed historical context, with one instance of a negative impact (-1.91%) and no direct positive impact.
+
+The news about the market slumping over 1 per cent has a mixed historical context as well, with two instances of positive impacts (+0.05% and +0.55%) and one instance of a negative impact (+2.95%, but note that the impact is positive despite the headline suggesting a decline).
+
+**Overall Tone:**
+
+Given the mixed historical context and the current news, the overall tone is neutral to positive. The expected inflows of $513 million into Zomato could have a positive impact, while the market slump may have a negative impact. However, the historical data suggests that the market has been resilient in the past, and the impact of the slump may be limited.

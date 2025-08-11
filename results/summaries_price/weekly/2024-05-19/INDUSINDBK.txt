@@ -1,0 +1,3 @@
+INDUSINDBK's weekly return of 0.56% was modest, but its volatility of 12.23% was relatively high. The stock's Sharpe Ratio of 0.18 suggests that its return was not adequately compensated for the risk taken. Compared to its peers, INDUSINDBK underperformed AXISBANK and SBIN, but outperformed ICICIBANK. Overall, the stock's performance was lackluster, and its high volatility makes it a relatively risky investment.
+
+[Volatility: 12.23%]

@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's consistently negative returns over the past 12 months, 6 months, and 3 months, combined with a high Sharpe Ratio, indicate that the stock is not generating sufficient returns to justify the risk. The high correlation with its peers, particularly ITC and NTPC, may suggest that the stock is heavily influenced by industry trends rather than its own fundamentals. Additionally, the company's high debt-to-equity ratio and slow growth are concerns. While the macroeconomic environment is stable, it's not enough to outweigh the stock's poor performance."
+}

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 8.94,
+  "sharpe_ratio": -1.18,
+  "reasoning": "The stock's weekly performance was disappointing, with a negative return and Sharpe Ratio. The fundamentals are mixed, with low profitability metrics and high debt-to-equity ratio, but decent operational efficiency. The news sentiment is neutral to mixed, and the macroeconomic environment is supportive of growth, but not exceptionally strong. Therefore, I recommend a HOLD decision, as the stock's performance is not compelling enough to warrant a BUY or SELL decision."
+}

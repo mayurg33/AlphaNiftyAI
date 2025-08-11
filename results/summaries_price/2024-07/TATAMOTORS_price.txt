@@ -1,0 +1,27 @@
+Symbol: TATAMOTORS
+Month: 2024-07
+Start Price: ₹993.51
+End Price: ₹1146.79
+12M Return: 15.43%
+6M Return: 15.43%
+3M Return: 15.43%
+Volatility: 0.321
+Sharpe Ratio: 5.526
+Max Drawdown: -0.034
+Peer Correlation (TATASTEEL): 0.3327
+Peer Correlation (TATACONSUM): -0.3693
+Peer Correlation (MARUTI): 0.1647
+Average Peer Correlation: 0.0427
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+TATAMOTORS has demonstrated impressive returns across all time frames, with a 12-month return of 15.43%, outperforming the market. The stock's volatility is relatively low at 0.321, indicating a stable price movement. The Sharpe Ratio of 5.526 suggests that the returns are generated with relatively low risk. The Max Drawdown of -0.034 indicates that the stock has been resilient to market downturns.
+
+In terms of peer correlation, TATAMOTORS has a positive correlation with TATASTEEL (0.3327) and MARUTI (0.1647), indicating that it moves in tandem with these stocks. However, it has a negative correlation with TATACONSUM (-0.3693), suggesting that it can provide a diversification benefit when combined with this stock.
+
+**Recommendation:**
+
+Based on the strong returns, low volatility, and high Sharpe Ratio, I recommend a **BUY** on TATAMOTORS. The stock's ability to generate consistent returns with relatively low risk makes it an attractive investment opportunity. Additionally, its diversification benefits when combined with TATACONSUM can help optimize a portfolio's risk-return profile.

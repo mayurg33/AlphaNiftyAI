@@ -1,0 +1,3 @@
+HINDALCO's weekly performance was disappointing, with a return of -1.48%, underperforming its peers ITC and ULTRACEMCO. The stock's volatility was moderate at 10.49%, lower than ITC's but higher than ULTRACEMCO's. Despite this, HINDALCO's Sharpe Ratio was the lowest among its peers, indicating a poor risk-return tradeoff. Overall, the stock was relatively risky this week, with a max drawdown of -1.59%.
+
+[Volatility: 10.49%]

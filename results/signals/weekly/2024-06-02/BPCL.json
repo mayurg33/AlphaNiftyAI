@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 15.87,
+  "sharpe_ratio": -1.09,
+  "reasoning": "The stock's high volatility and negative returns make it an unattractive investment option. Additionally, the company's financial health is cautious, with weaknesses in revenue and earnings growth, low profit margins, and a high debt-to-equity ratio. Although the valuation is relatively attractive, the overall risk profile outweighs the potential benefits. In the current macroeconomic environment, there are better investment opportunities available."
+}

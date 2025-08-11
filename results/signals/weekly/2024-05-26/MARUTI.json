@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 25.06,
+  "sharpe_ratio": 0.89,
+  "reasoning": "Maruti's strong weekly performance, with a 4.23% return, outperforming its peers, and a relatively low-risk week with no max drawdown, suggests a BUY. The company's financial health is strong, with high gross margins, profit margins, and return on equity. The macroeconomic environment is also supportive, with a growing services sector, low inflation, and a stable repo rate, which could benefit the automotive industry."
+}

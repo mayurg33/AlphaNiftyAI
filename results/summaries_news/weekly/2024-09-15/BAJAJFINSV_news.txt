@@ -1,0 +1,5 @@
+Based on the historical news data, the current week's news sentiment is NEUTRAL. 
+
+Notable events: The news is focused on the IPO of Bajaj Housing Finance, with details on the Grey Market Premium (GMP), subscription status, review, and other relevant information. The article is providing an update on the IPO process, rather than expressing a clear opinion or sentiment.
+
+The tone of the news is neutral because it is primarily informative, providing factual information about the IPO. There is no clear positive or negative sentiment expressed in the article. The historical news data suggests that the stock has responded positively to news related to the company's offers and services, but the current news is more focused on the IPO process rather than the company's performance or prospects.

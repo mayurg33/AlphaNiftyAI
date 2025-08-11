@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 20.02,
+  "sharpe_ratio": 0.16,
+  "reasoning": "The stock's modest weekly return and relatively high volatility indicate a neutral sentiment. Although the company's fundamentals are strong, with high ROE and profit margins, the high debt-to-equity ratio is a concern. The news sentiment is neutral to positive, driven by the IFC investment, but the macroeconomic environment suggests some stress in the shadow-banking sector. Overall, the stock's strengths and weaknesses balance out, making it a hold decision."
+}

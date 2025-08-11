@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 13.52,
+  "sharpe_ratio": -0.86,
+  "reasoning": "The stock's weekly performance was disappointing, but it outperformed peers TCS and WIPRO. The company's fundamentals are strong, with high gross margins and return on equity, but growth metrics are a concern. The news sentiment is neutral to positive, and the macroeconomic environment is supportive, but the Sharpe Ratio indicates that the stock's return is not justified by its risk level, leading me to recommend a HOLD decision."
+}

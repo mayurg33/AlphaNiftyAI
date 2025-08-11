@@ -1,0 +1,27 @@
+Symbol: ADANIPORTS
+Month: 2024-05
+Start Price: ₹1326.63
+End Price: ₹1424.33
+12M Return: 7.36%
+6M Return: 7.36%
+3M Return: 7.36%
+Volatility: 0.354
+Sharpe Ratio: 2.702
+Max Drawdown: -0.070
+Peer Correlation (ADANIENT): 0.8201
+Peer Correlation (MARUTI): 0.2389
+Peer Correlation (SBIN): 0.3424
+Average Peer Correlation: 0.4671
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Adani Ports and Special Economic Zone Ltd. (ADANIPORTS) has demonstrated a strong performance in the past 12 months, with a return of 7.36%. The stock has shown consistent returns across different time periods, with 6-month and 3-month returns also at 7.36%. The volatility of the stock is relatively low at 0.354, indicating a stable performance. The Sharpe Ratio of 2.702 suggests that the returns are high compared to the risk taken. The maximum drawdown is relatively low at -0.070, indicating that the stock has not experienced significant losses.
+
+In terms of peer correlation, ADANIPORTS has a high correlation with ADANIENT (0.8201), indicating that the two stocks tend to move together. The correlation with MARUTI is relatively low (0.2389), while the correlation with SBIN is moderate (0.3424).
+
+**Recommendation:**
+
+Based on the strong performance and low volatility, I would recommend a **BUY** for ADANIPORTS. The consistent returns across different time periods and the high Sharpe Ratio suggest that the stock is a good investment opportunity. Additionally, the low maximum drawdown indicates that the stock is relatively stable and less prone to significant losses. However, investors should be aware of the high correlation with ADANIENT and consider diversifying their portfolio accordingly.

@@ -1,0 +1,5 @@
+Here is the analysis:
+
+NESTLEIND's weekly performance was disappointing, with a return of -0.28%, underperforming its peers. The stock's volatility was moderate at 15.03%, indicating a relatively stable price movement. Compared to its peers, NESTLEIND lagged behind, with HINDUNILVR and TATACONSUM posting returns of 4.07% and 2.14%, respectively. The stock's risk profile was moderate, with a Sharpe Ratio of -0.09 and a Max Drawdown of -1.11%.
+
+[Volatility: 15.03%]

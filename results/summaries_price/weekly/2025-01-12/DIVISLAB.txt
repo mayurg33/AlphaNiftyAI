@@ -1,0 +1,3 @@
+DIVISLAB's weekly performance was disappointing, with a return of -2.04%, underperforming its peers. The stock's volatility was relatively low at 8.52%, compared to its peers, but its Sharpe Ratio of -0.96 indicates poor risk-adjusted performance. Despite being less volatile, DIVISLAB still underperformed its peers, with only SUNPHARMA performing worse. Overall, the stock was relatively less risky this week, but its returns were still negative.
+
+[Volatility: 8.52%]

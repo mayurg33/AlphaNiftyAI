@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 25.3,
+  "sharpe_ratio": -0.67,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate that the risk is not justified by the return. Additionally, the company's high debt-to-equity ratio and high valuation multiples suggest that the stock may be overvalued. With no positive news sentiment, it's a good time to sell the stock."
+}

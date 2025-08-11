@@ -1,0 +1,5 @@
+Here is the summary:
+
+INDUSINDBK's weekly performance was lackluster, with a return of -0.1%, underperforming its peers ICICIBANK and AXISBANK. The stock's volatility was extremely high at 55.29%, making it a risky investment this week. In comparison to its peers, INDUSINDBK's Sharpe Ratio of 0.00 indicates poor risk-adjusted returns. 
+
+[Volatility: 55.29%]

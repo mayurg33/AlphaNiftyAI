@@ -1,0 +1,14 @@
+Based on the current week's news, the sentiment is NEUTRAL for ONGC stock.
+
+Notable events:
+
+1. ONGC's share price closed at ₹240, up 0.4% from yesterday's ₹239.05, indicating a slight increase.
+2. A major reshuffle of high-profile officers was announced at HPCL, an ONGC subsidiary.
+
+Historical context:
+
+The historical news and price impact suggest that ONGC's stock is sensitive to news related to the oil and gas industry, as well as its subsidiaries. The news about Oil India's stock price increase due to soaring crude prices had a positive impact on ONGC's stock (+5.94%). On the other hand, news about Reliance Industries' stock tumble due to export tax had a negative impact (-6.39%).
+
+In the context of HPCL, the news about the COVID vaccination drive had a minor positive impact (+0.29%), while the news about the delay in merging MRPL with HPCL had a negative impact (-1.33%). The news about ONGC finally getting a director on HPCL's board after 5 months had a minor negative impact (-0.90%).
+
+Overall, the current week's news tone is neutral, as the slight increase in ONGC's share price is offset by the uncertainty surrounding the high-profile officer reshuffle at HPCL.

@@ -1,0 +1,7 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL to POSITIVE.
+
+The notable event is that TCS has partnered with UPM to modernize its IT landscape, which suggests that the company is continuing to invest in AI-led IT transformation.
+
+The historical news suggests that TCS has a strong track record in AI and IT services, having been recognized as a leader in IDC MarketScape for AI Services and globally recognized as a leader in IT Infrastructure. The impact of these news events has been mostly positive, with an average impact of +1.15%.
+
+The only negative impact was seen in 2023 when the COO mentioned that AI is nothing new, which might have been perceived as a negative comment. However, overall, the tone of the news is positive, indicating that the partnership with UPM is likely to have a positive impact on the stock.

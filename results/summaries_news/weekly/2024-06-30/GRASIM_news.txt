@@ -1,0 +1,14 @@
+Based on the historical data and news headlines, here is a summary of the current week's news sentiment:
+
+**Sentiment:** Positive
+
+**Notable Events:**
+
+* Sensex and Nifty hitting all-time highs multiple times during the week
+* Autos and media stocks performing well
+* IT stocks gaining on expiry day
+* Record closing on D-Street with Sensex finishing up 620.73 pts and Nifty settling at 23,868.8
+
+**Tone:** The overall tone of the news is positive, with most headlines indicating gains and record highs in the Sensex and Nifty. The language used is optimistic, with words like "shine", "hit all-time highs", "record closing", and "gains". The only neutral or slightly negative tone is seen in a few headlines that mention underperformance of certain sectors, such as Bank Nifty.
+
+The historical data suggests that similar news headlines have had a positive impact on the stock market, with average impacts ranging from +0.04% to +4.71%. This suggests that the current week's news is likely to have a positive impact on the stock market.

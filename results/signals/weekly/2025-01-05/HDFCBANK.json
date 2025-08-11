@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 23.02,
+  "sharpe_ratio": -0.27,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but its strong fundamentals, including high ROE and profit margins, suggest a stable business model. The news sentiment is neutral to negative, but the macroeconomic environment is supportive of the banking sector. Therefore, I recommend a hold decision, awaiting further clarity on the stock's direction."
+}

@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 46.81,
+  "sharpe_ratio": -0.28,
+  "reasoning": "The stock's weekly performance was disappointing with a return of -2.5% and a Sharpe Ratio of -0.28, indicating poor risk-adjusted returns. The news sentiment is also negative due to the decline in loan disbursement and disappointing Q2FY25 business update. Additionally, the high debt-to-equity ratio is a concern. Although the company's profitability and operating performance are strong, the overall sentiment is bearish, leading to a SELL decision."
+}

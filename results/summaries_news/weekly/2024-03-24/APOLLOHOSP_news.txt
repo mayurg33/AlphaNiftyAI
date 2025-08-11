@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL for Apollo Hospitals' stock.
+
+The notable event is the appointment of Madhu Sasidhar as the President and CEO of Apollo's hospital division, which is a significant leadership change for the company.
+
+The historical data suggests that the news tone is neutral, as the impact of similar news in the past has been both positive and negative. The positive impact was seen in 2022-02-25 with a +3.63% change, while the negative impacts were seen in 2022-10-16 with a -1.78% change and 2022-04-27 with a -6.53% change. The 2021-06-27 event had a positive impact of +7.64%, but it was related to a different topic (Sputnik V Covid vaccine).
+
+Overall, the news tone is neutral, and the market reaction to this news is likely to be mixed, depending on how investors perceive the leadership change and its potential impact on the company's performance.

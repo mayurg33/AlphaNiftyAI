@@ -1,0 +1,10 @@
+**Weekly News Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+1. Wipro appoints Anne-Marie Rowland as CEO of Capco, which could boost the company's BFSI capabilities.
+2. Wipro GE Healthcare plans to invest Rs 8,000 cr in 5 years on medical devices manufacturing and local R&D, indicating a significant investment in the healthcare sector.
+
+**News Tone:** The overall tone of the news is neutral to positive. The appointment of a new CEO for Capco could have a positive impact on Wipro's BFSI business, as seen in historical similar news (e.g., +2.40% and +4.27% impact). The investment in medical devices manufacturing and local R&D by Wipro GE Healthcare is a significant development, but the historical similar news has shown a mixed impact (e.g., -4.74% and -3.37% impact). However, the investment itself is a positive development for the company's growth prospects.
+
+Overall, the news tone is leaning towards a positive sentiment, but with some caution due to the mixed historical impact of similar news.

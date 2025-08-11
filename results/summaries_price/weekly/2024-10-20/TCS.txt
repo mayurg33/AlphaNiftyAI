@@ -1,0 +1,3 @@
+TCS had a relatively stable week, with a weekly return of -0.33%, outperforming its peers TATACONSUM, TATAMOTORS, and TATASTEEL. Despite the negative return, TCS's volatility of 7.78% was significantly lower than its peers, indicating a relatively less risky investment. The Sharpe Ratio of -0.17 suggests that the stock's return was not sufficient to compensate for the risk taken. Overall, TCS was a relatively safe haven among its peers this week.
+
+[Volatility: 7.78%]

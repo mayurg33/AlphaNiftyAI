@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 19.91,
+  "sharpe_ratio": 0.37,
+  "reasoning": "NTPC's financial health is strong, with decent ROE and profit margins, and reasonable valuation. However, its revenue growth is sluggish and debt-to-equity ratio is high, which are concerns. The news sentiment is neutral to slightly negative, and the macroeconomic environment is supportive of growth, but the stock's high volatility and low Sharpe Ratio indicate a risky investment. Therefore, I recommend a HOLD decision."
+}

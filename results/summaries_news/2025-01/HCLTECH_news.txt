@@ -1,0 +1,4 @@
+After analyzing the recent headlines about HCLTECH, the overall news sentiment is NEUTRAL to NEGATIVE.
+
+Final Decision: SELL
+Reason: The stock has fallen 8-9% post Q3 results, and despite the 6% YoY profit rise, market sentiment is negative, indicating a possible correction in the stock price.

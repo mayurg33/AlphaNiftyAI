@@ -1,0 +1,3 @@
+HCLTECH had a strong weekly performance, returning 2.74% and outperforming its peers. The stock's volatility was relatively low at 10.38%, indicating a moderate level of risk. In comparison to its peers, HCLTECH's Sharpe Ratio of 1.04 was the highest, suggesting that it provided the best risk-adjusted return. Overall, the stock's performance was impressive, and it stood out among its peers.
+
+[Volatility: 10.38%]

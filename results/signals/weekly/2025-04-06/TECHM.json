@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 51.85,
+  "sharpe_ratio": -0.54,
+  "reasoning": "The stock's high volatility and negative returns make it an unattractive investment option in the short term. However, the company's strong profitability profile, reasonable valuation, and promising earnings growth rate suggest potential for future growth. Additionally, the neutral news sentiment and supportive macroeconomic environment do not warrant a sell decision. Therefore, a hold decision is recommended to wait for further cues to determine the direction of the stock price."
+}

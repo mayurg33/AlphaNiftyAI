@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the current week's news sentiment is POSITIVE for Axis Bank.
+
+The notable event is the significant growth of Axis Bank's market capitalization by 20.9%, leading the market cap surge among private sector banks in India.
+
+The news tone is positive, indicating a potential upward trend for the stock. The historical data shows that similar news has had a positive impact on the stock price, with an average impact of +2.03% (calculated from the provided historical data).

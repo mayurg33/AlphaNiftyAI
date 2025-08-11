@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 20.39,
+  "sharpe_ratio": -0.32,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but its strong profitability and reasonable valuation are positives. The news sentiment is neutral, and the macroeconomic environment is supportive of the banking sector. However, the lack of debt information and negative revenue and earnings growth are weaknesses that prevent me from making a buy recommendation."
+}

@@ -1,0 +1,25 @@
+Symbol: TATASTEEL
+Month: 2025-04
+Start Price: ₹149.63
+End Price: ₹136.89
+12M Return: -8.52%
+6M Return: -8.52%
+3M Return: -8.52%
+Volatility: 0.524
+Sharpe Ratio: -2.114
+Max Drawdown: -0.178
+Peer Correlation (TATAMOTORS): 0.8667
+Peer Correlation (TATACONSUM): 0.2992
+Peer Correlation (JSWSTEEL): 0.8753
+Average Peer Correlation: 0.6804
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+TATASTEEL has experienced a decline in its stock price over the past year, with a 12-month return of -8.52%. The stock's volatility is moderate at 0.524, and its Sharpe Ratio is -2.114, indicating that the return is not justified by the level of risk taken. The Max Drawdown of -0.178 suggests that the stock has fallen by 17.8% from its peak. In terms of peer correlations, TATASTEEL has a high correlation with TATAMOTORS and JSWSTEEL, but a relatively low correlation with TATACONSUM.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **SELL** position for TATASTEEL. The negative returns over various time periods, combined with a high volatility and a low Sharpe Ratio, suggest that the stock is not a good investment opportunity at this time. Additionally, the high correlation with other steel companies, such as JSWSTEEL, may indicate that the stock is heavily influenced by industry-specific factors, which could lead to further declines in the stock price.

@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock has consistently underperformed with a 12-month return of -15.51%. The Sharpe Ratio of -6.392 indicates that the return is not justified by the level of risk taken. Additionally, the maximum drawdown of -0.173 suggests that the stock is prone to significant declines in value. The fundamentals also suggest that the stock is overvalued with a high PE ratio, and the company's financial performance is not impressive. The news sentiment is overwhelmingly negative, and the macroeconomic environment, although positive, is not sufficient to outweigh the negative factors."
+}

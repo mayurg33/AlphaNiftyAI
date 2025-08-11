@@ -1,0 +1,11 @@
+Based on the current week's news, the sentiment is NEUTRAL.
+
+The news tone is neutral because the three news articles all report on the same event, which is Tech Mahindra's merger of two US-based subsidiaries. This event is a neutral to slightly positive development for the company, as it is a strategic move to consolidate and streamline its operations.
+
+Notable events mentioned in the historical similar news include:
+
+* Tech Mahindra's acquisition of stakes in various companies, such as Perigord, Activus Connect, and Eventus Solutions Group, which had mixed impacts on the stock price.
+* Tech Mahindra's partnerships and agreements, such as the managed security services pact with Palo Alto Networks, which had a negative impact on the stock price.
+* Tech Mahindra's acquisitions of European firms, which had a significant negative impact on the stock price.
+
+Overall, the current week's news tone is neutral, and the impact on the stock price is likely to be minimal, as the merger is a strategic move that is not expected to have a significant immediate impact on the company's financials.

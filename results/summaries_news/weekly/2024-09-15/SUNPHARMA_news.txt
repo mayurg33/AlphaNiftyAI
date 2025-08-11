@@ -1,0 +1,5 @@
+Based on the historical news data, the current week's news sentiment is NEUTRAL.
+
+Notable events: The news article highlights 3 pharma stocks that earn 90% revenue from international markets, which could be a significant factor in their performance.
+
+The historical data shows a mixed sentiment, with one negative impact (-1.59%) and two positive impacts (+0.29% and +0.15%). This suggests that the news tone is not strongly positive or negative, but rather neutral. The article may provide some insights and information about the pharma stocks, but it does not seem to have a strong bullish or bearish tone.

@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 32.79,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's high volatility and poor weekly performance indicate significant price fluctuations. The company's financial health is fragile, with high leverage and a stretched valuation. Although the news sentiment is positive, the investment plan may not be enough to offset the company's underlying financial concerns, making it a sell."
+}

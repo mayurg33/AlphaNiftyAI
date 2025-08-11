@@ -1,0 +1,8 @@
+Based on the current week's news, the sentiment is NEUTRAL to POSITIVE.
+
+Notable events:
+
+* State Bank of India's stock sees a 1.93% increase, with its SMA5 at Rs 825.92.
+* SBI gets a new chief, sparking hopes of reviving the bank's growth.
+
+The tone of the news is generally positive, with the stock price increase being a significant event. The appointment of a new chief also brings optimism, as it may lead to new strategies and growth initiatives for the bank. However, it's worth noting that the historical news sentiment is mixed, with some negative impacts in the past. Overall, the current week's news tone is leaning towards being positive, but with a hint of caution due to the historical context.

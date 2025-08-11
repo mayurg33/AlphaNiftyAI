@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 29.18,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's high volatility and poor weekly performance are concerns. Additionally, the company's declining earnings growth and rich valuation (trailing P/E of 31.99 and forward P/E of 48.93) suggest that the stock may be overpriced. While the company's financial health is stable, the macroeconomic environment is not particularly supportive of the automotive industry, with two-wheeler production and sales growth being the only positive indicators."
+}

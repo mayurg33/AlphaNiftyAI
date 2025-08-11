@@ -1,0 +1,3 @@
+DRREDDY's weekly performance was dismal, with a return of -5.99%, significantly underperforming its peers. The stock's volatility was exceptionally high at 39.08%, indicating a highly risky investment environment. Compared to its peers, DRREDDY's return was the worst, and its Sharpe ratio was tied with DIVISLAB for the lowest. Overall, the stock's performance was poor and risky this week.
+
+[Volatility: 39.08%]

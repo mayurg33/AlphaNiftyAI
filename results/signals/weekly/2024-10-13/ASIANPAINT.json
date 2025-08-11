@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 11.44,
+  "sharpe_ratio": -0.28,
+  "reasoning": "The stock's poor weekly performance, with a return of -0.82%, and a Sharpe Ratio of -0.28, indicates that the return is not sufficient to compensate for the risk taken. Additionally, the company's growth metrics are a concern, with negative revenue and earnings growth rates, and the valuation metrics suggest that the company is trading at a premium. Although the company's financial health is stable, the growth prospects and valuation may be a concern for investors."
+}

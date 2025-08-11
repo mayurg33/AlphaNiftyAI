@@ -1,0 +1,27 @@
+Based on the current week's news, here is a summary of the sentiment, notable events, and tone for each stock:
+
+**Hindalco**
+
+* Sentiment: Neutral
+* Notable events: Century Textiles issuing a corporate guarantee of Rs 400 crore to Hindalco, Antique's recommendation to sell Hindustan Zinc shares and hold Vedanta stock
+* Tone: The news tone is neutral for Hindalco, with one positive event (Century Textiles' corporate guarantee) and one neutral event (Antique's recommendation).
+
+**Vedanta**
+
+* Sentiment: Neutral
+* Notable events: Antique's recommendation to hold Vedanta stock, comparison with Hindalco in terms of metal stocks
+* Tone: The news tone is neutral for Vedanta, with one neutral event (Antique's recommendation) and one comparative event (comparison with Hindalco).
+
+**Century Textiles**
+
+* Sentiment: Positive
+* Notable events: Issuing a corporate guarantee of Rs 400 crore to Hindalco
+* Tone: The news tone is positive for Century Textiles, with a significant event (issuing a corporate guarantee) that has a positive impact on the stock.
+
+**Hindustan Zinc**
+
+* Sentiment: Negative
+* Notable events: Antique's recommendation to sell Hindustan Zinc shares
+* Tone: The news tone is negative for Hindustan Zinc, with a sell recommendation from Antique.
+
+Overall, the news tone is mixed, with some positive events (Century Textiles' corporate guarantee) and some negative events (Antique's sell recommendation for Hindustan Zinc).

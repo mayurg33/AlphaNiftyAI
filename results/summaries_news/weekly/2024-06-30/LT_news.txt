@@ -1,0 +1,5 @@
+The current week's news sentiment is NEUTRAL.
+
+Notable events: D-Street experts recommend L&T, Wipro, HAL, among 18 top picks ahead of Modi 3.0's first Union Budget.
+
+The news tone is neutral because while the experts are recommending these stocks, the historical similar news events have shown mixed impacts on the stock prices. In the past, similar news events have resulted in both positive and negative impacts on the stock prices, ranging from -2.94% to -0.30%. Therefore, the overall tone of the news is neutral, indicating that the impact of this news on the stock prices is uncertain.

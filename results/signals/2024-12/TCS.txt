@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's underperformance over the past year, combined with a low Sharpe Ratio and high valuation, suggests a HOLD rating. Additionally, the mixed news sentiment and uncertainty around Q3 results create a wait-and-watch situation, while the macroeconomic environment indicates a stable growth outlook for the services sector, which TCS operates in.

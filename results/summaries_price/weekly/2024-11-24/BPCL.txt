@@ -1,0 +1,3 @@
+BPCL's weekly performance was disappointing, with a return of -1.16%, outperforming only ONGC among its peers. The stock's volatility was relatively moderate at 23.95%, lower than its peers SBIN and RELIANCE. However, its Sharpe Ratio of -0.25 indicates a poor risk-adjusted return. Overall, BPCL underperformed its peers this week, with a relatively low-risk profile.
+
+[Volatility: 23.95%]

@@ -1,0 +1,11 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Financial Results – Quarter 4 FY25, Standalone & Consolidated Results**: The sentiment around this news is neutral to slightly positive, with an average impact of -0.73%. The historical data suggests that the market reaction to financial results can be varied, with some instances showing a positive impact and others showing a negative impact.
+
+**Mahindra & Mahindra Financial Services Approves Dividend, Increase in Borrowing Limits**: The sentiment around this news is mixed, with an average impact of +2.12%. The historical data suggests that dividend announcements can have a positive impact, but the increase in borrowing limits might be viewed with caution.
+
+**RBI slaps hefty penalties on Mahindra & Mahindra Financial Services, THESE two banks – Check details**: The sentiment around this news is negative, with an average impact of +3.88%. Although the historical data shows that RBI penalties have had a positive impact on the stock in the past, the news of penalties being slapped on Mahindra & Mahindra Financial Services might still have a negative connotation.
+
+**Mahindra & Mahindra Financial Services Reports Record Sales Amid Profit Decline in April 2025**: The sentiment around this news is positive, with an average impact of +11.91%. The historical data suggests that record sales figures can have a significant positive impact on the stock, even if accompanied by a profit decline.
+
+Notable events of the week include the approval of dividend and increase in borrowing limits, as well as the RBI penalties imposed on Mahindra & Mahindra Financial Services. Overall, the news tone is neutral to slightly positive, with a bias towards positivity due to the record sales figures and dividend announcement. However, the RBI penalties and profit decline might temper the positive sentiment.

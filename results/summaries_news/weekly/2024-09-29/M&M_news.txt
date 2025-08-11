@@ -1,0 +1,16 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: M&M, Kotak Mahindra Bank, Escorts Kubota & Jyothi Labs: 4 stock picks by SMC Global**
+
+The news tone is Neutral to Positive. The historical data shows that similar news events have resulted in both positive and negative price impacts. However, the average impact is slightly negative (-0.65%). This suggests that the market may not have a strong reaction to this news, but there is a possibility of a slight positive movement.
+
+**Query 2: Tata Steel, L&T Finance & More: Brokerage recommends buying these 7 stocks for up to 3 months for huge profit| Check targets, stop losses**
+
+The news tone is Positive. The historical data shows that similar news events have resulted in consistently positive price impacts, with an average impact of +1.23%. This suggests that the market is likely to react positively to this news, with a potential upside movement in the stocks mentioned.
+
+Notable events:
+
+* Brokerages recommending stock picks is a common theme in both news articles.
+* Tata Steel is mentioned in both queries, and historical data suggests a positive price impact when brokerages recommend buying the stock.
+
+Overall, the news tone is Neutral to Positive, with a slight bias towards positivity. The market may react positively to the brokerage recommendations, especially for Tata Steel and other stocks mentioned in Query 2. However, the impact of Query 1 may be more muted due to the mixed historical data.

@@ -1,0 +1,3 @@
+ICICIBANK's weekly performance was disappointing, with a return of -0.4%, underperforming its peers. The stock's volatility was relatively high at 13.7%, indicating a riskier investment environment. In comparison, peers INDUSINDBK and SBIN posted returns of 2.12% and 2.07%, respectively, while HDFCBANK returned 0.94%. The stock's Sharpe Ratio of -0.15 and Max Drawdown of -0.83% further highlight its poor risk-adjusted performance.
+
+[Volatility: 13.7%]

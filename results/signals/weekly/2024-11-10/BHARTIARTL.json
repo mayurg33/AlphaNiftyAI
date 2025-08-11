@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 18.54,
+  "sharpe_ratio": -0.28,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but its strong profitability profile and moderate growth rates are positives. The news sentiment is neutral to positive, which could lead to an upward trend in the short term. However, the high debt-to-equity ratio and slightly overvalued multiples are red flags, making it a hold decision for now."
+}

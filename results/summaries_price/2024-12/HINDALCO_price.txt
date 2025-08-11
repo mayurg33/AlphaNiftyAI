@@ -1,0 +1,25 @@
+Symbol: HINDALCO
+Month: 2024-12
+Start Price: ₹662.60
+End Price: ₹602.45
+12M Return: -9.08%
+6M Return: -9.08%
+3M Return: -9.08%
+Volatility: 0.174
+Sharpe Ratio: -6.788
+Max Drawdown: -0.104
+Peer Correlation (ITC): 0.1545
+Peer Correlation (ULTRACEMCO): 0.6059
+Peer Correlation (HCLTECH): -0.0483
+Average Peer Correlation: 0.2374
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Hindalco Industries Ltd. (HINDALCO) has underperformed in the past year, with a 12-month return of -9.08%. The stock's volatility is moderate at 0.174, and its Sharpe Ratio is -6.788, indicating poor risk-adjusted returns. The maximum drawdown is -0.104, suggesting a significant decline in the stock's value. Correlation analysis with peers reveals a moderate positive correlation with ULTRACEMCO (0.6059) and a weak positive correlation with ITC (0.1545), while it has a weak negative correlation with HCLTECH (-0.0483).
+
+**Recommendation:**
+
+Based on the analysis, I would suggest a **SELL** recommendation for HINDALCO. The stock's poor performance over the past year, accompanied by a high volatility and low Sharpe Ratio, indicates that it may not be an attractive investment opportunity at present. Additionally, the high maximum drawdown suggests that the stock is prone to significant declines, which could result in further losses for investors.

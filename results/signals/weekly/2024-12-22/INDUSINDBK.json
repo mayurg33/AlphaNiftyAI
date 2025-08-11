@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 24.48,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock had a dismal week with a -6.99% return, significantly underperforming its peers. The high volatility of 24.48% contributes to its poor performance, making it a risky investment. Additionally, the news sentiment is neutral to negative, with RBI fines and 52-week lows indicating a bearish trend. The company's financial health is mixed, with strengths in profitability but concerns in revenue growth and debt position."
+}

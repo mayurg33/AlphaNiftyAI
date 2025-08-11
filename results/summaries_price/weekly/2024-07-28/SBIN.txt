@@ -1,0 +1,3 @@
+SBIN's weekly performance was lackluster, with a return of -1.64% and a Sharpe Ratio of -0.28, indicating poor risk-adjusted returns. The stock's volatility was relatively high at 22.97%, and it experienced a max drawdown of -3.23%. Compared to its peers, SBIN outperformed ICICIBANK and AXISBANK but underperformed HDFCBANK. Overall, the stock was relatively risky this week.
+
+[Volatility: 22.97%]

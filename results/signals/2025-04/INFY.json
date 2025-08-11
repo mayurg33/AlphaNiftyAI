@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock has underperformed in the past 12 months with a return of -1.73%. The negative Sharpe Ratio and moderate volatility indicate that the returns are not justified by the risk taken. Furthermore, the news sentiment suggests that Infosys' Q4 results have missed growth guidance, and the company has announced a lower-than-expected revenue growth, which is likely to negatively impact the stock price in the short term. Considering these factors, I recommend a SELL."
+}

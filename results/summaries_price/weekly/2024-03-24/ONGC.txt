@@ -1,0 +1,3 @@
+ONGC's weekly return of 0.63% was relatively modest, accompanied by a moderate volatility of 18.28%. While the stock's Sharpe Ratio of 0.14 indicates a relatively low risk-adjusted return, its Max Drawdown of -0.9% suggests some downside risk. Compared to its peers, ONGC underperformed in terms of return, but had relatively lower volatility. Overall, the stock's performance was lackluster this week.
+
+[Volatility: 18.28%]

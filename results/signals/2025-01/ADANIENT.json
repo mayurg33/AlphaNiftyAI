@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance over the past year, combined with its high volatility and negative Sharpe Ratio, suggest a poor risk-adjusted return. The high maximum drawdown and mediocre fundamentals, including a high debt-to-equity ratio, further support a sell decision. Although the news sentiment is neutral and the macroeconomic environment is generally positive, the stock's underlying issues outweigh these factors."
+}

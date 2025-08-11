@@ -1,0 +1,9 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+Notable events mentioned in the news include:
+
+* Nifty 50 and Sensex extending gains for the second day
+* IT and cement stocks leading the gains
+* Broader market rebounding
+
+The historical similar news shows a mixed impact on the stock market, with one instance showing a negative impact (-1.67%), one showing a positive impact (+4.04%), and one showing a significant negative impact (-6.37%). This mixed sentiment suggests that the current news tone is neutral, indicating that the market is not strongly biased in either direction.

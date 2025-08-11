@@ -1,0 +1,3 @@
+TITAN had a strong weekly performance, returning 3.73% and outperforming its peers. The stock's volatility was relatively low at 10.63%, indicating a relatively stable performance. Compared to its peers, TITAN's Sharpe Ratio of 1.84 suggests it offered a better risk-adjusted return. Overall, TITAN was a relatively low-risk and high-return stock this week, outperforming its peers.
+
+[Volatility: 10.63%]

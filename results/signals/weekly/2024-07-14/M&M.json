@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 62.0,
+  "sharpe_ratio": -0.32,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but the company's strong fundamentals, such as profitability metrics and reasonable valuation, suggest potential for future growth. However, the high debt-to-equity ratio and negative news sentiment are drawbacks. Given the mixed signals, I recommend a HOLD decision, awaiting further developments to clarify the stock's direction."
+}

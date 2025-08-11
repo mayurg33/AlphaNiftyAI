@@ -1,0 +1,15 @@
+Based on the current week's news, the sentiment is overall negative for Infosys stock.
+
+Notable events:
+
+* Infosys, Wipro, Coforge, TCS, and KPIT shares dropped up to 6% today, which is a significant decline.
+* Infosys shares slumped 3.5% after Morgan Stanley cut its rating, which is a negative event.
+* The only positive news is the announcement of Infosys' Q4 results and consideration of a final dividend for FY25, but the impact of this news is not as significant as the negative events.
+
+Historical context:
+
+* The first query shows that when Infosys, Wipro, and TCS shares dropped significantly, the impact was mostly negative, with only one instance of a positive impact.
+* The second query shows that Infosys-specific news can have a significant impact on the stock, with both positive and negative outcomes.
+* The third query shows that Morgan Stanley's rating changes can have a significant impact on Infosys stock, with mostly negative outcomes.
+
+Overall, the news tone is negative for Infosys stock, with significant declines in share prices and negative rating changes from Morgan Stanley.

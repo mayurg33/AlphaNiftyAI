@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Axis Bank's moderate volatility and healthy Sharpe Ratio indicate reasonable returns without excessive risk, while its strong correlations with peers suggest it will follow sector trends. However, mixed signals from revenue and earnings growth, along with the fine imposed by the FIU, warrant a neutral outlook.

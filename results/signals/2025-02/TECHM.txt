@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the news sentiment is positive, suggesting short-term gains, the stock's high volatility and poor Sharpe Ratio indicate that the return is not justified by the risk taken. Additionally, the high Debt/Equity ratio is a concern, and the macroeconomic environment, although supportive of growth, does not provide a strong catalyst for a significant price increase.

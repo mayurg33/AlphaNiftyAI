@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor price trends and technicals, including a negative Sharpe Ratio and high volatility, are reinforced by its declining financial performance, high debt levels, and moderate profitability, making it an unattractive investment opportunity in the current macroeconomic environment.

@@ -1,0 +1,3 @@
+JSWSTEEL's weekly performance was moderately strong, with a 2.17% return, but accompanied by relatively high volatility of 27.34%. The stock underperformed peers TATASTEEL and BAJAJ-AUTO, but outperformed ULTRACEMCO. The Sharpe Ratio of 0.32 indicates a relatively low risk-adjusted return, and the Max Drawdown of -1.17% suggests some downside risk. Overall, JSWSTEEL's performance was decent but not exceptional, and its high volatility makes it a relatively risky investment this week.
+
+[Volatility: 27.34%]

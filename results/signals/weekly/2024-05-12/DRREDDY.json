@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 30.34,
+  "sharpe_ratio": -0.78,
+  "reasoning": "The stock's weekly performance was disappointing with a return of -5.92% and a Sharpe Ratio of -0.78, indicating poor risk-adjusted returns. The high volatility of 30.34% and max drawdown of -6.61% make it a risky investment. Although the company's financial health is robust, the negative news sentiment and brokerages' 'Reduce' call outweigh the positives, leading to a SELL decision."
+}

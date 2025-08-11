@@ -1,0 +1,13 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to slightly Negative
+
+**Notable Events:**
+
+1. ONGC plans to invest Rs 3500 crore in green energy capacity, which is a significant push towards renewable energy.
+2. Crude oil output drops 3.1% in March, which may impact ONGC's revenue and profitability.
+3. Petroleum product consumption is expected to increase by 2.1% in FY25, which could be a positive sign for the company.
+
+**Tone Analysis:**
+
+The news tone is neutral to slightly negative for ONGC's stock. The green energy capacity push is a positive development, but the historical data suggests that such announcements have had a negative impact on the stock price in the past (-3.31% and -2.87%). On the other hand, the drop in crude oil output is a negative event, but the historical data shows that ONGC's stock has been resilient to such news, with a mixed impact (+1.26% and -2.51%). Overall, the news tone is neutral to slightly negative, indicating that the stock may experience some volatility in the short term.

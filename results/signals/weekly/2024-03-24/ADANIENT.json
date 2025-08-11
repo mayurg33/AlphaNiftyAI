@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 21.78,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's weekly performance was lackluster, with a return of -0.13%, underperforming its peers. The company's financial health appears mixed, with low profitability metrics and high debt-to-equity ratio, indicating weaknesses. The news sentiment is also negative, suggesting a potential negative price impact. Therefore, it's a sell decision."
+}

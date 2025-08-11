@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor performance, high volatility, and negative Sharpe Ratio indicate a lack of attractiveness, while the company's overvaluation, low profitability, and high debt-to-equity ratio suggest underlying fundamental weaknesses, which outweigh the positive news sentiment and favorable macroeconomic environment.

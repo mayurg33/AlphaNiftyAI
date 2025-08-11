@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 14.66,
+  "sharpe_ratio": -0.01,
+  "reasoning": "ICICIBANK's mediocre weekly performance and high volatility indicate a relatively riskier investment. Although the company has a strong profitability profile and a healthy dividend yield, its growth metrics are muted and valuation appears rich. The news sentiment is neutral to positive, but the macroeconomic environment suggests a mixed outlook, leading me to recommend a hold decision."
+}

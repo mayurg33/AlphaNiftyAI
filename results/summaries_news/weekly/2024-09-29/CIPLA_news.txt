@@ -1,0 +1,12 @@
+**Weekly News Sentiment:**
+
+The overall sentiment of this week's news is **NEGATIVE**.
+
+**Notable Events:**
+
+1. UBS recommends selling shares of Dr Reddy's, Lupin, Zydus Life, and Auro Pharma, expecting up to 20% downside.
+2. Vedanta, Uno Minda, Coromandel International, Reliance Power, and other stocks are in focus, but the tone is neutral.
+
+**News Tone:**
+
+The news tone is **NEGATIVE** for Dr Reddy's, Lupin, Zydus Life, and Auro Pharma due to UBS's sell recommendation, which implies a potential 20% downside. For Vedanta, Uno Minda, Coromandel International, Reliance Power, and other stocks, the tone is **NEUTRAL**, as they are simply mentioned as stocks to watch without any specific positive or negative sentiment.

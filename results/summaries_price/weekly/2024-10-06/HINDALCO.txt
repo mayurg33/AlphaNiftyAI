@@ -1,0 +1,3 @@
+Hindalco's weekly performance was lackluster, with a -1.1% return, outperforming peers ITC and ULTRACEMCO but in line with HCLTECH. The stock's volatility was relatively high at 21.65%, indicating significant price fluctuations. Despite the poor return, Hindalco's Sharpe Ratio of -0.26 was relatively better than its peers, suggesting it was less risky than they were. However, the Max Drawdown of -1.9% indicates that the stock was still quite risky this week.
+
+[Volatility: 21.65%]

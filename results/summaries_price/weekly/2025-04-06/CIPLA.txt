@@ -1,0 +1,3 @@
+CIPLA's weekly performance was disappointing, with a return of -2.01%, underperforming its peers SUNPHARMA and GRASIM. The stock's volatility was high at 68.31%, making it a risky investment this week. Compared to its peers, CIPLA's Sharpe Ratio of -0.14 indicates that it did not provide adequate returns for the level of risk taken. Overall, CIPLA underperformed its peers and was a high-risk investment this week.
+
+[Volatility: 68.31%]

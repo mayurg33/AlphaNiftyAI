@@ -1,0 +1,3 @@
+NTPC's weekly performance was exceptional, with a 9.37% return, outperforming its peers POWERGRID, COALINDIA, and ONGC. The stock's volatility was relatively high at 29.19%, but its Sharpe Ratio of 1.24 indicates that the returns were justified by the level of risk taken. Despite the high volatility, NTPC's Max Drawdown of 0.0% suggests that the stock did not experience any significant losses during the week. Overall, NTPC's strong returns and relatively low risk make it an attractive option for investors.
+
+[Volatility: 29.19%]

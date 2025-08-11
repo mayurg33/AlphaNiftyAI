@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Despite the stock's poor performance and high volatility, the company's strong fundamentals, including a high ROE and profit margin, suggest potential for growth. However, the high valuation and mixed news sentiment warrant a cautious approach, making a HOLD signal the most appropriate.

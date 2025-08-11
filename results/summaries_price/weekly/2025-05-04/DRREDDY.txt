@@ -1,0 +1,3 @@
+DRREDDY's weekly performance was disappointing, with a return of -1.74%, underperforming its peers. The stock's volatility was high at 20.39%, indicating significant price fluctuations. Compared to its peers, DRREDDY's Sharpe Ratio of -0.45 was the lowest, suggesting poor risk-adjusted returns. The stock's Max Drawdown of -1.89% further highlights its riskiness this week.
+
+[Volatility: 20.39%]

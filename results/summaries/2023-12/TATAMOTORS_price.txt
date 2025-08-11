@@ -1,0 +1,1 @@
+Based on these metrics, I would recommend a HOLD. The recent 3M return of 9.56% suggests a possible turnaround, but the poor 12M return and mediocre Sharpe Ratio of 0.98 suggest that it's not yet time to buy, and the volatility is relatively low, indicating a relatively stable stock.

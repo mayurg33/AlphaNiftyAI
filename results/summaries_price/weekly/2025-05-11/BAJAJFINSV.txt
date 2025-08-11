@@ -1,0 +1,3 @@
+BAJAJFINSV's weekly performance was disappointing, with a return of -2.77%, indicating a decline in stock value. The stock's volatility was moderate at 15.89%, suggesting a relatively stable price movement. Compared to its peers, BAJAJFINSV outperformed BAJFINANCE and BAJAJ-AUTO but underperformed SHRIRAMFIN. The stock's risk profile was moderate, as reflected in its Sharpe Ratio of -0.70 and Max Drawdown of -3.23%. 
+
+[Volatility: 15.89%]

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 56.48,
+  "sharpe_ratio": 0.31,
+  "reasoning": "The stock has a strong weekly performance, but high volatility and relatively low risk-adjusted return suggest caution. Fundamentals are mixed, with strengths in operations and growth, but concerns over valuation and debt-to-equity ratio. Positive news sentiment and a supportive macroeconomic environment are offset by the stock's high volatility, leading to a hold decision."
+}

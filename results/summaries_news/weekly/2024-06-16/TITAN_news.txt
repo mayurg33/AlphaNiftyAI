@@ -1,0 +1,5 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+The notable event is the statement from Titan Co's managing director that people become used to higher gold prices. This statement seems to be neutral in tone, neither overly optimistic nor pessimistic.
+
+The historical news articles show a mix of positive and negative impacts on the stock price. In 2021, Titan shares jumped 7% to a record high, indicating a positive impact. In 2022, the news about India's new rich fueling brand expansion for Tata's jewelry arm had a negative impact of -3.40%. In 2023, the news about ADIA's investment in Lenskart had a positive impact of +3.49%. Therefore, the overall sentiment is neutral, as the news does not seem to have a strong positive or negative tone that would significantly impact the stock price.

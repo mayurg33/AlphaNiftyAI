@@ -1,0 +1,414 @@
+{
+  "2024-03-03": [
+    "LT",
+    "HDFCLIFE",
+    "HINDALCO"
+  ],
+  "2024-03-10": [
+    "BHARTIARTL",
+    "ITC"
+  ],
+  "2024-03-17": [
+    "HDFCBANK",
+    "BAJFINANCE",
+    "ITC",
+    "LT",
+    "MARUTI"
+  ],
+  "2024-03-24": [
+    "BHARTIARTL",
+    "SBIN",
+    "BAJFINANCE",
+    "ITC",
+    "KOTAKBANK"
+  ],
+  "2024-03-31": [
+    "BAJFINANCE",
+    "LT",
+    "TITAN",
+    "NTPC",
+    "ADANIPORTS"
+  ],
+  "2024-04-07": [
+    "HDFCBANK",
+    "M&M",
+    "BAJAJ-AUTO",
+    "DIVISLAB",
+    "HINDALCO"
+  ],
+  "2024-04-14": [
+    "BHARTIARTL",
+    "BAJFINANCE",
+    "TATAMOTORS",
+    "HINDALCO",
+    "EICHERMOT"
+  ],
+  "2024-04-21": [
+    "M&M",
+    "POWERGRID"
+  ],
+  "2024-04-28": [
+    "ICICIBANK",
+    "AXISBANK",
+    "ONGC",
+    "POWERGRID",
+    "TATAMOTORS"
+  ],
+  "2024-05-05": [
+    "SBIN",
+    "BAJFINANCE",
+    "ITC",
+    "BAJAJFINSV",
+    "POWERGRID"
+  ],
+  "2024-05-12": [
+    "SBIN",
+    "TATAMOTORS",
+    "EICHERMOT",
+    "BPCL",
+    "HEROMOTOCO"
+  ],
+  "2024-05-19": [
+    "SBIN",
+    "ITC",
+    "LT",
+    "KOTAKBANK",
+    "M&M"
+  ],
+  "2024-05-26": [
+    "HDFCBANK",
+    "BAJFINANCE",
+    "HCLTECH",
+    "MARUTI",
+    "ONGC"
+  ],
+  "2024-06-02": [
+    "HEROMOTOCO"
+  ],
+  "2024-06-09": [
+    "TCS",
+    "INFY",
+    "M&M",
+    "LTIM",
+    "TECHM"
+  ],
+  "2024-06-16": [
+    "HDFCBANK",
+    "SBIN",
+    "BAJFINANCE",
+    "HCLTECH",
+    "M&M"
+  ],
+  "2024-06-23": [
+    "KOTAKBANK",
+    "AXISBANK",
+    "ADANIPORTS",
+    "HINDALCO",
+    "TECHM"
+  ],
+  "2024-06-30": [
+    "RELIANCE",
+    "SBIN",
+    "BAJFINANCE",
+    "ULTRACEMCO",
+    "LTIM"
+  ],
+  "2024-07-07": [
+    "INFY",
+    "BAJFINANCE",
+    "ONGC",
+    "COALINDIA",
+    "SBILIFE"
+  ],
+  "2024-07-14": [
+    "TCS",
+    "ITC",
+    "MARUTI",
+    "AXISBANK",
+    "ADANIPORTS"
+  ],
+  "2024-07-21": [
+    "INFY",
+    "ITC",
+    "HCLTECH",
+    "KOTAKBANK",
+    "M&M"
+  ],
+  "2024-07-28": [
+    "ITC",
+    "SUNPHARMA",
+    "NTPC",
+    "EICHERMOT"
+  ],
+  "2024-08-04": [
+    "HDFCBANK",
+    "BHARTIARTL",
+    "KOTAKBANK",
+    "NTPC",
+    "ADANIPORTS"
+  ],
+  "2024-08-11": [
+    "RELIANCE",
+    "HDFCBANK",
+    "TCS",
+    "BHARTIARTL",
+    "ITC"
+  ],
+  "2024-08-18": [
+    "TCS",
+    "HCLTECH",
+    "M&M",
+    "ONGC"
+  ],
+  "2024-08-25": [
+    "HINDUNILVR",
+    "KOTAKBANK",
+    "HINDALCO",
+    "TECHM",
+    "BPCL"
+  ],
+  "2024-09-01": [
+    "BHARTIARTL",
+    "BAJFINANCE",
+    "HCLTECH",
+    "LTIM"
+  ],
+  "2024-09-08": [
+    "BAJAJFINSV",
+    "HEROMOTOCO"
+  ],
+  "2024-09-15": [
+    "BHARTIARTL",
+    "INFY",
+    "HCLTECH",
+    "AXISBANK",
+    "TITAN"
+  ],
+  "2024-09-22": [
+    "HDFCBANK",
+    "BHARTIARTL",
+    "ICICIBANK",
+    "BAJFINANCE",
+    "LT"
+  ],
+  "2024-09-29": [
+    "SBIN",
+    "ITC",
+    "HCLTECH",
+    "M&M"
+  ],
+  "2024-10-06": [
+    "SBIN"
+  ],
+  "2024-10-13": [
+    "SBIN",
+    "KOTAKBANK",
+    "AXISBANK",
+    "DIVISLAB",
+    "HINDALCO"
+  ],
+  "2024-10-20": [
+    "SBIN",
+    "POWERGRID",
+    "DRREDDY"
+  ],
+  "2024-10-27": [
+    "HDFCBANK",
+    "ICICIBANK",
+    "BAJFINANCE"
+  ],
+  "2024-11-03": [
+    "SBIN",
+    "ITC",
+    "LT",
+    "M&M",
+    "ADANIENT"
+  ],
+  "2024-11-10": [
+    "HDFCBANK",
+    "TCS",
+    "LT",
+    "HCLTECH",
+    "KOTAKBANK"
+  ],
+  "2024-11-17": [
+    "TITAN"
+  ],
+  "2024-11-24": [
+    "HDFCBANK",
+    "TCS",
+    "KOTAKBANK",
+    "TATAMOTORS",
+    "DIVISLAB"
+  ],
+  "2024-12-01": [
+    "BHARTIARTL",
+    "SBIN",
+    "MARUTI",
+    "LTIM",
+    "CIPLA"
+  ],
+  "2024-12-08": [
+    "HDFCBANK",
+    "TCS",
+    "LT",
+    "HCLTECH",
+    "AXISBANK"
+  ],
+  "2024-12-15": [
+    "INFY",
+    "HCLTECH",
+    "WIPRO"
+  ],
+  "2024-12-22": [
+    "CIPLA",
+    "DRREDDY"
+  ],
+  "2024-12-29": [
+    "HDFCBANK",
+    "M&M",
+    "ADANIENT",
+    "TATAMOTORS",
+    "BAJAJ-AUTO"
+  ],
+  "2025-01-05": [
+    "RELIANCE",
+    "SBIN",
+    "BAJFINANCE",
+    "KOTAKBANK",
+    "MARUTI"
+  ],
+  "2025-01-12": [
+    "BHARTIARTL",
+    "M&M",
+    "BAJAJFINSV",
+    "ONGC",
+    "LTIM"
+  ],
+  "2025-01-19": [
+    "RELIANCE",
+    "SBIN",
+    "MARUTI",
+    "NTPC",
+    "WIPRO"
+  ],
+  "2025-01-26": [
+    "RELIANCE",
+    "BHARTIARTL",
+    "ICICIBANK",
+    "BAJFINANCE",
+    "KOTAKBANK"
+  ],
+  "2025-02-02": [
+    "RELIANCE",
+    "HDFCBANK",
+    "BAJFINANCE",
+    "CIPLA"
+  ],
+  "2025-02-09": [
+    "BAJFINANCE",
+    "WIPRO",
+    "BPCL",
+    "DRREDDY"
+  ],
+  "2025-02-16": [
+    "BHARTIARTL",
+    "SBIN",
+    "BAJFINANCE",
+    "AXISBANK",
+    "HINDALCO"
+  ],
+  "2025-02-23": [
+    "NTPC",
+    "JSWSTEEL",
+    "TATASTEEL",
+    "HINDALCO",
+    "EICHERMOT"
+  ],
+  "2025-03-02": [
+    "HDFCBANK",
+    "BAJFINANCE",
+    "BAJAJFINSV",
+    "ADANIPORTS",
+    "COALINDIA"
+  ],
+  "2025-03-09": [
+    "RELIANCE",
+    "TCS",
+    "ICICIBANK",
+    "SBIN"
+  ],
+  "2025-03-16": [
+    "ICICIBANK",
+    "KOTAKBANK",
+    "NTPC",
+    "ONGC",
+    "DIVISLAB"
+  ],
+  "2025-03-23": [
+    "HDFCBANK",
+    "ICICIBANK",
+    "BAJFINANCE",
+    "KOTAKBANK",
+    "AXISBANK"
+  ],
+  "2025-03-30": [
+    "HDFCBANK",
+    "TATACONSUM"
+  ],
+  "2025-04-06": [
+    "HDFCBANK",
+    "BAJAJFINSV",
+    "HINDALCO",
+    "SHRIRAMFIN",
+    "TATACONSUM"
+  ],
+  "2025-04-13": [
+    "ITC",
+    "TITAN",
+    "POWERGRID",
+    "ASIANPAINT",
+    "HINDALCO"
+  ],
+  "2025-04-20": [
+    "HDFCBANK",
+    "TCS",
+    "BHARTIARTL",
+    "SBIN",
+    "ITC"
+  ],
+  "2025-04-27": [
+    "RELIANCE",
+    "ITC",
+    "TATAMOTORS",
+    "TATACONSUM",
+    "DRREDDY"
+  ],
+  "2025-05-04": [
+    "INFY",
+    "HCLTECH",
+    "MARUTI",
+    "DIVISLAB",
+    "TECHM"
+  ],
+  "2025-05-11": [
+    "TATAMOTORS",
+    "BRITANNIA",
+    "HEROMOTOCO"
+  ],
+  "2025-05-18": [
+    "BAJFINANCE",
+    "TITAN",
+    "DIVISLAB",
+    "LTIM",
+    "TECHM"
+  ],
+  "2025-05-25": [
+    "TATASTEEL",
+    "LTIM",
+    "BPCL",
+    "DRREDDY",
+    "HEROMOTOCO"
+  ],
+  "2025-06-01": []
+}

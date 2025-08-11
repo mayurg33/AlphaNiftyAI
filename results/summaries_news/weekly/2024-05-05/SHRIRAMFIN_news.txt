@@ -1,0 +1,13 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* Shriram Group is in talks with partners to foray into the wealth management business, which could be a positive development for the company.
+
+Historical context:
+
+* The news about Shriram Capital bringing on board a new chief digital officer had a slightly negative impact (-0.17%) on the stock price.
+* The news about Reliance Industries' new CFO appointment had a significant negative impact (-3.27%) on the stock price, but this is not directly related to Shriram Group.
+* The news about Axis Bank and Shriram Housing Finance's co-lending pact had a positive impact (+2.22%) on the stock price.
+
+Overall, the news tone is neutral because while the company is exploring a new business opportunity, the historical context suggests that the impact on the stock price could be mixed.

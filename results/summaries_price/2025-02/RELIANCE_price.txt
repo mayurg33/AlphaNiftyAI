@@ -1,0 +1,27 @@
+Symbol: RELIANCE
+Month: 2025-02
+Start Price: ₹1264.60
+End Price: ₹1200.10
+12M Return: -5.10%
+6M Return: -5.10%
+3M Return: -5.10%
+Volatility: 0.172
+Sharpe Ratio: -3.949
+Max Drawdown: -0.066
+Peer Correlation (LT): 0.6821
+Peer Correlation (GRASIM): 0.0893
+Peer Correlation (HINDUNILVR): 0.1693
+Average Peer Correlation: 0.3136
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+Based on the provided data, here is a short summary and a suggested action:
+
+**Summary:**
+
+Reliance Industries Ltd. (RELIANCE) has underperformed in the past 12 months, with a return of -5.10%. The stock's volatility is moderate at 0.172, and its Sharpe Ratio is -3.949, indicating poor risk-adjusted returns. The maximum drawdown is -0.066, suggesting a moderate level of risk. The stock's correlation with its peers is mixed, with a high correlation with LT (0.6821) and low correlations with GRASIM (0.0893) and HINDUNILVR (0.1693).
+
+**Suggested Action:**
+
+Considering the stock's poor performance over the past 12 months, high volatility, and poor Sharpe Ratio, I would suggest a **SELL** recommendation. The stock's current price of ₹1200.10 is lower than its starting price of ₹1264.60, indicating a downward trend. Additionally, the average peer correlation is relatively low, suggesting that the stock's performance is not closely tied to its peers, making it a less attractive investment opportunity.

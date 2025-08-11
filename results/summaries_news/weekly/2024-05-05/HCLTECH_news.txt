@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, the current week's news sentiment is POSITIVE.
+
+The notable event is Cognizant's Q1 results, which has a positive impact on other IT firms such as TCS, Infosys, HCL Tech, and Wipro.
+
+The historical data suggests that news related to IT firms, especially when it comes to their quarterly results, talent retention, and analyst recommendations, tends to have a positive impact on their stock prices. The average impact of the similar news is around +2%, which indicates a positive tone for the stock.
+
+Overall, the news tone is positive, indicating that the market is likely to react favorably to Cognizant's Q1 results and its implications for other IT firms.

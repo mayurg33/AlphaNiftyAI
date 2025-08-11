@@ -1,0 +1,3 @@
+ADANIENT's weekly performance was lackluster, with a return of -0.13%, underperforming its peers. The stock's volatility was moderate at 21.78%, indicating a relatively stable price movement. Compared to its peers, ADANIENT's Sharpe Ratio was the lowest, suggesting it took on more risk without generating corresponding returns. Overall, the stock's performance was disappointing, and it was one of the riskier options in its peer group this week.
+
+[Volatility: 21.78%]

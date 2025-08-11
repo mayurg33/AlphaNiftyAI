@@ -1,0 +1,14 @@
+**Weekly News Sentiment:** Mixed
+
+**Notable Events:**
+
+1. Tata Motors fell 4% among Sensex and Nifty companies, making it the biggest loser.
+2. Auto stocks, including M&M and Eicher Motors, surged after October sales data was released, with the Nifty Auto index rising over 1%.
+3. Royal Enfield bike sales increased by 31% in October, a positive sign for Eicher Motors.
+
+**News Tone:**
+
+* For Tata Motors: **Negative** (4% fall is a significant decline, indicating a negative sentiment)
+* For M&M and Eicher Motors: **Positive** (surge in auto stocks and increase in Royal Enfield bike sales suggest a positive sentiment)
+
+Overall, the news tone is mixed, with Tata Motors experiencing a decline, while M&M and Eicher Motors saw a positive impact from the October sales data.

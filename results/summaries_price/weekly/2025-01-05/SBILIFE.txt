@@ -1,0 +1,3 @@
+SBILIFE had a strong weekly performance, returning 3.12% and outperforming peers HDFCLIFE and SBIN. However, its high volatility of 19.77% and max drawdown of -0.96% indicate a risky investment. Despite this, its Sharpe Ratio of 0.62 suggests that the returns were somewhat justified by the level of risk taken. Compared to INDUSINDBK, SBILIFE underperformed in terms of Sharpe Ratio, but still delivered a competitive return.
+
+[Volatility: 19.77%]

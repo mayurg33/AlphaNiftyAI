@@ -1,0 +1,3 @@
+WIPRO's weekly performance was disappointing, with a return of -2.59%, underperforming its peers INFY and TCS. The stock's volatility was relatively high at 20.76%, indicating a risky investment environment. Compared to its peers, WIPRO's Sharpe Ratio of -0.49 was the lowest, suggesting poor risk-adjusted returns. Overall, WIPRO was a laggard this week, with high volatility and poor performance.
+
+[Volatility: 20.76%]

@@ -1,0 +1,3 @@
+APOLLOHOSP's weekly performance was lackluster, with a meager return of 0.01% and a Sharpe Ratio of 0.01, indicating minimal risk-adjusted returns. The stock's volatility was relatively high at 25.2%, and it experienced a max drawdown of -2.3%. Compared to its peers, APOLLOHOSP underperformed DRREDDY and was on par with HDFCLIFE and BHARTIARTL. Overall, the stock was moderately risky this week.
+
+[Volatility: 25.2%]

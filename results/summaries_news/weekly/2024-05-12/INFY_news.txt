@@ -1,0 +1,9 @@
+**Weekly News Sentiment:** Neutral to Negative
+
+The current week's news sentiment is neutral to negative, with a hint of caution. The news headline suggests that TCS and Infosys may lead a pullback in Nifty IT, which implies a potential decline in their stock prices.
+
+**Notable Events:** None mentioned in the current news headline.
+
+**News Tone:** Neutral to Negative
+
+The tone of the news is neutral to negative, as it hints at a potential decline in the stock prices of TCS and Infosys, which are two major IT companies in India. This sentiment is supported by the historical news impact, which shows a negative impact of -4.32% in a similar news article from 2022-07-11. However, it's worth noting that the historical news impact also shows positive impacts in other similar news articles, which suggests that the outcome is not certain and depends on various market factors.

@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 40.09,
+  "sharpe_ratio": -0.12, 
+  "reasoning": "The stock's high volatility and poor weekly performance are major concerns. Additionally, the company's valuation seems rich, and earnings growth is declining. Although the company has some strengths, the negatives outweigh the positives, making it a sell decision."
+}

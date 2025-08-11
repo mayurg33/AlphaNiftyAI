@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 13.59,
+  "sharpe_ratio": 0.02,
+  "reasoning": "The stock's modest weekly return and high volatility suggest caution. While the company's fundamentals are strong, with high gross and EBITDA margins, its valuation is stretched with a high P/E ratio. The positive news sentiment and upcoming Q2 results announcement may provide a short-term boost, but the debt-to-equity ratio is a concern. Overall, a hold decision is warranted until the company's valuation and debt position are reassessed."
+}

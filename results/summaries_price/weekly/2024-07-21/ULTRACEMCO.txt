@@ -1,0 +1,3 @@
+ULTRACEMCO's weekly performance was dismal, with a return of -4.86% and a max drawdown of the same magnitude, indicating a highly volatile week. The stock's Sharpe Ratio of -1.01 suggests that the return was not justified by the level of risk taken. Compared to its peers, ULTRACEMCO underperformed, with only HEROMOTOCO faring worse. The stock's high volatility and poor performance make it a risky investment this week.
+
+[Volatility: 25.82%]

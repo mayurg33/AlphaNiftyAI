@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While INFY's technicals suggest a strong performance with low volatility and a high Sharpe Ratio, its fundamentals are mixed with a high PE ratio and declining earnings growth, and the news sentiment is uncertain with both positive and negative headlines; meanwhile, the macroeconomic environment is supportive with a growing services sector and stable interest rates, but the company's growth prospects are a concern.

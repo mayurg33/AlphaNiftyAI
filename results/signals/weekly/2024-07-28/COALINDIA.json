@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 28.08,
+  "sharpe_ratio": 0.54,
+  "reasoning": "The stock's strong weekly performance and relatively stable volatility are positives. However, the mixed financial health, with concerns around debt-to-equity ratio and profitability metrics, tempers enthusiasm. Additionally, the neutral to negative news sentiment and potential market volatility from upcoming Q1 results announcements suggest a cautious approach, leading to a hold decision."
+}

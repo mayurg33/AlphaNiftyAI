@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 64.67,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's weekly performance was dismal, with a return of -8.89% and extremely high volatility. The news sentiment is predominantly negative, driven by the crude price crash and APM gas price hike, which may lead to increased costs and decreased profitability. Additionally, the company's revenue and earnings growth rates are a concern, with earnings growth being negative. Although the company's financial health is stable, the overall outlook is bearish, making it a poor choice for investors seeking stability."
+}

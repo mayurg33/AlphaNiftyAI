@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor price trends and technicals, combined with its weak fundamentals such as low ROE and profit margin, and high debt-to-equity ratio, outweigh the positive news sentiment and favorable macroeconomic environment, suggesting a SELL signal.

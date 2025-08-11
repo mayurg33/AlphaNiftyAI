@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 13.74,
+  "sharpe_ratio": -0.53,
+  "reasoning": "The stock's weekly performance was disappointing, but its volatility is moderate and Max Drawdown is relatively stable. Fundamentally, the company has a mixed health with attractive valuation but concerns around growth prospects and debt position. News sentiment is neutral to positive, but macroeconomic environment is supportive of rural consumption and services sector growth. Overall, it's a HOLD decision due to mixed signals."
+}

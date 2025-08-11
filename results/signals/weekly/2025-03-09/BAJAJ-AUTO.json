@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 48.27,
+  "sharpe_ratio": -0.14,
+  "reasoning": "The stock's high volatility and negative returns indicate a risky investment. The company's financial health is strong, but growth metrics are a concern, and the valuation looks stretched. The news sentiment is also negative, which could further impact the stock price. Therefore, it's a cautious investment opportunity, and I recommend selling."
+}

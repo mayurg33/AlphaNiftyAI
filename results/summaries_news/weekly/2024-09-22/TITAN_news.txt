@@ -1,0 +1,12 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Positive
+
+**Notable Events:**
+
+1. Titan Company sees a modest price increase amid a positive EMA5 trend, indicating a bullish signal for the stock.
+2. The article discusses a Fed rate cut strategy and recommends 3 Nifty stocks to invest in, including shares to buy on correction, which could have a positive impact on the market.
+
+**Tone:** Positive
+
+The news tone is overall positive, with two out of the three historical similar news items having a positive impact on the stock price. The first query about Titan Company's share price increase amid a positive EMA5 trend is likely to have a positive impact on the stock. The second query, although discussing a broader market strategy, also recommends stocks to invest in, which could have a positive effect on the market sentiment.

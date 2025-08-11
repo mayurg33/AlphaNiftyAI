@@ -1,0 +1,5 @@
+Here is the summary:
+
+LT's weekly return of -2.84% was a disappointing performance, accompanied by high volatility of 30.82%. Compared to its peers, LT outperformed RELIANCE and ONGC but underperformed ULTRACEMCO. The stock's Sharpe Ratio of -0.36 and Max Drawdown of -2.84% indicate a relatively high-risk investment this week.
+
+[Volatility: 30.82%]

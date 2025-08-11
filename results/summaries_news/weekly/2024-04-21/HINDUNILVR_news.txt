@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL for Hindustan Unilever.
+
+The notable event is that LIC (Life Insurance Corporation of India) has hiked its equity stake in Hindustan Unilever, a major FMCG (Fast-Moving Consumer Goods) company, to over 5%.
+
+Historically, when LIC has increased its stake in other companies, the price impact has been mixed. In one instance, Kotak Bank's stock price rose 0.40% after LIC got RBI approval to increase its stake. However, in two other instances, the stock prices of IndusInd Bank and Tech Mahindra fell by 0.48% and 2.95%, respectively, after LIC increased its stake.
+
+Given this mixed historical impact, it is difficult to predict a clear positive or negative tone for Hindustan Unilever's stock based on this news. Therefore, the news tone is neutral.

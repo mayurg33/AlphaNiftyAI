@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 7,
+  "volatility": 25.68,
+  "sharpe_ratio": 0.15,
+  "reasoning": "The stock's volatility is high, indicating significant price fluctuations. The Sharpe Ratio is low, suggesting a relatively low risk-adjusted return. The news sentiment is negative, with multiple reports highlighting concerns about the steel sector, particularly JSW Steel. Additionally, the company's profitability is a concern, with low ROE and profit margins, and a high debt-to-equity ratio. Therefore, it's a good time to sell the stock."
+}

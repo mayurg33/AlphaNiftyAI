@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's negative returns over various time periods, high volatility, and poor Sharpe Ratio suggest poor risk-adjusted performance. Additionally, the high maximum drawdown indicates a high risk of losses. Fundamentally, the stock is overvalued with a high PE ratio, low ROE, and declining earnings growth rate. While the news sentiment is neutral to positive, the macroeconomic environment is not particularly supportive of the stock's growth."
+}

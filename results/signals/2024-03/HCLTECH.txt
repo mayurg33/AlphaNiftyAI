@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the news sentiment is positive and the macroeconomic environment is supportive, the stock's poor price trends, high volatility, and negative Sharpe Ratio suggest a cautious approach, and the fundamentals, although not terrible, do not justify a strong buy signal.

@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 1.64,
+  "sharpe_ratio": 3.65,
+  "reasoning": "The stock's strong weekly performance, low volatility, and high Sharpe Ratio indicate a relatively low-risk investment. The company's financial health is robust, with a strong profitability profile and attractive valuation. Although the debt-to-equity ratio is a concern, the overall news sentiment is neutral to positive, and the macroeconomic environment is supportive of the pharma industry's growth prospects."
+}

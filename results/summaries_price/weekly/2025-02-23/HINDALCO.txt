@@ -1,0 +1,3 @@
+Hindalco's weekly performance was exceptional, with a 6.99% return, significantly outperforming its peers. The stock's volatility was relatively high at 17.28%, but its Sharpe Ratio of 1.57 indicates that the returns were well-compensated for the risk taken. In comparison, peers ITC, ULTRACEMCO, and HCLTECH all posted negative returns, making Hindalco a standout performer this week. Overall, Hindalco's risk profile was moderate to high, but its strong returns justify the risk.
+
+[Volatility: 17.28%]

@@ -1,0 +1,11 @@
+The current week's news sentiment is NEUTRAL for Dr. Reddy's stock.
+
+Notable events:
+
+* Mexican health regulator imposes a penalty on Dr. Reddy's, which could have a negative impact on the stock.
+* Dr. Reddy's and FDC recall products in the US due to manufacturing issues, which could also have a negative impact.
+* However, the pharma industry expo to be held in Greater Noida from November 26-28 could be a positive event for the industry and the company.
+
+Historical analysis suggests that similar news events have had varying impacts on the stock price. While some events, such as recalls and regulatory issues, have led to negative price impacts, others, such as partnerships and approvals, have led to positive price impacts.
+
+Overall, the news tone is neutral, as the negative news is balanced by the positive event of the pharma industry expo. However, the penalty imposed by the Mexican health regulator and the product recall in the US could still have a negative impact on the stock price.

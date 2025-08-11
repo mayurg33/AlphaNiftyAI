@@ -1,0 +1,3 @@
+ADANIENT posted a weekly return of 2.8%, slightly underperforming its peers ADANIPORTS and RELIANCE. Despite this, the stock's Sharpe Ratio of 0.98 indicates a relatively stable performance. However, its volatility of 22.58% suggests a moderate level of risk. Compared to its peers, ADANIENT's volatility is higher than ADANIPORTS but lower than RELIANCE and POWERGRID.
+
+[Volatility: 22.58%]

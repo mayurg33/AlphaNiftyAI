@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 3.3,
+  "sharpe_ratio": -1.87,
+  "reasoning": "The stock's negative returns and poor Sharpe Ratio indicate poor risk-adjusted performance. Additionally, the company's financial health is a concern due to high debt-to-equity ratio and rich valuation. Although the news sentiment is neutral to positive, it's not enough to outweigh the fundamental concerns. Therefore, I recommend selling the stock."
+}

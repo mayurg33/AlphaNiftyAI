@@ -1,0 +1,3 @@
+BAJFINANCE underperformed its peers this week, with a weekly return of -3.26% compared to -2.77% for BAJAJFINSV and -1.88% for AXISBANK. The stock's volatility was significantly higher than its peers, at 31.61%, indicating a riskier investment. The Sharpe Ratio of -0.41 suggests that the stock's return was not justified by its level of risk. Overall, BAJFINANCE was a relatively poor performer this week, with high volatility and a low Sharpe Ratio.
+
+[Volatility: 31.61%]

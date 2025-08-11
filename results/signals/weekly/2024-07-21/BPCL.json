@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 58.85,
+  "sharpe_ratio": -0.10,
+  "reasoning": "BPCL's high volatility and negative returns indicate a risky investment. The company's financial health is mixed, with declining revenue and earnings growth, and high leverage. The negative news sentiment and disappointing Q1 results further support a sell decision. The macroeconomic environment, although positive, is not sufficient to outweigh the company's internal weaknesses."
+}

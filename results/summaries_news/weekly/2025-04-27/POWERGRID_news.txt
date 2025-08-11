@@ -1,0 +1,9 @@
+Based on the historical similar news, the sentiment for the current week's news "Stocks in focus: Wipro, TCS, Concor, BHEL, PowerGrid on April 25" is NEUTRAL.
+
+Notable events mentioned in the historical news include:
+
+* Wipro, TCS, and Infosys shares recovering from 52-week lows
+* Wipro shares falling more than TCS and Infosys since 2021
+* Top stock picks for January including TCS, SBI Life, and Cipla
+
+The impact of these events on the stock prices has been mixed, with a positive impact of +0.30% in one instance, and negative impacts of -1.30% and -0.10% in the other two instances. Overall, the news tone is neutral, indicating that the focus on these stocks on April 25 may not have a significant impact on their prices.

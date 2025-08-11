@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 47.98,
+  "sharpe_ratio": -0.34,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but the company's strong valuation and profitability metrics are positives. The neutral news sentiment and macroeconomic environment suggest no immediate catalyst for a significant price move. Therefore, a hold decision is warranted, pending further developments."
+}

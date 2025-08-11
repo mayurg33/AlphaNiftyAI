@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 17.51,
+  "sharpe_ratio": 0.49,
+  "reasoning": "The stock's decent weekly performance and moderate volatility suggest a hold decision. Although the company's fundamentals are strong, the high valuation and debt-to-equity ratio are concerns. The positive news sentiment and macroeconomic environment, particularly in the automotive industry, support the hold decision."
+}

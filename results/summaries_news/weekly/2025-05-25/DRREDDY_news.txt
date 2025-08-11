@@ -1,0 +1,15 @@
+Based on the news articles and historical data, here is a summary of the current week's news sentiment for Dr. Reddy's Laboratories:
+
+**Notable Events:**
+
+* Q4 results announcement with a 22% YoY increase in profit to ₹1,594 crore and a dividend recommendation
+* JM Financial maintains a Buy rating with a lowered target price of ₹1418
+* Share price falls nearly 2% amid high volume in today's trade
+
+**News Sentiment:**
+
+The overall news sentiment is **Neutral**. While the Q4 results were positive, with a significant increase in profit, the share price fell nearly 2% on high volume, indicating some investor concern. The JM Financial report maintaining a Buy rating with a lowered target price also suggests a mixed sentiment.
+
+The historical data suggests that similar news events have had varying impacts on the stock price, ranging from -13.06% to +7.06%. However, the overall tone of the news articles is more positive, with analysts expecting a strong Q4 performance and the company reporting record revenue.
+
+Overall, the news sentiment is neutral, with a slight positive bias, as the company's strong Q4 results and dividend recommendation are offset by the share price decline and mixed analyst sentiments.

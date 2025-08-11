@@ -1,0 +1,5 @@
+Here is the summary:
+
+NESTLEIND's weekly performance was relatively stable, with a return of -0.27%, outperforming its peers HINDUNILVR, BRITANNIA, and TATACONSUM. Despite this, the stock's volatility was high at 36.66%, indicating significant price fluctuations. The Sharpe Ratio of -0.02 suggests that the returns were not sufficient to compensate for the level of risk taken. Overall, NESTLEIND was less risky than BRITANNIA and TATACONSUM, but more volatile than HINDUNILVR.
+
+[Volatility: 36.66%]

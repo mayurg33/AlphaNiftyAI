@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 22.98,
+  "sharpe_ratio": 0.61,
+  "reasoning": "The stock's high volatility and decent Sharpe Ratio indicate a moderate level of risk. However, the company's negative revenue and earnings growth rates, along with its overvalued metrics, are major concerns. The negative news sentiment and expected fall in profit further support a sell decision."
+}

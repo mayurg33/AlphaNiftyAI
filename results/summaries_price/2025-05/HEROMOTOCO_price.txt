@@ -1,0 +1,25 @@
+Symbol: HEROMOTOCO
+Month: 2025-05
+Start Price: ₹3737.40
+End Price: ₹4309.30
+12M Return: 15.30%
+6M Return: 15.30%
+3M Return: 15.30%
+Volatility: 0.315
+Sharpe Ratio: 5.868
+Max Drawdown: -0.033
+Peer Correlation (MARUTI): 0.7164
+Peer Correlation (M&M): 0.4984
+Peer Correlation (BAJAJ-AUTO): 0.6732
+Average Peer Correlation: 0.6293
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+HEROMOTOCO has demonstrated strong performance over the past 12 months, with a return of 15.30% and a Sharpe Ratio of 5.868, indicating a high risk-adjusted return. The stock's volatility is moderate at 0.315, and its maximum drawdown is relatively low at -0.033. In terms of peer correlation, HEROMOTOCO has a high correlation with MARUTI (0.7164) and BAJAJ-AUTO (0.6732), but a relatively lower correlation with M&M (0.4984).
+
+**Recommendation:**
+
+Based on the strong performance and favorable risk metrics, I would recommend a **BUY** on HEROMOTOCO. The stock's high Sharpe Ratio and low maximum drawdown suggest that it has provided consistent returns with relatively low risk. Additionally, its moderate volatility and average peer correlation indicate that it is not overly exposed to sector-specific risks. With a 15.30% return over the past 12 months, HEROMOTOCO appears to be a solid investment opportunity. However, it is essential to monitor the stock's performance and adjust the portfolio accordingly to maintain an optimal risk-return profile.

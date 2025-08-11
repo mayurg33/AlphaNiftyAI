@@ -1,0 +1,7 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* The IPO of Inventurus Knowledge Solutions is opening on December 12, which is a significant event for the company and its investors.
+
+The news tone is neutral because the historical similar news has shown mixed sentiments. While some news had a positive impact (+2.43%), others had a negative impact (-13.80% and -1.71%). This suggests that the market reaction to the IPO news may be uncertain and dependent on various factors, such as the company's financials, industry trends, and market conditions.

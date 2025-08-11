@@ -1,0 +1,14 @@
+Based on the historical data, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to slightly Negative
+
+**Notable Events:**
+
+* The first news article, "Ahead of Market: 10 things that will decide stock action on Tuesday", suggests that the market is uncertain and will be influenced by various factors, which could lead to volatility.
+* The second news article, "Stock Market Highlights, Sept 03: Nifty closes nearly flat, Sensex in red; broader markets gain", indicates a mixed performance in the market, with the Nifty closing nearly flat and the Sensex in the red, while broader markets gained.
+
+**Tone:**
+
+The overall tone of the news is neutral to slightly negative. The first article implies uncertainty, which could lead to caution among investors. The second article highlights a mixed performance in the market, which may not inspire confidence. While there are no extremely negative headlines, the tone is not overly positive either.
+
+Historical data suggests that similar news articles have had a negative impact on the stock market in the past, with an average impact of around -0.5% to -1%. However, it's essential to note that past performance is not always indicative of future results, and the actual impact of these news articles on the stock market may vary.

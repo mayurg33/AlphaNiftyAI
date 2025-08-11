@@ -1,0 +1,11 @@
+**Weekly News Sentiment:** Negative
+
+**Notable Events:**
+
+* LTIMindtree Ltd's stock price has been slipping for five consecutive sessions, indicating a bearish trend.
+* The company has introduced a new policy requiring employees to clear an exam to be eligible for a pay hike, which may impact employee morale and retention.
+* Top managers are also required to clear a test for appraisal, adding to the pressure.
+
+**News Tone:** The overall news tone is negative, with three out of four news articles carrying a negative sentiment. The news about the company's stock price slipping and the introduction of exams for pay hikes and appraisals are likely to weigh on investor sentiment. The only neutral article suggests that the company needs to innovate and take a different approach, which may not be seen as a positive development by investors.
+
+The historical similar news and price impact analysis also suggests a negative impact on the stock price, with most of the similar news articles resulting in a negative price impact.

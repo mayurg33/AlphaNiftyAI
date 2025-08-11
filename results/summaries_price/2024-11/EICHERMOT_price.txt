@@ -1,0 +1,25 @@
+Symbol: EICHERMOT
+Month: 2024-11
+Start Price: ₹4953.60
+End Price: ₹4831.85
+12M Return: -2.46%
+6M Return: -2.46%
+3M Return: -2.46%
+Volatility: 0.349
+Sharpe Ratio: -0.836
+Max Drawdown: -0.074
+Peer Correlation (BAJAJ-AUTO): 0.5264
+Peer Correlation (M&M): 0.3675
+Peer Correlation (HEROMOTOCO): 0.6746
+Average Peer Correlation: 0.5228
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Eicher Motors (EICHERMOT) has underperformed in the past year, with a 12-month return of -2.46%. The stock's volatility is relatively high at 0.349, and its Sharpe Ratio is -0.836, indicating that the returns do not justify the risk taken. The maximum drawdown of 7.4% is also a concern. In terms of peer correlation, Eicher Motors has a moderate correlation with its peers, with an average correlation of 0.5228.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **HOLD** position on Eicher Motors. The stock's underperformance in the past year, combined with its high volatility and poor risk-adjusted returns, do not make it an attractive buy at this point. However, the moderate correlation with its peers suggests that it may still have some upside potential if the industry as a whole performs well. It's best to wait for a more convincing turnaround in the stock's performance before considering a buy.

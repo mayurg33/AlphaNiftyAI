@@ -1,0 +1,16 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is **Negative** for HCL Technologies and **Neutral** for the Indian financial markets.
+
+**Notable Events:**
+
+1. HCL's software products business falls short of profitability expectations, which is a negative news event.
+2. The "Modi premium" in India's financial markets is expected to erode after a weak victory, which may have a neutral impact on the markets.
+
+**Historical Context:**
+
+For HCL Technologies, the news of profitability expectations not being met is likely to have a negative impact on the stock, similar to previous instances where the company's profit margins were affected. The historical impact of such news has been a decline in stock price, with an average impact of -3.88%.
+
+For the Indian financial markets, the news about the "Modi premium" eroding may have a neutral impact, as the historical context suggests that the market reaction to such news is mixed. The average impact of similar news has been close to zero, with some instances having a positive impact and others having a negative impact.
+
+Overall, the news tone is **Negative** for HCL Technologies and **Neutral** for the Indian financial markets.

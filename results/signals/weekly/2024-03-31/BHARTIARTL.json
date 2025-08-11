@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 7.34,
+  "sharpe_ratio": 1.38,
+  "reasoning": "The stock has delivered a strong weekly performance with a 1.28% return, indicating a relatively stable performance. However, the high debt-to-equity ratio of 139.21 is a concern, and the negative news sentiment surrounding the Bharti group's bond donation to the BJP may impact the stock price. The macroeconomic environment is generally positive, but the stock's valuation seems reasonable, suggesting a hold decision."
+}

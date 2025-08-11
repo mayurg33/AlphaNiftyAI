@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 24.42,
+  "sharpe_ratio": 0.81,
+  "reasoning": "The stock's strong weekly performance and attractive risk-return profile are positives, but the company's fragile financial health, negative revenue growth, and high debt-to-equity ratio are concerns. The negative news sentiment and macroeconomic environment, which is expected to slow down, also weigh on the stock. Therefore, I recommend a HOLD decision, as the stock's risks and uncertainties outweigh its potential benefits."
+}

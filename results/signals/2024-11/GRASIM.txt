@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Despite the stock's underperformance and negative returns, the moderate volatility and relatively low maximum drawdown suggest that GRASIM may not be extremely risky. Additionally, the high correlation with RELIANCE and ULTRACEMCO could imply a potential upside if these peers recover, and the neutral macroeconomic environment may support the company's growth.

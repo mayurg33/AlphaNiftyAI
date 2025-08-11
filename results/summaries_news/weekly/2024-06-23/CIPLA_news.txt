@@ -1,0 +1,15 @@
+**Weekly News Sentiment: Positive**
+
+This week's news highlights a positive sentiment in the share market, with the Sensex hitting a new closing peak and Nifty reaching a record closing high. This news is likely to have a positive impact on the market, similar to historical events where such news led to a positive impact of +3.83% and +4.62%.
+
+The second news item, Cipla's additional investment in a German mRNA biotech, has a mixed historical sentiment. While two similar news items in 2022 had a negative impact of -4.53%, another news item in 2022 had a positive impact of +4.46%. This suggests that the market's reaction to Cipla's investment in mRNA biotech is uncertain and may depend on other factors.
+
+**Notable Events:**
+
+* Sensex hits new closing peak, Nifty reaches record closing high
+* Cipla makes additional investment in German mRNA biotech
+
+**News Tone:**
+
+* Positive for the share market (Sensex and Nifty)
+* Neutral to uncertain for Cipla's stock, depending on market reaction to its investment in mRNA biotech.

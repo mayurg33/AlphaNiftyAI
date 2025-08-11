@@ -1,0 +1,1 @@
+Based on the metrics, I would recommend a HOLD on Hindalco. The 12M return is negative, but the 6M return is positive, indicating a possible trend reversal, and the Sharpe Ratio is 0.84, indicating a good risk-reward tradeoff.

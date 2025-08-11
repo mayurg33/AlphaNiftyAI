@@ -1,0 +1,5 @@
+**Weekly News Sentiment:** Negative
+
+**Notable Events:** The Indian government has raised the windfall tax on crude, leading to a decline in oil stocks, including ONGC, Oil India, and Indian Oil.
+
+**News Tone:** The news tone is Negative for the stock. The hike in windfall tax has led to profit booking, causing a dip in the stock prices of ONGC and Oil India by 4%. This is consistent with the historical trend, where similar news events have resulted in a negative impact on the stock prices, ranging from -2.61% to -6.50%.

@@ -1,0 +1,3 @@
+CIPLA's weekly return of 3.09% was a respectable performance, but its volatility of 24.75% suggests a moderate level of risk. While it underperformed peers DIVISLAB and SUNPHARMA in terms of returns, its Sharpe Ratio of 0.50 indicates a relatively better risk-adjusted performance. However, its Max Drawdown of -1.33% suggests some vulnerability to losses. Overall, CIPLA's performance was decent but not exceptional this week.
+
+[Volatility: 24.75%]

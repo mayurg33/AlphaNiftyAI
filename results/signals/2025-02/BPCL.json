@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor price trends, with negative returns over various time horizons, high volatility, and poor risk-adjusted performance, suggest a sell. Additionally, the company's fundamentals are concerning, with declining revenue and earnings growth, moderate profitability, and high debt levels. While the news sentiment is mixed, it doesn't indicate a strong buy signal. The macroeconomic environment is generally positive, but it's not enough to outweigh the company's specific issues."
+}

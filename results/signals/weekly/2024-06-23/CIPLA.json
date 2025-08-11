@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 6.8,
+  "sharpe_ratio": -1.65,
+  "reasoning": "The stock's weekly performance was disappointing, but its fundamentals are strong, with high gross margins and profit margins. However, the valuation is slightly stretched, and the debt-to-equity ratio is a concern. The news sentiment is positive, but the impact of Cipla's investment in mRNA biotech is uncertain. Given the mixed signals, I recommend a HOLD decision."
+}

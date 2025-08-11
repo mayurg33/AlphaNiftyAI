@@ -1,0 +1,3 @@
+COALINDIA's weekly performance was strong, with a return of 3.8%, outperforming its peers. The stock's volatility was moderate at 28.08%, indicating a relatively stable performance. Compared to its peers, COALINDIA's Sharpe Ratio of 0.54 suggests it provided a better risk-adjusted return. However, the Max Drawdown of -0.86% indicates some risk was involved. Overall, COALINDIA was a relatively attractive option this week.
+
+[Volatility: 28.08%]

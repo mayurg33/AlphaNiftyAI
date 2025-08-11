@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 18.86,
+  "sharpe_ratio": -2.22,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate poor risk-adjusted returns. Additionally, the company's growth metrics are a concern, with negative revenue and earnings growth, and the valuation is relatively high. Although the company has a strong profitability profile, the negative sentiment in the news and the mixed macroeconomic environment suggest a sell decision."
+}

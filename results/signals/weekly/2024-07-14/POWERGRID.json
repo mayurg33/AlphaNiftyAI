@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 15.65,
+  "sharpe_ratio": 0.28,
+  "reasoning": "The stock's average weekly performance and moderate volatility suggest a neutral stance. The company's financial health is stable, but growth and debt concerns need to be addressed. The neutral news sentiment and macroeconomic environment do not provide a strong buy or sell signal, leading to a hold decision."
+}

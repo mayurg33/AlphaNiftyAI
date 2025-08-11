@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 18.9,
+  "sharpe_ratio": -0.39,
+  "reasoning": "The stock's poor weekly performance and moderate volatility suggest caution. However, the company's financial health is stable, with reasonable valuation and strong profitability. The news sentiment is neutral to slightly negative, but the ESOP allotment provides some positivity. Given the mixed signals, I recommend a HOLD decision, awaiting further clarity on the stock's direction."
+}

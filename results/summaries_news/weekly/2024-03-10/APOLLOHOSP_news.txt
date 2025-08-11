@@ -1,0 +1,11 @@
+**Weekly News Sentiment:** Mixed
+
+**Notable Events:**
+
+1. Apollo Hospital in New Delhi introduces the first non-invasive ZAP-X brain tumor treatment in South Asia, a positive development.
+2. Apollo Chennai is fined Rs 30 lakh for medical negligence, a negative event.
+3. Apollo Hospital, a surgeon, and an anesthetist are held liable for a patient's death post-spinal surgery and fined Rs 30 lakh, another negative event.
+
+**News Tone:** Neutral to Negative
+
+The news tone is neutral to negative due to the mixed nature of the events. While the introduction of the non-invasive ZAP-X brain tumor treatment is a positive development, the two instances of medical negligence and fines imposed on Apollo Chennai and Apollo Hospital, respectively, are negative events that may impact the stock's performance. The historical data suggests that similar news events have resulted in negative price impacts, ranging from -0.32% to -9.46%. However, the positive news event may mitigate some of the negative impact, leading to a neutral to negative tone overall.

@@ -1,0 +1,7 @@
+Based on the current week's news, the sentiment is **Negative** for Infosys.
+
+The notable event is that the Government of India has decided not to give any relaxation in its Rs 32,000 crore GST demand on Infosys, which is a significant amount and may put pressure on the company's financials.
+
+Historically, similar news related to Infosys and the government has had a mixed impact on the stock price. While some news items, such as the FM's assurance to resolve technical glitches in the I-T portal, had a positive impact (+1.48%), others, like the correction in revenue forecast, had a negative impact (-8.16%). However, in this case, the news of the government not providing any relaxation in GST demand is likely to be perceived as negative for the stock.
+
+Overall, the tone of the news is **Negative**, indicating potential downward pressure on Infosys' stock price.

@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: GRASIM's poor price trends, high volatility, and negative Sharpe Ratio, combined with its high valuation, low profitability, and high leverage, suggest a strong sell signal. Furthermore, the macroeconomic environment, while generally positive, does not seem to provide a strong tailwind for the company's specific industry or sector.

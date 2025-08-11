@@ -1,0 +1,16 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Mixed
+
+**Notable Events:**
+
+1. SBI Life, HDFC Life stocks fall as FM Sitharaman advises banks to deter from selling insurance and focus on core banking activities.
+2. Hindalco Industries, SBI Life Insurance, and 8 other stocks are on analysts' 'buy' lists for 12 months.
+
+**Tone:**
+
+The tone of the news is mixed. The first news item has a negative tone, as the Finance Minister's advice to banks to focus on core banking activities and deter from selling insurance may negatively impact SBI Life and HDFC Life stocks. This is supported by the historical similar news, which shows a negative impact of -6.87% on life insurers' stocks.
+
+On the other hand, the second news item has a positive tone, as analysts have recommended Hindalco Industries, SBI Life Insurance, and 8 other stocks as 'buys' for the next 12 months. This is supported by historical similar news, which shows a positive impact of +2.94% on life insurers' stocks.
+
+Overall, the news tone is mixed, with a negative tone for SBI Life and HDFC Life due to the Finance Minister's advice, and a positive tone for Hindalco Industries and SBI Life Insurance due to analysts' 'buy' recommendations.

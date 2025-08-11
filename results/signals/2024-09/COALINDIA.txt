@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor performance across various time frames, high volatility, and negative Sharpe Ratio indicate a lack of investment potential, while the deteriorating financial performance, high debt-to-equity ratio, and negative revenue and earnings growth rates further support a SELL signal. Additionally, the macroeconomic environment, although generally positive, does not seem to have a direct positive impact on COALINDIA's prospects.

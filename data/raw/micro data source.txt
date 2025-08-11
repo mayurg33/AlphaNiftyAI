@@ -1,0 +1,8 @@
+foreign exchange - reserve bank of india- https://data.rbi.org.in/DBIE/#/dbie/indicators
+unemployment , gdp , inflation - world bank , https://data.worldbank.org/indicator?tab=featured
+FII/DII - NSE , https://www.nseindia.com/reports/fii-dii
+currency exchange raTE- https://www.rbi.org.in/Scripts/ReferenceRateArchive.aspx
+ANNUAL REPORT OF MICROECONOMIC INDICATORS -https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx?Id=1446
+Growth Rates and Composition of Real Gross Domestic Product -https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx?Id=1447#
+INFLATION INDIA DETAILED - https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx?Id=1449
+Foreign Direct Investment Flows to India-https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx?Id=1454

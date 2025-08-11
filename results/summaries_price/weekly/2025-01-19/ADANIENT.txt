@@ -1,0 +1,3 @@
+ADANIENT's weekly performance was strong, with a 7.85% return, but came with high volatility of 56.29%. While it underperformed ADANIPORTS, it outperformed RELIANCE and POWERGRID. The stock's Sharpe Ratio of 0.55 indicates a relatively low risk-adjusted return, and its Max Drawdown of -1.16% suggests a moderate level of risk.
+
+[Volatility: 56.29%]

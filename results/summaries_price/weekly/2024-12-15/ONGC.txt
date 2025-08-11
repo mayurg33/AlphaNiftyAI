@@ -1,0 +1,3 @@
+ONGC's weekly performance was disappointing, with a return of -1.8% and a Sharpe Ratio of -0.88, indicating poor risk-adjusted returns. The stock's volatility was relatively low at 8.15%, but still underperformed its peers, with BPCL and RELIANCE posting smaller losses. ONGC's Max Drawdown of -1.87% suggests a moderate level of risk this week.
+
+[Volatility: 8.15%]

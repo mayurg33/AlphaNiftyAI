@@ -1,0 +1,20 @@
+Based on the historical data, here's a summary of the current week's news sentiment:
+
+**Overall Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+1. Divis Labs Share Price Highlights: The news tone is neutral, with a mix of positive and negative sentiments in the historical data.
+2. Trade Spotlight: The news tone is neutral, with a mix of positive and negative sentiments in the historical data.
+3. Dr Reddy's Lab Q3 PAT rises 2.4% YoY to Rs 1,413 cr: The news tone is slightly negative, with two out of three historical events having a negative impact on the stock price.
+4. Jio Financial JV enters stock broking biz; broking stocks fall up to 6%: The news tone is neutral, with a mix of positive and negative sentiments in the historical data.
+5. Neuland Lab jumps on Rs 342-cr capex plan for capacity expansion: The news tone is positive, with all three historical events having a positive impact on the stock price.
+
+**Stock-wise Sentiment:**
+
+* Divis Labs: Neutral
+* Dr Reddy's Lab: Slightly Negative
+* Neuland Lab: Positive
+* Jio Financial JV: Neutral
+
+Overall, the news tone is neutral to positive, with some stocks experiencing positive sentiments and others experiencing neutral or slightly negative sentiments.

@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+The notable event is the announcement of Nestle India's quarterly results FY 2025-26 dates, which is a routine event and does not carry a significant positive or negative tone.
+
+The historical data shows that the stock has reacted positively to good quarterly results (+6.15%) and dividend announcements (+3.71%), but the news about Nestle's investment in India did not have a significant impact on the stock price (-0.00%). Therefore, the overall tone of the news is neutral, and the market is likely to react based on the actual quarterly results rather than the announcement of the results date.

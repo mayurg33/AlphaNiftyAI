@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 34.3,
+  "sharpe_ratio": 0.98,
+  "reasoning": "The stock has a strong weekly performance with a high Sharpe Ratio, indicating a high risk-adjusted return. The company's financial health is good, with high EBITDA margins and revenue growth. The positive news sentiment, driven by cargo volume growth, suggests an upward trend in the short term. Although the valuation is on the higher side and debt levels are high, the overall macroeconomic environment is supportive of growth, making it a good buy opportunity."
+}

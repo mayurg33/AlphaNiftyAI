@@ -1,0 +1,16 @@
+Based on the historical data, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Negative
+
+**Notable Events:**
+
+1. Govt slaps fine on Sun Pharma officials over related party transactions (Negative news)
+2. Stocks to Watch: PC Jeweller, Zee, Sun Pharma, Ajmera Realty, PCBL, and more (Neutral news, but historical data suggests a negative impact)
+
+**Analysis:**
+
+The first news item about the government slapping a fine on Sun Pharma officials over related party transactions is likely to have a negative impact on the stock. Historically, similar news about Sun Pharma has resulted in a negative impact, such as the USFDA directive for corrective action at Mohali plant (-1.00% impact).
+
+The second news item about Stocks to Watch is neutral in nature, but historical data suggests that such news items have resulted in a negative impact on the stock, such as -1.04%, -1.90%, and -4.73% in similar instances.
+
+Overall, the news tone is negative for the stock, indicating a potential decline in its value.

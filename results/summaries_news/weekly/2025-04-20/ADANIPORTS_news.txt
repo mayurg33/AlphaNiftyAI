@@ -1,0 +1,10 @@
+Based on the current week's news, the sentiment is positive for Adani Ports.
+
+Notable events:
+
+* Adani Ports' board meeting on April 17 to consider a preferential issue of shares, which has historically led to a positive impact on the stock price (average impact: +4.64%).
+* Adani Ports acquires a 50 MTPA capacity Australian terminal in a non-cash deal, which is a significant expansion of its capacity.
+
+Historical data suggests that similar news events have led to a positive impact on the stock price, with an average impact of +3.45% for the first query and +0.87% for the second query.
+
+Overall, the news tone is positive for Adani Ports, indicating potential upside for the stock.

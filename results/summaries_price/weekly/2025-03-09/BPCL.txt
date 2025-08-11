@@ -1,0 +1,3 @@
+BPCL's weekly return of 7.78% outperformed its peers, with a notable lead over ONGC and SBIN. However, its high volatility of 36.19% suggests a riskier investment compared to its peers. The stock's Sharpe Ratio of 0.84 indicates a relatively good balance between return and risk, but its Max Drawdown of -1.43% highlights potential losses. Overall, BPCL's performance was strong, but investors should be cautious of its high volatility.
+
+[Volatility: 36.19%]

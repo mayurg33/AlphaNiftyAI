@@ -1,0 +1,1 @@
+Based on the metrics, I recommend a HOLD. The recent 3M positive performance suggests a potential reversal, but the poor Sharpe Ratio indicates that the return is not sufficient to compensate for the risk taken.

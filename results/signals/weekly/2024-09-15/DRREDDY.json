@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 11.64,
+  "sharpe_ratio": 0.03,
+  "reasoning": "The stock's lackluster weekly performance and moderate volatility suggest caution. While the company's financial position and valuation appear attractive, the high debt-to-equity ratio is a concern. The neutral news sentiment and macroeconomic environment do not provide a strong catalyst for a buy or sell decision, leading me to recommend a hold."
+}

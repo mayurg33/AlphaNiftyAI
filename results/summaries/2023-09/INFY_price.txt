@@ -1,0 +1,1 @@
+Based on these metrics, I would recommend a HOLD on INFY. The 12M return of 9.85% is decent, but the recent 6M return of -17.92% is a concern, and the Sharpe Ratio of 0.35 indicates that the return is not significantly above the risk taken.

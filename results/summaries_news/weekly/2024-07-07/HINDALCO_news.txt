@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+Notable events: The news mentions that firms, including Hindalco and Nalco, are set to benefit from the rise in Aluminium, Zinc, and Copper prices.
+
+The tone of the news is neutral because the historical similar news has shown mixed impacts on the stock price. While two instances (+4.62% and +1.58%) suggest a positive impact, one instance (-2.97%) suggests a negative impact. Therefore, it's difficult to determine a clear positive or negative tone for the stock based on this news.

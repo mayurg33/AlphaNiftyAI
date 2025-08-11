@@ -1,0 +1,3 @@
+Reliance's weekly performance was modest, with a 0.38% return, outperforming its peers LT, GRASIM, and HINDUNILVR, which all posted negative returns. The stock's volatility was relatively low at 6.87%, indicating a less turbulent week compared to its peers. With a Sharpe Ratio of 0.22, the stock's return was somewhat justified by its risk. Overall, Reliance was a relatively safe bet this week, with a lower Max Drawdown of -0.33%.
+
+[Volatility: 6.87%]

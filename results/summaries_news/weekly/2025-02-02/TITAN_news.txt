@@ -1,0 +1,5 @@
+Based on the historical news data, the current week's news sentiment for Titan Company is **Positive**.
+
+The notable event is that Titan Company has crossed above its 200-day moving average (DMA), which is a bullish signal.
+
+The news tone is positive, indicating a potential upward trend in the stock price. This is supported by the historical data, which shows that similar news events have led to a positive impact on the stock price, with an average impact of around +4.5%.

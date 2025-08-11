@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 22.28,
+  "sharpe_ratio": 0.15,
+  "reasoning": "BPCL's modest weekly return and relatively low volatility suggest a stable performance, but its underperformance compared to peers and mixed financial health with concerns around growth and debt position make it a hold. The macroeconomic environment is generally positive, but not strong enough to warrant a buy. The Sharpe Ratio indicates a moderate risk-return tradeoff, supporting a hold decision."
+}

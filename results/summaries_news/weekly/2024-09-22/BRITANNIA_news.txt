@@ -1,0 +1,16 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: NTPC, ACC, BPCL, Britannia, HCLTech, Indian Hotels & IOC: StoxBox shares top 7 investment picks**
+
+The news tone is **Positive**. The historical data suggests that when a reputable source like StoxBox shares its top investment picks, it tends to have a positive impact on the stock prices. The average impact of similar news in the past is around +2.12%.
+
+**Query 2: Britannia’s Neha More joins Ferrero as Business Head, Modern Trade**
+
+The news tone is **Neutral**. The historical data suggests that news about Britannia's executives joining other companies has a mixed impact on the stock price. While it may not have a significant positive impact, it is also not likely to have a significant negative impact. The average impact of similar news in the past is around +0.69%.
+
+Notable events:
+
+* StoxBox's top 7 investment picks include Britannia, which could be a positive sentiment for the stock.
+* Britannia's Neha More joining Ferrero as Business Head, Modern Trade may not have a significant impact on the stock price.
+
+Overall, the news tone for Britannia is Neutral to Positive, considering the positive sentiment from being included in StoxBox's top investment picks and the neutral sentiment from Neha More joining Ferrero.

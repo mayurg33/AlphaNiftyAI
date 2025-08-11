@@ -1,0 +1,3 @@
+Britannia's weekly performance was disappointing, with a return of -0.74%, underperforming its peers. The stock's volatility was relatively high at 11.01%, indicating a riskier investment. Compared to its peers, Britannia's Sharpe Ratio of -0.27 was the lowest, suggesting poor risk-adjusted returns. Overall, the stock was a laggard this week, with high volatility and poor performance.
+
+[Volatility: 11.01%]

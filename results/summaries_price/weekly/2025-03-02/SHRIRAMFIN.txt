@@ -1,0 +1,3 @@
+SHRIRAMFIN had a strong weekly performance, with a return of 6.95%, outperforming its peers. The stock's volatility was relatively high at 49.66%, but its Sharpe Ratio of 0.73 suggests that the returns were somewhat justified by the level of risk taken. Compared to its peers, SHRIRAMFIN had the highest return and Sharpe Ratio, indicating a strong week for the stock. However, the Max Drawdown of -0.51% suggests that the stock was still subject to some price fluctuations.
+
+[Volatility: 49.66%]

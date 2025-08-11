@@ -1,0 +1,3 @@
+WIPRO's weekly performance was strong, with a return of 9.11%, outperforming TCS but closely matching INFY's return. The stock's volatility was relatively high at 42.71%, indicating a riskier investment. Compared to its peers, WIPRO's Sharpe Ratio of 0.83 suggests it offered moderate risk-adjusted returns. Overall, WIPRO's performance was decent, but its high volatility and max drawdown of -1.34% warrant caution.
+
+[Volatility: 42.71%]

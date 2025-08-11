@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 41.7,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock has a dismal weekly performance with a return of -5.83%, significantly underperforming its peers. The high volatility of 41.7% contributes to its poor performance, making it a risky investment. Additionally, the news sentiment is neutral to negative, with the company's Q4 results being below estimates, which may lead to further decline in stock price."
+}

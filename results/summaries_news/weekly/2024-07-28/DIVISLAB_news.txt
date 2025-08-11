@@ -1,0 +1,15 @@
+**Weekly News Sentiment:** Positive
+
+The current week's news sentiment is overall positive, with three out of four news articles having a positive tone. The news articles are dominated by reports of the Sensex and Nifty reaching record highs, with gains of over 1,200 points and 1,300 points, respectively. This suggests a strong bullish trend in the market.
+
+**Notable Events:**
+
+* Sensex and Nifty reaching record highs, led by gains in IT, auto, and metal sectors.
+* Q1 results of several companies, including SBI, Tata Steel, Coal India, BHEL, Pfizer, and Sun Pharma, are expected to be announced next week.
+
+**News Tone:**
+
+* Positive: 3 articles (Sensex gains over 1,200 points, Nifty ends at record high; Stock Market Highlight: Markets end near all-time high!; Q1 results: SBI, Tata Steel, Coal India, BHEL, Pfizer, and Sun Pharma among companies to declare earnings next week)
+* Neutral: 1 article (Stock market today: Trade setup for Nifty50, Sensex for today - five stocks to buy or sell on Wednesday)
+
+The overall tone of the news is positive, indicating a strong market sentiment. The historical data also suggests that similar news articles in the past have had a positive impact on the stock market, with average impacts ranging from +0.16% to +11.83%.

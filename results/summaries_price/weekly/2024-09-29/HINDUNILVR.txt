@@ -1,0 +1,3 @@
+HINDUNILVR had a disappointing week, with a -2.06% return, underperforming its peers RELIANCE and NESTLEIND. The stock's high volatility of 25.32% contributed to its poor performance, with a Sharpe Ratio of -0.32 indicating a negative risk-adjusted return. Compared to its peers, HINDUNILVR was one of the worst performers, with a higher volatility than most. This week, the stock was considered relatively risky.
+
+[Volatility: 25.32%]

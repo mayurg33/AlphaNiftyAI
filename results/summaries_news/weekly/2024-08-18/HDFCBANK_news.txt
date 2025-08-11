@@ -1,0 +1,10 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Negative
+
+**Notable Events:**
+
+1. Erstwhile HDFC investors question HDFC Bank for lower dividend: This news may have a negative impact on the stock, as historical data suggests a price drop of around 1.5-4.5% when dividend-related news is announced.
+2. From Canara Bank to HDFC Bank, banks up the ante on deposit drive: This news may have a neutral to negative impact on the stock, as historical data suggests a mixed response to deposit drive-related news, with a price impact ranging from -3.04% to +1.50%.
+
+**Overall Tone:** The overall tone of the news is neutral to negative, with a slight bias towards negativity. The dividend-related news may have a more significant negative impact on the stock, while the deposit drive news may have a more mixed response.

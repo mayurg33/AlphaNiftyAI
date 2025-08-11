@@ -1,0 +1,11 @@
+Based on the historical news data, here is a summary of the current week's news sentiment:
+
+**Current Week's News Sentiment:** Neutral
+
+**Notable Events:**
+
+* The query "Which Companies Manufacture Pharma APIs in India?" suggests an interest in the pharmaceutical industry in India, particularly in companies that manufacture active pharmaceutical ingredients (APIs).
+
+**News Tone:** Neutral
+
+The historical news data shows a mix of positive and negative news sentiments. The news about Lilly signing agreements with Cipla, Lupin, and Sun Pharma had a positive impact (+1.29%), while the news about Mankind Pharma acquiring two brands from Dr. Reddy's Laboratories had a negative impact (-4.00%). The news about Remdesivir shortfall likely to ease soon had a negative impact (-2.70%). Overall, the news tone is neutral, as there is no dominant positive or negative sentiment.

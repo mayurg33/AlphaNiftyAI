@@ -1,0 +1,16 @@
+**Weekly News Sentiment:** Positive
+
+**Notable Events:**
+
+1. Sensex surges 2000 points, Nifty reaches 23,900, driven by market optimism.
+2. USFDA issues seven observations to Dr. Reddy's Hyderabad manufacturing plant, a negative development for the pharma company.
+3. Apar Industries plans to expand production capacity of its CTC business, a positive move for the company.
+4. Piramal remains unfazed despite potential uncertainty in its largest market due to Trump's return.
+
+**News Tone:**
+
+* Positive: 2 news items (Sensex surge, Apar Industries' expansion plans)
+* Neutral: 1 news item (Piramal's unfazed stance)
+* Negative: 1 news item (USFDA observations on Dr. Reddy's plant)
+
+Overall, the news tone is positive, driven by the market's upbeat sentiment and Apar Industries' expansion plans. However, the USFDA observations on Dr. Reddy's plant are a negative development for the pharma company.

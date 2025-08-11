@@ -1,0 +1,3 @@
+CIPLA's weekly return of 2.09% was a moderate performance, with a relatively low volatility of 6.22%. The stock underperformed SUNPHARMA and GRASIM, but outperformed DIVISLAB in terms of return. With a Sharpe Ratio of 1.33, CIPLA's risk-adjusted return was relatively strong, indicating a low-risk performance this week.
+
+[Volatility: 6.22%]

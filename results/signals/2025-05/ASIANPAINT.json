@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance over the past 12 months, combined with a negative Sharpe Ratio, suggests that the stock may not be an attractive investment opportunity. The fundamentals analysis reveals overvaluation, low profit margins, and declining revenue and earnings growth. Additionally, the high debt-to-equity ratio increases the company's risk profile. While the macroeconomic environment is stable, it does not outweigh the company's specific issues, leading to a SELL recommendation."
+}

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 4.68,
+  "sharpe_ratio": 0.85,
+  "reasoning": "ITC's modest weekly performance and relatively low volatility suggest a stable stock. The company's strong profitability profile and attractive dividend yield are positives. However, the high trailing P/E ratio and moderate growth rates are concerns. The news sentiment is neutral to positive, but the macroeconomic environment is mixed, with some sectors showing growth and others facing challenges. Overall, ITC's stock is not exceptionally attractive, but it's not a clear sell either, hence a HOLD decision."
+}

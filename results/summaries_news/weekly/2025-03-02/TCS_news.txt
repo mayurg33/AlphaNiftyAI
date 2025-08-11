@@ -1,0 +1,8 @@
+Based on the current week's news, the sentiment is NEGATIVE for the stock.
+
+Notable events:
+
+* Tata Group's TCS takes the biggest hit as share prices drop, resulting in a massive loss of Rs 53,185.89 Crore in a week.
+* TCS, Infosys, Mphasis, Coforge, and HCL shares are under pressure as Nifty IT slips for the sixth session.
+
+The news tone is negative, indicating a bearish sentiment towards the IT sector, particularly for TCS and other mentioned stocks. The language used in the headlines, such as "biggest hit", "share prices drop", and "under pressure", suggests a negative outlook. Additionally, the historical similar news and price impact data also show a predominantly negative impact on the stock prices.

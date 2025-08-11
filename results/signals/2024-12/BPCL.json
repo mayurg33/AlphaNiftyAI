@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance and negative Sharpe Ratio indicate a lack of attractiveness. Fundamentals such as low ROE, low profit margin, negative growth, and high leverage further support a SELL decision. Although news sentiment is positive, it is not enough to offset the company's underlying issues. The macroeconomic environment is generally positive, but it does not specifically benefit BPCL's operations."
+}

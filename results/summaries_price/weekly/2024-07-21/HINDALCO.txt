@@ -1,0 +1,3 @@
+HINDALCO's weekly performance was dismal, with a -5.3% return, accompanied by high volatility of 30.68%. The stock underperformed its peers, with a Sharpe Ratio of -0.92, indicating poor risk-adjusted returns. In comparison, ITC and HCLTECH posted positive returns, while ULTRACEMCO also struggled with a negative return. Overall, HINDALCO was a high-risk stock this week.
+
+[Volatility: 30.68%]

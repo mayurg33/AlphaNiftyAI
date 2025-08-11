@@ -1,0 +1,12 @@
+Based on the provided news articles, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Negative
+
+**Notable Events:**
+
+1. Brokerages have expressed mixed views on Vodafone Idea, Bharti Airtel, Bajaj Finance, and M&M Finance, which may have a neutral to negative impact on the stocks.
+2. Goldman Sachs has flagged concerns about Vodafone Idea, leading to a 13% drop in its stock price, and a 6% fall in Indus Towers.
+
+**Tone:** The overall tone of the news is negative, with a focus on concerns and potential negative impacts on the stocks. The drop in Vodafone Idea's stock price and the fall in Indus Towers' stock price are significant events that contribute to the negative sentiment.
+
+Historical data suggests that similar news events have had a negative impact on the stock prices, with an average impact of around -4% to -6%. Therefore, it is likely that the current news events will also have a negative impact on the stock prices.

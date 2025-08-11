@@ -1,0 +1,16 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+1. The final selection panel for the BPCL CMD post is imminent, which may bring clarity to the company's leadership and direction.
+2. BPCL and GAIL, as promoters, have announced a 1st-ever bonus, which is a positive development for shareholders.
+
+**Tone Analysis:**
+
+The tone of the news is neutral to positive. The first news item, regarding the final selection panel for the BPCL CMD post, is neutral as it doesn't provide a clear direction for the stock. However, the second news item, regarding the bonus announcement, is positive as it is a rare event and a reward for shareholders.
+
+Historically, similar news items have had a mixed impact on the stock price. While some news items have had a negative impact (e.g., BPCL divestiture not on cards), others have had a positive impact (e.g., BPCL Board Approves Stake Sale In Numaligarh Refinery). The bonus announcement news item is likely to have a positive impact, similar to the Indian Oil Recommends Issue of Bonus Shares news item, which had a +1.17% impact.
+
+Overall, the news tone is neutral to positive, and investors may expect a slight upward movement in the stock price.

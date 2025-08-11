@@ -1,0 +1,3 @@
+SHRIRAMFIN's weekly return of 4.43% was relatively modest compared to its peers, with the stock underperforming BAJFINANCE, M&M, and BAJAJFINSV. Despite this, the stock's volatility of 41.73% was relatively lower than its peers, indicating a more stable performance. The Sharpe Ratio of 0.42 suggests that the stock's return was not adequately compensated for the risk taken. Overall, SHRIRAMFIN's weekly performance was lackluster, with the stock being relatively less risky compared to its peers.
+
+[Volatility: 41.73%]

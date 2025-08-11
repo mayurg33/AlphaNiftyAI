@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the current week's news sentiment is **Positive**.
+
+The notable events mentioned in the news are the market capitalization (Mcap) of 7 of the top 10 valued firms rising to Rs 1.40 trn, with TCS and Infosys leading the way.
+
+The historical data suggests that similar news events have had a positive impact on the stock price, with two instances showing a positive impact (+2.17% and +1.39%) and one instance showing a negative impact (-3.90%). However, the overall tone of the news is positive, indicating that the market is responding favorably to the growth in Mcap of these top-valued firms, particularly TCS and Infosys.

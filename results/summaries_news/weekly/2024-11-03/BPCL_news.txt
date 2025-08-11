@@ -1,0 +1,13 @@
+Based on the weekly news, the sentiment is mixed.
+
+Notable events:
+
+* Bharat Petroleum Corporation Limited (BPCL) missed EPS by 49%, leading to analysts revising their forecasts. This is a negative event.
+* A penny stock received its second order from BPCL in three days, causing its shares to skyrocket 285% in 2024. This is a positive event.
+
+Historical similar news and price impact suggest that:
+
+* Earnings misses tend to have a negative impact on the stock price, with an average impact of around -4% to -6%.
+* News related to orders and contracts from BPCL tend to have a positive impact on the stock price, with an average impact of around +1% to +3%.
+
+Overall, the news tone is neutral for the stock. The negative impact of the earnings miss is offset by the positive impact of the penny stock receiving a significant order from BPCL. However, the negative event may have a more significant impact on the stock price in the short term.

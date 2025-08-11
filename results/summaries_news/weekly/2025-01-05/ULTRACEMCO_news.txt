@@ -1,0 +1,11 @@
+Based on the historical news data, there is no current week's news provided. However, I can summarize the sentiment of the past news events.
+
+The overall sentiment of the past news events is NEUTRAL. There are two positive news events and one negative news event.
+
+Notable events:
+
+* UltraTech buys limestone mine in Oman (2023-01-30), which had a positive impact of +6.55% on the stock price.
+* Price hike and falling input costs drive fortunes of cement stocks (2022-09-11), which had a positive impact of +3.17% on the stock price.
+* UltraTech Cement is considered a good stock for long-term investors (2021-05-10), but the impact was negative (-3.37%) on the stock price.
+
+Since there is no current week's news, it's not possible to determine the current sentiment. However, based on the past events, the overall sentiment is neutral, with a slight inclination towards positivity.

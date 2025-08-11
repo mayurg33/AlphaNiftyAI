@@ -1,0 +1,17 @@
+**Weekly News Sentiment:** Neutral to Negative
+
+**Notable Events:**
+
+1. Hindalco is exploring a direct route to boost its auto parts business.
+2. The Indian stock market was dragged down by an equity tax hike, with a focus shift to FMCG and two-wheeler sectors.
+3. On Budget Day, the Nifty and Sensex ended lower, with L&T and Hindalco being top losers, and Nifty Bank down 1%.
+
+**News Tone:**
+
+The overall tone of the news is neutral to negative. The first news about Hindalco's auto parts business is neutral, as it's a strategic move that may have a positive impact on the company's performance. However, the historical data suggests a mixed impact, with a positive impact of +1.86% and +0.71% in similar news, but a relatively low impact of +0.14% in a related news about Tata Motors.
+
+The second news about the Indian stock market is negative, as the equity tax hike has dragged down the markets. The historical data suggests a similar negative impact, with a decline of -5.98% in a related news about the Union Budget.
+
+The third news about the Budget Day stock market performance is also negative, with top losers including L&T and Hindalco. The historical data suggests a similar negative impact, with declines of -11.67%, -0.50%, and -2.56% in related news.
+
+Overall, the news tone is neutral to negative, with a focus on the challenges faced by the Indian stock market and the auto sector.

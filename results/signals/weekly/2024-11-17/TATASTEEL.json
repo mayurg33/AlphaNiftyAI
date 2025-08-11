@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 25.31,
+  "sharpe_ratio": -1.03,
+  "reasoning": "The stock's high volatility and negative returns make it an unattractive investment option. Additionally, the company's financial health is fragile, with low profitability metrics and high debt-to-equity ratio. The negative news sentiment, particularly regarding the company's international operations and dividend payout, further supports a sell decision."
+}

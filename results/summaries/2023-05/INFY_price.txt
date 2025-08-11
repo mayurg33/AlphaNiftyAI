@@ -1,0 +1,1 @@
+Based on the metrics, I would recommend a HOLD. The 12-month return is positive, but the recent 6-month return is negative, indicating a potential correction, and the Sharpe ratio is also relatively low, suggesting that the returns are not exceptional given the volatility.

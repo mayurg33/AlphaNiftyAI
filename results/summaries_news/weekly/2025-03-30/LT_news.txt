@@ -1,0 +1,13 @@
+Based on the two news articles, the sentiment for Larsen and Toubro Finance (L&T Finance) is mixed.
+
+The first article, "Buy Larsen and Toubro Finance; target of Rs 200: Motilal Oswal", has a positive tone, recommending a buy with a target price of Rs 200. This suggests that the brokerage firm Motilal Oswal is bullish on the stock.
+
+The second article, "L&T Finance Shares In Sell-Off Mode Despite All-Time High Net Profit & Dividend In FY25: BUY/SELL?", has a neutral tone, discussing the stock's sell-off despite strong financial performance. The article presents a neutral view, neither explicitly recommending a buy nor a sell.
+
+Notable events mentioned in the news include:
+
+* Motilal Oswal's buy recommendation with a target price of Rs 200
+* L&T Finance's all-time high net profit and dividend in FY25
+* The stock's sell-off despite strong financial performance
+
+Overall, the news tone is slightly positive, driven by the buy recommendation from Motilal Oswal. However, the sell-off in the stock despite strong financials introduces some uncertainty, making the tone not entirely positive.

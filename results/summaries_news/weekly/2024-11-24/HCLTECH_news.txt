@@ -1,0 +1,10 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+* SEBI has given its nod for Roshni Nadar to acquire a majority shareholding in HCLTech group firms.
+* SEBI has also approved the transfer of shares of HCL Tech's two promoter group entities, paving the way for the Nadar family's increased control.
+
+**Tone:** The news tone is neutral to positive for the stock. The historical data suggests that similar news events have had a mixed impact on stock prices, with some resulting in positive gains (e.g., +1.68% and +3.06%) and others in negative losses (e.g., -1.42%). However, the overall tone of the news is positive, indicating that the market may respond favorably to the news of Roshni Nadar's increased control and the Nadar family's consolidation of their stake in HCLTech group firms.

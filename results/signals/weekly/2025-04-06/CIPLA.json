@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 68.31,
+  "sharpe_ratio": -0.14,
+  "reasoning": "The stock's high volatility and negative Sharpe Ratio indicate a high-risk investment. Although the company's fundamentals are strong, with high profitability and growth metrics, its valuation is slightly stretched and debt-to-equity ratio is high. The news sentiment is mixed with a slight negative tone, and the macroeconomic environment is supportive of the pharma sector. Given these mixed signals, a hold decision is recommended."
+}

@@ -1,0 +1,5 @@
+The current week's news sentiment is NEUTRAL. 
+
+Notable events mentioned in the news include Tata Steel, SBI, Axis Bank, and Tata Motors being down 10-20% from their 52-week highs, raising the question of whether to buy these stocks.
+
+Historical news sentiment analysis shows a mixed trend. On November 12, 2022, the news tone was slightly negative (-1.55%), while on September 29, 2022, it was mildly positive (+1.30%). However, on January 5, 2022, the news tone was more strongly positive (+3.83%). Overall, the current news tone is neutral, indicating that the market is uncertain about the direction of these stocks.

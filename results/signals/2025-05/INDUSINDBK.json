@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor price trends, with a 12-month return of -4.61% and high volatility, suggest a high-risk investment. The negative Sharpe Ratio and max drawdown further support this notion. Additionally, the negative news sentiment and concerns over the bank's financial health and governance raise significant red flags. While the macroeconomic environment appears stable, it is not enough to outweigh the stock's poor performance and negative sentiment."
+}

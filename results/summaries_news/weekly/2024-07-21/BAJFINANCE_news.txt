@@ -1,0 +1,13 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: Q1 earnings this week: Top companies to declare results between July 22 and July 27**
+
+The sentiment around Q1 earnings is mixed. The historical data shows that the impact of earnings announcements can be both positive (+0.74%, +1.28%) and negative (-1.84%). This suggests that the market is sensitive to the actual earnings results, and the tone can shift depending on the performance of top companies. Notable events to watch out for are the earnings declarations of top companies between July 22 and July 27.
+
+**Query 2: Maximising your financial potential - Bajaj Finserv Credit Pass explained**
+
+The sentiment around Bajaj Finserv is generally positive. The historical data shows that news related to Bajaj Finserv's financial products and partnerships has a positive impact on the stock (+2.44%, +4.47%). However, there is one instance of a negative impact (-1.58%). This suggests that the market responds well to Bajaj Finserv's initiatives and partnerships, but may be sensitive to specific product-related news. Notable events to watch out for are the details of the Bajaj Finserv Credit Pass and its potential impact on the company's financial performance.
+
+**Overall Sentiment**
+
+The overall sentiment for the week is neutral to slightly positive. The Q1 earnings announcements may bring some volatility to the market, but the historical data suggests that the impact can be both positive and negative. The news around Bajaj Finserv Credit Pass is likely to have a positive tone, given the company's past successes in financial products and partnerships.

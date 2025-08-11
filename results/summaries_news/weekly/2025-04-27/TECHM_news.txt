@@ -1,0 +1,14 @@
+**Weekly News Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+* Tech Mahindra announced its Q4 results, reporting a 76% YoY jump in profit to Rs 1,167 crore and declaring a dividend of Rs 30 per share.
+* The company's revenue grew 4% YoY.
+
+**News Tone:**
+
+The news tone is generally neutral to positive, with most articles focusing on the company's strong Q4 results and dividend declaration. The use of words like "jumps," "surges," and "soars" in the headlines suggests a positive tone. However, one article reports a 5% fall in Tech Mahindra's shares after the Q4 results, which adds a neutral to negative tone to the overall sentiment.
+
+**Historical Similar News and Price Impact:**
+
+Based on historical data, the impact of similar news on Tech Mahindra's stock price has been mixed. In some cases, the stock price has increased (e.g., +4.18% on 2021-03-10), while in others, it has decreased (e.g., -2.48% on 2021-01-25). Overall, the historical data suggests that the stock price may react positively to the Q4 results and dividend declaration, but the impact is not guaranteed.

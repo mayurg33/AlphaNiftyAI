@@ -1,0 +1,5 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL TO NEGATIVE for NTPC's stock. The news tone is primarily focused on NTPC's plans to expand into nuclear energy to achieve climate goals, which seems to have a negative impact on the stock price, with a consistent -2.05% price impact in the previous instances.
+
+Notable events mentioned in the news include NTPC's confirmation of plans to establish a nuclear subsidiary, which is seen as a strategic move to reduce carbon emissions and meet climate goals.
+
+Overall, the news tone is more neutral, providing factual information about NTPC's plans, but the historical price impact suggests a negative sentiment towards the stock.

@@ -1,0 +1,10 @@
+Based on the historical similar news and price impact, here's a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Negative
+
+**Notable Events:**
+
+1. Shriram Finance offers fixed deposit plans tailored for senior citizens: This news is likely to have a negative impact on the stock, as similar news in the past has resulted in a negative price impact (-2.92% to -3.21%).
+2. Q1 earnings this week: Top companies to declare results between July 22 and July 27: The sentiment around earnings announcements is mixed, with some instances resulting in positive price impact (+3.18% and +11.14%) and others resulting in negative price impact (-1.27%).
+
+**Overall Tone:** The overall tone of the news is neutral to negative, with the senior citizen fixed deposit plan news likely to have a negative impact and the earnings announcements having a mixed impact.

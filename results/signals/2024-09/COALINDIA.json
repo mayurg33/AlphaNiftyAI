@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock has been underperforming with negative returns across all time frames, high volatility, and a negative Sharpe Ratio. Additionally, the company's financial performance is deteriorating, with low ROE and profit margin, and high debt-to-equity ratio. Although the macroeconomic environment is generally positive, the company-specific factors outweigh the benefits, leading to a SELL recommendation."
+}

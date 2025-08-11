@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock has underperformed in the last 12 months, with a negative Sharpe Ratio indicating that the return is not sufficient to compensate for the risk taken. However, the moderate volatility and low max drawdown suggest that the stock is not extremely risky. Additionally, the peer correlation analysis indicates that TITAN moves somewhat in line with its peers, which could be a positive sign. Considering the fundamentals, the stock appears overvalued, and there are concerns over profitability and leverage, but the company's moderate growth prospects and decent ROE justify a HOLD rating."
+}

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 21.07,
+  "sharpe_ratio": -0.51,
+  "reasoning": "The stock's weekly performance was disappointing, with a return of -1.35%, and the Sharpe Ratio indicates that the return was not sufficient to compensate for its risk. However, the company's financial health is stable, with high gross margins and return on equity, and the news sentiment is positive. Considering the macroeconomic environment, the automotive industry is showing growth, which could benefit Maruti Suzuki. Therefore, I recommend a HOLD decision, as the stock's fundamentals and news sentiment are positive, but its recent performance is a concern."
+}

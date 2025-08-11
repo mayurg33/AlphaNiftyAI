@@ -1,0 +1,9 @@
+Based on the historical similar news and price impact, the current week's news sentiment for Sun Pharmaceutical Industries Ltd is NEGATIVE. The news tone is negative because the stock has eased for the fifth straight session, which implies a downward trend.
+
+Notable events from the historical data include:
+
+* Sun Pharma's profit beating estimates in 2021, which had a slightly negative impact (-0.44%) on the stock.
+* The company receiving a USFDA directive for corrective action at its Mohali plant in 2023, which had a more significant negative impact (-1.00%) on the stock.
+* Sun Pharma winning US FDA approval for an anti-fungal injection in 2021, which had a positive impact (+0.67%) on the stock.
+
+Overall, the current week's news sentiment is negative, suggesting that the stock may continue to decline.

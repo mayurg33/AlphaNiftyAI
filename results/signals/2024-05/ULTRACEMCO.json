@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock has underperformed with negative returns over various time horizons, high volatility, and a poor Sharpe Ratio. Additionally, the high valuation multiples, moderate growth rates, and high debt levels suggest that the stock is overvalued. Although the macroeconomic environment is positive, with growth in agriculture, services, and manufacturing, the stock's fundamentals outweigh the positive macro trends, leading to a SELL recommendation."
+}

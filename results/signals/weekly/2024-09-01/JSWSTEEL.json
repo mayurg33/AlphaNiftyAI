@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 18.53,
+  "sharpe_ratio": -0.50,
+  "reasoning": "The stock's high volatility and poor risk-adjusted returns suggest caution. However, the company's strong profitability profile and decent ROE are positives. The neutral news sentiment and mixed macroeconomic environment further support a hold decision, as the stock's growth metrics are uncertain."
+}

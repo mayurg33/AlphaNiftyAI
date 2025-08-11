@@ -1,0 +1,16 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is **Negative**.
+
+**Notable Events:**
+
+1. The paints sector is facing a double threat from inflation and intensifying competition, according to ICICI Securities. This news is likely to have a negative impact on the sector.
+2. The Sensex and Nifty slipped on financial drag but still closed the week with gains.
+
+**News Tone:**
+
+The news tone is **Negative** for the paints sector due to the double threat of inflation and competition. However, the market indices managed to close the week with gains, indicating a slightly positive tone for the broader market.
+
+**Price Impact:**
+
+Based on historical similar news, the price impact of the paints sector news could be around -2.66% to -3.36%. The market indices' news could have a positive impact of around +2.60% to +3.29%.

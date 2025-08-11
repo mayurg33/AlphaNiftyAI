@@ -1,0 +1,18 @@
+Based on the provided news and historical data, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Negative
+
+**Notable Events:**
+
+1. The Nifty closed below 24,350, and the Sensex fell 427 points, with auto, bank, and metals being the top drags.
+2. Markets ended flat, with the Nifty above 24,300 and the Sensex below 80,000, while Bank Nifty and Midcap 100 declined over 200 points.
+
+**Tone Analysis:**
+
+The news tone is predominantly negative, indicating a bearish sentiment in the market. The first news headline mentions a significant decline in the Sensex and Nifty, with specific sectors (auto, bank, and metals) being the main contributors to the fall. This suggests a negative impact on the market.
+
+The second news headline, although describing a flat market, highlights the decline of Bank Nifty and Midcap 100, which is also a negative indicator.
+
+Historical data analysis shows that similar news headlines in the past have had a negative impact on the market, with an average impact of around -0.5% to -1.5%. However, there are some instances where the impact was positive, but these are fewer in number.
+
+Overall, the current week's news sentiment is negative, indicating a possible decline in the market.

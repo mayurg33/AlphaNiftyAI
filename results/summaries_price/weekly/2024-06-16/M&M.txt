@@ -1,0 +1,3 @@
+M&M's weekly return of 4.31% outperformed its peers, driven by its relatively high Sharpe Ratio of 0.54. Despite experiencing high volatility, the stock's performance was robust, with a max drawdown of -1.69%. In comparison, M&M outperformed TECHM and MARUTI, but had higher volatility than both. The stock's risk profile was elevated this week, making it a more speculative play. 
+
+[Volatility: 31.45%]

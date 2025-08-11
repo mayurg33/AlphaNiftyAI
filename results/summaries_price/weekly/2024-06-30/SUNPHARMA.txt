@@ -1,0 +1,3 @@
+SUNPHARMA's weekly performance was modest, with a return of 1.76%, outperforming HINDUNILVR but underperforming DRREDDY. The stock's volatility was relatively low at 9.43%, indicating a relatively stable performance. However, its Sharpe Ratio of 0.74 suggests that the return was not entirely justified by the level of risk taken. Overall, SUNPHARMA's performance was middling, with a moderate level of risk.
+
+[Volatility: 9.43%]

@@ -1,0 +1,12 @@
+**Weekly News Sentiment:** Negative
+
+**Notable Events:**
+
+1. GST indecision pressure on insurance stocks, leading to a decline in HDFC Life and SBI Life shares.
+2. HDFC Life featured in an analyst call tracker, but the overall sentiment is overshadowed by the GST indecision news.
+3. HDFC Life Insurance shares declined 1.33% amidst market volatility.
+4. Rishabh Pant's story powered HDFC Life's campaign, a positive news, but its impact is minimal compared to the other negative news.
+
+**News Tone:** Negative
+
+The overall tone of the news is negative, driven primarily by the GST indecision pressure on insurance stocks, which led to a decline in HDFC Life and SBI Life shares. Although there were some positive news, such as HDFC Life featuring in an analyst call tracker and Rishabh Pant's story powering HDFC Life's campaign, they were not enough to offset the negative sentiment.

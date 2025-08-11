@@ -1,0 +1,12 @@
+Based on the historical news data, here is a summary of the current week's news sentiment for each stock:
+
+**Asian Paints**:
+The current news tone is NEUTRAL. The news article "Asian Paints, Tata Steel, AU Small Finance Bank: How to trade these 3 buzzing stocks" does not provide a clear bullish or bearish sentiment. However, looking at the historical data, Asian Paints has had a positive impact in the past when mentioned in news articles, with an average impact of +1.07%.
+
+**Tata Steel**:
+The current news tone is POSITIVE. The news article "Tata Steel Share Price Target 2024: Company engages with NMDC, OMC for future iron ore supply - BUY, SELL or HOLD?" suggests a positive outlook for the company, with a potential BUY recommendation. Historically, Tata Steel has had a mixed impact, with an average impact of +1.49%. Notable events include the company's acquisition of NINL, which strengthened its long-steel output and mining interests, and the completion of NINL's strategic disinvestment transaction.
+
+**AU Small Finance Bank**:
+There is no historical data available for AU Small Finance Bank in the provided dataset. Therefore, it is difficult to determine the news tone and potential impact on the stock.
+
+Overall, the current week's news sentiment is mixed, with a neutral tone for Asian Paints and a positive tone for Tata Steel.

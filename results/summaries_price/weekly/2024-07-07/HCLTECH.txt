@@ -1,0 +1,3 @@
+HCLTECH had a strong weekly performance, returning 3.44% and outperforming its peers. The stock's volatility was relatively high at 21.61%, but its Sharpe Ratio of 0.63 indicates that the returns were somewhat justified by the risk taken. Compared to its peers, HCLTECH had a significantly higher return than HDFCLIFE and TECHM, and a slightly higher Sharpe Ratio than HINDALCO. Overall, the stock was relatively risky this week, but the returns were decent.
+
+[Volatility: 21.61%]

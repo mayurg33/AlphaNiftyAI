@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stagnant price trend, moderate volatility, and low Sharpe Ratio suggest a HOLD position, while the company's strong earnings growth and profitability are offset by high valuation multiples and debt concerns, making it a neutral investment opportunity in the current macroeconomic environment.

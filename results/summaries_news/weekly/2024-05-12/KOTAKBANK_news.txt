@@ -1,0 +1,10 @@
+Based on the current week's news, the sentiment is POSITIVE for Kotak Mahindra Bank's stock.
+
+Notable events:
+
+* The bank's Q4 earnings report led to a nearly 5% increase in its shares, indicating a strong market response to the earnings announcement.
+* However, the news about rising IT expenses and customer complaints might have tempered the positive sentiment to some extent.
+
+The overall tone of the news is positive, driven primarily by the strong Q4 earnings report. The historical data suggests that positive earnings reports have generally led to a positive impact on the stock price, with an average impact of around +1.5%. The news about rising customer complaints is a concern, but it seems to be overshadowed by the positive earnings report.
+
+It's worth noting that the historical data also suggests that the market can be sensitive to negative news about the bank, such as profit drops or controversies, which can lead to a negative impact on the stock price. However, in this case, the positive earnings report seems to be the dominant factor driving the sentiment.

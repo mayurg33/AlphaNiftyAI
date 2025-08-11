@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 23.63,
+  "sharpe_ratio": 0.28,
+  "reasoning": "ITC's high volatility and mediocre return make it a relatively risky investment, but its strong profitability profile, reasonable valuation, and high dividend yield suggest a robust financial health. The neutral news sentiment and supportive macroeconomic environment also do not warrant a strong sell or buy signal. Therefore, a hold decision is recommended."
+}

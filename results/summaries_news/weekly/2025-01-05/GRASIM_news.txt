@@ -1,0 +1,14 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Roundup 2024:**
+The news tone is NEUTRAL. The historical data shows a mix of positive and negative price impacts, ranging from -4.82% to +1.36%. There is no clear trend or dominant sentiment in the news related to Roundup 2024.
+
+**From backseat to driver's seat, rights issues take the wheel in 2024:**
+The news tone is SLIGHTLY NEGATIVE. The historical data shows a slight bias towards negative price impacts, with two out of three instances resulting in a decline in stock price (-1.53% and -0.94%). The only positive impact (+3.12%) is an outlier, and the overall sentiment is leaning towards a negative tone.
+
+Notable events:
+
+* There is no clear dominant theme or event in the news related to Roundup 2024.
+* The news related to "From backseat to driver's seat, rights issues take the wheel in 2024" seems to be focused on the automotive industry, with mentions of recalls, price revisions, and insurance premiums.
+
+Overall, the news tone for the current week is NEUTRAL to SLIGHTLY NEGATIVE, with a bias towards caution in the automotive sector.

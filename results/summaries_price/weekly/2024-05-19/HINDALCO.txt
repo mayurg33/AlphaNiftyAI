@@ -1,0 +1,3 @@
+HINDALCO's weekly return of 3.46% outperformed its peers, with a relatively strong Sharpe Ratio of 0.91, indicating a good balance between return and risk. The stock's volatility of 14.94% was moderate, falling in the middle of the pack compared to its peers. While it did not have the highest return, its risk-adjusted performance was impressive, making it a relatively attractive option for the week. Overall, HINDALCO outperformed its peers and demonstrated moderate risk.
+
+[Volatility: 14.94%]

@@ -1,0 +1,2 @@
+Mean Real Score: 0.032880
+Percentile vs random: 100.00%

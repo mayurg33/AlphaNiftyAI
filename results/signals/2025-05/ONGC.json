@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock's underperformance over the past 12 months, combined with a negative Sharpe Ratio, indicates that it may not be an attractive investment opportunity. However, the moderate volatility and low Max Drawdown suggest that the stock is not excessively risky. Furthermore, the peer correlation analysis indicates that ONGC's performance is closely tied to its peers. Fundamentally, the company's low PE ratio and decent ROE are positives, but the negative earnings growth and high debt levels are concerns. The macroeconomic environment is stable, with moderate growth projections and low inflation, which does not provide a strong catalyst for the stock to move significantly. Therefore, a HOLD rating is recommended, with a confidence score of 7."
+}

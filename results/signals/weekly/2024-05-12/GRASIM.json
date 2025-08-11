@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 19.52,
+  "sharpe_ratio": -0.63,
+  "reasoning": "The stock's poor risk-adjusted returns, high volatility, and high Max Drawdown indicate a relatively risky investment. Additionally, the company's high debt-to-equity ratio and stretched valuation multiples are major concerns. While the company has some strengths, such as decent dividend yield and moderate book value growth, the negatives outweigh the positives, leading to a SELL decision."
+}

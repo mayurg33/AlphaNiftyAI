@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 7,
+  "volatility": 23.7,
+  "sharpe_ratio": -0.64,
+  "reasoning": "The stock's high volatility and negative Sharpe Ratio indicate a risky investment. The news sentiment is neutral to negative, with potential competition from Hyundai Motor India's IPO and a negative brokerage call from Emkay. Additionally, the macroeconomic environment suggests a mixed impact on the automotive industry, with two-wheeler production and sales growth, but potential competition from Hyundai. Overall, the risks outweigh the potential benefits, leading to a sell decision."
+}

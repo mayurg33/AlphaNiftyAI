@@ -1,0 +1,3 @@
+RELIANCE underperformed its peers this week, with a weekly return of -3.78%, compared to LT's 3.41% and HINDUNILVR's -0.67%. The stock's volatility was relatively moderate at 14.39%, lower than LT's 29.37% but higher than GRASIM's 15.18%. With a Sharpe Ratio of -1.05, the stock's risk-adjusted return was poor, indicating a high level of risk this week.
+
+[Volatility: 14.39%]

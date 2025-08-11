@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 20.86,
+  "sharpe_ratio": -0.54,
+  "reasoning": "The stock's poor risk-adjusted returns and high volatility are concerns. However, the company's strong profitability and respectable ROE are positives. The neutral news sentiment and reasonable valuation also support a hold decision. Given the mixed signals, I am not confident in making a buy or sell call."
+}

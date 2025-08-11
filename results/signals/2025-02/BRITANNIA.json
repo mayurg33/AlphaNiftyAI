@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance over the past 12 months, high volatility, and low Sharpe Ratio indicate that the stock is not a good investment opportunity at present. Additionally, the high correlation with NESTLEIND may indicate that the stock is sensitive to the performance of its peer, which could lead to further declines. The fundamental analysis also raises concerns about the company's valuation, leverage, and modest growth rates. While the macroeconomic environment is generally supportive, it may not be enough to overcome the stock's underlying issues."
+}

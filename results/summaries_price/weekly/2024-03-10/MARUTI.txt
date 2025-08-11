@@ -1,0 +1,3 @@
+Maruti's weekly performance was disappointing, with a return of -0.73%, indicating a decline in stock value. The stock's volatility was moderate at 12.76%, which is relatively low compared to its peers. Maruti underperformed its peers, particularly BAJAJ-AUTO and TATAMOTORS, which saw significant gains. However, it was less risky than M&M, which had extremely high volatility. Overall, Maruti's performance was lackluster this week.
+
+[Volatility: 12.76%]

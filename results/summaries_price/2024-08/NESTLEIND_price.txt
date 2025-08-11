@@ -1,0 +1,25 @@
+Symbol: NESTLEIND
+Month: 2024-08
+Start Price: ₹2468.19
+End Price: ₹2484.84
+12M Return: 0.67%
+6M Return: 0.67%
+3M Return: 0.67%
+Volatility: 0.139
+Sharpe Ratio: 0.674
+Max Drawdown: -0.023
+Peer Correlation (HINDUNILVR): 0.3499
+Peer Correlation (BRITANNIA): 0.6214
+Peer Correlation (TATACONSUM): 0.5479
+Average Peer Correlation: 0.5064
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Nestle India Ltd. (NESTLEIND) has shown a modest 0.67% return over the past 12 months, with consistent performance across 6-month and 3-month periods. The stock's volatility is relatively low at 0.139, and its Sharpe Ratio of 0.674 indicates a decent risk-adjusted return. The maximum drawdown of -0.023 suggests that the stock has been relatively stable. In terms of peer correlation, NESTLEIND has a moderate correlation with its peers, with the highest correlation with Britannia Industries Ltd. (BRITANNIA) at 0.6214.
+
+**Recommendation:**
+
+Based on the analysis, I would suggest a **HOLD** rating for Nestle India Ltd. (NESTLEIND). The stock's steady performance and low volatility make it an attractive option for risk-averse investors. While the returns may not be spectacular, the Sharpe Ratio indicates that the stock has generated decent returns relative to its risk. Additionally, the peer correlations suggest that NESTLEIND is not overly dependent on its peers, which could help it weather any industry-specific downturns. However, with a relatively flat return profile, there is no strong catalyst to recommend a BUY or SELL at this time.

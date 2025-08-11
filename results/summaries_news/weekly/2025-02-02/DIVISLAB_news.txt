@@ -1,0 +1,14 @@
+Based on the historical news data, here is a summary of the current week's news sentiment for Divis Labs:
+
+**Sentiment:** Negative
+
+**Notable Events:**
+
+* The stock price has fallen significantly, with a question being raised about how much more it can fall (-12.74% impact).
+* LIC's shareholding in Divis Lab has crossed 5%, which has also had a negative impact on the stock price (-12.74%).
+
+**Positive Event:**
+
+* The company had fixed a record date for a 1500% dividend payout, which had a positive impact on the stock price (+1.54%).
+
+Overall, the news tone is negative for Divis Labs, with two significant negative events outweighing the one positive event.

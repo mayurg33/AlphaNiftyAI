@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 30.68,
+  "sharpe_ratio": -0.92,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but its stable financial position, moderate profitability, and attractive dividend yield are positives. The news sentiment is likely to be positive due to the partnership with GreenLine, which could boost the stock price. However, the high debt levels and macroeconomic uncertainty warrant a cautious approach, leading to a hold decision."
+}

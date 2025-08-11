@@ -1,0 +1,5 @@
+Here is a concise summary of MARUTI's weekly performance:
+
+MARUTI's weekly return of -1.23% was relatively better than its peers M&M and BAJAJ-AUTO, but lagged behind TATAMOTORS' impressive 3.31% gain. The stock's volatility of 12.37% was lower than its peers, indicating relatively less price fluctuation. With a Sharpe Ratio of -0.39, MARUTI's risk-adjusted return was subpar, and its Max Drawdown of -1.35% suggests a moderate level of risk.
+
+[Volatility: 12.37%]

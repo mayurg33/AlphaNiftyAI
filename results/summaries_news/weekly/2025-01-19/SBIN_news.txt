@@ -1,0 +1,8 @@
+**Weekly News Sentiment:** Negative
+
+**Notable Events:**
+
+1. SBI and HDFC Bank, two major Indian banks, have lost a significant amount of money (₹45,000 Cr and ₹70,500 Cr, respectively) due to a stock market crash, leading to a major correction in top stocks.
+2. SBI has expressed that the impact of Trump's presidency on the Indian rupee will be short-lived.
+
+**News Tone:** The overall tone of the news is negative, primarily due to the significant losses incurred by SBI and HDFC Bank, which has led to a stock market crash. The second news item, although neutral in tone, does not seem to have a significant positive impact on the stock market. The historical data suggests that similar news items have had a mixed impact on the stock price, with some resulting in positive gains and others in losses.

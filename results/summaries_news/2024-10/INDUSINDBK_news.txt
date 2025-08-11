@@ -1,0 +1,12 @@
+After reviewing the recent headlines about INDUSINDBK, I summarize the overall news sentiment as NEGATIVE.
+
+The common themes across the headlines are:
+
+* IndusInd Bank's Q2 profit has slumped significantly (39%-40% YoY decline) due to higher provisions, leading to a sharp decline in the stock price (16%-20% drop).
+* Analysts have slashed target prices, and brokerages have cut targets, indicating a lack of confidence in the bank's near-term performance.
+* The bank's Q2 results were the weakest among peers, and the net interest margin (NIM) has moderated.
+
+Given this negative sentiment, my recommendation is:
+
+Final Decision: SELL
+Reason: The significant decline in Q2 profit and provisions has led to a sharp drop in the stock price, and analysts have cut target prices, indicating a lack of confidence in the bank's near-term performance.

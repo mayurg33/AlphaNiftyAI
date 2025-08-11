@@ -1,0 +1,18 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is **Neutral**.
+
+**Notable Events:**
+
+1. LKP Securities recommends buying HCL Technologies shares and selling SBI, PFC futures.
+2. Orient Technologies IPO is open, and investors are advised to consider 10 key points from the Red Herring Prospectus (RHP) before subscribing.
+
+**News Tone Analysis:**
+
+The news tone for HCL Technologies is **Positive**, as LKP Securities recommends buying its shares.
+
+The news tone for SBI and PFC is **Negative**, as LKP Securities advises selling their futures.
+
+The news tone for Orient Technologies IPO is **Neutral**, as the article provides a balanced view of the company's financials and key risks, without expressing a clear buy or sell recommendation.
+
+Overall, the weekly news sentiment is neutral, with a mix of positive, negative, and neutral news tones for different stocks.

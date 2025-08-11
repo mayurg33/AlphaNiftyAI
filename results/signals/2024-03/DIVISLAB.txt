@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's poor performance and negative Sharpe Ratio suggest caution, but the moderate volatility, low Max Drawdown, and strong fundamentals, such as decent ROE and profit margin, indicate that it may not be overly risky. Additionally, the positive trends in the pharmaceutical industry and overall market sentiment support a neutral outlook.

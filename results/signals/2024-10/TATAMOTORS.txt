@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Despite the stock's poor performance and high volatility, the low trailing PE ratio and moderate ROE suggest potential undervaluation, while the neutral to slightly negative news sentiment and mixed macroeconomic environment do not warrant a strong sell signal.

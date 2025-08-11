@@ -1,0 +1,25 @@
+Symbol: ADANIENT
+Month: 2024-11
+Start Price: ₹2947.99
+End Price: ₹2461.89
+12M Return: -16.49%
+6M Return: -16.49%
+3M Return: -16.49%
+Volatility: 1.020
+Sharpe Ratio: -1.926
+Max Drawdown: -0.294
+Peer Correlation (ADANIPORTS): 0.9292
+Peer Correlation (RELIANCE): 0.3148
+Peer Correlation (POWERGRID): -0.2402
+Average Peer Correlation: 0.3346
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+ADANIENT has experienced a significant decline in its stock price over the past year, with a 12-month return of -16.49%. The stock's volatility is relatively high at 1.020, and its Sharpe Ratio is -1.926, indicating a poor risk-adjusted return. The maximum drawdown of -0.294 suggests that the stock has experienced a significant peak-to-trough decline. The peer correlations indicate that ADANIENT has a strong positive correlation with ADANIPORTS (0.9292) and a weak positive correlation with RELIANCE (0.3148), but a negative correlation with POWERGRID (-0.2402).
+
+**Recommendation:**
+
+Based on the poor performance and high volatility, I would recommend a **SELL** position on ADANIENT. The stock's decline over the past year, combined with its high volatility and poor risk-adjusted return, suggests that it may continue to underperform in the future. Additionally, the strong positive correlation with ADANIPORTS may indicate that the stock is closely tied to the performance of ADANIPORTS, which may not be a positive sign given the current market conditions.

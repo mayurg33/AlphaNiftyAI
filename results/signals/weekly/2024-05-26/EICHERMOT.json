@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 25.87,
+  "sharpe_ratio": 0.90,
+  "reasoning": "Eicher Motors has demonstrated strong weekly performance with a high Sharpe Ratio, indicating returns earned with relatively low risk. However, the stock's high volatility and valuation are concerns. The company's profitability and growth rates are respectable, but the debt-to-equity ratio is a concern. Given the neutral news sentiment and stable macroeconomic environment, I recommend a HOLD decision, as the stock's strengths and weaknesses seem to be balanced."
+}

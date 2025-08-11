@@ -1,0 +1,3 @@
+ASIANPAINT's weekly performance was disappointing, with a return of -0.12%, underperforming its peers. The stock's volatility was high at 29.72%, indicating a risky investment environment. In comparison, its peers M&M, MARUTI, and SUNPHARMA all posted positive returns, with SUNPHARMA being the top performer. Overall, ASIANPAINT's Sharpe Ratio of -0.01 and Max Drawdown of -3.14% suggest a poor risk-return profile for the week.
+
+[Volatility: 29.72%]

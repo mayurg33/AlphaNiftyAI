@@ -1,0 +1,3 @@
+NTPC's weekly performance was dismal, with a return of -5.45%, significantly underperforming its peers. The stock's high volatility of 22.92% contributed to its poor performance, making it a risky investment this week. Compared to its peers, NTPC's return was the lowest, and its Sharpe Ratio was the worst, indicating poor risk-adjusted performance. Overall, NTPC was a laggard this week, with high risk and poor returns.
+
+[Volatility: 22.92%]

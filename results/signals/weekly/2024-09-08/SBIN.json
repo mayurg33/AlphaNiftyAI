@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 35.44,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's weekly performance was disappointing, with a return of -4.82%, and its volatility was exceptionally high. The news sentiment is also negative, with Goldman Sachs expressing a negative view on SBI. Although the company's valuation is attractive, its growth prospects are weak, and the debt-to-equity ratio is not available, which is a concern. Overall, the risk-adjusted performance is poor, and the stock is a high-risk, underperforming stock."
+}

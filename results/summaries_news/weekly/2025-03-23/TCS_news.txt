@@ -1,0 +1,7 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+Notable events mentioned in the news include:
+
+* TCS, Tata Motors, and Voltas are stocks to watch on March 17.
+
+The news tone is neutral because the historical similar news shows a mix of positive and negative impacts on the stock prices. On December 16 and 17, 2021, the impact was -1.80%, indicating a negative tone. However, on March 26, 2021, the impact was +0.59%, indicating a positive tone. Therefore, the overall sentiment is neutral, suggesting that the news may not have a significant impact on the stock prices.

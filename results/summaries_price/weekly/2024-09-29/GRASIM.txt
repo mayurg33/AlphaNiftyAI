@@ -1,0 +1,3 @@
+GRASIM's weekly return of 4.36% outperformed its peers, with a notable exception being RELIANCE, which had a Sharpe Ratio of 0.59. Despite its strong return, GRASIM's volatility of 32.88% was significantly higher than its peers, indicating a riskier investment. The stock's Sharpe Ratio of 0.53 suggests that its return was not entirely justified by its risk. Overall, GRASIM's performance was strong, but its high volatility and max drawdown of -1.78% warrant caution.
+
+[Volatility: 32.88%]

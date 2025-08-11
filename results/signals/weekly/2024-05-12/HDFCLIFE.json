@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 23.78,
+  "sharpe_ratio": -0.19,
+  "reasoning": "The stock's high volatility and moderate to high risk profile suggest caution. While the company's financial health is decent, the high valuation and negative revenue growth are concerns. The news sentiment is neutral to slightly positive, but not strong enough to outweigh the fundamental concerns. Therefore, I recommend holding the stock for now."
+}

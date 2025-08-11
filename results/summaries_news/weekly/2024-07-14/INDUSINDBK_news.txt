@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the current week's news sentiment for IndusInd Bank is NEGATIVE.
+
+The notable event is the news headline "For IndusInd Bank, no quick turnaround in sight", which suggests that the bank is not expected to recover quickly from its current challenges.
+
+The historical data shows that similar negative news headlines have resulted in a price impact of around -1.64% to -2.01%, indicating a downward pressure on the stock price. Therefore, the news tone is NEGATIVE for the stock.

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 17.82,
+  "sharpe_ratio": 0.26,
+  "reasoning": "The stock's weekly performance was modest, but its financial health is fragile with negative revenue and earnings growth, high leverage, and mixed valuation metrics. The news sentiment is neutral, and the macroeconomic environment is supportive of growth, but the stock's risk-adjusted return is decent but not exceptional. Therefore, I recommend a HOLD decision, as the stock's upside potential is limited by its fundamental weaknesses."
+}

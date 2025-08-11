@@ -1,0 +1,5 @@
+Based on the historical similar news, the current week's news sentiment is **Positive**. The news tone is optimistic, indicating that analysts predict strong second-quarter earnings growth for the pharmaceutical industry. This is likely to have a positive impact on pharma stocks.
+
+Notable events: None mentioned in the specific news article, but the prediction of strong earnings growth is a significant event in itself.
+
+The historical similar news articles show a mixed sentiment, with one article having a positive impact (+2.88%), one having a neutral/negative impact (-1.05%), and one having a negative impact (-3.71%). However, the current news article's tone is positive, suggesting that the pharma industry is expected to perform well in the second quarter.

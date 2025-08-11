@@ -1,0 +1,3 @@
+INDUSINDBK's weekly return of -0.16% was a lackluster performance, accompanied by a moderate volatility of 15.86%. The stock underperformed its peers, with ICICIBANK being the worst performer and AXISBANK being the best. The Sharpe Ratio of -0.04 indicates that the stock's return was not sufficient to compensate for its risk. The Max Drawdown of -1.75% suggests that the stock was relatively risky this week.
+
+[Volatility: 15.86%]

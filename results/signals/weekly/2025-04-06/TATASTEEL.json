@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 81.61,
+  "sharpe_ratio": -0.54,
+  "reasoning": "The stock's dismal weekly performance, high volatility, and elevated risk profile suggest a strong sell signal. Additionally, the company's mediocre financial health, with low profitability metrics and high debt-to-equity ratio, further supports this decision. While the dividend yield and book value per share are attractive, they are not enough to outweigh the overall negative sentiment."
+}

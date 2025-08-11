@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's poor performance and negative Sharpe Ratio indicate caution, but the relatively low maximum drawdown and moderate volatility suggest it may not be excessively risky. Furthermore, the mixed correlation with its peers and decent fundamentals, such as a reasonable trailing PE and decent profitability, warrant a HOLD recommendation pending further analysis and potential signs of improvement.

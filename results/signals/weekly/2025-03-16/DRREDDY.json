@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 10.21,
+  "sharpe_ratio": -0.57,
+  "reasoning": "The stock's weekly performance was disappointing, with a return of -1.09%. The news sentiment is negative due to the recall of Levetiracetam in the U.S. The historical data suggests that similar negative news have led to a decline in the stock price. Although the company's financial health is robust, the current negative news outweighs the positive sentiment, making it a sell decision."
+}

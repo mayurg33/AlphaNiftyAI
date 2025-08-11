@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 9.44,
+  "sharpe_ratio": -0.36,
+  "reasoning": "BPCL's recent performance has been lackluster, with a negative return and poor risk-adjusted returns. However, the company's valuation is relatively undervalued with a low P/E ratio and high dividend yield. Additionally, the macroeconomic environment is supportive, with a strong agriculture and rural consumption sector, which could benefit BPCL. But, the company's high debt-to-equity ratio is a concern, and the news sentiment is neutral to negative, making it a HOLD decision."
+}

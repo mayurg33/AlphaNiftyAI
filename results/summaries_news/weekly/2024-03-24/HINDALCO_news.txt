@@ -1,0 +1,15 @@
+Based on the current week's news, the sentiment is mixed to negative.
+
+Notable events:
+
+1. Metal stocks, including Hindalco, JSW, and Tata Steel, are expected to have a mixed outlook, which could lead to volatility in their stock prices.
+2. The Sensex shed over 600 points, and the Nifty fell to around 21,850, indicating a bearish market trend.
+3. Electoral donations from several companies were found to be multiple times their net worth and profits, which could raise concerns about corporate governance and transparency.
+
+News tone:
+
+* For metal stocks (Hindalco, JSW, Tata Steel), the tone is neutral to negative, as the mixed outlook suggests uncertainty and potential volatility.
+* For the broader market (Sensex and Nifty), the tone is negative, as the sharp decline in indices indicates a bearish market sentiment.
+* For electoral donations, the tone is negative, as the excessive donations raise concerns about corporate governance and transparency.
+
+Overall, the news tone is more negative than positive, indicating a cautious outlook for the stock market.

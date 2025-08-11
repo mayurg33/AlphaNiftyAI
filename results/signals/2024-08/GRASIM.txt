@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's underperformance in the last 12 months, combined with its poor fundamentals such as low profitability and high leverage, and a neutral to slightly negative news sentiment, suggest that GRASIM is likely to underperform or decrease in price. Additionally, the macroeconomic environment, although showing some positive signs, does not seem to be strong enough to support the company's growth.

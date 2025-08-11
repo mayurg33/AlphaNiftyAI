@@ -1,0 +1,17 @@
+**Weekly News Sentiment Summary**
+
+The overall sentiment of this week's news is **Positive**.
+
+**Notable Events:**
+
+1. Experts recommend 11 stocks, including NTPC, BEL, NHPC, and M&M, to buy for the long-term, indicating a positive outlook.
+2. NTPC is considering offering power from TSTPP phase II to other states, which could lead to new business opportunities.
+3. BHEL has bagged a significant thermal project order from NTPC, which is a positive development for the company.
+
+**News Tone:**
+
+The news tone is **Positive** for NTPC and BHEL, as they are involved in positive developments such as receiving recommendations from experts, exploring new business opportunities, and securing significant project orders. The tone is **Neutral** for other stocks mentioned, as they are part of a broader list of recommended stocks without any specific positive or negative news.
+
+**Historical Context:**
+
+Historical data suggests that similar news events have had a positive impact on stock prices, with an average impact of +1.83%. However, there are some instances of negative impacts, such as -4.20% and -1.72%, which indicate that the market reaction can be unpredictable.

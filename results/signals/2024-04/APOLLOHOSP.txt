@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor performance over the past 12 months, combined with its high volatility and low Sharpe Ratio, suggests a poor risk-adjusted return. Additionally, the overwhelmingly negative news sentiment and concerns over valuation and financial health fundamentals justify a SELL signal.

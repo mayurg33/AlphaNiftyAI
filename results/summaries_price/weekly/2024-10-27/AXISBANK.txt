@@ -1,0 +1,3 @@
+AXISBANK's weekly performance was relatively stable, with a modest decline of 0.08%, amidst a volatile market. The stock's volatility of 24.44% was relatively contained compared to its peers. AXISBANK outperformed its peers, including INDUSINDBK and SBIN, but underperformed ICICIBANK. Despite a low Sharpe Ratio, the stock's risk profile was relatively moderate this week.
+
+[Volatility: 24.44%]

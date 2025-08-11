@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 21.94,
+  "sharpe_ratio": -0.31,
+  "reasoning": "The stock's poor risk-adjusted returns, high volatility, and negative news sentiment indicate a high-risk investment. Additionally, the company's stretched valuation and moderate debt position are concerns. With the negative news sentiment likely to continue putting pressure on the stock price in the short term, it's a good time to sell."
+}

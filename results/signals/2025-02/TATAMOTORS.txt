@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the stock's poor price trends and high volatility suggest a SELL, the relatively low PE ratio and moderate peer correlation indicate potential undervaluation. Additionally, the mixed news sentiment and uncertain macroeconomic environment contribute to a neutral outlook, warranting a HOLD recommendation.

@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance, high volatility, and negative Sharpe Ratio indicate a lack of attractiveness. Additionally, the Max Drawdown suggests significant losses in the past. While the news sentiment is positive, the fundamentals, such as high valuation, low profitability, and high debt-to-equity ratio, outweigh the positive sentiment. The macroeconomic environment, although generally positive, does not significantly impact the stock's underlying issues."
+}

@@ -1,0 +1,15 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Stocks to watch: Vodafone Idea, IRCTC, JSW Steel, HUDCO, Orchid Pharma, Power Grid Corp**
+
+The news tone is Neutral. The historical data suggests that the impact of this news on the stock prices is relatively small, ranging from -2.24% to +1.14%. This news is more of a "to-watch" list, and the market reaction is likely to be muted.
+
+**Power Grid Corp Shares Slump 1% Despite Bagging Inter-State Project**
+
+The news tone is Negative. Despite winning a transmission project in Rajasthan, Power Grid Corp's shares slumped 1%. This is surprising, given that similar news in the past has had a positive impact on the stock price (e.g., +2.17% and +12.28%). The market may be reacting negatively to other factors not mentioned in the news.
+
+**Power Grid declared as the successful bidder for transmission project in Rajasthan**
+
+The news tone is Positive. This news is similar to previous instances where Power Grid Corp won projects and saw a positive impact on its stock price (e.g., +1.14% and +12.28%). The market is likely to react positively to this news, as it indicates the company's ability to secure new projects and grow its business.
+
+Overall, the news tone for Power Grid Corp is mixed, with one piece of news having a negative impact and another having a positive impact. However, based on the historical data, the positive news is likely to have a more significant impact on the stock price.

@@ -1,0 +1,25 @@
+Symbol: SBIN
+Month: 2025-02
+Start Price: ₹750.92
+End Price: ₹675.24
+12M Return: -10.08%
+6M Return: -10.08%
+3M Return: -10.08%
+Volatility: 0.171
+Sharpe Ratio: -8.114
+Max Drawdown: -0.116
+Peer Correlation (ICICIBANK): 0.4502
+Peer Correlation (AXISBANK): 0.4295
+Peer Correlation (HDFCBANK): 0.1633
+Average Peer Correlation: 0.3477
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+State Bank of India (SBIN) has underperformed in the last 12 months, with a return of -10.08%. The stock's volatility is moderate at 0.171, and its Sharpe Ratio is -8.114, indicating poor risk-adjusted returns. The maximum drawdown is -0.116, suggesting that the stock has experienced a significant decline in value. In terms of peer correlation, SBIN has a moderate correlation with ICICIBANK (0.4502) and AXISBANK (0.4295), but a relatively low correlation with HDFCBANK (0.1633).
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **SELL**. The stock's underperformance over the last 12 months, combined with its poor risk-adjusted returns and high maximum drawdown, suggest that it may not be a good investment opportunity at this time. Additionally, the moderate correlation with its peers suggests that the stock may be influenced by industry trends, which could further exacerbate its decline.

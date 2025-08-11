@@ -1,0 +1,5 @@
+Here is a concise summary of the stock's weekly performance:
+
+Stock **LT** underperformed its peers this week, with a weekly return of -0.29% compared to RELIANCE's 2.87% and ONGC's 2.7%. The stock's high volatility of 45.61% contributed to its poor performance, making it a risky investment this week. The Sharpe Ratio of -0.01 further indicates that the stock's return was not sufficient to compensate for its high risk.
+
+[Volatility: 45.61%]

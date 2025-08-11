@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 25.97,
+  "sharpe_ratio": -0.13,
+  "reasoning": "The stock's negative weekly performance and high volatility indicate a bearish trend. The company's high P/E ratio and negative earnings growth suggest overvaluation. Additionally, the negative news sentiment and macroeconomic environment, which is expected to slow down, further support a sell decision."
+}

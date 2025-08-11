@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 23.17,
+  "sharpe_ratio": -0.13,
+  "reasoning": "The stock's high volatility and negative Sharpe Ratio indicate a poor risk-return profile. The news sentiment is also negative due to the RBI penalties, which may lead to a short-term decline in the stock price. Furthermore, the valuation seems rich with a high P/E ratio, making it a risky investment. Therefore, I recommend selling the stock."
+}

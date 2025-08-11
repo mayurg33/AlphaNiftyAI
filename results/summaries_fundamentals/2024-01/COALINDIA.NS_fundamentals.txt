@@ -1,0 +1,9 @@
+Based on the data, I would recommend a SELL.
+
+Here's why:
+
+* The trailing PE is low, but the forward PE is significantly higher, indicating that the market is pricing in a significant improvement in earnings growth, which may not be realized given the negative revenue and earnings growth rates.
+* ROE is low, indicating that the company is not generating sufficient returns on shareholder equity.
+* The debt-equity ratio is high, which may be a concern given the negative growth rates.
+
+Overall, the company's profitability and growth metrics are not impressive, and the high debt levels add to the risk. Therefore, I would recommend a SELL.

@@ -1,0 +1,25 @@
+Symbol: TCS
+Month: 2025-05
+Start Price: ₹3400.77
+End Price: ₹3432.89
+12M Return: 0.94%
+6M Return: 0.94%
+3M Return: 0.94%
+Volatility: 0.249
+Sharpe Ratio: 0.593
+Max Drawdown: -0.043
+Peer Correlation (TATACONSUM): 0.7092
+Peer Correlation (TATAMOTORS): 0.3545
+Peer Correlation (TATASTEEL): 0.8215
+Average Peer Correlation: 0.6284
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+TCS (₹3432.89) has shown a modest 0.94% return over the past 12 months, 6 months, and 3 months, indicating a steady performance. The stock's volatility is relatively low at 0.249, and its Sharpe Ratio of 0.593 suggests that it has generated decent returns considering the level of risk taken. The maximum drawdown of -0.043 indicates that the stock has not experienced significant losses in the recent past. In terms of peer correlation, TCS has a high correlation with TATASTEEL (0.8215) and a moderate correlation with TATACONSUM (0.7092), while its correlation with TATAMOTORS is relatively low (0.3545).
+
+**Recommendation:**
+
+Based on the analysis, I would suggest a **HOLD** rating for TCS. The stock's steady performance and low volatility are positives, and its Sharpe Ratio indicates that it has generated decent returns considering the level of risk taken. While the maximum drawdown is relatively low, it's not extremely low, which suggests that the stock may not be extremely undervalued. Additionally, the peer correlations suggest that TCS is closely tied to the Tata group companies, which may impact its performance. Overall, I would recommend holding onto TCS for now, but closely monitoring its performance and market conditions before making any changes to the position.

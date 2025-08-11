@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance, high volatility, and low Sharpe Ratio indicate a downward trend and high risk. The fundamentals analysis raises concerns about the stock's valuation, profitability, and debt-to-equity ratio. Although the news sentiment suggests the bad news is priced in, the macroeconomic environment does not provide a strong tailwind to support a BUY or HOLD decision."
+}

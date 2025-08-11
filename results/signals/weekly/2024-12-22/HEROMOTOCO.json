@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 21.19,
+  "sharpe_ratio": -0.83,
+  "reasoning": "The stock's weekly performance was disappointing with a return of -4.39% and a Sharpe Ratio of -0.83, indicating poor risk-adjusted returns. The high volatility of 21.19% makes it a risky investment. Although the company's financial health is strong, the debt-to-equity ratio of 3.607 is a concern. The negative news sentiment and declining leading stocks in the NIFTY 50 index also suggest a further decline in the stock price."
+}

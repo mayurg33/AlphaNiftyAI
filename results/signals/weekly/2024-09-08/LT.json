@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 10.7,
+  "sharpe_ratio": -1.10,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but the company's strong fundamentals, including high ROE and profit margins, suggest a potential rebound. The neutral to positive news sentiment and supportive macroeconomic environment also support a hold decision. However, the high debt-to-equity ratio and rich valuation are cautionary flags."
+}

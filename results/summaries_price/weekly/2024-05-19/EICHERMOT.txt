@@ -1,0 +1,3 @@
+EICHERMOT's weekly return of 0.78% was a relatively modest gain, accompanied by a moderate volatility of 22.07%. In comparison to its peers, EICHERMOT outperformed BAJAJ-AUTO but underperformed M&M and HEROMOTOCO. The stock's Sharpe Ratio of 0.15 suggests a relatively low risk-adjusted return, while its Max Drawdown of -1.72% indicates a moderate level of risk.
+
+[Volatility: 22.07%]

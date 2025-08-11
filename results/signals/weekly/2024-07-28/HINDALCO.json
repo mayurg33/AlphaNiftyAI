@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 39.96,
+  "sharpe_ratio": -0.06,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but its strong growth trajectory and profitability metrics suggest potential. However, the high debt-to-equity ratio and neutral to negative news sentiment are drawbacks. Overall, I'm neutral on the stock, and a hold decision is warranted until the company's debt position improves and market sentiment turns positive."
+}

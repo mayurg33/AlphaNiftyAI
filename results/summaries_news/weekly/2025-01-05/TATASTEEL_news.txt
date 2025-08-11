@@ -1,0 +1,7 @@
+**Current Week's News Sentiment:** Negative
+
+**Notable Event:** Tata Steel shareholders may face a possible $5-billion expense in the Netherlands, which could lead to further pain for shareholders.
+
+**News Tone:** Negative
+
+The news tone is negative due to the potential significant expense of $5 billion, which could negatively impact Tata Steel's financials and, in turn, affect its shareholders. This news is likely to have a negative impact on the stock price, similar to the -8.62% impact seen in 2021 when Tata Motors hiked prices to offset rising input costs.

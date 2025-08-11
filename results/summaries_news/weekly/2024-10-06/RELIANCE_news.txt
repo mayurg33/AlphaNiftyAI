@@ -1,0 +1,9 @@
+Based on the current week's news, the sentiment is NEGATIVE. The news headline "Reliance Industries Closes at Rs 2958.0, Down 3.1%" indicates a decline in the share price, which is a negative event. The tone of the news is negative, suggesting that the stock has fallen in value.
+
+Notable events mentioned in the historical similar news are:
+
+* RIL earnings upgrade unlikely (neutral/negative tone)
+* RIL shares fall 14% in over two months (negative tone)
+* Better petchem prospects, low-cost Jio smartphone launch push RIL stock (positive tone)
+
+However, the current week's news does not mention any specific positive or neutral events that could counterbalance the negative tone. Therefore, the overall sentiment for the stock is negative.

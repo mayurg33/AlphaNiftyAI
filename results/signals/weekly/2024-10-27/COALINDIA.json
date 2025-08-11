@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 40.45,
+  "sharpe_ratio": -0.49,
+  "reasoning": "The stock's high volatility and negative returns make it a cautionary investment. However, the company's low trailing P/E ratio and high dividend yield suggest undervaluation and attractiveness to income investors. The mixed fundamentals and neutral to negative news sentiment also contribute to a hold decision, as the stock's growth prospects and debt position are areas of concern."
+}

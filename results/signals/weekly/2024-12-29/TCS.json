@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 6.39,
+  "sharpe_ratio": 0.13,
+  "reasoning": "The stock's flat week and low volatility suggest a stable performance. While the company's financial health is stable, its growth rates are sluggish. The news sentiment is neutral to mildly positive, and the macroeconomic environment is supportive of the services sector, which TCS operates in. However, the lack of significant price movement and mediocre risk-adjusted return make it a hold decision."
+}

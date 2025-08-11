@@ -1,0 +1,3 @@
+COALINDIA's weekly performance was disappointing, with a return of -1.81%, outpacing only TATACONSUM in terms of decline among its peers. The stock's volatility was relatively high at 26.65%, exceeding that of its peers. With a Sharpe Ratio of -0.36, the stock's risk-adjusted return was poor. Overall, COALINDIA underperformed its peers this week and was relatively riskier.
+
+[Volatility: 26.65%]

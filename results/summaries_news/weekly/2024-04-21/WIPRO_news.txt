@@ -1,0 +1,11 @@
+**Weekly News Sentiment:** Negative
+
+**Notable Events:**
+
+1. Wipro's Q4 results: Net profit dropped 8% to Rs 2,835 crore, and revenue fell 4.2% YoY.
+2. The company's headcount shrunk by 6,180 in Q4.
+3. Wipro's board approved the reappointment of Rishad and Azim Premji for 5 years.
+
+**News Tone:** The overall news tone is negative for Wipro's stock. The Q4 results were below expectations, with a decline in net profit and revenue. The company's cautious guidance for the next quarter also weighed on investor sentiment. Although the reappointment of Rishad and Azim Premji is a positive development, it was not enough to offset the negative impact of the Q4 results.
+
+**Historical Context:** Based on historical data, Wipro's stock has reacted positively to strong IT services outlook and quarterly promotions, with price impacts ranging from +2.78% to +9.14%. However, the stock has also reacted negatively to disappointing results and high attrition, with price impacts ranging from -2.16% to -5.04%.

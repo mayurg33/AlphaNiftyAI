@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 18.94,
+  "sharpe_ratio": -0.66,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate a decline in value. Additionally, the company's low profitability metrics, high debt-to-equity ratio, and overvalued forward P/E suggest a weak financial health profile. Despite the positive news sentiment and macroeconomic environment, the stock's fundamentals outweigh the positive news tone, leading to a SELL decision."
+}

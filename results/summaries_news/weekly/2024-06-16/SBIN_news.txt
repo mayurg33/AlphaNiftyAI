@@ -1,0 +1,17 @@
+**Weekly News Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+1. State Bank of India (SBI) plans to raise up to $3 billion via debt in FY25, which is a significant fundraising effort.
+2. SBI's board has approved the debt raise, and the bank aims to scale up its global operations through GIFT City.
+3. MOFSL has revised its target price for SBI shares to Rs 1,015, citing the bank's strong balance sheet size.
+
+**News Tone:**
+
+The overall news tone is neutral to positive for SBI's stock. The debt raise and board approval are seen as positive developments, indicating the bank's efforts to strengthen its balance sheet and expand its global presence. The MOFSL's revised target price also suggests a positive outlook for the stock.
+
+However, some historical news events with negative impacts are also present, such as RBI fines and debt raises by other banks with negative impacts. These events may have contributed to a neutral tone, but the overall sentiment is leaning towards positivity.
+
+**Price Impact:**
+
+Based on historical data, the price impact of similar news events is mixed. Some events have resulted in positive impacts (e.g., +4.10% and +0.52%), while others have led to negative impacts (e.g., -3.95% and -7.02%). Therefore, it is difficult to predict the exact price impact of these news events on SBI's stock. However, the overall positive tone of the news suggests that the stock may experience a slight upward movement.

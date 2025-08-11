@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance over the past 12 months, with a 12M return of -14.28%, suggests a decline in value. The high volatility and negative Sharpe Ratio indicate that the returns are not justified by the level of risk taken. Although the news sentiment is positive, the macroeconomic environment is mixed, with some positive indicators such as agricultural growth and services sector growth, but also concerns such as inflation and trade deficit. Overall, the negative price trends and risk profile outweigh the positive news sentiment and macroeconomic indicators."
+}

@@ -1,0 +1,9 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* Eicher Motors, Bharti Airtel, Narayana Hrudayalay, and Patanjali Foods have hit new highs, indicating a positive trend in their stock prices.
+
+However, the historical data suggests that the impact of such news on the stock price is inconsistent. While there are instances of positive impact (+2.10% and +3.00%), there is also a instance of negative impact (-4.34%). This inconsistency in impact suggests a neutral tone for the news.
+
+Overall, investors should exercise caution and consider other factors such as the company's fundamentals, industry trends, and market conditions before making any investment decisions.

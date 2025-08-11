@@ -1,0 +1,9 @@
+Based on the historical news data, the current week's news sentiment is NEUTRAL to NEGATIVE.
+
+Notable events mentioned in the news include:
+
+* Bajaj Housing Finance Limited extending its festive offer till November 15, 2021, which had a negative impact of -1.71% on the stock price.
+* HDFC's Chairman Deepak Parekh's statement about finding a home within the family, which had a negative impact of -2.62% on the stock price.
+* Bajaj Finance offering attractive FD interest rates, which had a significant negative impact of -8.03% on the stock price.
+
+The overall tone of the news is neutral to negative, indicating that the stock may experience some volatility or downward pressure due to these events. However, it's essential to consider other market and economic factors that may influence the stock's performance.

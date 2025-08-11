@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 16.22,
+  "sharpe_ratio": -0.48,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate a lackluster and risky investment. Additionally, the company's stretched valuation and high debt-to-equity ratio are concerns. The negative news sentiment and potential decline in cement sales volumes and prices further support a sell decision."
+}

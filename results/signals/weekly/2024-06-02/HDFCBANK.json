@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 17.2,
+  "sharpe_ratio": 0.06,
+  "reasoning": "The stock's modest weekly performance and relatively high volatility suggest a moderate level of risk. Although the company's fundamentals appear strong, the lack of EBITDA and gross margins data is a weakness. The neutral to negative news sentiment and uncertainty surrounding FIIs and mutual funds' actions also contribute to the hold decision. Overall, the stock's performance is stable but carries a notable level of risk, making it a hold for now."
+}

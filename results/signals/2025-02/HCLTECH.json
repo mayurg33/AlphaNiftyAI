@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's negative returns, high volatility, and poor Sharpe Ratio indicate a lack of investment opportunity. Additionally, the high correlation with TECHM suggests a close tie to the technology sector's performance, which may be experiencing a downturn. The fundamental analysis reveals mediocre profitability, low growth momentum, and high leverage, further supporting a SELL decision."
+}

@@ -1,0 +1,7 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* Quartet acts on USD298m Rasmeli buy in Apollo Healthco
+
+The news tone is neutral because the historical similar news has mixed impacts on the stock price. Two news items related to Apollo Global's joint bid for Walgreens' Boots business had opposite impacts on the stock price (+3.36% and -6.53%), while the third news item about SBI's 'YONO Super Saving Days' had a minimal negative impact (-0.29%). Therefore, it's difficult to determine a clear positive or negative tone for the stock based on this news.

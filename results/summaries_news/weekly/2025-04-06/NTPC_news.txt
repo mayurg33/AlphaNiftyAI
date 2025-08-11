@@ -1,0 +1,3 @@
+Based on the historical similar news and price impact, the current week's news sentiment is POSITIVE. The news tone is positive because the growth in power generation (3.88% YoY) is a notable event and indicates a strong performance by NTPC. 
+
+Historically, similar news with positive growth in power generation has led to a positive impact on the stock price, such as the 3.12% increase in July 2022. Although there was a negative impact (-1.72%) in October 2022, the overall trend suggests that positive news on power generation growth is likely to have a positive effect on the stock price.

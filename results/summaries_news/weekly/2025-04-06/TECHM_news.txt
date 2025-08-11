@@ -1,0 +1,14 @@
+Based on the historical similar news and price impact, the current week's news sentiment for Tech Mahindra Ltd is NEUTRAL.
+
+Notable events:
+
+* The company has announced its quarterly results, which is a significant event that can impact the stock price.
+* There is a mix of positive and negative sentiments in the historical news, indicating that the market is uncertain about the company's performance.
+
+The news tone is neutral because:
+
+* The historical news shows that the stock has reacted positively to quarterly results in the past, with a gain of 4.18% in one instance.
+* However, there is also a negative impact of -0.93% in another instance, indicating that the market is not uniformly positive about the company's performance.
+* The neutral tone is further reinforced by the article that provides a neutral guidance on how to trade the stock amid results buzz.
+
+Overall, the news tone is neutral, indicating that the market is waiting for further cues to determine the direction of the stock price.

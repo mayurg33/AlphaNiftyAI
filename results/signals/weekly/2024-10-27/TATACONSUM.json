@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 29.06,
+  "sharpe_ratio": -0.59,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio suggest that the risk taken is not justified by the return. Additionally, the negative news sentiment and disappointing Q2 results further support a sell decision. The high valuation and debt levels also raise concerns about the company's financial health."
+}

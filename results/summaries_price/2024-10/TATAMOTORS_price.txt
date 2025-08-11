@@ -1,0 +1,25 @@
+Symbol: TATAMOTORS
+Month: 2024-10
+Start Price: ₹956.97
+End Price: ₹826.94
+12M Return: -13.59%
+6M Return: -13.59%
+3M Return: -13.59%
+Volatility: 0.262
+Sharpe Ratio: -6.533
+Max Drawdown: -0.136
+Peer Correlation (TATASTEEL): 0.4103
+Peer Correlation (TATACONSUM): 0.2021
+Peer Correlation (MARUTI): 0.674
+Average Peer Correlation: 0.4288
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+Summary:
+
+Tata Motors (TATAMOTORS) has experienced a decline in its stock price over the past 12 months, with a return of -13.59%. The stock's volatility is moderate, with a standard deviation of 0.262. The Sharpe Ratio, a measure of risk-adjusted return, is -6.533, indicating that the stock's return is not satisfactory considering the level of risk taken. The maximum drawdown, or the largest peak-to-trough decline, is -0.136. The stock has a moderate to high correlation with its peers, with an average peer correlation of 0.4288.
+
+Recommendation:
+
+Based on the analysis, I would recommend a SELL on Tata Motors (TATAMOTORS). The stock's poor performance over the past 12 months, combined with its high volatility and negative Sharpe Ratio, suggest that it may not be a good investment opportunity at this time. Additionally, the high correlation with its peers, particularly Maruti, may indicate that the stock is heavily influenced by industry trends, which could further exacerbate its decline.

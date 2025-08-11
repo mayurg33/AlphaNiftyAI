@@ -1,0 +1,16 @@
+Based on the news articles from the current week, the sentiment is predominantly neutral to negative for Wipro Limited's (NSE:WIPRO) stock.
+
+Notable events that have contributed to this sentiment include:
+
+* Wipro's warning about potential negative impacts from tariff hikes, immigration curbs, and trade war on its growth (Query 10)
+* The company's stock taking a hit due to changes in tariffs and US immigration policies (Query 2)
+* Wipro's stock being down over 25% from its highs and taking support above the 200-EMA (Query 5)
+* Technical analysis indicating signs of death crossovers for Wipro and other stocks (Query 6)
+* Nifty IT falling over 1% due to a US bond sell-off, with Wipro being one of the affected tech stocks (Query 7)
+
+On the other hand, there are some positive news articles, such as:
+
+* Rishad Premji's pay doubling, although still not matching that of Wipro's CEO (Query 8)
+* Infosys, Wipro, and other IT stocks jumping up to 3.5% after a US court blocks most Trump tariffs (Query 9)
+
+However, the overall tone of the news is more cautionary and negative, with concerns about Wipro's growth and stock performance dominating the headlines. Therefore, the news tone is leaning towards being negative for the stock.

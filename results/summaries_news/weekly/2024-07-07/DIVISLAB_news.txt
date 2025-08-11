@@ -1,0 +1,13 @@
+Based on the historical news data, the current week's news sentiment is NEUTRAL for the mentioned stocks (ONGC, Tata Steel, DRL, Maruti, and Coal India).
+
+Notable events:
+
+* The news mentions that these Nifty stocks are trading at deep discounts to historical valuations, which could be a buying opportunity for investors.
+* There is no specific negative news or event mentioned in the current week's news that could impact the stock prices.
+
+Historical context:
+
+* The previous news articles had mixed sentiments, with some positive (+0.44% and +0.31%) and one negative (-3.56%) impact on the stock prices.
+* The positive news articles were related to earnings season and quarterly performance, while the negative news article was related to sector-specific performance in December.
+
+Overall, the current week's news tone is neutral, as it highlights the discounted valuations of these stocks without any specific positive or negative catalysts.

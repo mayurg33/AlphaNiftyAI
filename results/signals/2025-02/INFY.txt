@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's underperformance and poor risk-adjusted returns are concerns, but its strong correlation with peers in the IT sector and moderate volatility suggest a HOLD rating. Additionally, the company's decent profitability metrics and low debt level balance out the moderate revenue growth and declining earnings growth.

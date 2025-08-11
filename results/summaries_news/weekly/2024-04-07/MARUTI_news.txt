@@ -1,0 +1,7 @@
+Based on the historical news data, the current week's news sentiment is NEUTRAL.
+
+Notable events mentioned in the news include the Japanese yen's 34-year low and its potential impact on Indian stocks and sectors. However, the historical data does not provide a clear indication of a strong positive or negative impact on the stock.
+
+The average impact of the historical news is -0.45%, which suggests a slightly negative tone. However, the range of impacts is quite wide, from -4.20% to +0.80%, indicating that the news tone can be volatile.
+
+Overall, the news tone is neutral, and investors should exercise caution while making investment decisions based on this news. It is essential to consider other market factors and expert opinions to get a more comprehensive view of the market.

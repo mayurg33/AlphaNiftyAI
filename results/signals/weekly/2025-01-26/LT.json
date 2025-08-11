@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 7.8,
+  "sharpe_ratio": -1.93,
+  "reasoning": "The stock's negative weekly performance, high volatility, and low Sharpe Ratio suggest a high-risk profile. Additionally, the company's high debt-to-equity ratio and negative news sentiment, including a decline in PAT and CEO's cautionary approach, indicate potential risks ahead. Furthermore, the macroeconomic environment, although generally positive, does not provide a strong enough tailwind to offset these concerns."
+}

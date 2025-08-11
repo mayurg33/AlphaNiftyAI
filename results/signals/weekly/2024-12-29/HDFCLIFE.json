@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 10.68,
+  "sharpe_ratio": -0.05,
+  "reasoning": "The stock's lackluster weekly performance, high volatility, and negative Sharpe Ratio indicate a risky investment. Additionally, the company's stretched valuation and high debt-to-equity ratio are concerns. Although the company has a strong ROE and profit margin, the mixed news sentiment and negative tone for insurance stocks further support a sell decision."
+}

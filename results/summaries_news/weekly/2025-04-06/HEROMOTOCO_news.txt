@@ -1,0 +1,15 @@
+Based on the news articles, here is a summary of the current week's news sentiment for Hero MotoCorp and ICICI Bank:
+
+**Hero MotoCorp:**
+
+* Notable events: The company has posted 12% YoY growth in monthly sales, and there are mixed financial performance indicators.
+* Sentiment: Neutral to Positive
+* Reasoning: The news tone is neutral to positive due to the mixed financial performance indicators, but the 12% YoY growth in monthly sales is a positive development. The historical data suggests that similar news has had both positive and negative impacts on the stock price.
+
+**ICICI Bank:**
+
+* Notable events: The bank is among 7 large and midcap stocks that can rally up to 40%.
+* Sentiment: Positive
+* Reasoning: The news tone is positive, suggesting that the stock has potential for growth. The historical data does not provide a clear indication of the impact on the stock price, but the overall sentiment is positive.
+
+Overall, the news tone for both Hero MotoCorp and ICICI Bank is positive to neutral, with a focus on growth prospects and mixed financial performance indicators.

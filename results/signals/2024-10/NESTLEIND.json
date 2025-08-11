@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance, high volatility, and low Sharpe Ratio indicate a bearish trend. Additionally, the strong correlation with HINDUNILVR and moderate correlation with BRITANNIA suggest that the stock may be influenced by broader market trends, which could exacerbate its decline. The fundamentals analysis also raises concerns about the company's high valuation, slow revenue growth, and negative earnings growth. While the macroeconomic environment is generally positive, it is not sufficient to outweigh the negative factors."
+}

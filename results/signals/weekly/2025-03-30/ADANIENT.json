@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 31.67,
+  "sharpe_ratio": -0.27,
+  "reasoning": "The stock's high volatility and negative returns make it a cautionary investment. Additionally, the company's financial health is a concern due to its high debt-to-equity ratio and rich valuation. Although the news sentiment is positive due to impressive Q4 results, the underlying fundamentals are not strong enough to justify a buy decision."
+}

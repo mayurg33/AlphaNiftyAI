@@ -1,0 +1,1 @@
+I would recommend a HOLD on WIPRO. The 12M return is positive, indicating a long-term uptrend, while the recent 6M and 3M returns are negative, suggesting a short-term correction, but the Sharpe Ratio of 0.66 suggests that the returns are relatively attractive compared to the risk taken.

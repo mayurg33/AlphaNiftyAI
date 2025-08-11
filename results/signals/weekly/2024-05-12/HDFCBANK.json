@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 11.63,
+  "sharpe_ratio": -1.94,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but its strong fundamentals, including high ROE and profit margin, suggest a robust financial health. The neutral news sentiment and lack of clear directional impact from recent news events also support a hold decision. However, the slightly stretched valuation multiples and high volatility warrant caution."
+}

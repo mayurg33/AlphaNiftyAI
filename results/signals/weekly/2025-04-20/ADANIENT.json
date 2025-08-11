@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 2.37,
+  "sharpe_ratio": -0.01,
+  "reasoning": "The stock's flat weekly performance and low volatility suggest a lack of momentum. While the company has strong profitability and earnings growth, its high debt levels and negative revenue growth are major concerns. The positive news sentiment and macroeconomic environment are offset by the company's fundamental weaknesses, leading to a hold decision."
+}

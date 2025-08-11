@@ -1,0 +1,3 @@
+Based on the current week's news, the sentiment is NEGATIVE. The notable event is that the Sensex snapped its 3-day winning run, ending 362 points down, with Airtel and HDFC Bank being the major drags. This suggests a bearish trend in the market, particularly for these two stocks.
+
+The historical similar news and price impact also suggest a negative tone, with Airtel's revenue market share gains resulting in a -2.56% impact, and Jio becoming No. 1 in home broadband turf resulting in a -0.55% impact. Although there is a neutral impact of -0.17% mentioned, the overall tone of the news is negative, indicating a downward trend for the stock.

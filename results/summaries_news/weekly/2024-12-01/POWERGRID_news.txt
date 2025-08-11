@@ -1,0 +1,20 @@
+**Weekly News Sentiment Summary:**
+
+The overall sentiment of this week's news is **Positive**.
+
+**Notable Events:**
+
+1. KEC International secures a significant turnkey order worth ₹1,704 crore from Power Grid Corporation, which is expected to positively impact the stock.
+2. BHEL and Hitachi Energy India shares rally up to 9% after receiving a work order from Power Grid, indicating a positive sentiment around these stocks.
+
+**Historical Context:**
+
+Based on historical data, when KEC International receives new orders, the stock tends to react positively, with an average impact of +2.92%. Similarly, when BHEL and Hitachi Energy India receive work orders, their shares tend to rally, with an average impact of +1.48% and +2.52%, respectively.
+
+**Stocks to Watch:**
+
+The news article highlights several stocks to watch, including Power Grid, BHEL, HUL, HDFC Life, Zomato, Vi, Adani Energy, and Adani Ports. While the historical context for these stocks is mixed, the overall sentiment around them is neutral to positive.
+
+**Tone:**
+
+The tone of the news is **Positive** for KEC International and BHEL, indicating a potential upside for these stocks. The tone is **Neutral** for the other stocks mentioned, as their historical performance is mixed.

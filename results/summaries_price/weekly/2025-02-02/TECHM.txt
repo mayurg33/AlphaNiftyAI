@@ -1,0 +1,3 @@
+TECHM's weekly performance was disappointing, with a return of -0.45% and a Sharpe Ratio of -0.06, indicating poor risk-adjusted returns. The stock's volatility was high at 21.51%, and it experienced a max drawdown of -2.07%, suggesting a tumultuous week. Compared to its peers, TECHM underperformed, with M&M and KOTAKBANK posting significantly higher returns. Overall, TECHM was a risky bet this week.
+
+[Volatility: 21.51%]

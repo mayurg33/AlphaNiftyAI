@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 21.63,
+  "sharpe_ratio": -0.61,
+  "reasoning": "The stock's poor performance and high volatility are concerns, but the company's strong profitability profile and reasonable valuation suggest it's not a sell. However, the high debt-to-equity ratio and stagnant revenue growth are red flags. The positive news sentiment and macroeconomic environment support a hold decision, but I'm not confident enough to recommend a buy."
+}

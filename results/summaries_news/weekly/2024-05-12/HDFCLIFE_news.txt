@@ -1,0 +1,17 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: Life insurance April premiums look better than what they are. Here’s why**
+
+The news sentiment is **neutral**. The article suggests that life insurance premiums in April may not be as strong as they appear, which could be a cautionary note for investors. Historically, similar news has had a mixed impact on the stock, with one instance showing a positive impact (+0.21%) and two instances showing a negative impact (-1.33% and -1.46%).
+
+**Query 2: Analyst Call Tracker | HDFC Life, HUL see upgrades despite underperforming**
+
+The news sentiment is **positive**. The article reports that analysts have upgraded HDFC Life and HUL despite their underperformance, which could be a positive signal for investors. Historically, similar news has had a mixed impact on the stock, with one instance showing a strong positive impact (+4.03%) and two instances showing a negative impact (-1.33% and -4.47%).
+
+**Notable events:**
+
+* No notable events mentioned in the news articles.
+
+**Overall sentiment:**
+
+The overall sentiment is **neutral to slightly positive**. While one article suggests caution in the life insurance sector, the other article reports positive analyst upgrades for HDFC Life and HUL. Investors should exercise caution and consider other factors before making a decision.

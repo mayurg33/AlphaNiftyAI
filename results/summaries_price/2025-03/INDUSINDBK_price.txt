@@ -1,0 +1,25 @@
+Symbol: INDUSINDBK
+Month: 2025-03
+Start Price: ₹984.00
+End Price: ₹649.85
+12M Return: -33.96%
+6M Return: -33.96%
+3M Return: -33.96%
+Volatility: 1.077
+Sharpe Ratio: -4.726
+Max Drawdown: -0.355
+Peer Correlation (ICICIBANK): -0.3129
+Peer Correlation (AXISBANK): 0.1347
+Peer Correlation (SBIN): 0.0825
+Average Peer Correlation: -0.0319
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+Summary:
+
+IndusInd Bank's stock (INDUSINDBK) has experienced a significant decline in the past year, with a 12-month return of -33.96%. The stock's volatility is relatively high at 1.077, and its Sharpe Ratio is -4.726, indicating poor risk-adjusted performance. The maximum drawdown is -0.355, which suggests that the stock has experienced a substantial decline in value. The average correlation with its peers (ICICIBANK, AXISBANK, and SBIN) is -0.0319, indicating that INDUSINDBK's performance is not strongly aligned with its peers.
+
+Recommendation:
+
+Based on the data, I would suggest a SELL rating for INDUSINDBK. The stock's poor performance over the past year, high volatility, and poor risk-adjusted performance (as indicated by the Sharpe Ratio) suggest that it may not be a good investment opportunity at this time. Additionally, the maximum drawdown indicates that the stock has already experienced a significant decline, and there may be further downside risk. While the peer correlations are not strongly positive or negative, the overall trend and metrics suggest a bearish outlook for INDUSINDBK.

@@ -1,0 +1,7 @@
+**Current Week's News Sentiment:** Negative
+
+**Notable Event:** Infosys receives a tax demand of Rs 341 crore for the assessment year 2020-21.
+
+**News Tone:** Negative
+
+The news tone is negative due to the receipt of a significant tax demand, which may impact the company's profitability. This news is likely to have a negative impact on the stock price. In contrast, the historical similar news events mentioned are mixed, with two positive news events related to the government's payment to Infosys for developing the new income tax portal, and one negative event related to a glitch in the IT portal.

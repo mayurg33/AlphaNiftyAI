@@ -1,0 +1,25 @@
+Symbol: WIPRO
+Month: 2025-05
+Start Price: ₹241.68
+End Price: ₹249.67
+12M Return: 3.31%
+6M Return: 3.31%
+3M Return: 3.31%
+Volatility: 0.284
+Sharpe Ratio: 1.576
+Max Drawdown: -0.044
+Peer Correlation (INFY): 0.9271
+Peer Correlation (TCS): 0.9113
+Peer Correlation (POWERGRID): 0.6781
+Average Peer Correlation: 0.8388
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Wipro's stock has shown a modest increase of 3.31% over the past 12 months, with consistent returns across the 6-month and 3-month periods. The stock's volatility is relatively low at 0.284, and its Sharpe Ratio of 1.576 indicates that the returns have been generated with relatively low risk. The maximum drawdown of -0.044 suggests that the stock has been relatively stable. Correlation analysis with peers reveals a strong positive correlation with INFY and TCS, indicating that Wipro's stock price movement is closely tied to these companies. The average peer correlation is 0.8388, suggesting that Wipro's stock is closely aligned with its peers in the industry.
+
+**Recommendation:**
+
+Based on the analysis, I would suggest a **BUY** recommendation for Wipro's stock. The consistent returns across different time periods, low volatility, and strong Sharpe Ratio indicate that the stock has been generating returns with relatively low risk. The strong positive correlation with peers suggests that Wipro is well-positioned to benefit from industry trends. With a relatively stable stock price and a modest return profile, Wipro's stock appears to be a good investment opportunity.

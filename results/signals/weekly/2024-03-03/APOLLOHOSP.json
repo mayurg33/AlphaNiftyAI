@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 38.38,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's high volatility and negative return make it an unattractive investment option. Additionally, the news sentiment is negative, suggesting potential downward pressure on hospital stocks due to regulatory risks and health risks. Furthermore, the company's high debt-to-equity ratio poses a risk to its financial stability. Although the company has strengths in earnings growth and revenue growth, the rich valuation and negative news sentiment outweigh these positives."
+}

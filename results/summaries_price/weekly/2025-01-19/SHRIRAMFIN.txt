@@ -1,0 +1,3 @@
+SHRIRAMFIN's weekly return of 1.04% outperformed its peers, with a relatively higher Sharpe Ratio of 0.08, indicating a better risk-adjusted performance. However, the stock's volatility of 60.37% was significantly higher than its peers, making it a riskier investment this week. Despite this, SHRIRAMFIN's performance was relatively resilient, with a lower Max Drawdown of -3.71% compared to its peers.
+
+[Volatility: 60.37%]

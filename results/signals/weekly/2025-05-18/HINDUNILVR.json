@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 13.99,
+  "sharpe_ratio": -0.01,
+  "reasoning": "The stock's poor weekly performance and Sharpe Ratio suggest it's not an attractive investment option. However, the company's strong profitability profile and manageable debt-to-equity ratio are positives. The neutral news sentiment and stable macroeconomic environment also don't warrant a strong sell or buy decision. Therefore, a hold decision is recommended."
+}

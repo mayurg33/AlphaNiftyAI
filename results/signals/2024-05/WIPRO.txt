@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The technical analysis suggests a SELL due to negative returns and high volatility, but the fundamental analysis indicates a BUY due to undervaluation and decent profitability. Meanwhile, the news sentiment is mixed, and the macroeconomic environment is generally positive, leading to a neutral HOLD recommendation.

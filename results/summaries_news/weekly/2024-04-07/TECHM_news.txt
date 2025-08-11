@@ -1,0 +1,16 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is **Positive** for Tech Mahindra and **Positive** for the Share Market.
+
+**Notable Events:**
+
+1. **Rebooting Tech Mahindra: New CEO Mohit Joshi takes charge**: This news is a significant positive development for Tech Mahindra, as Mohit Joshi's appointment is expected to bring new leadership and direction to the company.
+2. **Share Market HIGHLIGHTS: Sensex ends 363 pts higher to reclaim 74,000; Nifty tops 22,450 led by financial, metal stocks**: The Indian stock market has shown a strong upward trend, driven by gains in financial and metal stocks, indicating a positive sentiment.
+
+**Historical Context:**
+
+For Tech Mahindra, the historical news sentiment is also positive, with two previous instances of Mohit Joshi's appointment being associated with a positive impact on the stock price (+1.68% and +1.05%). However, there was a negative impact (-2.82%) when Mohit Joshi resigned from Infosys to join Tech Mahindra as CEO.
+
+For the Share Market, the historical news sentiment is mixed, with two previous instances of negative impact (-4.97% and -8.02%) and one instance of positive impact (no specific percentage mentioned).
+
+Overall, the current week's news tone is positive for both Tech Mahindra and the Share Market, indicating a bullish sentiment.

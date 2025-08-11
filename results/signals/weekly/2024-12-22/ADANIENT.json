@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 7,
+  "volatility": 14.94,
+  "sharpe_ratio": -1.81,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate poor risk-adjusted returns. Additionally, the company's high debt-to-equity ratio and slow revenue growth are causes for concern. While the news sentiment is neutral to positive, the historical context suggests that the market's reaction to Adani Group's news can be unpredictable. Therefore, I recommend a sell decision."
+}

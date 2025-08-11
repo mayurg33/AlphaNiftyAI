@@ -1,0 +1,11 @@
+Based on the news articles, the sentiment for TCS (Tata Consultancy Services) is NEUTRAL to NEGATIVE.
+
+The current week's news revolves around the TCS CEO's warning that AI could kill call centers in a year, which might have a negative impact on the company's business. This news tone is negative, as it implies a potential disruption to the call center industry, which could affect TCS's clients and revenue.
+
+Notable events from the historical news include:
+
+* Telcos deploying AI to enhance customer experience, which had a negative impact (-2.90%) on the stock.
+* TCS's plans to end work-from-home and return to offices, which had a positive impact (+1.62% and +1.64%) on the stock.
+* TCS's plans to disrupt the global consulting business, which had a negative impact (-3.83%) on the stock.
+
+Overall, the news tone is leaning towards being negative, as the current warning on AI's potential impact on call centers might raise concerns about the company's future growth and revenue.

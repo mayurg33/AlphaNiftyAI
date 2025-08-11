@@ -1,0 +1,9 @@
+Based on the provided historical news data, here's a summary of the current week's news sentiment:
+
+**Sentiment:** Neutral to Positive
+
+**Notable Events:** The news is primarily focused on the stock market, with a query about whether the BSE Sensex and Nifty50 are closed for Eid-al-Adha (Bakri Eid). There are no significant negative events or news that could impact the stock market negatively.
+
+**Tone:** The tone of the news is neutral to positive, with a slight bias towards positivity. The historical news data shows that the impact of the news on the stock market has been mostly positive, with only one instance of a negative impact (-2.29%). The other two instances show a positive impact (+0.70% and +0.87%), indicating that the overall tone of the news is leaning towards positivity.
+
+It's worth noting that the news is more focused on providing information about the stock market's operational status during a holiday rather than reporting any significant events or developments that could impact the market.

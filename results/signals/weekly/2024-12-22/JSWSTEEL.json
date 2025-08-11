@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 10.41,
+  "sharpe_ratio": -2.89,
+  "reasoning": "The stock has underperformed its peers with a -7.37% return, and its Sharpe Ratio indicates poor risk-adjusted performance. The company's financial health is fragile, with high debt levels and a rich valuation. Additionally, the news sentiment is neutral to positive, but the historical context suggests that the impact of the news may be limited, making it a sell decision."
+}

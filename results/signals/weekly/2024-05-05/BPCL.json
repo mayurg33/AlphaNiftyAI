@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 53.85,
+  "sharpe_ratio": 0.19,
+  "reasoning": "The stock's high volatility and low Sharpe Ratio indicate that the returns are not justified by the level of risk taken. Although the company's valuation is relatively attractive and it has a high dividend yield, its financial health is mixed with declining revenue and earnings growth, and high leverage. The macroeconomic environment is generally positive, but it's not strong enough to outweigh the company's weaknesses, so I'm recommending a HOLD."
+}

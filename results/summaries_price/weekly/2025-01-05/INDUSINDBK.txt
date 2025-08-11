@@ -1,0 +1,3 @@
+INDUSINDBK had a strong weekly performance, returning 3.57% and outperforming its peers ICICIBANK, AXISBANK, and SBIN. The stock's Sharpe Ratio of 0.82 indicates a relatively high return per unit of risk taken. Despite a moderate Max Drawdown of -0.35%, the stock's volatility was relatively high at 17.09%. Overall, INDUSINDBK was a top performer among its peers this week, but investors should be aware of the elevated risk.
+
+[Volatility: 17.09%]

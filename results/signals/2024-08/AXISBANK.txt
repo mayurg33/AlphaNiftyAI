@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's stagnant performance, moderate volatility, and limited upside potential, combined with its reasonable valuation, strong profit margin, and good market capitalization, warrant a HOLD rating. Additionally, the neutral news sentiment and stable macroeconomic environment do not justify a BUY or SELL signal at this point.

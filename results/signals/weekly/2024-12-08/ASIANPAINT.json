@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 4.47,
+  "sharpe_ratio": -1.78,
+  "reasoning": "The stock's poor weekly performance, negative revenue and earnings growth rates, and high valuation multiples are major concerns. Additionally, the news sentiment is neutral to negative, and historical analysis suggests a potential negative impact on the stock price. Despite the company's financial health and low debt-to-equity ratio, the overall outlook is bearish, making it an unattractive investment option."
+}

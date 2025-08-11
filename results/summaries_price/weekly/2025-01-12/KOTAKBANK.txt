@@ -1,0 +1,3 @@
+KOTAKBANK's weekly performance was disappointing, with a return of -1.32%, underperforming its peers M&M and TECHM. The stock's volatility was relatively high at 20.26%, indicating a riskier investment environment. Compared to its peers, KOTAKBANK's Sharpe Ratio was in line with ICICIBANK, but lagged behind TECHM. Overall, the stock's performance was lackluster, and investors may want to exercise caution due to its elevated volatility.
+
+[Volatility: 20.26%]

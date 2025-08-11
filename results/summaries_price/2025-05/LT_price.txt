@@ -1,0 +1,25 @@
+Symbol: LT
+Month: 2025-05
+Start Price: ₹3304.08
+End Price: ₹3641.14
+12M Return: 10.20%
+6M Return: 10.20%
+3M Return: 10.20%
+Volatility: 0.213
+Sharpe Ratio: 5.866
+Max Drawdown: -0.018
+Peer Correlation (RELIANCE): 0.5257
+Peer Correlation (ULTRACEMCO): 0.3423
+Peer Correlation (ONGC): 0.6288
+Average Peer Correlation: 0.4989
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Larsen & Toubro (LT) has demonstrated impressive returns over the past 12 months, with a return of 10.20%. The stock's volatility is relatively low at 0.213, indicating a stable performance. The Sharpe Ratio of 5.866 suggests that the returns have been generated with minimal risk. The Max Drawdown of -0.018 indicates that the stock has been resilient to market downturns. Correlation analysis reveals that LT has a moderate to high correlation with its peers, particularly ONGC, indicating that it moves in line with the broader industry trends.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **BUY**. The stock's strong returns, low volatility, and high Sharpe Ratio indicate that it has been generating returns with minimal risk. The Max Drawdown suggests that the stock is resilient to market downturns, making it an attractive investment opportunity. Additionally, the moderate to high correlation with its peers suggests that LT is well-positioned to benefit from industry trends. Overall, LT appears to be a strong performer, and investors may consider adding it to their portfolio.

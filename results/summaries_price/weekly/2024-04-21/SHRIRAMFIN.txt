@@ -1,0 +1,3 @@
+SHRIRAMFIN underperformed its peers this week, with a weekly return of -1.99% compared to BAJFINANCE's 0.61% and M&M's 1.43%. The stock's volatility was relatively low at 8.15%, but its Sharpe Ratio of -1.30 indicates a poor risk-adjusted return. The Max Drawdown of -1.99% suggests that the stock was moderately risky this week.
+
+[Volatility: 8.15%]

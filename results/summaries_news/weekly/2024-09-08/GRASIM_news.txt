@@ -1,0 +1,11 @@
+**Weekly News Sentiment:** Negative
+
+**Notable Events:**
+
+* The Sensex and Nifty experienced a decline, with the Sensex shedding 203 points and the Nifty ending below 25,200.
+* Banks and IT stocks were the major drags on the market.
+* Asian Paints, Grasim Industries, Wipro, and Coal India were among the most active stocks.
+
+**News Tone:** The overall tone of the news is negative, indicating a bearish sentiment in the market. The decline in the Sensex and Nifty, along with the poor performance of banks and IT stocks, contributes to this negative tone. The historical data also suggests a negative impact on the stock market, with most of the similar news events resulting in a decline in the market.
+
+The only positive news tone is seen in the first query, where the mention of top gainers and losers is accompanied by a historical impact of +10.30%. However, this is outweighed by the negative tone of the other two queries, which suggest a decline in the market. Overall, the news sentiment for the current week is negative.

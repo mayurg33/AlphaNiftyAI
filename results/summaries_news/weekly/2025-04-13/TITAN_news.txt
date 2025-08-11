@@ -1,0 +1,13 @@
+**Summary of Current Week's News Sentiment:**
+
+The overall sentiment of the news articles this week is **POSITIVE** for Titan Company's stock. The news tone is upbeat, with most articles reporting a surge in Titan's shares following a strong Q4 update. The company's revenue growth of 25% YoY, driven by jewellery, watches, and eyewear segments, has been well-received by the market.
+
+**Notable Events:**
+
+* Titan Company's Q4 update revealed a 25% YoY revenue growth, driven by strong performance in jewellery, watches, and eyewear segments.
+* The company's store count has also seen a significant increase.
+* Elevated gold prices have aided the company's growth.
+
+**Positive News Tone:**
+
+Most articles have a positive tone, highlighting Titan's strong Q4 performance, revenue growth, and increase in store count. The news tone is optimistic, with many articles expecting the company's stock to continue its upward trend. The positive sentiment is reflected in the impact values, which are mostly positive, ranging from +0.46% to +9.18%.

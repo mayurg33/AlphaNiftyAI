@@ -1,0 +1,11 @@
+The current week's news sentiment for Infosys is predominantly negative. Notable events include the company's Q3 results, which saw a profit increase of 11% but a decline in ADRs, and the stock price plunging, resulting in a dip in Narayana Murthy's family wealth.
+
+The news tone is largely negative, with 6 out of 9 news articles having a negative impact on the stock. The negative news articles highlight concerns such as the decline in ADRs, the plunge in stock price, and factors worrying investors. The positive news articles, on the other hand, focus on the company's growth and profit increase.
+
+Some notable events that contributed to the negative sentiment include:
+
+* Infosys' ADRs down 1% in pre-market trading, despite a profit increase of 11%
+* Stock price plunging, resulting in a dip in Narayana Murthy's family wealth
+* Factors worrying investors, such as the company's dependence on H1-B visas and concerns over the IT sector
+
+Overall, the news tone is negative, indicating that investors are cautious about the company's prospects, despite its profit increase.

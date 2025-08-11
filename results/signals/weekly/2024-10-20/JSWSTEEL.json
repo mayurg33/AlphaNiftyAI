@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 19.37,
+  "sharpe_ratio": -0.40,
+  "reasoning": "The stock's poor risk-adjusted returns and high volatility are concerns. However, the company's decent EBITDA margins and gross margins suggest some operational strength. The rich valuation and high debt-to-equity ratio are significant concerns, but the neutral to mixed news sentiment and stable macroeconomic environment suggest holding the stock for now."
+}

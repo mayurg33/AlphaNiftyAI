@@ -1,0 +1,15 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Mixed
+
+**Notable Events:**
+
+1. InCred expects HDFC Bank shares to reach Rs 2,000, indicating a positive outlook.
+2. Ashv Finance partners with HDFC Bank for co-lending MSME loans, which could be a positive development for the bank.
+3. Nifty Bank crashes by 5,000 points, with HDFC Bank falling up to 20%, which is a significant negative event.
+
+**Tone:**
+
+The overall tone of the news is mixed. The first two news items have a positive tone, indicating potential growth and expansion opportunities for HDFC Bank. However, the third news item has a strongly negative tone, suggesting a significant decline in the bank's stock price.
+
+Based on the historical data, the positive news items may have a moderate positive impact on the stock price (around 2-3%), while the negative news item may have a more significant negative impact (around -5 to -10%). Overall, the net impact of the news on the stock price is likely to be negative.

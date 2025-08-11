@@ -1,0 +1,3 @@
+BAJAJ-AUTO had a stellar weekly performance, returning 8.2% and outperforming its peers. The stock's volatility was relatively high at 26.31%, but its Sharpe Ratio of 1.21 indicates that the returns were achieved with a relatively low level of risk. Compared to its peers, BAJAJ-AUTO significantly outperformed BAJFINANCE, BAJAJFINSV, and MARUTI, making it a top performer in its group. Overall, the stock's performance was impressive, but investors should be aware of the elevated volatility.
+
+[Volatility: 26.31%]

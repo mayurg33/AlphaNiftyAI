@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 40.26,
+  "sharpe_ratio": 0.39,
+  "reasoning": "The stock has a strong weekly performance, but its high volatility and stretched valuation are concerns. The company's financial health is good, but the high debt-to-equity ratio is a red flag. The negative news sentiment and ongoing Israel-Iran conflict also weigh on the stock. Given these mixed signals, I recommend a HOLD decision for now."
+}

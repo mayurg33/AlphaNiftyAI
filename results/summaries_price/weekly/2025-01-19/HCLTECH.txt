@@ -1,0 +1,3 @@
+HCLTECH's weekly performance was dismal, with a return of -10.08% and a max drawdown of the same magnitude, indicating a sharp decline in its stock price. The stock's volatility was high at 68.6%, making it a risky investment this week. In comparison to its peers, HCLTECH significantly underperformed, with HDFCLIFE and HINDALCO posting positive returns. The stock's Sharpe ratio of -0.59 further highlights its poor risk-adjusted performance.
+
+[Volatility: 68.6%]

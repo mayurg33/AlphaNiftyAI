@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 4.61,
+  "sharpe_ratio": -1.91,
+  "reasoning": "The stock's poor weekly performance, with a return of -1.66% and a Sharpe Ratio of -1.91, indicates poor risk-adjusted returns. Additionally, the high debt-to-equity ratio of 90.89 poses a risk to the company's financial stability. Although the company's Q4 results were strong, the rich valuation with a trailing P/E of 69.43 and forward P/E of 85.86 makes it an unattractive investment option."
+}

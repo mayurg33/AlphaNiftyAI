@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 46.48,
+  "sharpe_ratio": -0.62,
+  "reasoning": "The stock's high volatility and poor risk-adjusted returns make it a cautionary investment. The fundamentals are mixed, with low profitability and high debt, but decent operational efficiency. The news sentiment is neutral to negative, and the macroeconomic environment is supportive, but not strong enough to overcome the stock's weaknesses. Therefore, I recommend a hold decision."
+}

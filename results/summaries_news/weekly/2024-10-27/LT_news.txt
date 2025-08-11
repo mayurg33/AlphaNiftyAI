@@ -1,0 +1,15 @@
+Based on the current week's news, here is a summary of the sentiment:
+
+**Bluechip stock in focus after receiving order worth over ₹1,000 Cr for nuclear project**
+
+The sentiment around this news is **Positive**. The news is focused on a specific bluechip stock receiving a large order, which is a positive development. Historical data suggests that similar news has led to a positive impact on the stock price, with an average impact of +1.27%.
+
+**L&T shares fall 2% as UBS downgrades to 'neutral' citing near term hurdles**
+
+The sentiment around this news is **Negative**. The news is focused on a downgrade by UBS, which is a negative development. Historical data suggests that similar news has led to a mixed impact on the stock price, with an average impact of -0.42%. However, in this specific case, the news has led to a 2% fall in L&T shares, indicating a negative tone.
+
+**Afcons Infrastructure IPO Opens Today. Is This the Next L&T in the Making?**
+
+The sentiment around this news is **Neutral**. The news is focused on an IPO opening, which is a neutral event. Historical data suggests that similar news has led to a mixed impact on the stock price, with an average impact of +2.26%. However, the comparison to L&T in the making suggests a positive tone, but it's not a clear indication of the stock's performance.
+
+Overall, the news tone for the week is **Mixed**, with one positive news, one negative news, and one neutral news. The positive news is focused on a specific bluechip stock, while the negative news is focused on L&T's downgrade. The neutral news is focused on an IPO opening, which may have a mixed impact on the stock price.

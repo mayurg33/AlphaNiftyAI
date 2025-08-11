@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the stock's fundamentals appear strong, with a low forward PE ratio and decent profitability, the technicals suggest a high risk profile with a negative Sharpe Ratio and moderate volatility. Additionally, the macroeconomic environment is supportive of growth, but the news sentiment is neutral, indicating uncertainty.

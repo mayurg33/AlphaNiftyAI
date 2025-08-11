@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's consistent downward trend, negative returns, and high risk (as indicated by the Sharpe Ratio and Max Drawdown) suggest a poor investment opportunity. Additionally, the moderate to high correlation with its peers and negative news sentiment around the company's weak Q2 results and high debt levels further support a SELL decision. The macroeconomic environment, although showing some positive signs, is not strong enough to outweigh the company's fundamental weaknesses."
+}

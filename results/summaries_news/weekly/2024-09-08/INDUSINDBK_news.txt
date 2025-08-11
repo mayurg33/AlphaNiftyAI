@@ -1,0 +1,14 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is **Positive**.
+
+**Notable Events:**
+
+1. The stock market has reached a record close, with Sensex topping 82,550 and Nifty near 25,300, indicating a bullish trend.
+2. A manager and cashier of IndusInd Bank were held for siphoning off Rs 13.5cr from NHAI account, which may have a negative impact on the bank's stock.
+
+**News Tone:**
+
+The news tone is **Positive** for the stock market as a whole, driven by the record close of the Sensex and Nifty. However, the news tone is **Negative** for IndusInd Bank specifically, due to the involvement of its employees in a fraud case.
+
+Historical data suggests that similar news related to the stock market's performance has had a positive impact on the market, with an average impact of +2.51%. On the other hand, news related to IndusInd Bank has had a mixed impact, with an average impact of +2.67%. However, the current news about the fraud case may have a negative impact on the bank's stock.

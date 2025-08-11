@@ -1,0 +1,3 @@
+APOLLOHOSP demonstrated a strong weekly performance with a return of 6.65%, significantly outperforming its peers. The stock's volatility was high at 51.79%, indicating a risky investment. Despite this, its Sharpe Ratio of 0.51 suggests that the returns were somewhat justified by the level of risk taken. Compared to its peers, APOLLOHOSP was the clear winner this week, with a substantial margin of outperformance.
+
+[Volatility: 51.79%]

@@ -1,0 +1,7 @@
+Based on the historical news data, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Events:** Motilal Oswal, a prominent brokerage firm, has expressed its top choice between ICICI Bank and Axis Bank, indicating a positive outlook for ICICI Bank.
+
+**News Tone:** The news tone is generally positive, with a slight neutral tone. The historical data shows that Motilal Oswal's positive views on ICICI Bank have led to a mixed impact on the stock price, with one instance showing a negative impact (-0.90%) and another showing a positive impact (+3.36%). However, the overall tone suggests that ICICI Bank is a preferred choice, which could lead to a positive sentiment around the stock.

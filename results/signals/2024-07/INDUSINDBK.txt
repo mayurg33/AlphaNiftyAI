@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's poor price trends and technicals, combined with mixed news sentiment, outweigh the positive fundamentals and favorable macroeconomic environment, leading to a neutral outlook.

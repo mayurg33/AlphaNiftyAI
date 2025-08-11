@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor price trend, high volatility, and extremely low Sharpe Ratio indicate a high-risk investment, while the fundamentals, although decent, are not strong enough to justify holding onto the stock, and the macroeconomic environment, although supportive of certain sectors, does not seem to be benefiting LTIM specifically.

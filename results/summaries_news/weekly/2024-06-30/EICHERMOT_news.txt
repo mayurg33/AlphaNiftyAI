@@ -1,0 +1,18 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is **NEUTRAL**.
+
+**Notable Events:**
+
+1. Analysts share top auto stock ideas ahead of June sales data, featuring Tata Motors, Maruti Suzuki India, and M&M.
+2. Jefferies recommends 26 bottom-up picks for June, including ICICI Bank, SBI, L&T, Bharti, and ONGC.
+
+**News Tone:**
+
+The news tone is neutral, as the sentiment is mixed based on historical similar news and price impact.
+
+For the auto stock news, the historical impact is mixed, with two negative impacts (-10.03% and -7.47%) and one positive impact (+4.93%). This suggests that the market reaction to auto stock news is unpredictable.
+
+For the Jefferies' stock picks news, the historical impact is also mixed, with two negative impacts (-2.51% and -2.19%) and one positive impact (+7.80%). This indicates that the market reaction to Jefferies' recommendations is not consistently positive or negative.
+
+Overall, the news tone is neutral, as the market is likely to react based on the specific details of the news and the prevailing market conditions.

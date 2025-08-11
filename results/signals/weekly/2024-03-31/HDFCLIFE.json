@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 13.53,
+  "sharpe_ratio": 0.60,
+  "reasoning": "The stock's high volatility and lackluster performance make it a relatively risky investment. Additionally, the company's valuation appears to be stretched, and the revenue growth rate is a concern. Although the company's profitability and return on equity are strengths, the negative news sentiment and potential impact of the GST demand order and rejected insurance claim outweigh the positives, leading me to recommend a sell."
+}

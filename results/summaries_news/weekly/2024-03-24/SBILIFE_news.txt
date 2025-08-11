@@ -1,0 +1,16 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is **NEUTRAL**.
+
+**Notable Events:**
+
+1. **Best Insurance Stock: LIC vs HDFC Life**: The article compares the two insurance giants, sparking interest in the insurance sector.
+2. **India's oldest ELSS mutual fund outperforms benchmarks**: The article highlights the fund's consistent performance, attracting attention to the mutual fund industry.
+
+**Sentiment Analysis:**
+
+The news tone is neutral, as the articles present a balanced view of the insurance and mutual fund sectors. While the comparison between LIC and HDFC Life might lead to some volatility, the overall sentiment remains neutral. The article on the outperforming ELSS mutual fund is informative and does not convey a strong positive or negative sentiment.
+
+**Historical Context:**
+
+Based on historical data, the news tone for insurance-related stocks (LIC and HDFC Life) has been mostly negative, with an average impact of -3.08%. In contrast, the news tone for mutual fund-related stocks has been mixed, with an average impact of +0.63%.

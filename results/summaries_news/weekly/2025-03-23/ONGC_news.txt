@@ -1,0 +1,12 @@
+**Weekly News Sentiment: Neutral to Negative**
+
+The current week's news sentiment is neutral to negative for ONGC. Two news articles were published, one related to a GST demand notice and the other related to the Oilfields Amendment Bill.
+
+**Notable Events:**
+
+1. ONGC receives a ₹22 crore GST demand notice and plans to appeal. Historical data suggests that similar news has had a negative impact on stock prices, with an average impact of -0.15%.
+2. The Oilfields Amendment Bill takes effect, exempting oil and gas firms from windfall tax. Historical data indicates that news related to windfall tax has had a positive impact on ONGC's stock price, with an average impact of +3.20%.
+
+**News Tone:**
+
+The news tone is neutral to negative due to the GST demand notice, which may have a negative impact on ONGC's stock price. However, the exemption from windfall tax is a positive development, which could offset the negative impact. Overall, the news tone is neutral to negative, indicating a potential short-term volatility in ONGC's stock price.

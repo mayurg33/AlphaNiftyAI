@@ -1,0 +1,3 @@
+TCS had a strong weekly performance, with a return of 4.78%, outperforming its peers. The stock's volatility was high at 59.29%, indicating significant price fluctuations. Despite the high volatility, TCS's Sharpe Ratio of 0.33 suggests that the returns were somewhat justified by the risk taken. Compared to its peers, TCS outperformed TATACONSUM and TATAMOTORS, but had a higher volatility than all three peers. Overall, TCS was a relatively risky stock this week.
+
+[Volatility: 59.29%]

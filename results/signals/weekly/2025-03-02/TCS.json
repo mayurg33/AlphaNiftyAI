@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 25.68,
+  "sharpe_ratio": -1.09,
+  "reasoning": "The stock has underperformed its peers with a weekly return of -5.23% and high volatility. The negative news sentiment and bearish outlook towards the IT sector, particularly for TCS, suggest a downward trend. Additionally, the company's growth metrics are a concern, which may impact its future performance. Therefore, it's a good time to sell the stock."
+}

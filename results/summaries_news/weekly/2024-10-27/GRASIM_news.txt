@@ -1,0 +1,16 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News 1: AkzoNobel considers stake sale or partnership for Dulux, hints at Grasim, Asian Paints as key players**
+
+The news tone is NEUTRAL for Asian Paints and Grasim. The historical data suggests that news related to Asian Paints and Grasim has had both positive and negative impacts on the stock price in the past. The current news is neutral as it only hints at Grasim and Asian Paints as key players, without providing any specific details about the potential partnership or stake sale.
+
+**News 2: Stock market today: Nifty 50, Sensex drop on profit booking, mid and smallcaps bleed**
+
+The news tone is NEGATIVE for the overall market. The historical data suggests that similar news about the stock market has had a negative impact on the indices in the past. The current news is negative as it reports a drop in the Nifty 50 and Sensex due to profit booking, which may lead to a decline in investor sentiment.
+
+Notable events:
+
+* AkzoNobel's consideration of a stake sale or partnership for Dulux may lead to significant changes in the paint industry.
+* The stock market's decline due to profit booking may lead to a correction in the indices.
+
+Overall, the news tone is mixed, with a neutral tone for Asian Paints and Grasim, and a negative tone for the overall market.

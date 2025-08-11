@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's underperformance and negative Sharpe Ratio suggest caution, while its relatively healthy profitability metrics and undervaluation indicate potential for future growth. Additionally, the macroeconomic environment, with a stable inflation rate and growing services sector, supports a neutral outlook.

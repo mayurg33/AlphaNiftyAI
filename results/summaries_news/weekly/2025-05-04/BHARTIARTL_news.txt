@@ -1,0 +1,21 @@
+Based on the historical similar news and price impact, here's a summary of the current week's news sentiment:
+
+**Nifty 50 Top Gainers: Tata Steel, Jio Financial, Bharti Airtel Shares Lead With Modest Gains**
+
+The news tone is NEUTRAL to POSITIVE for the stock. The historical data suggests that when Tata Steel and Bharti Airtel are mentioned together, the impact is mostly negative (-4.47% and -4.78%). However, there is one instance where the impact was positive (+0.41%). The current news headline suggests "modest gains," which implies a neutral to positive tone.
+
+**Bharti Airtel Ltd Partly Paidup leads losers in 'A' group**
+
+The news tone is NEGATIVE for the stock. The historical data suggests that when Bharti Airtel is mentioned as a loser, the impact is mostly negative (-4.52%). There is one instance where the impact was positive (+1.73%), but the current news headline implies a negative tone.
+
+**Top stocks to buy: Stock recommendations for the week starting May 19, 2025**
+
+The news tone is POSITIVE for the stock. The historical data suggests that when top stock recommendations are made, the impact is mostly positive (+2.46% and +4.18%). There is one instance where the impact was negative (-1.81%), but the current news headline implies a positive tone.
+
+Notable events for the week:
+
+* Tata Steel and Bharti Airtel are among the top gainers in the Nifty 50 index.
+* Bharti Airtel Ltd Partly Paidup is leading the losers in the 'A' group.
+* Top stock recommendations are being made for the week starting May 19, 2025.
+
+Overall, the news tone is mixed, with a neutral to positive tone for Tata Steel and Jio Financial, a negative tone for Bharti Airtel Ltd Partly Paidup, and a positive tone for the top stock recommendations.

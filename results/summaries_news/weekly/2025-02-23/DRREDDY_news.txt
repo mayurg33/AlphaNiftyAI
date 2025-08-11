@@ -1,0 +1,16 @@
+Based on the current week's news, here is a summary of the sentiment:
+
+**Vedanta, Dr Reddys Labs, Cyient: How to trade these three buzzing stocks**
+
+The news tone is **Positive**. The article provides trading advice for these three stocks, which suggests that they are considered promising investments. The historical similar news and price impact also show a positive trend, with an average impact of +1.37%.
+
+**Lupin, Dr Reddy's, other pharma stocks fall on Trump's 25% tariff plans**
+
+The news tone is **Negative**. The article reports that pharma stocks, including Lupin and Dr Reddy's, are falling due to Trump's 25% tariff plans. The historical similar news and price impact also show a negative trend, with an average impact of -1.23%.
+
+Notable events:
+
+* Trump's 25% tariff plans are a significant concern for pharma stocks.
+* Trading advice is being offered for Vedanta, Dr Reddys Labs, and Cyient, indicating their potential as promising investments.
+
+Overall, the news tone is mixed, with one article having a positive tone and the other having a negative tone.

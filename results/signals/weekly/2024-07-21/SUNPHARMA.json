@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 20.28,
+  "sharpe_ratio": -0.29,
+  "reasoning": "The stock's poor risk-adjusted returns, high debt-to-equity ratio, and stretched valuation are major concerns. The negative news sentiment and historical impact of similar news on the stock price also suggest a downward trend. Furthermore, the macroeconomic environment, although positive, may not be enough to offset the company's internal issues."
+}

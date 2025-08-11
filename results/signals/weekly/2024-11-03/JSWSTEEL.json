@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 11.06,
+  "sharpe_ratio": 0.04,
+  "reasoning": "The stock's lackluster weekly performance and underperformance compared to its peers are concerns. However, its relatively low volatility and Max Drawdown of -1.03% indicate a lower risk profile. The company's financial health is fragile, with high leverage and rich valuation, but the forward P/E suggests potential for improvement. Overall, I'm neutral on the stock, and a hold decision is warranted."
+}

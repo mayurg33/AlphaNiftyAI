@@ -1,0 +1,3 @@
+TCS's weekly performance was disappointing, with a return of -0.96%, indicating a decline in stock value. The stock's volatility was moderate at 14.67%, which is relatively lower compared to its peers. In comparison to its peers, TCS underperformed TATAMOTORS and TATASTEEL, but outperformed TATACONSUM. The stock's risk profile was moderate, with a Sharpe Ratio of -0.26 and a Max Drawdown of -1.89%.
+
+[Volatility: 14.67%]

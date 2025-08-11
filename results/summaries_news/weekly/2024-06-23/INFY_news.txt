@@ -1,0 +1,8 @@
+Based on the current week's news, the sentiment is NEUTRAL to NEGATIVE for the stock.
+
+Notable events:
+
+1. Infosys McCamish reports its first revenue decline in eight years, which is a significant negative event.
+2. Accenture's narrow growth guidance suggests a cautious outlook for the industry, which may impact TCS, Infosys, Wipro, and HCL Tech shares.
+
+The news tone is neutral to negative because the revenue decline of Infosys McCamish is a significant negative event, while the Accenture's guidance is cautious, which may impact the industry as a whole. However, it's worth noting that the historical data suggests that Accenture's positive cues in the past have had a positive impact on TCS and Infosys shares.

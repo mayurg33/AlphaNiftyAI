@@ -1,0 +1,13 @@
+The current week's news sentiment is NEGATIVE for Hero MotoCorp's stock. Both news headlines report a 17% drop in December sales, leading to a 3% slide in the company's share price. This news is likely to have a negative impact on investor sentiment.
+
+Notable events:
+
+* Hero MotoCorp's December sales dropped by 17%, which is a significant decline.
+* The company's share price fell by 3% as a result of this news.
+
+Historical context:
+
+* In the past, similar news of declining sales has had a negative impact on Hero MotoCorp's stock price, with the exception of one instance in 2021 where the stock price rose despite a 13% decline in sales.
+* The average impact of similar news in the past has been a decline of around 2-3% in the stock price.
+
+Overall, the news tone is NEGATIVE for Hero MotoCorp's stock, and investors may expect further decline in the stock price in the short term.

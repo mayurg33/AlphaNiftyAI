@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's flat performance and moderate volatility suggest a neutral outlook, while the company's weak fundamentals and declining growth prospects are offset by the neutral news sentiment and supportive macroeconomic environment, leading to a HOLD recommendation.

@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 42.83,
+  "sharpe_ratio": -0.38,
+  "reasoning": "The stock's poor weekly performance with a return of -4.13% and a Sharpe Ratio of -0.38 indicates poor risk-adjusted returns. The high volatility of 42.83% makes it a risky investment. Additionally, the company's high valuation with a trailing P/E of 92.38 and forward P/E of 123.76 suggests it may be overvalued. The negative revenue growth is also a concern, leading me to recommend a SELL decision."
+}

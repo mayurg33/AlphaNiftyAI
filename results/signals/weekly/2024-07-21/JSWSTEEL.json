@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 41.48,
+  "sharpe_ratio": -0.58,
+  "reasoning": "The stock's weekly performance was disappointing with a return of -4.53% and a Sharpe Ratio of -0.58, indicating poor risk-adjusted returns. The news sentiment is predominantly negative due to disappointing Q1 results, which may put pressure on the stock in the short term. Although the company's financial health is strong, its high debt-to-equity ratio and negative revenue growth are concerns. Overall, the stock's high volatility and poor performance make it a sell."
+}

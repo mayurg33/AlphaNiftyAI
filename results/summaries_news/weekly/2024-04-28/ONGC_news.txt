@@ -1,0 +1,18 @@
+Here is a summary of the current week's news sentiment:
+
+**Overall Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+1. India's crude oil consumption has increased by 4.6% in FY24, which is a positive sign for the energy sector.
+2. The Sensex has gained 486 points, and PSU bank stocks have performed well, indicating a positive trend in the market.
+3. India has inaugurated its pavilion at the World Energy Congress 2024, highlighting its focus on clean energy.
+4. Gujarat State Petronet shares have hit a 20% lower circuit due to brokerage target cuts, which is a negative event.
+
+**News Tone:**
+
+* For the energy sector, the news tone is positive, with India's crude oil consumption increasing and the country's focus on clean energy.
+* For the market, the news tone is positive, with the Sensex gaining points and PSU bank stocks performing well.
+* For Gujarat State Petronet, the news tone is negative, with shares hitting a lower circuit due to brokerage target cuts.
+
+Based on the historical similar news and price impact, we can see that the news tone has a mixed impact on the stock prices. However, the overall sentiment for the current week is neutral to positive, with more positive events outweighing the negative ones.

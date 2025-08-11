@@ -1,0 +1,25 @@
+Symbol: ULTRACEMCO
+Month: 2024-05
+Start Price: ₹9924.59
+End Price: ₹9857.04
+12M Return: -0.68%
+6M Return: -0.68%
+3M Return: -0.68%
+Volatility: 0.197
+Sharpe Ratio: -0.342
+Max Drawdown: -0.054
+Peer Correlation (GRASIM): 0.3568
+Peer Correlation (HEROMOTOCO): 0.1685
+Peer Correlation (LT): 0.5199
+Average Peer Correlation: 0.3484
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+ULTRACEMCO has underperformed in the past 12 months, with a negative return of -0.68%. The stock has also been experiencing high volatility, with a standard deviation of 0.197. The Sharpe Ratio, a measure of risk-adjusted return, is negative, indicating that the stock's return is not justified by its level of risk. The Max Drawdown of -0.054 suggests that the stock has experienced a moderate decline in value. In terms of peer correlation, ULTRACEMCO has a moderate correlation with GRASIM and LT, but a low correlation with HEROMOTOCO.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **SELL**. The stock's negative returns over various time horizons, high volatility, and poor risk-adjusted performance suggest that it may not be a desirable investment at this time. Additionally, the Max Drawdown indicates that the stock has already experienced a significant decline in value, which may not have fully recovered. While the peer correlations suggest that ULTRACEMCO is not highly correlated with its peers, the overall negative sentiment and poor performance metrics outweigh any potential benefits.

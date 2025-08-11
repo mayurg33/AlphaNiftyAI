@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 17.83,
+  "sharpe_ratio": 0,
+  "reasoning": "INFY's weekly performance was relatively stable, and its Sharpe Ratio is better than its peers, indicating a slightly more favorable risk-return profile. However, the company's growth metrics are a concern, with negative earnings growth and slow revenue growth. The macroeconomic environment is generally positive, but the news sentiment is neutral to negative, which tempers my enthusiasm. Overall, I recommend a HOLD decision, as the stock's strengths in profitability are offset by its weaknesses in growth metrics and the uncertain news sentiment."
+}

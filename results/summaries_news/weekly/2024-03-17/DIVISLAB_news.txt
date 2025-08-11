@@ -1,0 +1,16 @@
+**Weekly News Sentiment Summary**
+
+This week's news sentiment is mixed, with one positive news and one neutral/negative news.
+
+**Notable Events:**
+
+1. **AstraZeneca Pharma, Mankind Pharma partner to accelerate access to asthma medicine**: This news is likely to have a positive impact on the stock, as it indicates a partnership that can increase access to asthma medication, potentially leading to increased sales and revenue.
+2. **Electoral bonds data: FM says party funding system needs transparency**: This news has a neutral/negative tone, as it highlights the need for transparency in party funding, which may lead to increased scrutiny and potential changes to the electoral bond system.
+
+**News Tone:**
+
+The overall news tone is neutral, with one positive news and one neutral/negative news. The partnership between AstraZeneca Pharma and Mankind Pharma is a positive development, while the news on electoral bonds data is neutral/negative due to the potential for increased scrutiny and changes to the system.
+
+**Historical Price Impact:**
+
+Based on historical data, the price impact of similar news events is mixed. The partnership news may have a positive impact, similar to the 2022-06-20 event (+5.75%). The electoral bonds data news may have a negative impact, similar to the 2022-11-09 event (-12.74%). However, the actual price impact will depend on various factors, including market conditions and investor sentiment.

@@ -1,0 +1,3 @@
+DRREDDY's weekly performance was moderate, with a return of 1.81%, outperforming SUNPHARMA and HINDUNILVR, but underperforming DIVISLAB. The stock's volatility was relatively high at 21.36%, indicating a riskier investment. The Sharpe Ratio of 0.34 suggests that the return was not entirely justified by the level of risk taken. Overall, DRREDDY's performance was decent, but investors should be cautious due to its high volatility.
+
+[Volatility: 21.36%]

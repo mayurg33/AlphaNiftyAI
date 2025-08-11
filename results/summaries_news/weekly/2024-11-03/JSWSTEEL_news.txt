@@ -1,0 +1,11 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+* The news article discusses how to trade SBI, JSW Steel, and TVS Motor, which are buzzing large-cap stocks.
+* There is no strong bearish or bullish sentiment in the news, indicating a neutral tone.
+* However, the historical data suggests that similar news in the past has had a positive impact on the stocks, with an average price impact of +0.77% (calculated from the provided historical data).
+
+**News Tone:** The news tone is neutral to positive, as it provides guidance on trading these large-cap stocks without expressing a strong opinion or bias. The historical data suggests that similar news has had a positive impact on the stocks in the past, which could indicate a slightly positive tone.

@@ -1,0 +1,18 @@
+**Weekly News Summary:**
+
+The current week's news sentiment is mixed, with two notable events affecting the stock prices of Indian IT companies.
+
+**Notable Events:**
+
+1. **Chip Wars:** The news highlights the efforts of Indian IT companies, including Infosys (Infy), HCLTech, Wipro, and Tech Mahindra, to tap into the semiconductor industry. This development could have a positive impact on the companies' growth prospects.
+2. **Three-day office week for Tech Mahindra employees:** Tech Mahindra has announced a three-day office week for its employees starting April, which could have implications for the company's productivity and employee morale.
+
+**News Tone:**
+
+Based on the historical similar news and price impact, the overall news tone is **neutral**. While the "Chip Wars" news has the potential to be positive, the impact of the three-day office week on Tech Mahindra's stock is uncertain, as historical data shows both positive and negative price impacts for similar news.
+
+**Positive Sentiment:** The "Chip Wars" news could lead to a positive sentiment, as it indicates the companies' efforts to diversify and tap into a growing industry.
+
+**Neutral/Cautious Sentiment:** The three-day office week news may lead to a neutral or cautious sentiment, as its impact on productivity and employee morale is uncertain.
+
+Overall, the news tone is neutral, with a slight bias towards positivity due to the "Chip Wars" development.

@@ -1,0 +1,3 @@
+ITC's weekly return of -0.4% was relatively resilient compared to its peers, with ICICIBANK and RELIANCE posting larger declines. Despite this, ITC's Sharpe Ratio of -0.17 indicates that its return was not sufficient to compensate for its volatility. The stock's volatility of 12.38% was moderate, and its max drawdown of -0.58% suggests that it was a relatively risky investment this week. Overall, ITC outperformed its peers but still posted a negative return.
+
+[Volatility: 12.38%]

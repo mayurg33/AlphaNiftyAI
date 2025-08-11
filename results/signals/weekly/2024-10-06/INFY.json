@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 18.37,
+  "sharpe_ratio": 0.65,
+  "reasoning": "The stock has a strong profitability profile and reasonable valuation, but its growth metrics are a concern. The news sentiment is neutral, and the macroeconomic environment is supportive of the services sector, which Infosys operates in. However, the high volatility and moderate risk profile suggest a hold decision for now."
+}

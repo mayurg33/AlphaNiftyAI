@@ -1,0 +1,7 @@
+**Weekly News Sentiment:** Neutral
+
+**Notable Event:** State Bank of India (SBI) pays a record dividend of close to Rs 7,000 cr to the Centre.
+
+**Historical Context:** The news sentiment is neutral as the historical similar news events have shown mixed price impacts. In 2021, the government receiving a dividend from NTPC and PGCIL resulted in a positive impact of +6.65%, while BPCL's dividend payout led to a negative impact of -0.86%. More recently, in 2023, SBI's dividend payout of Rs 5,740 crore resulted in a negative impact of -1.51%. 
+
+Given the mixed historical context, the current news of SBI paying a record dividend to the Centre is likely to have a neutral impact on the stock price.

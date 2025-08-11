@@ -1,0 +1,9 @@
+Based on the provided historical news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Events:** The Nifty re jig has led to changes in the index composition, affecting Divi's Lab and LTIMindtree.
+
+**News Tone:** The tone of the news is neutral to positive, as the Nifty re jig is a neutral event that may have both positive and negative implications for the stocks. However, the historical data suggests that similar news events have led to positive price impacts in the past, such as the Remdesivir exports ban (+1.64%) and Reliance Industries' investment in NexWafe (+5.25%). The only negative impact was seen in the 5G begins at home for Indian IT news (-3.57%), but it is not directly related to the current event.
+
+Overall, the news tone is leaning towards a positive sentiment, but investors should exercise caution and monitor the market reaction to the Nifty re jig to determine the actual impact on Divi's Lab and LTIMindtree's stock prices.

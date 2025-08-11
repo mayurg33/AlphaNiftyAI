@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 31.93,
+  "sharpe_ratio": -0.08,
+  "reasoning": "The stock's high volatility and poor risk-adjusted return (Sharpe Ratio) suggest caution. Although the company's fundamentals are strong, with high EBITDA and gross margins, its valuation appears rich and debt-to-equity ratio is concerning. The negative news sentiment and macroeconomic environment, which is mixed with both positive and negative indicators, further support a hold decision."
+}

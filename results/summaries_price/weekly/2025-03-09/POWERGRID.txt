@@ -1,0 +1,3 @@
+POWERGRID's weekly return of 4.28% was a respectable performance, but its high volatility of 35.3% suggests a bumpy ride for investors. While it outperformed ITC, it underperformed COALINDIA and was on par with NTPC. The stock's Sharpe Ratio of 0.48 indicates a moderate risk-return tradeoff, and its Max Drawdown of -1.26% suggests some resilience. Overall, POWERGRID's performance was decent but not outstanding, and its high volatility makes it a relatively risky bet.
+
+[Volatility: 35.3%]

@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor performance, high volatility, and negative Sharpe Ratio indicate a high-risk investment, while the negative news sentiment and missed Q2 estimates suggest continued weakness. Furthermore, the macroeconomic environment, although generally positive, does not provide a strong tailwind for the automotive sector, making a SELL recommendation more prudent.

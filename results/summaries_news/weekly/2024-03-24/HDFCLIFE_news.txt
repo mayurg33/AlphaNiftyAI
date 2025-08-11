@@ -1,0 +1,11 @@
+Based on the historical news data, here is a summary of the current week's news sentiment:
+
+**Query 1: Best Insurance Stock: LIC vs HDFC Life**
+
+The news tone is **Negative**. The historical data suggests that news articles comparing LIC and HDFC Life tend to have a negative impact on the stock prices, with an average impact of -1.83%. This is likely due to the competitive nature of the insurance industry, and any comparison between the two giants may highlight their weaknesses rather than strengths.
+
+**Query 2: HDFC ELSS Tax Saver fund has exceeded benchmark returns since inception: Should you invest**
+
+The news tone is **Neutral**. The historical data suggests that news articles related to HDFC AMC or HDFC Bank tend to have a mixed impact on the stock prices, with an average impact of -0.85%. While some articles may highlight the fund's performance, others may discuss challenges or uncertainties, resulting in a neutral tone.
+
+Overall, the news sentiment for the current week is **Negative to Neutral**, with a slight bias towards negativity due to the comparison between LIC and HDFC Life. Notable events include the comparison between the two insurance giants and the discussion around HDFC ELSS Tax Saver fund's performance.

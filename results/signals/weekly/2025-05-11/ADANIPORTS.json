@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 25.01,
+  "sharpe_ratio": -0.48,
+  "reasoning": "Although the company has a strong financial health with high ROE and EBITDA margins, its high debt-to-equity ratio and stretched valuation are concerns. The positive news sentiment and decent growth prospects are offset by the high volatility and poor risk-adjusted performance. Therefore, I recommend a HOLD decision, awaiting further clarity on the company's debt management and valuation correction."
+}

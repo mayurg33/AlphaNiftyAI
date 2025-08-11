@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While APOLLOHOSP has shown consistent returns and low volatility, its high valuation and moderate correlation with peers suggest a neutral outlook. Additionally, the mixed news sentiment and concerns around regulatory risks and high debt levels warrant a cautious approach.

@@ -1,0 +1,25 @@
+Symbol: KOTAKBANK
+Month: 2024-04
+Start Price: ₹1788.74
+End Price: ₹1622.17
+12M Return: -9.31%
+6M Return: -9.31%
+3M Return: -9.31%
+Volatility: 0.452
+Sharpe Ratio: -2.633
+Max Drawdown: -0.127
+Peer Correlation (M&M): -0.1834
+Peer Correlation (TECHM): -0.0883
+Peer Correlation (ICICIBANK): 0.0905
+Average Peer Correlation: -0.0604
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+Here is a short summary and recommendation based on the provided data:
+
+**Summary:**
+Kotak Bank's stock has been underperforming, with negative returns across all time frames (12M, 6M, and 3M) of -9.31%. The stock's volatility is moderate at 0.452, and its Sharpe Ratio is -2.633, indicating poor risk-adjusted performance. The Max Drawdown of -0.127 suggests a significant decline in the stock's value. Peer correlations are mostly negative, with an average correlation of -0.0604, indicating that Kotak Bank's stock movement is not closely tied to its peers.
+
+**Recommendation:**
+Based on the negative returns, poor risk-adjusted performance, and moderate volatility, I would recommend a **SELL** or **AVOID** Kotak Bank's stock at this time. The stock's underperformance and lack of correlation with its peers suggest that it may not be a good investment opportunity in the current market conditions. It may be wise to explore other investment options with better growth prospects and risk-adjusted returns.

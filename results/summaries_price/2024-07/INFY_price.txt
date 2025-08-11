@@ -1,0 +1,25 @@
+Symbol: INFY
+Month: 2024-07
+Start Price: ₹1551.07
+End Price: ₹1821.59
+12M Return: 17.44%
+6M Return: 17.44%
+3M Return: 17.44%
+Volatility: 0.189
+Sharpe Ratio: 10.313
+Max Drawdown: -0.008
+Peer Correlation (TCS): 0.7243
+Peer Correlation (ITC): 0.1873
+Peer Correlation (WIPRO): 0.2863
+Average Peer Correlation: 0.3993
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Infosys (INFY) has demonstrated strong performance in the past 12 months, with a return of 17.44%. The stock's volatility is relatively low at 0.189, indicating a stable price movement. The Sharpe Ratio of 10.313 suggests that the return is significantly higher than the risk-free rate, making it an attractive investment opportunity. The Max Drawdown of -0.008 indicates that the stock has not experienced any significant price drops in the recent past. In terms of peer correlation, INFY has a moderate correlation with TCS (0.7243) and relatively low correlations with ITC (0.1873) and WIPRO (0.2863).
+
+**Recommendation:**
+
+Based on the strong performance, low volatility, and attractive Sharpe Ratio, I would recommend a **BUY** for Infosys (INFY). The stock's ability to generate consistent returns with minimal drawdowns makes it an attractive addition to a portfolio. Additionally, the moderate to low correlation with its peers suggests that INFY can provide a diversification benefit to investors. Overall, the stock's performance and metrics suggest that it has the potential to continue its upward trend, making it a good investment opportunity.

@@ -1,0 +1,9 @@
+I would recommend SELL for the stock. Here's why:
+
+* The company is in a declining industry (Thermal Coal), which is a major concern.
+* Revenue growth and earnings growth are both negative, indicating a struggling business.
+* The debt-to-equity ratio is very high (9.15), which increases the risk of investing in this company.
+* The trailing PE is low (6.786959), but the forward PE is significantly higher (15.30869), indicating that the market expects a decline in earnings.
+* ROE and profit margin are moderate, but not strong enough to offset the negatives.
+
+Overall, I believe the company's financials and industry trends suggest a sell recommendation.

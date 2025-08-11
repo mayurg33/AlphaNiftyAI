@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 20.34,
+  "sharpe_ratio": -0.04,
+  "reasoning": "The stock's lackluster performance and high volatility are concerns, but its strong fundamentals, including high EBITDA and gross margins, and positive news sentiment, suggest that it may rebound. However, the rich valuation and high debt-to-equity ratio are red flags. Given the mixed signals, a hold decision is warranted."
+}

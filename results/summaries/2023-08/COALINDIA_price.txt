@@ -1,0 +1,1 @@
+Based on these metrics, I would recommend a HOLD on COALINDIA. Although the 12-month return is negative, the recent 3-month return is positive, and the Sharpe Ratio indicates that the returns are reasonable considering the volatility.

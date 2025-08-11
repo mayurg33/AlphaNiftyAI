@@ -1,0 +1,10 @@
+Based on the historical similar news, the sentiment of the current week's news is **Positive**.
+
+The news tone is positive because the government's decision to slash domestic natural gas prices is likely to benefit oil and gas companies such as ONGC and Oil India. In the past, similar news events have led to a positive impact on the stock prices of these companies.
+
+Notable events mentioned in the historical similar news include:
+
+* ONGC and Oil India gaining up to 6% due to a government increase in gas prices
+* Oil India hitting a 31-month high and ONGC reaching a 52-week high on a gas price hike
+
+Overall, the news tone is positive, indicating that the stock prices of oil and gas companies may rise due to the government's decision to slash domestic natural gas prices.

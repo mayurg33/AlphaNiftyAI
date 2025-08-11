@@ -1,0 +1,5 @@
+Here is a concise summary of the stock's weekly performance:
+
+LT's weekly return of -0.89% was a disappointing performance, with a Sharpe Ratio of -1.04 indicating poor risk-adjusted returns. The stock's volatility of 4.52% was relatively low compared to its peers, but its max drawdown of -0.89% suggests some risk. LT underperformed its peers, particularly ONGC, and was a relatively low-risk stock this week.
+
+[Volatility: 4.52%]

@@ -1,0 +1,10 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Negative
+
+**Notable Events:**
+
+1. HDFC Bank's investment banking gets SEBI warning, which is likely to have a negative impact on the stock price, similar to previous instances where SEBI penalized HDFC Bank.
+2. The "Stocks to watch" news is neutral, but the historical impact suggests a mixed bag, with some instances having a negative impact and others having a positive impact.
+
+**Tone:** The overall tone of the news is negative, primarily due to the SEBI warning, which has historically led to a decline in HDFC Bank's stock price. The "Stocks to watch" news is neutral, but the negative sentiment from the SEBI warning dominates the overall tone.

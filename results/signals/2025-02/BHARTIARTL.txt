@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Despite the positive news sentiment and recent profit increase, the stock's underperformance in the past 12 months, high valuation, and high debt levels warrant a cautious approach, especially considering the moderate volatility and low maximum drawdown.

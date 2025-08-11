@@ -1,0 +1,7 @@
+Based on the historical news data, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* The article poses a question about which stock to buy between Tata Steel and JSW Steel, which suggests a neutral tone.
+
+The overall impact of the news is neutral, as the historical data shows a mix of positive and negative impacts. The positive impact of +1.94% is offset by the negative impacts of -8.47% and -5.64%. Therefore, the news tone is neutral, and investors should exercise caution while making a decision.

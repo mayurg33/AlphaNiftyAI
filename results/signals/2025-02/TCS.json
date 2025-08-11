@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's negative returns over various time horizons, high volatility, and negative Sharpe Ratio suggest it's not an attractive investment. Additionally, the maximum drawdown and average correlation with peers imply further downside risks. While the fundamentals show some positive signs, the concerns around revenue growth and earnings growth outweigh them."
+}

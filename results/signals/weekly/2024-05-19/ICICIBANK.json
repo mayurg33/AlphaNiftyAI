@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 8.68,
+  "sharpe_ratio": 0.10,
+  "reasoning": "ICICIBANK's modest weekly performance and relatively low Sharpe Ratio suggest a stable but not impressive stock. The company's financial health is good, with a strong profit margin and decent ROE, but its valuation is on the higher side. The news sentiment is leaning towards being positive, but not strong enough to warrant a buy decision. Given the macroeconomic environment, which is generally positive, I would recommend a hold decision for now."
+}

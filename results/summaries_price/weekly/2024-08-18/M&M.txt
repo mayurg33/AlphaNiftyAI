@@ -1,0 +1,3 @@
+M&M's weekly return of 4.52% outperformed MARUTI and KOTAKBANK, but trailed TECHM's 4.81% return. The stock's volatility was moderate at 28.24%, lower than TECHM's 36.59% but higher than MARUTI's 8.75%. With a Sharpe Ratio of 0.84, M&M's risk-adjusted return was relatively strong. Overall, M&M had a solid week, but its volatility was still notable.
+
+[Volatility: 28.24%]

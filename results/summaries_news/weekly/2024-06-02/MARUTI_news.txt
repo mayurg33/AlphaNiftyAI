@@ -1,0 +1,7 @@
+**Weekly News Sentiment:** Negative
+
+**Notable Event:** Maruti Suzuki India reported a 2% drop in sales to 174,551 units in May.
+
+**Historical Context:** Comparing this news to similar historical events, we see that the stock has reacted differently in the past. In January 2022, a 2% YoY dip in December automobile production led to a positive impact of +6.55%. However, in May 2022, a 6% YoY fall in April auto sales resulted in a negative impact of -5.03%. This inconsistency suggests that the market's reaction to similar news can vary.
+
+**News Tone:** Negative. The news of a 2% drop in sales is likely to have a negative impact on the stock, as it indicates a decline in demand and potential revenue. The historical context suggests that the market may react negatively to this news, as seen in the -5.03% impact in May 2022.

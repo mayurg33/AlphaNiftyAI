@@ -1,0 +1,13 @@
+Based on the current week's news, the sentiment is mixed.
+
+Notable events:
+
+* Mahindra & Mahindra Finance reported a 57% increase in net profit to ₹369 crore, with revenue at ₹3,897 crore. This is a positive event.
+* However, the stock dropped 8% due to weak Q2 numbers, which is a negative event.
+* Tech Mahindra shares gained over 3% after the company beat Q2 estimates, which is a positive event.
+
+Overall tone:
+
+The tone is neutral, as there are both positive and negative events reported. The positive news of Mahindra & Mahindra Finance's profit increase and Tech Mahindra's Q2 beat are offset by the negative news of M&M Finance's stock drop due to weak Q2 numbers.
+
+It's worth noting that the historical data suggests that the market reaction to Mahindra & Mahindra Finance's Q2 results has been inconsistent, with both positive and negative impacts on the stock price. Similarly, the reaction to Tech Mahindra's Q2 results has also been mixed in the past.

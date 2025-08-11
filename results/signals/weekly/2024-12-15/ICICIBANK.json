@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 9.64,
+  "sharpe_ratio": 0.70,
+  "reasoning": "ICICIBANK's strong weekly performance and decent Sharpe Ratio indicate a robust return for its risk. However, the valuation seems to be on the higher side, which is a concern. The news sentiment is neutral, and the macroeconomic environment is supportive of the banking sector. Given the mixed signals, I recommend a HOLD decision for now."
+}

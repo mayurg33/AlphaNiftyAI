@@ -1,0 +1,3 @@
+BAJFINANCE's weekly return of -1.74% was relatively better than its peers, with a lower volatility of 18.12% compared to its peers. The stock's Sharpe Ratio of -0.38 indicates a relatively poor risk-adjusted return. Despite this, BAJFINANCE outperformed its peers, including BAJAJFINSV and BAJAJ-AUTO, in terms of return. However, the stock's Max Drawdown of -2.26% suggests a moderate level of risk.
+
+[Volatility: 18.12%]

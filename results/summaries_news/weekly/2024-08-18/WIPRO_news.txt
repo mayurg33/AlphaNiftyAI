@@ -1,0 +1,14 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Stocks in news: Vodafone, Firstcry, Unicommerce, Kotak Mahindra Bank, Wipro, NMDC, Hudco & IRFC**
+
+The news tone is NEUTRAL for this set of stocks. The historical data shows a mix of positive and negative impacts, with an average impact of around -0.57%. This suggests that the market reaction to this news is likely to be neutral or moderate.
+
+**Subha Tatavarti resigns as Wipro's chief technology officer**
+
+The news tone is NEGATIVE for Wipro. The historical data shows a strong positive impact (+8.08%) when Subha Tatavarti was appointed as Wipro's CTO, indicating that the market had high expectations from her leadership. Her resignation is likely to be perceived as a negative event, potentially leading to a decline in Wipro's stock price.
+
+Notable events:
+
+* Wipro's CTO, Subha Tatavarti, has resigned, which may have a negative impact on the company's stock price.
+* A mix of companies are in the news, including Vodafone, Firstcry, Unicommerce, Kotak Mahindra Bank, Wipro, NMDC, Hudco, and IRFC, but the market reaction is likely to be neutral or moderate.

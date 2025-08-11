@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 37.28,
+  "sharpe_ratio": 0.09,
+  "reasoning": "The stock's moderate weekly performance and high volatility make it a risky investment. Although the company's financial health is good, its high valuation and negative revenue growth are concerns. The neutral news sentiment and macroeconomic environment do not provide a strong catalyst for a buy or sell decision, hence a hold decision is recommended."
+}

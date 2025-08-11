@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 31.95,
+  "sharpe_ratio": 0.21,
+  "reasoning": "The company's strong profitability profile, high gross margins, and decent profit margins indicate a financially healthy company. The Sharpe Ratio of 0.21 suggests that the return is somewhat justified by the level of risk taken. Additionally, the news sentiment is neutral to positive, with the company introducing an AI-powered mobile application for asthma screening and receiving a rating upgrade from Kotak. This outweighs the moderate debt levels and slow revenue growth, making it a BUY."
+}

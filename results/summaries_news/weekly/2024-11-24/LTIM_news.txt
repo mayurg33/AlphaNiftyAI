@@ -1,0 +1,17 @@
+**Weekly News Sentiment Summary:**
+
+The overall sentiment of this week's news is **Positive**.
+
+**Notable Events:**
+
+1. LIC increases its stake in LTIMindtree by 2% via open market, causing the stock to surge by 3%.
+2. LTIMindtree, Wipro, and other IT stocks experience a decline of up to 5% due to Powell's indication of slower rate cuts.
+3. Zomato is set to replace JSW Steel on the BSE Sensex index from December 23.
+
+**News Tone:**
+
+* LTIMindtree: **Positive** (LIC's stake increase leads to a 3% surge in stock price)
+* IT Stocks (LTIMindtree, Wipro, etc.): **Negative** (decline of up to 5% due to Powell's indication of slower rate cuts)
+* Zomato: **Neutral** (replacement of JSW Steel on BSE Sensex index, with no significant impact on stock price)
+
+Overall, the positive news surrounding LTIMindtree's stake increase by LIC outweighs the negative sentiment around IT stocks, leading to a positive tone for the week.

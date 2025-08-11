@@ -1,0 +1,11 @@
+Based on the historical similar news and price impact, the current week's news sentiment for Coal India is NEUTRAL TO NEGATIVE.
+
+Notable events mentioned in the historical news include:
+
+* Record date for dividend announcement
+* Tight supply and high prices of coal
+* Stock trading ex-dividend
+
+The impact of these events on the stock price has been consistently negative, ranging from -1.91% to -3.62%. This suggests that the market has reacted negatively to these events in the past.
+
+Overall, the tone of the news is more negative than positive, indicating that the market may react negatively to the upcoming Q3 results and dividend news of Coal India.

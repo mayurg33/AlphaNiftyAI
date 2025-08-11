@@ -1,0 +1,8 @@
+Based on the provided news headlines, the current week's news sentiment is NEUTRAL for the stock.
+
+Notable events:
+
+* Budget 2024 Market Close Highlights: Sensex ends 70pts down, Nifty at 24,480; FMCG, consumers gain, bank, FS drag (neutral impact)
+* Business News Highlights: Odisha to emerge as Tata Steel's largest investment destination post Kalinganagar expansion (positive impact, but not directly related to Adani Group)
+
+There are no specific news headlines directly related to Adani Group in the current week's news. The historical similar news and price impact queries suggest that Adani Group stocks are sensitive to news related to governance, funding, and regulatory issues, which can have a significant impact on the stock price. However, in the absence of such news in the current week, the sentiment remains neutral.

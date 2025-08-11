@@ -1,0 +1,3 @@
+BAJAJFINSV underperformed its peers this week, with a weekly return of -4.52% compared to -3.39% for BAJFINANCE and -4.4% for BAJAJ-AUTO. The stock's volatility was relatively low at 1.15%, but its Sharpe Ratio of -21.08 indicates a poor risk-adjusted performance. The stock experienced a maximum drawdown of -4.52%, suggesting a moderate level of risk. Overall, BAJAJFINSV was a relatively stable but underperforming stock this week.
+
+[Volatility: 1.15%]

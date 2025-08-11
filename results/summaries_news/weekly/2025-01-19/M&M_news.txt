@@ -1,0 +1,5 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL. 
+
+Notable events: Jio Financial Services, Wipro, and Tech Mahindra are set to announce their Q3 earnings today.
+
+The historical news sentiment is mixed, with one positive impact (+0.09%), one neutral impact (-1.02%), and one negative impact (-4.61%). This suggests that the market's reaction to earnings announcements from these companies has been inconsistent in the past. Therefore, it's difficult to predict the exact impact of today's earnings announcements on the stock prices.

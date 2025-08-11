@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 37.13,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's high volatility and poor weekly performance are major concerns. Additionally, the company's high debt-to-equity ratio and rich valuation are causes for concern. The negative news sentiment and allegations against Adani Group further exacerbate the risks. Therefore, it's prudent to sell the stock and avoid potential losses."
+}

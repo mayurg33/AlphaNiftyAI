@@ -1,0 +1,12 @@
+Based on the current week's news, the sentiment is NEUTRAL to SLIGHTLY NEGATIVE for Coal India.
+
+Notable events:
+
+* Coal India's share price target was cut by Nuvama, citing 5 reasons, which is a negative sentiment.
+* The company's shares fell over 1.2% amid high trading volume, which is also a negative sentiment.
+* However, the company reported a 34% growth in environment-friendly coal transportation, which is a positive sentiment.
+* The company's production slipped in May, which is a negative sentiment.
+
+The news tone is neutral to slightly negative because while there are some positive developments, such as the growth in environment-friendly coal transportation, the negative sentiments around the share price target cut and production slip are more prominent. Additionally, the high trading volume and fall in share price suggest market uncertainty and potential selling pressure.
+
+Overall, the news sentiment is leaning towards a slightly negative tone, but it's not overwhelmingly bearish.

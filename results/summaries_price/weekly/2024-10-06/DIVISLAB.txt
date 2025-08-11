@@ -1,0 +1,3 @@
+DIVISLAB's weekly performance was relatively stable, with a modest decline of 0.33%, outperforming its peers DRREDDY, SUNPHARMA, and CIPLA. The stock's volatility was relatively low at 3.81%, indicating a less turbulent week. Despite a negative Sharpe Ratio, DIVISLAB's performance was less risky compared to its peers, with a lower Max Drawdown of 0.36%. Overall, DIVISLAB demonstrated a relatively resilient performance amidst a challenging week for pharma stocks.
+
+[Volatility: 3.81%]

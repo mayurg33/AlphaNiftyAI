@@ -1,0 +1,3 @@
+ONGC's weekly performance was strong, with a 3.4% return, outperforming its peers BPCL and LT, but in line with RELIANCE. The stock's volatility was high at 48.24%, indicating a risky investment environment. Despite this, ONGC's Sharpe Ratio of 0.29 suggests that its return was somewhat justified by the level of risk taken.
+
+[Volatility: 48.24%]

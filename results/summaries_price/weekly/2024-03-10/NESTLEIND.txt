@@ -1,0 +1,3 @@
+NESTLEIND's weekly performance was disappointing, with a return of -1.09%, underperforming its peers. The stock's volatility was high at 24.28%, indicating significant price fluctuations. Compared to its peers, NESTLEIND lagged behind, with HINDUNILVR and BRITANNIA showing relatively better returns. The stock's Sharpe Ratio of -0.23 and Max Drawdown of -2.16% suggest that the risk taken was not rewarded with adequate returns.
+
+[Volatility: 24.28%]

@@ -1,0 +1,25 @@
+Symbol: LT
+Month: 2024-06
+Start Price: ₹3831.02
+End Price: ₹3515.66
+12M Return: -8.23%
+6M Return: -8.23%
+3M Return: -8.23%
+Volatility: 0.526
+Sharpe Ratio: -2.014
+Max Drawdown: -0.127
+Peer Correlation (RELIANCE): 0.8104
+Peer Correlation (ULTRACEMCO): 0.6354
+Peer Correlation (ONGC): 0.9049
+Average Peer Correlation: 0.7836
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+The stock LT has underperformed in the past 12 months, with a return of -8.23%. The volatility of the stock is moderate at 0.526, indicating that it can be expected to fluctuate moderately in the future. The Sharpe Ratio is -2.014, which suggests that the stock's return is not justified by its risk. The maximum drawdown of -0.127 indicates that the stock has experienced a significant decline in value at some point in the past year. The peer correlations suggest that LT is highly correlated with RELIANCE and ONGC, indicating that it tends to move in tandem with these stocks.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **SELL** position on LT. The negative returns over the past 12 months, combined with the high volatility and poor Sharpe Ratio, suggest that the stock's risk is not justified by its potential return. Additionally, the high correlations with its peers suggest that LT is not likely to outperform its peers in the future. Overall, it appears that LT is a relatively weak stock that may continue to underperform in the future.

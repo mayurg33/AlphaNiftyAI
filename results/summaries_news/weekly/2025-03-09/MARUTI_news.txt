@@ -1,0 +1,7 @@
+**Weekly News Sentiment:** Neutral to Positive
+
+**Notable Events:** Motilal Oswal has picked Mahindra & Mahindra (M&M) and Maruti Suzuki as their top auto picks, citing 3 reasons for the selection.
+
+**Historical Context:** Based on past news with similar themes, the sentiment has been mixed. In one instance, a bullish call on auto and IT stocks led to a -3.45% impact, while in another instance, analysts' picks of auto stocks ahead of sales data resulted in a +3.04% impact. A third instance saw a positive sentiment towards the auto sector, leading to a +1.73% impact.
+
+**News Tone:** The current news tone is neutral to positive, as Motilal Oswal's top picks suggest a positive outlook for M&M and Maruti Suzuki. However, the historical context indicates that the market's reaction to such news can be unpredictable, and the impact may vary.

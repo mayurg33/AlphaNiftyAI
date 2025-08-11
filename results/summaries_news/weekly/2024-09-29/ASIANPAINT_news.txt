@@ -1,0 +1,5 @@
+Based on the historical news data, the current week's news sentiment for Asian Paints is POSITIVE.
+
+The notable event is the breakout above the resistance level, which is a bullish signal for the stock.
+
+The news tone is positive, indicating that the stock is likely to rise in the short term. The historical data shows that similar news events have resulted in a positive impact on the stock price, with an average impact of +1.35% (calculated from the given data points).

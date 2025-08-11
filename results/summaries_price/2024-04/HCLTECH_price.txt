@@ -1,0 +1,25 @@
+Symbol: HCLTECH
+Month: 2024-04
+Start Price: ₹1487.17
+End Price: ₹1305.56
+12M Return: -12.21%
+6M Return: -12.21%
+3M Return: -12.21%
+Volatility: 0.267
+Sharpe Ratio: -6.319
+Max Drawdown: -0.122
+Peer Correlation (HDFCLIFE): 0.4292
+Peer Correlation (TECHM): -0.0675
+Peer Correlation (HINDALCO): 0.1365
+Average Peer Correlation: 0.1661
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+HCLTech (HCLTECH) has had a disappointing performance over the past 12 months, with a return of -12.21%. The stock's volatility is moderate at 0.267, and its Sharpe Ratio is a concerning -6.319, indicating poor risk-adjusted returns. The max drawdown is also significant at -0.122. In terms of peer correlation, HCLTECH has a moderate positive correlation with HDFCLIFE, a weak negative correlation with TECHM, and a weak positive correlation with HINDALCO. The average peer correlation is 0.1661.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **SELL**. The stock's poor performance over the past 12 months, combined with its high volatility and poor risk-adjusted returns, suggest that it may not be a good investment opportunity at this time. Additionally, the significant max drawdown indicates that the stock is prone to large losses, which could be a concern for investors. While the peer correlations are not extremely concerning, they do not provide a compelling reason to hold or buy the stock. Overall, it may be wise to consider alternative investment opportunities with better performance and risk profiles.

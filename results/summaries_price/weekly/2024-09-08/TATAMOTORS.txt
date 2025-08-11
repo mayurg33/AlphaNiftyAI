@@ -1,0 +1,3 @@
+TATAMOTORS underperformed its peers this week, with a weekly return of -3.96% compared to -1.09% for TATASTEEL, -2.15% for TATACONSUM, and -1.94% for MARUTI. The stock's high volatility of 9.83% contributed to its poor performance, with a Sharpe Ratio of -1.62 indicating a high level of risk. The stock's Max Drawdown of -3.96% further highlights its riskiness. Overall, TATAMOTORS was a high-risk, underperforming stock this week.
+
+[Volatility: 9.83%]

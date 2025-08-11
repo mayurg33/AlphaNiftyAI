@@ -1,0 +1,7 @@
+Based on the historical data, the current week's news sentiment is NEUTRAL.
+
+The notable event is that Adani Group is funding a policy thinktank, which is a new development. However, the historical data suggests that the impact of this news on the stock price is uncertain.
+
+In the past, we have seen both positive and negative price impacts related to Adani Group. For example, on 2023-03-27, EPFO's continued investment in Adani Ports and Adani Enterprises led to a +0.56% impact, which is a positive sentiment. On the other hand, on 2023-02-03, Adani Ports and Adani Enterprises' stocks rebounded, but the impact was -44.32%, which is a negative sentiment.
+
+Therefore, it is difficult to predict the exact impact of this news on the stock price, and the tone of the news is neutral.

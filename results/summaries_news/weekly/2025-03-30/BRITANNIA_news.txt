@@ -1,0 +1,16 @@
+**Weekly News Sentiment Summary**
+
+This week, two news articles related to Danone and Britannia Industries were published.
+
+**Danone's Second Coming:**
+The news tone is **positive** for Danone. The article highlights the French giant's efforts to crack the Indian market by betting big on nutrition. Although there are no direct price impact references, the historical similar news suggests a positive impact, with a +2.03% price increase in a related news article.
+
+**Britannia Industries Faces Tax Demand:**
+The news tone is **neutral** to **slightly negative** for Britannia Industries. The article reports a ₹25 crore tax demand from CGST, which might have a negative impact on the company's finances. Historical similar news shows mixed reactions, with a +0.60% price increase in one instance and a -0.02% decrease in another.
+
+**Notable Events:**
+
+* Danone's efforts to expand in the Indian nutrition market
+* Britannia Industries faces a ₹25 crore tax demand from CGST
+
+Overall, the news tone is mixed, with a positive outlook for Danone and a neutral to slightly negative tone for Britannia Industries.

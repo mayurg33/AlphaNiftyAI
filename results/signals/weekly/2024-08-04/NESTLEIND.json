@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 11.14,
+  "sharpe_ratio": 0.36,
+  "reasoning": "The stock has a positive weekly return and a moderate Sharpe Ratio, indicating a decent risk-adjusted performance. However, the high P/E ratio and negative earnings growth are concerns. The joint venture with Dr. Reddy's and investment plans in India are positives, but the overall sentiment remains cautious due to the market fall. Therefore, I recommend a HOLD decision."
+}

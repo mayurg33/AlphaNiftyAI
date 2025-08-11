@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 8,
+  "reasoning": "The stock's poor price trends, high volatility, and low Sharpe Ratio suggest a SELL. However, the fundamentals indicate a HOLD, as the forward PE ratio is reasonable, and the company has announced plans for capital expenditure and investments. The macroeconomic environment is also supportive, with a growing services sector, low inflation, and a stable repo rate. Overall, the HOLD rating is a balance between the negative price trends and the potential for future growth."
+}

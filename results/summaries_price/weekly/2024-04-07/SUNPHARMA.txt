@@ -1,0 +1,3 @@
+SUNPHARMA's weekly performance was disappointing, with a return of -1.24% and a Sharpe Ratio of -1.13, indicating poor risk-adjusted returns. The stock's volatility was relatively low at 4.36%, but its Max Drawdown of -1.24% suggests a significant decline in value. Compared to peers, SUNPHARMA underperformed DIVISLAB but outperformed DRREDDY and HINDUNILVR. Overall, the stock was relatively less risky this week, but its poor returns make it an unattractive investment option.
+
+[Volatility: 4.36%]

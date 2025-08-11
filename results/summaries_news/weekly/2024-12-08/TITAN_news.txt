@@ -1,0 +1,12 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is **Positive** for Titan Company's stock, driven by the premiumization trend in its analog watch business. The news tone is optimistic, indicating potential growth and revenue increase for the company.
+
+**Notable Events:**
+
+1. Premiumisation driving Titan Company's analog watch biz: This news suggests that Titan Company's focus on premiumization is paying off, which could lead to increased revenue and profitability.
+2. Historical data shows that similar news related to Titan Company's growth, launches, and market capitalization have had a positive impact on the stock price, with an average impact of around +4.59%.
+
+On the other hand, the news "Closing Bell: Market zooms ahead of RBI policy, Nifty at 24,700, Sensex up 810 pts" has a **Neutral** sentiment, as it is a market update and not specifically related to Titan Company's stock. Historical data shows that similar market-related news has had a mixed impact on the stock price, with both positive and negative effects.
+
+Overall, the positive news sentiment around Titan Company's premiumization trend is likely to have a more significant impact on the stock price, making it a **Positive** week for the company's stock.

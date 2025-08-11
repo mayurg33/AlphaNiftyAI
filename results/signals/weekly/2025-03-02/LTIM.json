@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 24.49,
+  "sharpe_ratio": -1.67,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate poor risk-adjusted returns. The news sentiment is also negative, with the company's new policy on exams for pay hikes and appraisals likely to impact employee morale and retention. Additionally, the company's valuation appears to be slightly rich, with a high trailing P/E ratio. Therefore, it's a good time to sell the stock."
+}

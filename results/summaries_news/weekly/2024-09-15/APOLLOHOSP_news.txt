@@ -1,0 +1,16 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+1. Bajaj Housing Finance IPO: The market is expecting a significant market capitalization of Rs 1 lakh crore on the listing day, which could be a positive event for the stock.
+2. Healthcare stocks with high revenue per occupied bed: The article highlights healthcare stocks with strong revenue potential, which could be a positive signal for the sector.
+
+**Tone Analysis:**
+
+The tone of the news is generally neutral to positive. The Bajaj Housing Finance IPO news has a neutral tone, as it's more of an informative article about the expected market capitalization. However, the historical similar news suggests that IPO-related news can have a negative impact on the stock price, but the magnitude of the impact is relatively low (-4.32% to -6.53%).
+
+The healthcare stocks news has a more positive tone, as it highlights the strong revenue potential of certain healthcare stocks. The historical similar news suggests that healthcare-related news can have a positive impact on the stock price, with a notable example of a +2.18% impact.
+
+Overall, the news tone is leaning towards being positive, but with some caution due to the neutral tone of the IPO news.

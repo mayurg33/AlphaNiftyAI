@@ -1,0 +1,5 @@
+Based on the historical news data, the current week's news sentiment for Eicher Motors is NEUTRAL.
+
+The notable event is the mention of Eicher Motors as one of the 4 stock picks by SMC Global, which is a neutral event as it doesn't provide any specific positive or negative information about the company.
+
+Historically, the news tone has been mostly positive for Eicher Motors, with two out of three news events having a positive impact on the stock price. The positive news events were related to sales growth and new product launches, which suggests that the market reacts positively to such announcements. However, the current news event is neutral and doesn't provide any specific information about the company's performance or future prospects, hence the neutral sentiment.

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 20.99,
+  "sharpe_ratio": -0.05,
+  "reasoning": "The stock's poor risk-adjusted returns and moderate to high risk profile suggest caution. However, the attractive valuation and high dividend yield are positives. The neutral to positive news sentiment and stable macroeconomic environment also support a hold decision. Further analysis is needed to determine if the company's growth prospects and debt position can be improved."
+}

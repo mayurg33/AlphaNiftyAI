@@ -1,0 +1,3 @@
+DRREDDY had a strong weekly performance, returning 3.59% and outperforming most of its peers, with the exception of SUNPHARMA. The stock's volatility was moderate at 18.76%, but its Sharpe Ratio of 1.00 suggests that the returns were relatively stable. Compared to its peers, DRREDDY's performance was impressive, with only SUNPHARMA's Sharpe Ratio of 1.60 surpassing it. Overall, the stock's risk profile was moderate this week.
+
+[Volatility: 18.76%]

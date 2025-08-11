@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 12.26,
+  "sharpe_ratio": -0.30,
+  "reasoning": "The stock's recent performance has been disappointing, with a negative return and Sharpe Ratio. However, the company's fundamentals are strong, with high profitability and reasonable valuation. The news sentiment is neutral to positive, and the macroeconomic environment is supportive of the automotive industry. Given the mixed signals, a HOLD decision is warranted, with a moderate confidence level."
+}

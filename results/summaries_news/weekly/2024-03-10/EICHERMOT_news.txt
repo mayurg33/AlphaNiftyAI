@@ -1,0 +1,9 @@
+Based on the provided historical news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Negative
+
+**Notable Event:** The current news article "Chart Beat: Will Royal Enfield lose its market clutch?" suggests that the company may be facing challenges in maintaining its market share, which could be a concern for investors.
+
+**Comparison to Historical News:** The historical news articles show that when Eicher Motors (Royal Enfield's parent company) reported positive sales growth, the stock price increased (e.g., +5.59% on 2021-02-02). However, when the company reported a decline in sales, the stock price fell (-10.03% on 2022-03-02). The current news article's tone is cautionary, implying that Royal Enfield may be losing its market grip, which could lead to a negative impact on the stock price.
+
+Overall, the news tone is negative, suggesting that investors may be concerned about the company's ability to maintain its market share and sales growth.

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 11.12,
+  "sharpe_ratio": -1.77,
+  "reasoning": "The stock's poor risk-adjusted return and high volatility indicate caution. However, the company's strong financial health, with high EBITDA and gross margins, suggests potential for growth. The rich valuation and high debt levels are concerns, but the overall positive news sentiment and favorable macroeconomic environment support a hold decision."
+}

@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's underperformance in the past 12 months, combined with its poor Sharpe Ratio and negative returns, warrants caution. However, the moderate volatility and low maximum drawdown suggest that it may not be a highly risky investment. Additionally, the company's healthy profit margin and decent ROE provide some comfort, but the lack of growth and earnings momentum are concerns that need to be monitored.

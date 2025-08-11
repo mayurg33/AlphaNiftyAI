@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's underperformance in the last 12 months, combined with its negative Sharpe Ratio, suggests caution, while the moderate volatility and average peer correlation indicate it's not extremely risky. Additionally, the mixed news sentiment and neutral macroeconomic environment further support a hold position, as investors may want to wait and observe the stock's performance over the next quarter before making a BUY or SELL decision.

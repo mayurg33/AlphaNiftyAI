@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 18.06,
+  "sharpe_ratio": 0.32,
+  "reasoning": "The stock's high volatility and low Sharpe Ratio indicate that the return is not adequately compensated for the risk. The negative news sentiment and historical data suggest a potential decline in stock price. Furthermore, the company's moderate profitability metrics and negative earnings growth are concerns. Although the financial health is good, the overall outlook is bearish, leading to a SELL decision."
+}

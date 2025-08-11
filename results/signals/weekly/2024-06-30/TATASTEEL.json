@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 19.3,
+  "sharpe_ratio": -0.46,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate a high-risk profile. Additionally, the company's fragile financial health, with low profitability and high debt, raises concerns. The negative news sentiment, particularly the legal action against the union strike, may lead to further downward pressure on the stock price. Overall, the risks outweigh the potential benefits, making it a sell decision."
+}

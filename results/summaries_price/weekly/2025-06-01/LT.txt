@@ -1,0 +1,3 @@
+Stock **LT** delivered a positive weekly return of 0.72%, outperforming its peers, with a relatively low volatility of 5.11%. The stock's Sharpe Ratio of 0.56 indicates a decent risk-adjusted return. In comparison, its peers RELIANCE, ULTRACEMCO, and ONGC all posted negative returns, with higher volatility. Overall, **LT** was a relatively safe haven this week.
+
+[Volatility: 5.11%]

@@ -1,0 +1,7 @@
+**Weekly News Sentiment:** Negative
+
+**Notable Events:** Bharti group's Rs 150 crore bond donation to BJP coincided with Modi government's telecom u-turn.
+
+**News Tone:** The news tone is negative for the stock. The current news suggests a potential conflict of interest between the Bharti group's donation to the BJP and the Modi government's decision to favor the telecom industry, which may raise concerns about corporate governance and ethics. This news may negatively impact the stock price.
+
+Historical context suggests that news related to bond issuance and telecom regulations have had a negative impact on the stock price in the past. For example, on 2021-02-22, Bharti Airtel's decision to issue bonds led to a -4.42% impact on the stock price. Similarly, the end of the low tariff regime and the decision to hike plans to grab revenue had a -0.17% impact on the stock price on 2021-11-24.

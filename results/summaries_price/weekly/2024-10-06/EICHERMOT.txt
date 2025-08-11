@@ -1,0 +1,3 @@
+EICHERMOT's weekly performance was dismal, with a return of -6.36%, significantly underperforming its peers. The stock's volatility was relatively high at 23.27%, indicating a risky investment environment. Compared to its peers, EICHERMOT's Sharpe Ratio was the lowest, suggesting poor risk-adjusted returns. Overall, the stock's performance was disappointing, and it was one of the riskiest in its peer group.
+
+[Volatility: 23.27%]

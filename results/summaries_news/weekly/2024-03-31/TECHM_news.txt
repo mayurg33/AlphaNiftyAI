@@ -1,0 +1,12 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+The two news articles report that Tech Mahindra is merging two US-based subsidiaries, but the historical data shows mixed reactions to similar news. In the past, Tech Mahindra's acquisitions and partnerships have resulted in both positive and negative price impacts.
+
+Notable events mentioned in the historical data include:
+
+* Tech Mahindra's acquisition of Activus Connect for $62 million, which had a positive impact of +5.17%.
+* Tech Mahindra's acquisition of a European firm and a 25% stake in two tech platforms for 330 million euros, which had a negative impact of -8.04%.
+* Tech Mahindra's partnership with Palo Alto Networks, which had a negative impact of -3.77%.
+* Tech Mahindra's acquisition of two South African JVs for Rs 30 crore, which had a positive impact of +0.94%.
+
+Given the mixed historical reactions, it's difficult to predict the exact impact of the current news on the stock price. However, the neutral sentiment suggests that the market may not have a strong reaction to this news.

@@ -1,0 +1,3 @@
+ICICIBANK's weekly performance was relatively stable, with a modest decline of 0.2%, outperforming its peers INDUSINDBK, SBIN, and HDFCBANK. Despite this, the stock's volatility remained relatively high at 11.09%, indicating a moderate level of risk. The Sharpe Ratio of -0.07 suggests that the stock's return was not sufficient to compensate for the level of risk taken. Overall, ICICIBANK's performance was relatively resilient compared to its peers, but still exhibited notable volatility.
+
+[Volatility: 11.09%]

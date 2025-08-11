@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock's poor price trends, high volatility, and negative Sharpe Ratio suggest a SELL. However, the fundamentals indicate a HOLD due to decent profitability, healthy revenue growth, and moderate leverage. The news sentiment is neutral, and the macroeconomic environment is supportive of growth, but not strongly indicative of a BUY. Overall, a HOLD decision is recommended, awaiting further improvement in the company's performance."
+}

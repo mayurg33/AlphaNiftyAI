@@ -1,0 +1,3 @@
+ASIANPAINT's weekly performance was relatively strong, with a 0.3% return, outperforming its peers who saw significant declines. The stock's volatility was moderate at 7.5%, which is relatively low compared to its peers. Despite a low Sharpe Ratio of 0.16, the stock's performance was less risky than its peers, with a lower Max Drawdown of -0.59%. Overall, ASIANPAINT was a relatively safe haven this week.
+
+[Volatility: 7.5%]

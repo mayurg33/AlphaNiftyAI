@@ -1,0 +1,3 @@
+ADANIPORTS had a strong weekly performance, with a 9.08% return, outperforming its peers ADANIENT and SBIN, but slightly underperforming MARUTI. The stock's volatility was relatively high at 27.45%, but its Sharpe Ratio of 1.28 indicates a favorable risk-return profile. Overall, ADANIPORTS demonstrated a high return with moderate risk this week.
+
+[Volatility: 27.45%]

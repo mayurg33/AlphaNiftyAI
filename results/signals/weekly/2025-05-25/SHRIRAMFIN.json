@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 29.71,
+  "sharpe_ratio": -0.35,
+  "reasoning": "The stock's high volatility and poor returns make it a cautious investment. However, the company's financial health is stable, with a strong profitability profile and reasonable valuation. The macroeconomic environment is also stable, with a projected agricultural growth of 4.5% and stable rural spending. Given the mixed signals, I would recommend a HOLD decision."
+}

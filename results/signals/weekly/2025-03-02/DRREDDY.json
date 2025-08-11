@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 24.34,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but the company's strong profitability profile and attractive valuation suggest potential upside. However, the high debt-to-equity ratio is a concern. The neutral news sentiment and macroeconomic environment do not provide a clear direction. Therefore, a hold decision is recommended, pending further improvement in the company's debt situation and market conditions."
+}

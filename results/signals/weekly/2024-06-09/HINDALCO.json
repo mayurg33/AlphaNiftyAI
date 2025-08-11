@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 92.57,
+  "sharpe_ratio": -0.08,
+  "reasoning": "The stock's high volatility and poor performance this week, combined with a negative news sentiment and a decline in share price due to the deferment of the Novelis IPO, suggest a sell decision. Additionally, the company's high debt-to-equity ratio is a concern. Although the company's financial health is stable and growth metrics are promising, the current market conditions and news sentiment outweigh these positives."
+}

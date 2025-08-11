@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 11.6,
+  "sharpe_ratio": -0.24,
+  "reasoning": "The stock's lackluster weekly performance and moderate volatility suggest caution. However, the company's strong profitability profile, attractive valuation, and positive news sentiment are encouraging. The high debt-to-equity ratio is a concern, but the overall financial health is stable. Given the mixed signals, a hold decision is warranted."
+}

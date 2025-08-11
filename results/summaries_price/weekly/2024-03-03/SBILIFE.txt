@@ -1,0 +1,3 @@
+SBILIFE underperformed its peers this week, with a weekly return of -0.45% compared to HDFCLIFE's 2.36% and INDUSINDBK's 4.1%. The stock's volatility was moderate at 10.21%, but its Sharpe Ratio of -0.17 indicates that the return was not justified by the level of risk taken. The Max Drawdown of -0.67% suggests that the stock was relatively risky this week.
+
+[Volatility: 10.21%]

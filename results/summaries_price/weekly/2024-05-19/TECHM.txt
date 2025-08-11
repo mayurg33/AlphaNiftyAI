@@ -1,0 +1,3 @@
+TECHM's weekly performance was moderate, with a 3.43% return, outperforming TCS but underperforming M&M. The stock's volatility was relatively high at 20.8%, indicating a moderate level of risk. Compared to its peers, TECHM's Sharpe Ratio of 0.65 suggests it offered a relatively low return per unit of risk taken. Overall, the stock's performance was average, with a Max Drawdown of -0.19% indicating a relatively stable week.
+
+[Volatility: 20.8%]

@@ -1,0 +1,14 @@
+Based on the current week's news, the sentiment is NEUTRAL for SBI stock.
+
+Notable events:
+
+1. SBI Chairman Setty aims to make SBI the most valued financial institution, which is a positive goal but lacks specific details or timelines.
+2. SBI MD Ashwini Tewari hopes for a market correction to bring funds back to the banking system, which is a neutral statement as it doesn't provide any concrete actions or benefits.
+
+Historical context:
+
+The first query has a mixed impact, with a negative impact (-2.86%) when SBI's market cap eroded, but positive impacts (+1.31% and +0.32%) when Morgan Stanley was bullish on SBI and the Chairman discussed the bank's record high profit.
+
+The second query also has mixed impacts, with a positive impact (+5.52%) when SBI raised funds through AT-1 bonds, a negative impact (-1.26%) when Covid affected corporate credit, and a positive impact (+4.10%) when Franklin gave money back to unitholders of debt MFs.
+
+Overall, the current week's news tone is neutral, as it lacks specific details or concrete actions that could significantly impact SBI's stock price.

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 28.22,
+  "sharpe_ratio": -0.65,
+  "reasoning": "The stock's high volatility and poor risk-adjusted returns indicate caution. However, the company's financial health is good, with strengths in gross margins and revenue growth. The high debt-to-equity ratio and rich valuation are concerns, but the neutral news sentiment and positive macroeconomic environment suggest holding the stock for now."
+}

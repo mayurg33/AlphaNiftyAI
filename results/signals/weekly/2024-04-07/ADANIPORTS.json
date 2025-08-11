@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 28.37,
+  "sharpe_ratio": 0.00,
+  "reasoning": "The stock's high volatility and low Sharpe Ratio indicate a riskier investment. Although the company's financial health is good, with high EBITDA and gross margins, the high debt-to-equity ratio and rich valuation are concerns. The positive news sentiment and strong macroeconomic environment are offset by the mediocre weekly performance, leading to a hold decision."
+}

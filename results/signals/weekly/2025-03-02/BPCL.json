@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 16.84,
+  "sharpe_ratio": 0,
+  "reasoning": "BPCL's weekly performance was dismal with a return of -5.46%, significantly underperforming its peers. The stock's volatility was high at 16.84%, indicating a turbulent week. Additionally, the company's financial health appears mixed with negative revenue and earnings growth, low profit margins, and a high debt-to-equity ratio, making it a risky investment."
+}

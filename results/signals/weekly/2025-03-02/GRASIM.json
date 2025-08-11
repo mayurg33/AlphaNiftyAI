@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 8.78,
+  "sharpe_ratio": -2.22,
+  "reasoning": "The stock's recent performance is disappointing, with a negative return and high volatility. However, the company's fundamentals are strong, with high gross margins and EBITDA margins. The news sentiment is neutral to positive, suggesting a potential recovery. Given the mixed signals, I recommend a HOLD decision, as the stock's valuation and debt position warrant caution."
+}

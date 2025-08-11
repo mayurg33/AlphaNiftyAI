@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEGATIVE for the IT stocks, specifically Infosys, Wipro, TCS, LTI, and Mindtree.
+
+The notable event is the Accenture Q2 result, which has put these IT stocks under stress. The historical data suggests that similar news events have led to a negative impact on the stock prices, with an average impact of around -5.72% (-1.85%, -7.59%, and +0.28%).
+
+The news tone is negative, indicating that investors may expect a decline in the stock prices of these IT companies in the short term.

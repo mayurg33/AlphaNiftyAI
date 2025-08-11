@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 15.52,
+  "sharpe_ratio": -1.30,
+  "reasoning": "The stock's high volatility and negative Sharpe Ratio indicate that the return is not justified by the level of risk taken. Additionally, the company's growth metrics are a concern, with revenue and earnings growth being negative, and the valuation is relatively high. The news sentiment is also predominantly negative, which may impact the stock's future performance."
+}

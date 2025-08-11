@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 22.98,
+  "sharpe_ratio": -0.99,
+  "reasoning": "The stock's weekly return of -5.63% and high volatility of 22.98% indicate a significant decline. The Sharpe Ratio of -0.99 suggests poor risk-adjusted returns. Furthermore, the company's disappointing Q4 results, negative revenue and earnings growth rates, and expensive valuation metrics (trailing P/E ratio of 59.47 and forward P/E ratio of 80.57) all point to a bearish outlook. Therefore, I recommend selling the stock."
+}

@@ -1,0 +1,3 @@
+ICICIBANK's weekly performance was disappointing, with a return of -1.16% and a Sharpe Ratio of -0.29, indicating poor risk-adjusted returns. The stock's volatility was relatively high at 15.61%, and it experienced a max drawdown of -1.69%. Compared to its peers, ICICIBANK underperformed INDUSINDBK and SBIN, but outperformed HDFCBANK. Overall, the stock was relatively risky this week.
+
+[Volatility: 15.61%]

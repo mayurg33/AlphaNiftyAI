@@ -1,0 +1,22 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: Stock market today: Nifty levels to watch; trading views on Dr Reddys Labs, Cipla & Zydus Life**
+
+The historical data suggests that the news tone is generally positive for pharma stocks, with two out of three instances showing a positive impact (+2.48% and +0.76%). The only negative instance (-4.05%) was related to a broader market trend. Therefore, the news tone for this query is **Positive**.
+
+**Query 2: Dr Reddy's Labs Dividend: Cash reward announcement in Q4 Results 2025 – Check quarterly earnings schedule**
+
+The historical data indicates that dividend announcements and quarterly earnings schedules tend to have a neutral to slightly positive impact on stock prices. Two out of three instances showed a positive or neutral impact (+1.40%, -0.17%, and -0.64%). Therefore, the news tone for this query is **Neutral**.
+
+**Query 3: Stocks to Watch Today: Bajaj Auto, LIC, Dr Reddys Labs Zydus Lifesciences, GR Infraprojects, Super Iron...**
+
+The historical data suggests that stock picks and watchlists can have varying impacts on stock prices. Two out of three instances showed a positive impact (+1.43% and -5.23%), while one instance was neutral (+0.03%). Therefore, the news tone for this query is **Neutral**.
+
+**Notable Events:**
+
+* Dr. Reddy's Labs is featured in two out of three queries, indicating that the stock is likely to be in focus this week.
+* Pharma stocks, including Dr. Reddy's Labs, Cipla, and Zydus Life, are expected to be in the spotlight, with a generally positive news tone.
+
+**Overall News Tone:**
+
+The overall news tone for the current week is **Neutral to Positive**, with a focus on pharma stocks and dividend announcements. However, the impact of stock picks and watchlists can be unpredictable, and investors should exercise caution when making investment decisions.

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 10.17,
+  "sharpe_ratio": -2.78,
+  "reasoning": "The stock's poor weekly performance and high max drawdown indicate high risk. However, its low P/E ratio and high dividend yield suggest undervaluation. The neutral news sentiment and mixed macroeconomic environment further support a hold decision, as the stock's growth prospects and debt position are concerns."
+}

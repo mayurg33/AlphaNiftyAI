@@ -1,0 +1,19 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**ICICI Bank and ONGC Recommendation**
+
+The overall sentiment for ICICI Bank is positive, with two out of three historical similar news articles having a positive impact on the stock price (+2.76% and +2.13%). The negative impact (-3.31%) was due to ICICI Lombard jumping as ICICI Bank approved raising its stake size, which might have led to a short-term correction. However, the overall tone suggests that ICICI Bank is a good buy.
+
+**BSE Oil and Gas Index**
+
+The overall sentiment for the BSE Oil and Gas Index is negative, with three out of three historical similar news articles having a negative impact on the stock price (-3.51%, -0.39%, and -1.49%). This suggests that the index is likely to experience downward pressure.
+
+Notable events:
+
+* Sachin Gupta of 5paisa recommends ICICI Bank and ONGC as shares to buy.
+* The BSE Oil and Gas Index is up 3%, indicating a short-term surge in oil and gas stocks.
+
+News tone:
+
+* ICICI Bank: Positive
+* BSE Oil and Gas Index: Negative

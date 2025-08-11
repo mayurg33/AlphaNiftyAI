@@ -1,0 +1,3 @@
+JSWSTEEL's weekly performance was disappointing, with a return of -2.32%, outpacing only TATASTEEL's decline among its peers. The stock's volatility was exceptionally high at 18.53%, indicating a highly turbulent week. While its Sharpe Ratio of -0.50 suggests poor risk-adjusted returns, the Max Drawdown of -2.47% highlights the stock's vulnerability to losses. Overall, JSWSTEEL underperformed its peers and exhibited high risk this week.
+
+[Volatility: 18.53%]

@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 50.51,
+  "sharpe_ratio": 0.56,
+  "reasoning": "The stock has shown strong weekly performance with a 7.1% return, outperforming its peers. The Sharpe Ratio of 0.56 suggests that the return is relatively attractive considering the risk taken. Although the company's financial health is mediocre, the news sentiment is neutral to positive, and the macroeconomic environment is supportive of the automotive industry. Therefore, I recommend a BUY decision."
+}

@@ -1,0 +1,9 @@
+Based on the historical news data, the current week's news sentiment is NEUTRAL to NEGATIVE for ITC Hotels.
+
+Notable events:
+
+* The company is expected to list in 9 months, with a board decision likely on August 14.
+* Analysts believe that the demerger of the hotel business will not affect synergies between ITC's other businesses and hotels.
+* The demerger of the hotel business is seen as an opportunity for investors to grow.
+
+The news tone is neutral to negative because two out of the three news articles have a negative impact on the stock price, with a cumulative impact of -13.14%. The news articles seem to be focused on the demerger of the hotel business and its potential impact on the company and investors. While there are some positive notes, such as the opportunity for growth, the overall tone is cautious and slightly negative.

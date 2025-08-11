@@ -1,0 +1,14 @@
+Based on the news articles, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+* NTPC Green Energy's shares hit a record high, with analysts providing positive views on the company's prospects.
+* The company's shares also experienced a 10% decline from the recent record high, raising questions about whether it's time to book profits.
+
+**Tone Analysis:**
+
+The news tone is generally neutral to positive for NTPC Green Energy's stock. The first article mentions the company's first upper circuit, which is a positive event. The second article highlights the company's shares zooming 10% to a record high, with analysts providing positive views, which is also a positive tone. The third article discusses the decline in shares from the recent record high, which has a neutral tone. The fourth article provides a neutral update on the company's share price.
+
+Overall, the positive news and analyst views outweigh the neutral and negative news, resulting in a neutral to positive tone for the stock.

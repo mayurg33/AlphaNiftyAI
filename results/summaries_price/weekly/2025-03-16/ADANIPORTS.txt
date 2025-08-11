@@ -1,0 +1,3 @@
+ADANIPORTS underperformed its peers this week, with a weekly return of -2.07% compared to -0.32% for ADANIENT, -0.62% for MARUTI, and -0.14% for SBIN. The stock's volatility was relatively low at 1.72%, indicating a relatively stable performance. However, its Sharpe Ratio of -6.43 suggests that the stock's return was not justified by its risk. Overall, ADANIPORTS was a relatively low-risk but underperforming stock this week.
+
+[Volatility: 1.72%]

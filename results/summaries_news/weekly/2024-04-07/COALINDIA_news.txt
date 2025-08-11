@@ -1,0 +1,11 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Coal India's output increases 10% to 773.6 million tonnes in FY24**
+
+The news tone is **Neutral**. The historical data suggests that news related to Coal India's output has had varying impacts on the stock price. While a 3.3% increase in coal output led to a 0.72% gain, a 10% increase in output in the current news may not necessarily translate to a significant positive impact. The confidence in meeting power demand had a negative impact of -1.91% in the past. Therefore, the overall sentiment is neutral.
+
+**Share Market Highlights 01 April 2024: Sensex gains 363 pts, Nifty closes at 22,462**
+
+The news tone is **Positive**. The historical data suggests that news related to the Sensex and Nifty gains has had a positive impact on the stock market. The notable events mentioned in the historical data, such as stocks looking strong to buy and surpassing 50-day SMA, have led to positive impacts ranging from 0.06% to 2.41%. Therefore, the overall sentiment is positive.
+
+Notable events for the week include Coal India's significant increase in output and the Sensex gaining 363 points, leading to a positive close for the Nifty.

@@ -1,0 +1,15 @@
+Based on the current week's news, the sentiment is mixed, with a slight leaning towards being negative.
+
+Notable events:
+
+* Hindalco Industries' Q4 PAT is expected to increase by 61% YoY to Rs. 5,110 cr, which is a positive news.
+* However, the stock has been dropping due to US-China trade war fears, which is a negative news.
+* There is also a neutral news article discussing whether the weakness in Hindalco's stock is a sign that the market will correct the share price given decent financials.
+
+Historical similar news and price impact analysis suggests that:
+
+* Positive news about Hindalco's earnings and capacity expansion has led to a mixed impact on the stock price in the past, ranging from -12.14% to +3.72%.
+* News about the stock's weakness and market correction has also led to a mixed impact, ranging from -6.42% to -0.62%.
+* News about the metal sector and trade war fears has led to a significant impact on the stock price, ranging from +13.18% to -11.67%.
+
+Overall, the news tone is neutral to slightly negative, as the positive news about Hindalco's earnings is offset by the negative news about the US-China trade war fears and its impact on the metal sector.

@@ -1,0 +1,7 @@
+Based on the provided historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+The notable event is the announcement of ICICI Bank's Q2 results FY2024-25 date and time, which is a neutral event as it is a routine quarterly earnings schedule announcement.
+
+The historical news and price impact data do not indicate a strong positive or negative sentiment around ICICI Bank's quarterly results. The impact of the news on the stock price is relatively small, ranging from -0.41% to -7.35%, which suggests that the market reaction to the news is not extreme.
+
+Overall, the news tone is neutral, and investors may not have a strong expectation of a significant price movement based on this announcement.

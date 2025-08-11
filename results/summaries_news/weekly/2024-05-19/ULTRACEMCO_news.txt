@@ -1,0 +1,16 @@
+Based on the historical similar news and price impact, here's a summary of the current week's news sentiment:
+
+**Query 1: Ambuja, ACC, JK, Ultratech: Will cement stocks crack under pressure?**
+
+The news sentiment is NEUTRAL. The historical data shows that cement stocks have experienced both positive and negative price impacts in the past. In 2021, there were two instances where cement stocks surged, with a positive impact of +1.77%. However, in 2022, there was a negative impact of -2.97% when Ultratech, Shree Cement, and JK Cement hit 52-week lows. This suggests that the current news sentiment is uncertain and may not have a clear direction on the stock price.
+
+**Query 2: Stock market: Reason behind Sensex's 1,000-pt recovery amid high volatility**
+
+The news sentiment is NEUTRAL to SLIGHTLY POSITIVE. The historical data shows that the stock market has experienced both positive and negative price impacts in the past. While there were instances of negative impacts (-0.56% and -3.32%), there was also a positive impact of +4.04% in 2021. The current news sentiment suggests that the Sensex's 1,000-pt recovery may be a positive development, but the high volatility implies that the market is still uncertain.
+
+Notable events:
+
+* Cement stocks have been under pressure in the past, but have also experienced surges.
+* The Sensex has recovered 1,000 points amid high volatility.
+
+Overall, the news tone is NEUTRAL, with a slight leaning towards positivity for the Sensex recovery. However, the cement stocks' sentiment is uncertain and may depend on various market factors.

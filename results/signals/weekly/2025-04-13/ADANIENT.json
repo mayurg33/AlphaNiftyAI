@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 52.14,
+  "sharpe_ratio": 0.50,
+  "reasoning": "The stock's high volatility and low Sharpe Ratio indicate a riskier investment. Although the news sentiment is positive, the company's mixed financial health and high debt-to-equity ratio are concerns. The macroeconomic environment is generally positive, but it may not be enough to outweigh the company's weaknesses. Therefore, I recommend a HOLD decision."
+}

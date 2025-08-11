@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, the current week's news sentiment appears to be NEUTRAL.
+
+Notable events mentioned in the news include the declaration of Q4 results by major firms such as Reliance Industries, HCL Tech, Axis Bank, and HUL, among others.
+
+The historical data suggests that the impact of earnings announcements on the stock market can be varied. In one instance, the impact was negative (-1.83%), while in another, it was positive (+0.94%). In yet another instance, the impact was negative again (-3.40%). Therefore, it is difficult to predict the exact impact of the upcoming earnings announcements on the stock market.
+
+Overall, the news tone is neutral, as it simply reports on the upcoming events without expressing a clear opinion or sentiment.

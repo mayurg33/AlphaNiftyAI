@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 32.97,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock has a high volatility of 32.97%, indicating a risky investment. The news sentiment is negative, with a decline in share price due to the stock split. The company's growth metrics are a concern, with revenue growth being negative and earnings growth being sluggish. Additionally, the debt-to-equity ratio of 315.41 is a weakness, indicating high leverage."
+}

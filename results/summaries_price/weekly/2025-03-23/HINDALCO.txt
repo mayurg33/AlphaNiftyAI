@@ -1,0 +1,3 @@
+Hindalco's weekly return of 2.14% outperformed ITC but underperformed ULTRACEMCO, with a moderate Sharpe Ratio of 0.31 indicating a relatively balanced risk-return profile. The stock's volatility of 27.55% was higher than its peers, suggesting a riskier investment. Despite this, Hindalco's max drawdown of -1.5% was relatively contained, indicating some resilience in the face of market fluctuations.
+
+[Volatility: 27.55%]

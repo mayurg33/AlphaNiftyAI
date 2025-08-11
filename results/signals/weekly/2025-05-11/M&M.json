@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 35.98,
+  "sharpe_ratio": -0.14,
+  "reasoning": "The stock's high volatility and negative returns make it a concerning investment. The company's high debt-to-equity ratio and valuation on the higher side are also red flags. Although the company's growth metrics are moderate, the mixed news sentiment with a slightly negative bias due to the rights issue announcements further supports a sell decision."
+}

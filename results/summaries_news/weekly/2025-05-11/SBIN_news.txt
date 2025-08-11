@@ -1,0 +1,9 @@
+Based on the current week's news, the sentiment is mixed.
+
+The first news "Buy State Bank of India; target of Rs 975: Emkay Global Financial" has a positive tone, indicating a buy recommendation with a target price of Rs 975. This suggests that the brokerage firm Emkay Global Financial is bullish on the stock.
+
+On the other hand, the second news "State Bank of India registers 9% y-o-y decline in Q4 net profit" has a negative tone, indicating a decline in the bank's net profit. This could be a concern for investors.
+
+Notable events include the buy recommendation from Emkay Global Financial and the decline in SBI's Q4 net profit.
+
+Overall, the news tone is neutral, as the positive tone from the buy recommendation is offset by the negative tone from the decline in net profit. However, it's worth noting that the historical data suggests that similar news events have had a positive impact on the stock price in the past.

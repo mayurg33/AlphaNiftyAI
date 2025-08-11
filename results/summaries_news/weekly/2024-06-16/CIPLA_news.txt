@@ -1,0 +1,9 @@
+Based on the historical news data, the current week's news sentiment for the query "Best Pharma Stock: Sun Pharma vs Cipla" is NEUTRAL to NEGATIVE.
+
+Notable events mentioned in the news articles include:
+
+* Sun Pharma winning U.S. FDA approval for an anti-fungal injection (2021-12-16)
+* An analyst's positive take on Sun Pharma and Cipla (2022-11-03)
+* Sun Pharma's plans for acquisitions in the US, Europe, and emerging markets (2021-11-03)
+
+However, the impact of these news events on the stock price has been mostly negative, with the largest impact being a -3.91% decline after the FDA approval news. The overall tone of the news is neutral to negative, suggesting that the market has not reacted positively to these developments.

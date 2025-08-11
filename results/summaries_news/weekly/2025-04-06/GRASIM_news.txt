@@ -1,0 +1,21 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Grasim appoints Vadiraj Kulkarni as business head of Cellulosic Fibres**
+
+The news tone is NEUTRAL for Grasim Industries. The historical data shows mixed reactions to Grasim's announcements, with a positive impact of +1.09% in one instance and negative impacts of -0.94% and -1.84% in other instances. The appointment of a new business head may not have a significant impact on the stock price.
+
+**Nifty stocks to watch in FY26: Right stocks could yield high returns**
+
+The news tone is NEUTRAL for Nifty stocks. The historical data shows a mix of positive and negative reactions to news related to Nifty stocks, with impacts ranging from -3.92% to +2.79%. The article's tone is optimistic, suggesting that the right stocks could yield high returns, but the historical data indicates that the market's reaction is unpredictable.
+
+**Stock Market Today, 2 April: THESE 5 stocks gained the most as Sensex, Nifty end in green | ET NOW Closing Bell**
+
+The news tone is POSITIVE for the stock market. The historical data shows that news about specific stocks gaining the most and the Sensex and Nifty ending in green tends to have a positive impact, with only one instance of a negative impact of -4.55%. The article's tone is upbeat, highlighting the top gainers, which may boost investor sentiment.
+
+Notable events:
+
+* Grasim Industries appoints a new business head for Cellulosic Fibres.
+* The article highlights Nifty stocks to watch in FY26, suggesting potential high returns.
+* The stock market ends in green, with specific stocks gaining the most.
+
+Overall, the news tone is NEUTRAL to POSITIVE, with a mix of optimistic and neutral sentiments.

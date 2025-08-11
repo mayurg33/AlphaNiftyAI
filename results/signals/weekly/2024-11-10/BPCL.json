@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 31.67,
+  "sharpe_ratio": 0.29,
+  "reasoning": "The stock's high volatility and relatively low Sharpe Ratio indicate a riskier investment environment. The company's financial health is mixed, with low profitability metrics and high debt-to-equity ratio. The news sentiment is predominantly negative, with historical analysis suggesting a potential decline in stock price. Overall, the risks outweigh the potential benefits, leading to a SELL decision."
+}

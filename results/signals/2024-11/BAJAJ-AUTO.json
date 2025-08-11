@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance, high volatility, and negative Sharpe Ratio suggest an unfavorable risk-return profile. Additionally, the high correlation with peers and negative news sentiment indicate a downturn in the company's performance. Although the macroeconomic environment is generally positive, the automotive industry's growth is not sufficient to outweigh the stock's weaknesses."
+}

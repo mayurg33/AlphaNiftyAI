@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Despite the positive news sentiment and favorable macroeconomic environment, the stock's poor price performance and high debt levels are concerns. A HOLD recommendation is warranted until the company's profitability and debt situation improve, or the stock price corrects to a more favorable entry point.

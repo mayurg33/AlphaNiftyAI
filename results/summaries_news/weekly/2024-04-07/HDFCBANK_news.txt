@@ -1,0 +1,11 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+The news that HDFC Bank's loan book has crossed Rs 25 lakh crore in Q4 is a significant event, but its impact on the stock price is uncertain based on the historical data. In the past, similar news has had both positive and negative impacts on the stock price.
+
+Notable events from the historical data include:
+
+* HDFC Bank beating SBI in Covid scheme loans, which had a negative impact of -2.35% on the stock price.
+* HDFC Bank's MSME loan book crossing Rs 20,000 cr in Tamil Nadu, which had a negative impact of -3.47% on the stock price.
+* Higher loan sales pushing HDFC standalone net up 11 pc to Rs 3,261 cr, which had a positive impact of +3.48% on the stock price.
+
+Overall, the news tone is neutral, and the market's reaction to this news will depend on various factors, including the overall market sentiment and the company's future prospects.

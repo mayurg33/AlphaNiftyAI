@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance, high volatility, and negative Sharpe Ratio indicate a poor risk-reward ratio. Additionally, the maximum drawdown of 8.1% suggests significant decline potential. Although the news sentiment is positive, the fundamental analysis reveals concerns about valuation, profitability, growth, and leverage, which outweigh the positive sentiment. The macroeconomic environment is generally positive, but it does not outweigh the stock's specific issues."
+}

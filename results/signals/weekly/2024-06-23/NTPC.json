@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 21.04,
+  "sharpe_ratio": -0.67,
+  "reasoning": "Although NTPC's financial health is good, with strong profitability and attractive dividend yield, the high debt-to-equity ratio is a concern. The stock's weekly performance was disappointing, with high volatility and a negative Sharpe Ratio. However, the macroeconomic environment is supportive, with a neutral to positive news sentiment. Therefore, I recommend a HOLD decision, as the stock's potential for future growth is balanced by its current risks."
+}

@@ -1,0 +1,11 @@
+Based on the historical news data, here is a summary of the current week's news sentiment for Bajaj Auto:
+
+**News Sentiment:** Neutral
+
+**Notable Events:**
+
+* There is no news data available for the current week. The provided data only shows historical news events from 2022 and 2023.
+
+**Tone:**
+
+Since there is no current week's news data, it's difficult to determine the tone of the news sentiment. However, based on the historical data, the tone seems to be mixed. The news events from 2022 and 2023 show both positive and negative impacts on the stock price. The positive news event on June 2, 2023, had a minimal impact of +0.20%, while the negative news event on January 19, 2022, had a more significant impact of -0.88%. The news event on October 3, 2022, had a moderate positive impact of +2.15%. Overall, the tone is neutral due to the lack of current news data and the mixed sentiment in the historical data.

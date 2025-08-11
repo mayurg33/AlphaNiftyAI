@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 28.17,
+  "sharpe_ratio": -0.54,
+  "reasoning": "The stock's high volatility and negative Sharpe Ratio indicate a high-risk investment. Although the company's profitability and valuation seem reasonable, its stagnant revenue growth and high debt-to-equity ratio are concerns. The negative news sentiment and declining stock price also suggest caution. However, some brokerages remain bullish, which prevents me from making a SELL decision."
+}

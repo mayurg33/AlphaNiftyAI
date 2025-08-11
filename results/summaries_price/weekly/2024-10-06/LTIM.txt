@@ -1,0 +1,3 @@
+LTIM's weekly performance was disappointing, with a return of -2.09%, indicating a decline in value. The stock's volatility was moderate at 16.16%, which is relatively lower compared to its peers. Despite this, LTIM underperformed its peers, with TECHM being the top performer. The stock's risk profile was moderate, as reflected in its Sharpe Ratio of -0.68 and Max Drawdown of -2.54%. 
+
+[Volatility: 16.16%]

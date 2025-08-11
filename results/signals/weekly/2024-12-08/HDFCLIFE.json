@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 28.54,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe ratio indicate a risky investment. Additionally, the negative news sentiment surrounding the data breach and stretched valuation with high P/E ratios further support a sell decision. The company's financial stability and decent ROE are not enough to outweigh the current risks and concerns."
+}

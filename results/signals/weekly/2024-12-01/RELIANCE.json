@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 22.97,
+  "sharpe_ratio": 0.08,
+  "reasoning": "The stock's weekly return of 0.4% is modest, and the Sharpe Ratio of 0.08 indicates that the return is not impressive given the level of risk taken. However, the company's financial health is good, with strong gross margins and EBITDA margins. The news sentiment is positive, driven by the acquisition of a stake in Wavetech Helium and the upgrade by Citi, which could support the stock price in the short term."
+}

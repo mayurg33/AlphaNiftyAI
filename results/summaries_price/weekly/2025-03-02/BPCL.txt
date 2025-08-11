@@ -1,0 +1,3 @@
+BPCL's weekly performance was dismal, with a return of -5.46%, significantly underperforming its peers. The stock's volatility was high at 16.84%, indicating a turbulent week. Compared to its peers, BPCL's return was the worst, and its Sharpe ratio was also among the lowest, suggesting high risk for low return. Overall, BPCL was a risky and underperforming stock this week.
+
+[Volatility: 16.84%]

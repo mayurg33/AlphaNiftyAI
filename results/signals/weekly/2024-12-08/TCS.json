@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 7,
+  "volatility": 19.44,
+  "sharpe_ratio": 0.80,
+  "reasoning": "The stock has delivered a strong weekly return of 3.95% with a decent Sharpe Ratio of 0.80, indicating that the return is somewhat justified by the level of risk taken. The company's financial health is strong, with high gross margins, profit margins, and ROE. Although the revenue and earnings growth rates are relatively low, the news sentiment is leaning towards being positive, with TCS's capabilities in digital transformation and potential to improve customer service. This suggests that the company has growth prospects, making it a BUY."
+}

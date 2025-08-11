@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: ITC's stable performance, low volatility, and relatively high Sharpe Ratio suggest a HOLD, as the stock's modest returns and lack of significant upside momentum do not warrant a strong BUY recommendation, while its decent profitability, earnings growth, and manageable debt levels also do not indicate a SELL signal.

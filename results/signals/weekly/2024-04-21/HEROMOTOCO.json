@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 6.15,
+  "sharpe_ratio": -3.33,
+  "reasoning": "The stock's poor performance this week, with a return of -3.82%, is a concern. However, the company's strong financial position, with a high ROE and decent profit margins, suggests potential for future growth. The positive news sentiment and expansion into Nepal are also encouraging. Nevertheless, the high debt-to-equity ratio and low Sharpe ratio indicate that the stock is not yet a compelling buy. Therefore, I recommend a HOLD decision."
+}

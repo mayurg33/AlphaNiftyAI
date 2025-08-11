@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 37.11,
+  "sharpe_ratio": 0.20,
+  "reasoning": "The stock's lackluster performance and high volatility are concerns, but the company's strong profitability profile and reasonable valuation are positives. The news sentiment is overwhelmingly positive, which could drive the stock price up. However, the high debt-to-equity ratio is a major concern. Overall, I'm neutral on the stock, and a hold decision is warranted."
+}

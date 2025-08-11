@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the technical analysis suggests a BUY due to the stock's consistent returns and strong Sharpe Ratio, the fundamental analysis raises concerns about the company's profitability, growth, and high debt levels, making it a SELL. However, the overwhelmingly positive news sentiment and favorable macroeconomic environment support a HOLD signal, as the stock may continue to benefit from the current market trends despite its underlying weaknesses.

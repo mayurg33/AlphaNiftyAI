@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL to NEGATIVE for the stock.
+
+The notable event is ITC buying a stake in a penny stock ahead of the ITC Hotels demerger record date. However, the historical news suggests that the demerger news has had a negative impact on the stock price in the past, with a price impact of -5.07% on two occasions and -1.58% on another occasion.
+
+There is no positive news or sentiment associated with this event, and the historical data suggests that the market has reacted negatively to the demerger news in the past. Therefore, the tone of the news is more neutral to negative for the stock.

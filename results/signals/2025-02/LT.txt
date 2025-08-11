@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the news sentiment is positive, indicating potential growth and increased valuation, the fundamental analysis suggests a HOLD rating due to high valuation and debt levels, which are offset by decent profitability and growth prospects. Additionally, the macroeconomic environment is supportive of growth, but the stock's poor performance and high volatility in the past 12 months warrant caution.

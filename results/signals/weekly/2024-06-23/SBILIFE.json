@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 19.9,
+  "sharpe_ratio": -0.17,
+  "reasoning": "The stock's poor risk-adjusted returns and high volatility are concerns. However, the company's strong profitability profile and healthy book value are positives. The neutral news sentiment and mixed macroeconomic environment also don't provide a clear direction. Therefore, I recommend a HOLD decision, awaiting further clarity on the stock's performance."
+}

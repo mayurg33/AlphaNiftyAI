@@ -1,0 +1,16 @@
+Based on the current week's news, here is a summary of the sentiment:
+
+**Stocks to watch on April 4: Shares in news; HDFC Bank, Zomato, DMart**
+
+The news tone is **Positive** for HDFC Bank. Historical data suggests that similar news has led to a positive impact on the stock price, with an average increase of around 1.68%. This news is likely to have a positive effect on HDFC Bank's stock price.
+
+**Nestle India tumbles 4%, nears 52-wk low as BoFA downgrades to Underperform**
+
+The news tone is **Negative** for Nestle India. Historical data suggests that similar news has led to a negative impact on the stock price, with an average decrease of around 1.27%. This news is likely to have a negative effect on Nestle India's stock price.
+
+Notable events:
+
+* HDFC Bank is mentioned in the "Stocks to watch" news, which has historically led to a positive impact on the stock price.
+* Nestle India has been downgraded to Underperform by BoFA, which has historically led to a negative impact on the stock price.
+
+Overall, the news tone is mixed, with a positive sentiment for HDFC Bank and a negative sentiment for Nestle India.

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 30.61,
+  "sharpe_ratio": 0.37,
+  "reasoning": "The stock's decent weekly performance and positive news sentiment are offset by its high volatility and debt-to-equity ratio. The company's strong profitability profile and respectable revenue and earnings growth rates are encouraging, but the high volatility and debt concerns warrant caution. Given the mixed signals, a hold decision is recommended."
+}

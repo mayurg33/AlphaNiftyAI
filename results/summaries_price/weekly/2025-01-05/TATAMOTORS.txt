@@ -1,0 +1,3 @@
+TATAMOTORS had a stellar week, delivering a 7.74% return, outperforming most of its peers. The stock's volatility was relatively high at 17.19%, but its Sharpe Ratio of 1.74 suggests that the returns were generated with a reasonable level of risk. Compared to its peers, TATAMOTORS outperformed TATASTEEL and TATACONSUM, but trailed MARUTI's impressive 10.51% return. Overall, the stock's performance was strong, but investors should be aware of the elevated volatility.
+
+[Volatility: 17.19%]

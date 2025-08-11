@@ -1,0 +1,18 @@
+**Weekly News Sentiment Summary**
+
+The overall sentiment of this week's news is **Negative**.
+
+**Notable Events:**
+
+1. Grasim Industries reported a minor safety incident at its Karnataka plant, which led to a slide in its stock price.
+2. Solar Industries India was identified as one of the four stocks signaling further bearishness due to a "Death Crossover" technical indicator.
+3. A gas leak incident at a Karwar plant affected 19 people, leading to a protest by local residents.
+4. Briefs mentioned BuLi Chemicals and Grasim Industries, but the impact was neutral.
+
+**Stock Impact:**
+
+* Grasim Industries: Negative (minor safety incident and briefs mentioning debt plans)
+* Solar Industries India: Negative (bearish technical indicator)
+* No clear impact on BuLi Chemicals
+
+Historical data suggests that similar incidents, such as gas leaks, have had varying impacts on stock prices, ranging from +10.30% to -2.17%. The current news tone is more negative, which may indicate a potential decline in stock prices for Grasim Industries and Solar Industries India.

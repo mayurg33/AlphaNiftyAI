@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 20.75,
+  "sharpe_ratio": -0.55,
+  "reasoning": "The stock's underperformance and high volatility, combined with a negative Sharpe Ratio, suggest a risky investment. The news sentiment is also bearish, with historical data indicating a negative impact on the stock. Although the bank's profitability is a strength, the revenue growth concerns and lack of data on certain key metrics raise uncertainty. Overall, the risks outweigh the potential benefits, leading to a SELL decision."
+}

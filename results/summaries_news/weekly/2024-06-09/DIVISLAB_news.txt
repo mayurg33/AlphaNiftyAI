@@ -1,0 +1,9 @@
+Based on the provided historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Slightly Positive
+
+**Notable Events:** The news article discusses how Congress leader Rahul Gandhi's stock portfolio performed during the recent market plunge. The article provides details on the performance of his stocks, but the tone is more informative and neutral rather than sensational or opinionated.
+
+**Tone:** The tone of the news is neutral, with a slightly positive bias. The historical similar news and price impact suggest that the market reaction to such news is often mixed, with some instances showing a positive impact (e.g., +0.92% and +0.84%) and others showing a negative impact (e.g., -5.32%). However, the overall tone of the article appears to be more focused on providing information rather than expressing a strong opinion or sentiment.
+
+Overall, the news tone is unlikely to have a significant impact on the stock price, and investors may not react strongly to this news.

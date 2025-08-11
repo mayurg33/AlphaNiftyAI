@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 32.07,
+  "sharpe_ratio": -0.21,
+  "reasoning": "The stock's high volatility and poor risk-adjusted returns, as indicated by the Sharpe Ratio, suggest a risky investment. Additionally, the company's stretched valuation and high debt-to-equity ratio are concerns. The negative news sentiment and historical data suggesting a negative impact on the stock price from electoral bond-related news further support a sell decision."
+}

@@ -1,0 +1,3 @@
+M&M's weekly performance was disappointing, with a return of -2.19% and a Sharpe Ratio of -0.29, indicating poor risk-adjusted returns. The stock's volatility was moderate at 29.41%, but its Max Drawdown of -2.48% suggests a significant decline in value. Compared to its peers, M&M underperformed TECHM but outperformed MARUTI and KOTAKBANK. Overall, the stock was moderately risky this week.
+
+[Volatility: 29.41%]

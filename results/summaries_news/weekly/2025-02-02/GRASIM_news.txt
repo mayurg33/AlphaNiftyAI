@@ -1,0 +1,13 @@
+Based on the historical similar news, the sentiment of the current week's news is NEUTRAL to SLIGHTLY NEGATIVE.
+
+The news about Grasim Industries reporting a GST search and seizure at its Tamil Nadu unit is likely to have a negative impact on the stock, as it may indicate potential tax evasion or irregularities. Historically, similar news about GST-related issues, such as incorrect input tax credit claims or evasion, has resulted in a negative impact on the stock price (e.g., -1.86% in the case of M&M).
+
+However, it's worth noting that the impact of such news can vary depending on the specific circumstances and the company's response to the issue. In some cases, the news may have a neutral or even positive impact if the company is able to resolve the issue quickly and demonstrate compliance with GST regulations.
+
+Notable events in the historical similar news include:
+
+* Over 5,000 cases of PAN/Aadhaar misuse to claim ITC identified (positive impact)
+* M&M gets Rs 14.3 lakh penalty notice for incorrect input tax credit claim by erstwhile arm (negative impact)
+* GST evasion involving 10 fictitious firms detected; 1 held in Gujarat (positive impact)
+
+Overall, the news tone is neutral to slightly negative, and investors may want to monitor the situation closely to see how Grasim Industries responds to the GST search and seizure and what the potential implications are for the company's financials and reputation.

@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 43.64,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's weekly performance was dismal, with a return of -7.48%, and its volatility was extremely high, making it a very risky investment. The company's revenue growth is slow and earnings growth is negative, indicating potential challenges ahead. Additionally, the news sentiment is predominantly negative, which could further impact the stock's performance."
+}

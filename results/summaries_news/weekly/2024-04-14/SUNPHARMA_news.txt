@@ -1,0 +1,11 @@
+Based on the current week's news, the sentiment is NEUTRAL to NEGATIVE for Sun Pharma.
+
+Notable events:
+
+* Sun Pharma's stock price has fallen to a three-week low due to the FDA's action on its Dadra plant, which is a negative event.
+* On the other hand, Belarus is seeking high-quality medicines from Indian pharma companies, including Sun Pharma, which is a positive development.
+* The company has received OAI (Official Action Indicated) status from the USFDA for its Dadra facility, which is a neutral event as it indicates that the facility is not fully compliant with FDA regulations.
+
+Historical analysis suggests that FDA actions or directives have a negative impact on Sun Pharma's stock price, ranging from -1.00% to -4.73%. On the other hand, positive news such as setting up a new manufacturing plant or being in focus for its pharma business has a positive impact, ranging from +2.95% to +7.87%.
+
+Overall, the negative news related to the FDA's action on the Dadra plant seems to be weighing on the stock price, while the positive news from Belarus is not enough to offset the negative sentiment.

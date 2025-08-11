@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 33.25,
+  "sharpe_ratio": 0.92,
+  "reasoning": "The stock's recent performance is decent, but its high volatility is a concern. The company's financial health is stable, but it needs to work on reducing its debt burden. The macroeconomic environment is generally positive, but the penalty news has a neutral impact. Overall, I'm neutral on the stock and recommend a HOLD decision."
+}

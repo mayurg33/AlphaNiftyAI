@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* Emkay Global shares its pecking order for Infosys, TCS, Wipro, HCL Tech, and TechM LTIM, which may have a neutral impact on the stock prices.
+
+The news tone is neutral because the historical similar news has shown mixed impacts on the stock prices. While some news had a negative impact (-1.55% and -6.60%), one news had a positive impact (+2.17%). Therefore, it is difficult to determine a clear positive or negative tone for the current week's news.

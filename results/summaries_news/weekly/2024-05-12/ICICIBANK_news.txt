@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+Notable events mentioned in the news include Motilal Oswal's recommendation to buy shares of ICICI Bank and NMDC, among others.
+
+The tone of the news is neutral because the historical similar news has shown mixed impacts on the stock price. While one instance showed a positive impact of +5.37%, another instance showed a negative impact of -0.25%, and a third instance showed a slightly negative impact of -0.65%. Therefore, it is difficult to determine a clear positive or negative tone from the news.

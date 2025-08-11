@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 24.18,
+  "sharpe_ratio": -0.23,
+  "reasoning": "The stock's weekly performance was disappointing, with a negative return and high volatility. The news sentiment is also negative, with a decline in market capitalization and share price. Furthermore, the company's revenue and earnings growth rates are relatively low, which could be a concern. Although the company's financial health is stable, the overall outlook is bearish, suggesting a sell decision."
+}

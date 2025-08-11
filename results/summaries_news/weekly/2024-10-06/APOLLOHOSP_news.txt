@@ -1,0 +1,16 @@
+**Weekly News Sentiment: Neutral**
+
+The current week's news sentiment is neutral, with two news articles having opposite tones.
+
+**Notable Events:**
+
+1. Apollo Hospitals is in talks to sell a stake in its multispecialty clinics chain, with IFC (International Finance Corporation) planning to exit. This news has a neutral tone, as it is a business transaction that may or may not have a significant impact on the company's stock price.
+2. Superstar Rajinikanth has been admitted to a Chennai hospital, but his condition is reported to be stable. This news is unrelated to the stock market and has no direct impact on any company's stock price.
+
+**Historical Similar News and Price Impact:**
+
+The historical data suggests that news related to Apollo Hospitals has had a mixed impact on its stock price in the past. The news about IOC and NIFTY rejig had a positive impact (+3.63%), while the news about 5G adoption had a negative impact (-1.78%). The news about Bharti Airtel's vaccination program had a significant positive impact (+7.48%).
+
+The news about Rajinikanth's hospitalization has no direct correlation with any stock, and the historical data shows that unrelated news events have had varying impacts on different stocks.
+
+Overall, the current week's news sentiment is neutral, with no strong positive or negative tone that could significantly impact the stock price.

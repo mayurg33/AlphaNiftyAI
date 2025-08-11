@@ -1,0 +1,9 @@
+Based on the historical similar news and price impact, the current week's news sentiment is POSITIVE.
+
+Notable events mentioned in the news include:
+
+* Infosys and Tata Steel being listed as stocks to watch
+* Mega and large-cap stocks, including LIC and Tata Motors, being in focus
+* Metal counters, including Tata Steel, being expected to shine
+
+The overall tone of the news is positive, with historical price impacts ranging from +0.77% to +3.20%. This suggests that the news is likely to have a positive impact on the stock prices of the mentioned companies.

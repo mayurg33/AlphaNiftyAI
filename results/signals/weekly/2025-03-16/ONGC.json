@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 20.74,
+  "sharpe_ratio": 0.26,
+  "reasoning": "The stock's low P/E ratios and high dividend yield suggest undervaluation. The positive news sentiment and buy recommendation from Geojit Financial Services also support a buy decision. Additionally, the macroeconomic environment is stable, with a growing services sector and low unemployment, which could boost the company's profitability. However, the high debt-to-equity ratio and negative earnings growth rate are concerns, but they are outweighed by the positives."
+}

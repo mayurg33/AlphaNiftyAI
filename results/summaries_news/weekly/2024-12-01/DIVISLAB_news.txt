@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+Notable events: The news article recommends 7 stocks, including Divi's Lab and Torrent Pharma, for Monday's trading.
+
+The historical data shows a mixed sentiment, with one positive impact (+1.71%) and two negative impacts (-4.20% and -4.76%). This suggests that the market's reaction to pharma stock recommendations is unpredictable, and the outcome may vary depending on various factors. Therefore, the overall tone of the news is neutral, neither strongly positive nor negative.

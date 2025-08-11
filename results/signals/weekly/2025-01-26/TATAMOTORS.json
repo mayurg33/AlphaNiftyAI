@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 28.22,
+  "sharpe_ratio": -0.74,
+  "reasoning": "The stock's high volatility and poor performance make it a risky investment. However, the company's low trailing P/E ratio and high ROE suggest it may be undervalued. The news sentiment is neutral, and the macroeconomic environment is supportive of the automotive industry. Therefore, I recommend a HOLD decision, as the stock's potential upside is balanced by its current risks."
+}

@@ -1,0 +1,16 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News 1: Divis Labs shares 0.4% as Sensex**
+
+The news tone is NEUTRAL for Divis Labs. The historical data shows that the stock has had mixed reactions to similar news in the past, with a negative impact of -12.74% in one instance and a positive impact of +0.86% in another. The current 0.4% increase in shares is a relatively small movement, indicating a neutral sentiment.
+
+**News 2: Largecap, Midcap Shares To Buy: Axis Direct recommends buying Bajaj Finance, two other stocks for 2 weeks; note down targets**
+
+The news tone is POSITIVE for Bajaj Finance and the other recommended stocks. The historical data shows that similar buy recommendations from Axis Direct have had a positive impact on the stocks in the past, with an average positive impact of +2.57%. The current recommendation is likely to have a positive effect on the stock prices.
+
+Notable events:
+
+* Divis Labs shares have been volatile in the past, with significant price movements in response to similar news.
+* Axis Direct's buy recommendations have historically had a positive impact on the recommended stocks.
+
+Overall, the news tone is mixed, with a neutral sentiment for Divis Labs and a positive sentiment for Bajaj Finance and the other recommended stocks.

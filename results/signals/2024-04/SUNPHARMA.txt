@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the technical analysis suggests a SELL signal due to the stock's decline in value and high volatility, the fundamental analysis indicates a HOLD rating due to concerns around revenue and earnings growth, as well as high debt-to-equity ratio. Meanwhile, the macroeconomic environment is generally positive, with strong agriculture and rural consumption, services sector growth, and easing inflation, which could support the stock's performance.

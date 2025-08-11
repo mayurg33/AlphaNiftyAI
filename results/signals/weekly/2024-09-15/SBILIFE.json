@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 25.47,
+  "sharpe_ratio": -0.45,
+  "reasoning": "The stock's poor risk-adjusted returns, moderate to high risk profile, and negative news sentiment are major concerns. Additionally, the company's negative revenue growth and high valuation multiples are red flags. Although the company has a strong ROE and decent profit margins, the overall picture suggests a SELL decision."
+}

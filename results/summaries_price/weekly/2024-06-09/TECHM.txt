@@ -1,0 +1,3 @@
+TECHM had a stellar week, delivering a 10.62% return, outperforming its peers M&M and KOTAKBANK, but slightly underperforming TCS. The stock's volatility was moderate at 36.03%, relatively lower than its peers M&M and KOTAKBANK. With a Sharpe Ratio of 1.13, TECHM's return was decently compensated for the risk taken. Overall, TECHM's performance was impressive, but investors should be aware of the moderate risk involved.
+
+[Volatility: 36.03%]

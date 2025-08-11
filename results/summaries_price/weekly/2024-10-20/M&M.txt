@@ -1,0 +1,3 @@
+M&M's weekly performance was dismal, with a return of -6.04%, significantly underperforming its peers. The stock's volatility was high at 28.53%, indicating a turbulent week for investors. Compared to its peers, M&M had the worst return and highest volatility, making it a risky investment this week. The Sharpe Ratio of -0.85 further reinforces the stock's poor risk-adjusted performance.
+
+[Volatility: 28.53%]

@@ -1,0 +1,3 @@
+LT's weekly performance was strong, with a 4.71% return, outperforming its peers. The stock's volatility was relatively high at 37.54%, indicating a riskier investment. Despite this, LT's Sharpe Ratio of 0.50 suggests that the returns were somewhat justified by the risk taken. Compared to its peers, LT outperformed RELIANCE, ULTRACEMCO, and ONGC in terms of returns, but was also more volatile.
+
+[Volatility: 37.54%]

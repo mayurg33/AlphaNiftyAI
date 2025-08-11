@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance, high volatility, and low Sharpe Ratio suggest it's not a good investment opportunity. The Max Drawdown is also concerning, indicating potential losses. Although the fundamentals show decent profitability and reasonable valuation, the slow revenue growth and high leverage are significant concerns. Overall, the risks outweigh the potential benefits, leading to a SELL recommendation."
+}

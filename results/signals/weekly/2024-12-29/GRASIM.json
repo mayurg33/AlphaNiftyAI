@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 7.52,
+  "sharpe_ratio": -1.28,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate a risky investment. Additionally, the company's high debt-to-equity ratio and stretched valuation multiples suggest potential downside risks. While the company's strong market capitalization and profitable business model are positives, they are outweighed by the negatives, leading to a SELL decision."
+}

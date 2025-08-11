@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 10.98,
+  "sharpe_ratio": 0.09,
+  "reasoning": "The stock's modest return and low volatility suggest a stable performance, but the Sharpe Ratio indicates a relatively low risk-return tradeoff. Fundamentally, the company's high debt levels and struggling profitability are concerns, but the forward P/E suggests potential for improvement. Given the mixed financial health and neutral news sentiment, a hold decision is recommended."
+}

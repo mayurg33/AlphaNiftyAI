@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 24.15,
+  "sharpe_ratio": -0.32,
+  "reasoning": "The stock has underperformed its peers with a negative weekly return and high volatility, indicating a riskier investment. The company's financial health is mixed, with concerns around low ROE, negative revenue growth, and high debt levels. Additionally, the news sentiment is negative, and the macroeconomic environment, although supportive of the automotive industry, may not be enough to offset the company's internal weaknesses."
+}

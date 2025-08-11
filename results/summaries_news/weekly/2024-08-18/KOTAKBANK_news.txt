@@ -1,0 +1,17 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: Market Trading Guide: Tata Steel, Kotak Mahindra Bank among 8 stock recommendations for Monday**
+
+The news tone is **Negative** for Tata Steel. The historical data suggests that similar news articles have led to a negative impact on the stock price, with an average impact of -1.02% (-1.14%, -1.34%, and -0.47%). This indicates that the market has reacted negatively to similar news in the past.
+
+**Query 2: Stocks in news: Vodafone, Firstcry, Unicommerce, Kotak Mahindra Bank, Wipro, NMDC, Hudco & IRFC**
+
+The news tone is **Neutral** for the mentioned stocks. The historical data shows a mixed impact, with both positive and negative reactions. The average impact is -1.22% (-2.94%, -2.78%, and +1.43%). This suggests that the market has reacted differently to similar news in the past, and it's difficult to predict a clear direction.
+
+**Notable Events:**
+
+* Tata Steel and Kotak Mahindra Bank are mentioned in both news articles, indicating that they may be subject to increased market attention and volatility.
+* The news tone for Tata Steel is negative, which may lead to a decline in its stock price.
+* The news tone for the other stocks mentioned in Query 2 is neutral, indicating that their stock prices may be subject to fluctuations based on various market factors.
+
+Overall, the news tone is mixed, with a negative tone for Tata Steel and a neutral tone for the other stocks mentioned.

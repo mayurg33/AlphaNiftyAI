@@ -1,0 +1,12 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is mixed, with one negative news article and one positive news article.
+
+**Notable Events:**
+
+1. **Nestle India's Q2 net profit**: Nestle India's Q2 net profit was slightly lower than expected, causing a 4% slip in its stock price.
+2. **Market performance**: The Nifty index closed above 24,800, and the Sensex rose 218 points, led by metal and bank stocks.
+
+**News Tone:**
+
+The news tone is **neutral** for the week. While Nestle India's Q2 net profit was lower than expected, the market performance was positive, with the Nifty and Sensex indices rising. The historical similar news and price impact analysis shows that Nestle India's profit announcements have had varying impacts on its stock price in the past, with both positive and negative reactions. Overall, the news tone is neutral, reflecting the mixed sentiment in the market.

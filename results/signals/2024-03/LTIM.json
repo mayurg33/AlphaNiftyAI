@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock has been underperforming with a 12-month return of -6.36%, high volatility, and a low Sharpe Ratio. Additionally, the negative correlations with TITAN and ITC suggest industry-specific risks. Although the fundamentals suggest a HOLD rating, the overall sentiment is weighed down by integration challenges and valuations, leading me to recommend a SELL position."
+}

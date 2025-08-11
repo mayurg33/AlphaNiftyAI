@@ -1,0 +1,17 @@
+**Weekly News Summary**
+
+This week, two news articles caught attention in the business world. The first article reports on a bidding war for Jaypee Healthcare, led by prominent healthcare companies Fortis, Apollo, Medanta, and Max. The second article highlights the excitement around the Indian Family Business Awards 2023, celebrating economic triumph, innovation, and legacy.
+
+**Notable Events**
+
+* Bidding war for Jaypee Healthcare, with Fortis, Apollo, Medanta, and Max as leading contenders
+* Indian Family Business Awards 2023, recognizing outstanding family businesses in India
+
+**News Sentiment Analysis**
+
+Based on historical similar news and their price impact, the sentiment of this week's news can be summarized as follows:
+
+* The bidding war for Jaypee Healthcare has a neutral to slightly positive tone, with historical similar news showing a mixed impact on stock prices (ranging from -6.53% to +1.89%).
+* The Indian Family Business Awards 2023 article has a neutral tone, with historical similar news showing a minimal impact on stock prices (ranging from -2.66% to +5.15%).
+
+Overall, the news tone for the week is neutral, with no strong positive or negative sentiment dominating the news.

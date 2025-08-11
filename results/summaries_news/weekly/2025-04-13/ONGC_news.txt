@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* Crude oil trading near $60 a barrel puts Oil & Gas stocks in focus.
+
+The news tone is neutral because the historical data shows a mix of positive and negative impacts on the stock price. While the news about ONGC's improved earnings outlook had a negative impact (-3.35%), the article questioning whether ONGC and Oil India are worth a buy after a decline had a positive impact (+2.37%). The news about fuel subsidies had a negative impact (-2.17%). Overall, the sentiment is neutral, indicating that the news may not have a significant impact on the stock price.

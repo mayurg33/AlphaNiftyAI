@@ -1,0 +1,7 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* Power Grid Corporation of India has invited bids for major solar PV projects, including a 1MWp and a 600MWp plant.
+
+The news tone is neutral because the historical similar news has shown mixed reactions. While some news had a positive impact (+2.61% and +1.37%), another news had a negative impact (-0.36%). This suggests that the market reaction to the current news is uncertain and may depend on various factors such as the bidding process, project details, and market conditions.

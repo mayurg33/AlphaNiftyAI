@@ -1,0 +1,3 @@
+BAJAJ-AUTO's weekly performance was moderate, with a return of 2.12%, outperforming its volatility of 36.55%. However, it underperformed its peers, particularly MARUTI, which saw a return of 10.51%. The stock's Sharpe Ratio of 0.24 indicates a relatively low risk-adjusted return. With a Max Drawdown of -1.25%, the stock was moderately risky this week. 
+
+[Volatility: 36.55%]

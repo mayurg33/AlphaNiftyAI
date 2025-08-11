@@ -1,0 +1,18 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: Four insurance stocks that may be hit the most by new surrender value norms**
+The news tone is **Negative**. The historical similar news suggests that the stocks mentioned may experience a decline in value, with an average impact of -1.51% (calculated from the historical impacts).
+
+**Query 2: HDFC Life sees 100 basis points hit on margins from higher surrender value**
+The news tone is **Neutral**. The historical similar news suggests that the impact on HDFC Life's stock price is mixed, with an average impact of +0.23% (calculated from the historical impacts).
+
+**Query 3: LIC, SBI and HDFC: Top three life insurers in terms of profits in FY 2024**
+The news tone is **Positive**. The historical similar news suggests that the stocks mentioned may experience an increase in value, with an average impact of +2.55% (calculated from the historical impacts).
+
+Notable events:
+
+* The new surrender value norms may negatively impact certain insurance stocks.
+* HDFC Life's margins may be affected by higher surrender values.
+* LIC, SBI, and HDFC are expected to be the top three life insurers in terms of profits in FY 2024, which may positively impact their stock prices.
+
+Overall, the news tone is mixed, with some negative and positive sentiments. However, the positive sentiment around the top three life insurers in terms of profits may outweigh the negative sentiments around the new surrender value norms and HDFC Life's margins.

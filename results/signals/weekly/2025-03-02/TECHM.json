@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 51.15,
+  "sharpe_ratio": -0.82,
+  "reasoning": "The stock's dismal weekly performance, high volatility, and poor risk-adjusted returns suggest a high-risk investment. The negative news sentiment and bearish trend further support a sell decision. Although the company's fundamentals appear strong, the debt-to-equity ratio is a concern, and the sector-wide decline in Nifty IT adds to the negative tone."
+}

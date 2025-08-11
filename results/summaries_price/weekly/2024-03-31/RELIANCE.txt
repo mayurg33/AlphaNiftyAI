@@ -1,0 +1,3 @@
+RELIANCE's weekly performance was strong, with a 3.07% return, outperforming peers LT and HINDUNILVR, but underperforming in terms of volatility, with a higher risk profile compared to its peers. The stock's Sharpe Ratio of 0.54 indicates a moderate risk-adjusted return. Despite a relatively high Max Drawdown of -0.47%, RELIANCE's weekly return was still respectable. Overall, RELIANCE's performance was decent, but its high volatility makes it a riskier investment option.
+
+[Volatility: 45.19%]

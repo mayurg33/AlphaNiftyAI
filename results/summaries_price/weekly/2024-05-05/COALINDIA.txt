@@ -1,0 +1,3 @@
+COALINDIA had a strong weekly performance, returning 4.71% and outperforming peers TATASTEEL and TATACONSUM. However, its high volatility of 41.22% suggests a risky investment. In comparison to POWERGRID, which had a similar return, COALINDIA's Sharpe Ratio was lower, indicating lower risk-adjusted returns. Overall, COALINDIA's weekly performance was positive but came with high volatility.
+
+[Volatility: 41.22%]

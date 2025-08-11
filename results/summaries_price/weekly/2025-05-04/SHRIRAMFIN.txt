@@ -1,0 +1,3 @@
+SHRIRAMFIN experienced a decline of 2.96% in the week starting 2025-05-04, with a relatively low volatility of 7.08%. The stock underperformed its peers, with a worse return than BAJFINANCE and M&M, but outperformed BAJAJFINSV. The Sharpe Ratio of -2.23 indicates that the stock's return was not justified by its risk, making it a relatively risky investment this week.
+
+[Volatility: 7.08%]

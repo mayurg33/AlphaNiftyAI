@@ -1,0 +1,1 @@
+Based on the metrics, I would recommend a HOLD on TCS. The negative returns over various time periods are a concern, but the relatively low volatility and slightly positive Sharpe Ratio indicate that the risk-adjusted returns are not alarmingly bad, suggesting that it may be premature to sell.

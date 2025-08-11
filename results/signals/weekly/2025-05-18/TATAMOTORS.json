@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 42.8,
+  "sharpe_ratio": 0.14,
+  "reasoning": "The stock's high volatility and low Sharpe Ratio indicate a risky investment. The company's stagnant revenue growth, high debt-to-equity ratio, and decline in Q4 profit are major concerns. Additionally, the negative news sentiment and challenging macroeconomic environment for the automotive industry further support a sell decision."
+}

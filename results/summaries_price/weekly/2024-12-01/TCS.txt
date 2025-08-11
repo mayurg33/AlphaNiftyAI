@@ -1,0 +1,3 @@
+TCS underperformed its peers this week, with a weekly return of -1.03% compared to TATACONSUM's 0.31% and TATASTEEL's 0.61%. The stock's volatility was moderate at 20.88%, higher than TATAMOTORS' 17.55% but lower than TATACONSUM's 26.23%. The Sharpe Ratio of -0.19 indicates that the stock's return was not sufficient to compensate for its risk, and the Max Drawdown of -2.48% suggests a relatively high risk profile. Overall, TCS had a disappointing week, underperforming its peers and exhibiting moderate to high risk.
+
+[Volatility: 20.88%]

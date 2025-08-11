@@ -1,0 +1,15 @@
+Based on the current week's news, here is a summary of the sentiment:
+
+**News Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+1. The comparison between HCL Tech and Tech Mahindra as a potential IT stock pick after the US elections has a neutral tone, as it presents both sides of the argument.
+2. Tech Mahindra's partnership with 60-70 GCCs for specialized services is a positive development, indicating the company's expansion and growth efforts.
+3. The launch of GenAI-powered solutions for enterprises by Tech Mahindra is a positive event, showcasing the company's innovation and capabilities in emerging technologies.
+
+**Tone Analysis:**
+
+The overall tone of the news is neutral to positive, with two out of three news articles having a positive tone. The comparison between HCL Tech and Tech Mahindra is neutral, while the other two news articles highlight Tech Mahindra's partnerships and innovative solutions, which are positive developments for the company.
+
+Historical data suggests that similar news articles have had varying impacts on the stock price, ranging from -6.03% to +2.50%. However, based on the current week's news, the tone is more positive, indicating a potential positive impact on the stock price.

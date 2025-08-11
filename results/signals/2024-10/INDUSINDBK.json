@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock has a poor price trend with a 12-month return of -25.12%, high volatility, and a negative Sharpe Ratio. The negative news sentiment and weak Q2 results further support a sell decision. Although the forward PE suggests potential undervaluation, the mixed correlation with peers and unknown debt situation add to the uncertainty, making a sell decision more likely."
+}

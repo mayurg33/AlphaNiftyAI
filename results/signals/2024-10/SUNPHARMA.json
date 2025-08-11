@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's underperformance and high volatility are concerns, and the Sharpe Ratio indicates that the risk is not justified by the return. Fundamentally, the company's high PE ratio, low profit margin, and high debt-to-equity ratio are red flags. While the news sentiment is positive, it may not be enough to outweigh the negative fundamentals. Therefore, I recommend a SELL."
+}

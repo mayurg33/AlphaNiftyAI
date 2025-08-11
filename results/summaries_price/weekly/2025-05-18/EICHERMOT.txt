@@ -1,0 +1,3 @@
+EICHERMOT's weekly performance was disappointing, with a return of -0.19%, underperforming its peers. The stock's volatility was moderate at 19.14%, indicating a relatively stable price movement. Compared to its peers, EICHERMOT's Sharpe Ratio of -0.03 was the lowest, suggesting poor risk-adjusted returns. Overall, the stock was relatively less risky this week, but its negative return and poor Sharpe Ratio make it an unattractive investment option.
+
+[Volatility: 19.14%]

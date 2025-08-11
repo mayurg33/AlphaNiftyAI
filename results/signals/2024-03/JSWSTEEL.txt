@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's poor performance and negative Sharpe Ratio suggest caution, while the moderate volatility and high correlation with TATASTEEL indicate that industry trends may influence its performance. Furthermore, the company's high leverage and thin profit margin are concerns that need to be monitored.

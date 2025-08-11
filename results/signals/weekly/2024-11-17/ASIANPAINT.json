@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 26.7,
+  "sharpe_ratio": -0.47,
+  "reasoning": "The stock's negative return and high volatility indicate a high level of risk. The fundamentals are also concerning, with negative revenue and earnings growth rates, and a high valuation. The news sentiment is overwhelmingly negative, with a decline in investor confidence. Therefore, it is recommended to sell the stock."
+}

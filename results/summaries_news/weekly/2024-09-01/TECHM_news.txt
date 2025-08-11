@@ -1,0 +1,7 @@
+**Weekly News Sentiment:** Positive
+
+**Notable Event:** Tech Mahindra has partnered with Google Cloud to accelerate the adoption of Generative AI and drive digital transformation for Mahindra Group entities.
+
+**Historical Similar News and Price Impact:** The partnership news is similar to TCS's announcements to upskill engineers on Microsoft's Azure Open AI, which had a positive impact on the stock with a +1.76% increase.
+
+**News Tone:** The news tone is Positive, indicating a potential increase in the stock price. The partnership with Google Cloud is expected to drive digital transformation and boost Generative AI adoption, which can lead to increased revenue and growth opportunities for Tech Mahindra.

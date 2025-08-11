@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's underperformance in the last 12 months, high volatility, and negative Sharpe Ratio indicate a poor risk-return profile. Additionally, the fundamentals suggest overvaluation, moderate profitability, and high debt levels, which may limit upside potential. Furthermore, the macroeconomic environment, although positive for the automotive industry, may not be enough to offset the company's internal issues.

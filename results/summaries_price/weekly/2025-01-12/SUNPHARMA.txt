@@ -1,0 +1,3 @@
+SUNPHARMA's weekly performance was disappointing, with a return of -3.39%, underperforming its peers. The stock's volatility was relatively high at 17.06%, indicating significant price fluctuations. Compared to its peers, SUNPHARMA's Sharpe Ratio of -0.79 was the lowest, suggesting poor risk-adjusted returns. The stock's Max Drawdown of -3.7% further highlights its riskiness this week.
+
+[Volatility: 17.06%]

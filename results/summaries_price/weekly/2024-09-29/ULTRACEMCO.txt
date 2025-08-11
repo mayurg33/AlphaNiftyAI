@@ -1,0 +1,3 @@
+ULTRACEMCO's weekly performance was lackluster, with a return of -0.08% and a Sharpe Ratio of -0.01, indicating poor risk-adjusted returns. The stock's volatility was moderate at 26.44%, which is relatively high compared to its peers. In comparison to its peers, ULTRACEMCO underperformed GRASIM but outperformed HEROMOTOCO and LT. Overall, the stock was relatively risky this week.
+
+[Volatility: 26.44%]

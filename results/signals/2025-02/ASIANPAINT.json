@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock has been underperforming with a 12-month return of -7.29%, high volatility, and a negative Sharpe Ratio. Fundamentally, the company's poor financial performance, high debt, and decent but not exceptional ROE justify a SELL recommendation. Additionally, the negative news sentiment and macroeconomic environment, which suggests a potential decline in urban demand, further supports this decision."
+}

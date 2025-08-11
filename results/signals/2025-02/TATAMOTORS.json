@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance over the past 12 months, high volatility, and low Sharpe Ratio indicate a poor risk-return profile. Additionally, the maximum drawdown suggests that the stock has already experienced a significant decline in value, which may not be fully priced in by the market. The fundamental analysis highlights concerns around profitability, revenue growth, and debt, while the news sentiment is mixed and uncertain. Overall, the macroeconomic environment is positive, but it may not be enough to offset the stock's underlying weaknesses."
+}

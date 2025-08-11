@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 54.2,
+  "sharpe_ratio": 0.38,
+  "reasoning": "The stock's decent weekly return and moderate risk-adjusted performance are offset by its high volatility and potential for significant losses. The company's mixed financial health, with attractive valuation but declining profitability and high leverage, adds to the uncertainty. The neutral to slightly negative news sentiment and mixed macroeconomic environment further support a hold decision."
+}

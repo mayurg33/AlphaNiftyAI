@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 38.38,
+  "sharpe_ratio": 0.22,
+  "reasoning": "The stock's moderate performance and high volatility indicate a moderate level of risk. While the low P/E ratio and high dividend yield suggest undervaluation and attractive income potential, the negative revenue and earnings growth rates and high debt-to-equity ratio are concerns. The neutral news sentiment and mixed macroeconomic environment do not provide a clear direction for the stock, leading to a hold decision."
+}

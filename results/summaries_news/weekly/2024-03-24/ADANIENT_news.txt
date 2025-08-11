@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEGATIVE for Adani Enterprises.
+
+Notable events:
+
+* Adani Tradecom, an arm of Adani Enterprises, acquires a 49% stake in Adani Green Tech.
+
+The news tone is negative because the historical similar news events have resulted in a negative price impact, ranging from -20.26% to -44.32%. This suggests that the market has reacted negatively to similar news events in the past, and it is likely to have a similar negative impact on the stock price this time as well.

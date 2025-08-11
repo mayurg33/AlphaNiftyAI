@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 27.02,
+  "sharpe_ratio": -0.72,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns. However, the company's undervalued status, decent dividend yield, and moderate profitability metrics are positives. The news sentiment is neutral to negative, and the macroeconomic environment is stable. Given the mixed signals, I recommend a HOLD decision, awaiting further clarity on the company's prospects."
+}

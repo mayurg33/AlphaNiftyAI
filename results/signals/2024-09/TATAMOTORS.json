@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance over the past 12 months, combined with its high volatility and negative Sharpe Ratio, suggest a high risk of further losses. Additionally, the high maximum drawdown and declining revenue growth rate are significant concerns. While the low PE ratio and moderate peer correlation provide some hope, they are not enough to outweigh the negative factors, leading to a SELL recommendation."
+}

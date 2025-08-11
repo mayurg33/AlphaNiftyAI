@@ -1,0 +1,3 @@
+DIVISLAB had a strong weekly performance, delivering a return of 5.68%, significantly outperforming its peers. The stock's volatility was relatively high at 17.54%, but its Sharpe Ratio of 1.26 suggests that the returns were adequately compensated for the risk taken. Compared to its peers, DIVISLAB outperformed DRREDDY and SUNPHARMA, and significantly outperformed CIPLA. Overall, the stock was relatively risky this week, but its strong returns made it an attractive option.
+
+[Volatility: 17.54%]

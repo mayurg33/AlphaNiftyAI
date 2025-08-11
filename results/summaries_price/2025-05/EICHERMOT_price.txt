@@ -1,0 +1,25 @@
+Symbol: EICHERMOT
+Month: 2025-05
+Start Price: ₹5440.00
+End Price: ₹5333.50
+12M Return: -1.96%
+6M Return: -1.96%
+3M Return: -1.96%
+Volatility: 0.217
+Sharpe Ratio: -1.047
+Max Drawdown: -0.037
+Peer Correlation (BAJAJ-AUTO): 0.7634
+Peer Correlation (M&M): 0.7894
+Peer Correlation (HEROMOTOCO): 0.5599
+Average Peer Correlation: 0.7042
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+EICHERMOT has underperformed in the past 12 months, with a negative return of 1.96%. The stock's volatility is relatively low at 0.217, but its Sharpe Ratio is -1.047, indicating that the returns generated are not sufficient to compensate for the risk taken. The max drawdown is 3.7%, which is moderate. The stock has a high correlation with its peers, particularly BAJAJ-AUTO and M&M, suggesting that it is closely tied to the broader automotive industry.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **HOLD** rating for EICHERMOT. While the stock's underperformance and negative returns are concerns, its low volatility and moderate max drawdown suggest that it may not be a high-risk investment. Additionally, the high correlation with peers indicates that the stock's performance is closely tied to the industry, which may limit its potential for significant outperformance. However, without a strong bullish or bearish trend, it may be prudent to hold the stock and monitor its performance before making a buy or sell decision.

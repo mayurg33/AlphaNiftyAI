@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 3.26,
+  "sharpe_ratio": 5.47,
+  "reasoning": "The stock has a strong weekly performance with a high Sharpe Ratio, indicating a high risk-adjusted return. The news sentiment is positive, with a potential price target of Rs 2,000. Although the fundamentals are mixed, the macroeconomic environment is supportive, with a strong services sector and easing inflation. Overall, the stock's strong performance and positive news sentiment outweigh its fundamental weaknesses."
+}

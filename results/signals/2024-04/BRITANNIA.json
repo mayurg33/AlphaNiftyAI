@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock has underperformed in the past 12 months with a return of -2.44%, and its volatility is moderate. The Sharpe Ratio indicates poor risk-adjusted return, and the maximum drawdown is a concern. However, the moderate correlation with peers, particularly NESTLEIND, suggests some upside potential. Fundamentals are mixed, with high PE ratios and low growth momentum, but manageable debt and decent profitability. The neutral news sentiment and macroeconomic environment do not provide a clear direction, leading to a HOLD recommendation."
+}

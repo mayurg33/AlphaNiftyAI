@@ -1,0 +1,3 @@
+APOLLOHOSP's weekly performance was modest, with a 0.26% return, outperforming DRREDDY but underperforming HDFCLIFE and BHARTIARTL. The stock's volatility was relatively low at 5.16%, indicating a relatively stable week. Despite a positive return, the Sharpe Ratio of 0.26 suggests that the return was not particularly impressive given the risk taken. Overall, APOLLOHOSP's performance was middling, with a moderate level of risk.
+
+[Volatility: 5.16%]

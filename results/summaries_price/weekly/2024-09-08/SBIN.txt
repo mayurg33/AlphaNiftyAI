@@ -1,0 +1,3 @@
+SBIN's weekly performance was disappointing, with a return of -4.82%, significantly underperforming its peers. The stock's volatility was exceptionally high at 35.44%, indicating a highly turbulent week. Compared to its peers, SBIN's return was the worst, and its Sharpe Ratio was also the lowest, suggesting that the stock's risk-adjusted performance was poor. Overall, SBIN was a high-risk, underperforming stock this week.
+
+[Volatility: 35.44%]

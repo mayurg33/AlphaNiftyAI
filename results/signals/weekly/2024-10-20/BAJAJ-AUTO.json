@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 98.26,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's extremely high volatility and poor risk-adjusted performance, as indicated by its low Sharpe Ratio, suggest a highly unpredictable and risky investment environment. Additionally, the company's stretched valuation and high debt-to-equity ratio are areas of concern. While the company has some positive fundamentals, such as high gross margins and profit margins, the overall picture suggests a SELL decision."
+}

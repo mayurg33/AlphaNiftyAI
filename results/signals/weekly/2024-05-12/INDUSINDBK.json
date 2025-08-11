@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 27.82,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's high volatility and dismal weekly return are concerns, but the company's decent profitability and reasonable valuation are positives. The news sentiment is neutral to positive, driven by the Hinduja Group's growth plans and potential stake increase in IndusInd Bank. However, the lack of debt information and growth concerns warrant caution, leading to a hold decision."
+}

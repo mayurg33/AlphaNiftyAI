@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 10.44,
+  "sharpe_ratio": -1.40,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate a risky investment. Additionally, the company's high valuation and debt position are concerns. The negative news sentiment and historical context suggest a potential continuation of the bearish trend. While the company's fundamentals are strong, the macroeconomic environment is not particularly supportive of the automotive industry."
+}

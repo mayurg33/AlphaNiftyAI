@@ -1,0 +1,14 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is **NEUTRAL**.
+
+**Notable Events:**
+
+1. Hindustan Unilever Limited (HUL) directors are expected to stay updated with changing times in terms of data, cyber, and AI.
+2. The Indian stock market has seen a positive trend, with the Sensex gaining 267 points and the Nifty ending near 22,600, driven by FMCG and realty stocks.
+
+**News Tone:**
+
+The news tone is neutral, as one news article is related to HUL's directors staying updated with technology, which is a neutral event. The other news article reports a positive trend in the stock market, but the historical similar news and price impact suggest that the market reaction to such news is unpredictable, with both positive and negative impacts observed in the past.
+
+Overall, the news tone is neutral, as it does not convey a strong positive or negative sentiment that could significantly impact the stock price.

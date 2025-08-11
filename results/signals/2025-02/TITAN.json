@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor price trends, high volatility, and low Sharpe Ratio indicate a high-risk investment. Additionally, the fundamentals reveal high valuation, slow earnings growth, and high debt levels, which are concerning. Although the news sentiment is positive, the macroeconomic environment is not particularly supportive of the luxury goods industry. Overall, the risks outweigh the potential benefits, leading to a SELL recommendation."
+}

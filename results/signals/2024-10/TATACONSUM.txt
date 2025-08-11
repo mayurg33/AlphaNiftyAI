@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor price trends and technicals, combined with strongly negative news sentiment and a lack of confidence in the company's growth prospects, outweigh the relatively healthy financial performance and growth momentum, suggesting a likely decline in price.

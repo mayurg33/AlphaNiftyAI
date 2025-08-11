@@ -1,0 +1,3 @@
+TCS had a strong weekly performance, returning 5.25% and outperforming its peers. The stock's volatility was moderate at 23.63%, but its Sharpe Ratio of 1.16 indicates that the returns were achieved with relatively low risk. In comparison, TCS outperformed TATACONSUM and TATAMOTORS, and significantly outperformed TATASTEEL. With a Max Drawdown of 0.0%, the stock did not experience any significant losses during the week.
+
+[Volatility: 23.63%]

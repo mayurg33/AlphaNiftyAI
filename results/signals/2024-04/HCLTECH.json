@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance over the past 12 months, with a return of -12.21%, combined with its high volatility and poor risk-adjusted returns, suggest that it may not be a good investment opportunity. The significant max drawdown and low Sharpe Ratio further support this conclusion. While the macroeconomic environment appears stable, with a growing services sector and easing inflation, the company's fundamentals, such as low ROE and margin, are concerning. Overall, the risks outweigh the potential benefits, leading to a SELL recommendation."
+}

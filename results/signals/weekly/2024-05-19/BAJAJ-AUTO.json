@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 17.5,
+  "sharpe_ratio": -0.53,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate poor risk-adjusted returns. Additionally, the company's financial health is mixed, with moderate profitability metrics and a high debt-to-equity ratio. The valuation appears stretched, with a high trailing and forward P/E ratio, suggesting the stock may be overpriced. Overall, the stock's risk profile outweighs its potential returns, making it a sell."
+}

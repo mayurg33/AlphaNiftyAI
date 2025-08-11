@@ -1,0 +1,16 @@
+Based on the current week's news, here is a summary of the sentiment:
+
+**Bajaj Finserv, Dr Reddy's Labs, Escorts Kubota: How to trade these 3 stocks**
+
+The news tone is Neutral for Bajaj Finserv, as the article provides a trading strategy for the stock without expressing a clear positive or negative sentiment.
+
+**Toripalimab to fortify Dr. Reddy’s oncology portfolio in India**
+
+The news tone is Positive for Dr. Reddy's Labs, as the article highlights the company's expansion of its oncology portfolio in India with the introduction of Toripalimab. This development is likely to have a positive impact on the company's growth prospects.
+
+Notable events:
+
+* Dr. Reddy's Labs is expanding its oncology portfolio in India with the introduction of Toripalimab.
+* The company has a history of launching innovative products, including an anti-cancer drug in China.
+
+Overall, the news tone is Positive for Dr. Reddy's Labs and Neutral for Bajaj Finserv.

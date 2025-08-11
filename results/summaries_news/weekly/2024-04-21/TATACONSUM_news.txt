@@ -1,0 +1,9 @@
+Based on the provided historical similar news and price impact, the current week's news sentiment for Tata Consumer Products is positive. The news mentions a 0.52% increase in share price, which indicates a positive trend.
+
+Notable events from the historical data include:
+
+* Tata Consumer acquiring a 23.3% stake in Joekels Tea Packers, which had a negative impact of -1.55% on the share price.
+* Tata Motors increasing PV prices, which had a negative impact of -5.40% on the share price.
+* Tata Motors reporting a 51% rise in sales, which had a negative impact of -3.35% on the share price.
+
+However, the current news of a 0.52% increase in share price suggests a positive tone, indicating that the market is responding favorably to the company's performance. Overall, the news tone is positive for the stock.

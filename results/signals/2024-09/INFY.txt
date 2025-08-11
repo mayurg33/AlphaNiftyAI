@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's poor performance over the past year, combined with its high volatility and negative Sharpe Ratio, suggest a HOLD position, as the company's profitability and strong brand in the IT services industry may help it navigate current challenges, while the macroeconomic environment indicates a stable growth outlook for the services sector.

@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance over the past 12 months, combined with its high volatility and low Sharpe Ratio, suggests a poor risk-adjusted return. The mixed peer correlation and low average peer correlation may indicate that the stock is not closely tied to its peers, making it difficult to predict its future performance. Additionally, the negative news sentiment and high valuation multiples (trailing PE and forward PE) further support a SELL recommendation."
+}

@@ -1,0 +1,14 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Punjab eyes investments as CM Mann meets industry leaders in Mumbai**
+
+The news tone is Neutral. The historical similar news suggests that the impact of this news on the stock price is uncertain. While the news about Adani and Ambani's investment pledge in Rajasthan had a positive impact (+0.15%), the news about Tata Steel's land allotment letter had a negative impact (-2.26%). Therefore, it is difficult to predict the exact impact of this news on the stock price.
+
+**Pharmazz Inc. and Sun Pharma entered into an agreement under which Sun Pharma will invest up to $15 Million in Pharmazz, Inc.**
+
+The news tone is Positive. The historical similar news suggests that Sun Pharma's investments and agreements have generally had a positive impact on its stock price. While there was a negative impact (-0.12%) when Sun Pharma's bid for Concert Pharma was rejected, the other two similar news items had a positive impact (+0.67% and +4.52%). Therefore, it is likely that this news will have a positive impact on Sun Pharma's stock price.
+
+Notable events:
+
+* Punjab's Chief Minister Mann meets industry leaders in Mumbai to attract investments, which could have a positive impact on the state's economy.
+* Sun Pharma's investment of up to $15 million in Pharmazz Inc. could lead to growth opportunities for the company.

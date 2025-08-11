@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock has a poor 12-month return of -16.49% and high volatility, indicating a high-risk investment. The Sharpe Ratio of -1.926 suggests a poor risk-adjusted return. Additionally, the high debt-to-equity ratio of 162.59 and low profitability metrics, such as ROE and profit margin, are concerns. While the earnings growth is promising, the overall fundamentals and price trends suggest a SELL position."
+}

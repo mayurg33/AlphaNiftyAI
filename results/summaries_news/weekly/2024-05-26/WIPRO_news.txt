@@ -1,0 +1,16 @@
+**Summary of Current Week's News Sentiment:**
+
+The current week's news sentiment is NEUTRAL for Adani Enterprises and NEGATIVE for Wipro.
+
+**Notable Events:**
+
+* Adani Enterprises is set to replace Wipro in the Sensex benchmark, marking the first Adani Group stock to enter the index.
+* This change is expected to take effect from June 24.
+
+**News Tone:**
+
+The news tone is neutral for Adani Enterprises, as the event is more of a milestone achievement for the company rather than a reflection of its financial performance. On the other hand, the news tone is negative for Wipro, as it is being replaced from the Sensex benchmark, which may lead to a decline in investor sentiment.
+
+**Historical Context:**
+
+Based on the historical data, Wipro's stock price has been negatively impacted by similar news events in the past, with an average impact of -1.53%. In contrast, Adani Enterprises' stock price has been less affected by similar news events, with an average impact of -0.74%.

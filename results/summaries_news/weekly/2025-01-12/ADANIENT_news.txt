@@ -1,0 +1,14 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Positive
+
+**Notable Events:**
+
+1. Adani Group's announcement to surpass $11 billion in EBITDA this fiscal year, which is a positive development for the company.
+2. Adani Group's successful sale of a 13.5% stake in Adani Wilmar, raising Rs 4,850 crore, which is a significant fundraising event.
+
+**Tone Analysis:**
+
+The overall tone of the news is positive, indicating a potential upward movement in the stock price. The first news item, "Will surpass $11 billion in EBITDA this fiscal, Adani group tells investors", has a historical impact of +8.05%, suggesting that the market reacts positively to such announcements. The second news item, "Adani Group raises Rs 4,850 cr from sale of 13.5% stake in Adani Wilmar", has a historical impact of +26.58%, indicating a strong positive reaction to the fundraising event.
+
+While there are some negative historical impacts associated with Adani Group news, the current week's news items seem to have a more positive tone, suggesting that the stock may react positively to these developments.

@@ -1,0 +1,16 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: Union Finance Minister Nirmala Sitharaman chairs fourth Pre-Budget Consultation**
+
+The news sentiment is **Positive**. The historical similar news events have shown a positive impact on the stock, with an average impact of +5.48%. The news tone is optimistic, indicating that the market expects positive outcomes from the pre-budget consultation.
+
+**Query 2: Plans underway for bigger role for TReDS, to enrol million MSMEs in 2 years**
+
+The news sentiment is **Negative**. The historical similar news events have shown a negative impact on the stock, with an average impact of -3.45%. The news tone is cautious, indicating that the market is skeptical about the plans for TReDS and its potential impact on the stock.
+
+**Notable Events:**
+
+* Union Finance Minister Nirmala Sitharaman chairs fourth Pre-Budget Consultation, which is expected to have a positive impact on the stock.
+* Plans for a bigger role for TReDS, aiming to enrol a million MSMEs in 2 years, which has a negative sentiment in the market.
+
+Overall, the news tone is mixed, with one positive event and one negative event. However, the positive event seems to have a stronger impact, indicating that the overall sentiment is slightly positive.

@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 59.29,
+  "sharpe_ratio": 0.33,
+  "reasoning": "The stock has a strong weekly performance with a return of 4.78%, outperforming its peers. The company's financial health is stable, with high gross margins and profit margins, and a low debt-to-equity ratio. The news sentiment is positive, driven by the company's Q1 results beating street estimates and a dividend declaration. Although the stock has high volatility, the Sharpe Ratio suggests that the returns are somewhat justified by the risk taken."
+}

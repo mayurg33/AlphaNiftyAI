@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the fundamentals suggest a BUY due to the low forward PE ratio, decent profitability, and steady growth prospects, the technical analysis indicates a SELL due to the stock's poor performance, high volatility, and low Sharpe Ratio. Considering the mixed news sentiment and the neutral macroeconomic environment, a HOLD recommendation is warranted to wait for more clarity on the company's issues and the market's direction.

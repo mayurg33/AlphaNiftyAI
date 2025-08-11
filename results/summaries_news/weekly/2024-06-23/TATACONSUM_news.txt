@@ -1,0 +1,7 @@
+Based on the provided historical similar news and price impact, the sentiment of the current week's news is **Negative**.
+
+The news headline "Markets end lower! Sensex down over 400 points, Nifty at 23,450; FMCG, PSU major draggers" suggests a decline in the stock market, with the Sensex falling over 400 points and the Nifty at 23,450. The FMCG and PSU sectors are mentioned as major draggers, indicating a negative impact on these sectors.
+
+Notable events mentioned in the historical similar news include global risks, weak IT sector, and recommendations on specific tech stocks. However, the overall tone of the current week's news is negative, indicating a decline in the stock market.
+
+The historical similar news and price impact suggest that the news tone is likely to have a negative impact on the stock, with an average impact of around -1.23% (calculated from the provided historical data).

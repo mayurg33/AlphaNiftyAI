@@ -1,0 +1,7 @@
+**Weekly News Sentiment:** Negative
+
+**Notable Event:** Maruti Suzuki faces a deferred tax liability of Rs 850 crore, which is expected to impact its Profit After Tax (PAT) in Q2 FY25.
+
+**News Tone:** The news tone is negative, indicating a potential decline in Maruti Suzuki's stock price. The deferred tax liability is likely to negatively impact the company's profitability, which may lead to a decrease in investor confidence and subsequently, a drop in the stock price.
+
+Historical data suggests that similar news events have resulted in a negative impact on the stock price, with an average impact of around -2.42%.

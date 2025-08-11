@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 18.55,
+  "sharpe_ratio": -1.35,
+  "reasoning": "The stock's weekly performance was dismal with a return of -6.2% and high volatility, indicating a significant decline in value. The company's financial health is mixed, with weaknesses including negative revenue and earnings growth, and a high debt-to-equity ratio. The news sentiment is also negative, with reports of a decline in Coal India's shares and output. Therefore, it's a good time to sell the stock."
+}

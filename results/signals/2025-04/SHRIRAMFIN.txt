@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's poor performance over the past 12 months, combined with its high correlation with its peers, suggests that the finance sector as a whole may be experiencing a downturn. However, the moderate volatility and Sharpe Ratio indicate that the stock may not be overly risky. Additionally, the macroeconomic environment, with a growing services sector and improving employment rates, may support the company's growth prospects.

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 49.13,
+  "sharpe_ratio": -0.19,
+  "reasoning": "The stock's high volatility and poor risk-adjusted return indicate a risky investment. However, the company's strong Q1 results and demerger announcement are positive developments. The mixed financial health and high debt levels are concerns, but the neutral to positive news sentiment and favorable macroeconomic environment suggest holding the stock for now."
+}

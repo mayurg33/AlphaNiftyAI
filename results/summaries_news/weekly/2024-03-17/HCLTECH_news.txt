@@ -1,0 +1,14 @@
+**Weekly News Sentiment Summary**
+
+The overall sentiment of this week's news is **Positive**.
+
+**Notable Events:**
+
+1. The Indian stock market bounced back, led by buying in IT stocks, with the Sensex and Nifty indices rising, and the Smallcap index surging over 3%.
+2. Servotech EV Infra sold a 6% stake at a pre-money valuation of Rs 200 crore and appointed new executives, including a CEO and AVP Operations.
+
+**News Tone:**
+
+The news tone is **Positive** for the stock market, driven by the buying in IT stocks and the surge in the Smallcap index. The historical similar news also suggests a positive impact, with an average impact of +0.24%.
+
+For Servotech EV Infra, the news tone is **Neutral**. While the sale of a 6% stake at a significant valuation is a positive development, the historical similar news suggests a mixed impact, with an average impact of -0.48%. However, the appointment of new executives could be a positive sign for the company's future growth.

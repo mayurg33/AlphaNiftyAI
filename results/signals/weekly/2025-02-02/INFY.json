@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 27.79,
+  "sharpe_ratio": 0.19,
+  "reasoning": "The stock's moderate weekly return and high volatility suggest caution. Although Infosys has a strong profitability profile and low debt levels, its slow growth metrics are a concern. The macroeconomic environment is generally positive, but the company's growth metrics need to improve to justify a buy decision."
+}

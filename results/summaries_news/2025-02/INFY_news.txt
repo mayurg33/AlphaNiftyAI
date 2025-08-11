@@ -1,0 +1,4 @@
+After analyzing the recent headlines about INFY, I observe that the news sentiment is NEUTRAL to SLIGHTLY POSITIVE.
+
+Final Decision: HOLD
+Reason: While there are some negative news related to layoffs and lower salary hikes, the overall sentiment is neutralized by the positive recommendations from analysts and the slight increase in stock price, indicating a stable outlook for the company.

@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, the current week's news sentiment for HCLTech is NEUTRAL.
+
+The news tone is neutral because the historical data shows a mix of positive and negative impacts on the stock price when a company appoints a new CFO or CEO. The positive impacts range from +2.95% to +4.61%, while the negative impacts range from -1.04% to -3.74%.
+
+The notable event is the appointment of Shiv Walia as the new CFO of HCLTech, succeeding Prateek Aggarwal. This news is neutral because it does not have a clear positive or negative connotation, and the historical data suggests that the market reaction to such news can be varied.
+
+Overall, the news tone is neutral, and investors should exercise caution and consider other factors before making a decision on the stock.

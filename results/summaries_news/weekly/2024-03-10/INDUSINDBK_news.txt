@@ -1,0 +1,9 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* Sumeet Bagadia lists IndusInd Bank as the top 'Maha Shivratri Pick', which is a positive event.
+* Historical news suggests that PSU Bank stocks' valuations are attractive, which is a positive event.
+* However, the historical news also suggests that market fluctuations can lead to negative impacts on the stock price.
+
+The news tone is neutral because while there is a positive event (IndusInd Bank being listed as a top pick), it is balanced by the historical context of market fluctuations that can lead to negative impacts. The overall sentiment is neither strongly positive nor negative.

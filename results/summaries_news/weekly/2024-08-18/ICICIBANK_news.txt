@@ -1,0 +1,16 @@
+**Weekly News Sentiment:** Mixed
+
+**Notable Events:**
+
+1. 7 stocks, including ICICI Bank, NHPC, UPL, and India Pesticides, will trade ex-dividend on August 12.
+2. Analysts recommend 12 stocks, including SBI, ICICI Bank, and M&M, with potential upside of 5-16% in the next 3-4 weeks.
+
+**News Tone:**
+
+The news tone is mixed, with both positive and negative sentiments.
+
+The first news item, regarding dividend stocks trading ex-dividend, has a neutral to slightly negative tone based on historical data, with an average impact of -0.33%. However, the historical data also shows that ICICI Bank's stock has reacted positively to ex-dividend news in the past.
+
+The second news item, regarding analyst recommendations, has a positive tone, suggesting potential upside for the mentioned stocks. However, historical data shows that similar recommendations have had mixed results, with both positive and negative impacts.
+
+Overall, the news tone is mixed, with a slight leaning towards positivity due to the analyst recommendations.

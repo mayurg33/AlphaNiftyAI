@@ -1,0 +1,1 @@
+Based on the metrics, I would recommend a HOLD on JSWSTEEL. The stock has provided decent returns over the longer term (12M and 6M), but has been volatile in the short term (3M), and the Sharpe Ratio, while positive, is not exceptionally high, indicating that the returns are not significantly exceeding the risk taken.

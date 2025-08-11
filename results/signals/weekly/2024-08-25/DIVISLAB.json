@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 32.78,
+  "sharpe_ratio": 0.48,
+  "reasoning": "The stock's strong weekly performance and high Sharpe Ratio indicate good risk-adjusted returns. However, the high volatility and rich valuation (trailing P/E of 79.78 and forward P/E of 116.62) suggest caution. The mixed news sentiment and neutral macroeconomic environment do not provide a strong catalyst for a buy or sell decision, leading me to recommend a hold."
+}

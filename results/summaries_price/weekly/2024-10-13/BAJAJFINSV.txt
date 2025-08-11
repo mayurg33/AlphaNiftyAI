@@ -1,0 +1,3 @@
+BAJAJFINSV's weekly performance was lackluster, with a return of -0.15%, underperforming its peers. The stock's volatility was high at 25.04%, indicating significant price fluctuations. Compared to its peers, BAJAJFINSV had the lowest return and Sharpe ratio, suggesting it was the riskiest and least rewarding investment option this week. 
+
+[Volatility: 25.04%]

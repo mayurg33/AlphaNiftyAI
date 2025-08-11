@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 36.07,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's high volatility and underperformance compared to its peers are concerns. However, the company's strong gross margin and EBITDA margin indicate efficient operations. The neutral to positive news sentiment and decent profitability also support a hold decision. But, the stretched valuation and debt position are areas of concern, preventing a buy decision."
+}

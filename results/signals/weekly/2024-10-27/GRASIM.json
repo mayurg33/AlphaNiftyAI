@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 25.56,
+  "sharpe_ratio": -0.59,
+  "reasoning": "The stock's high volatility and poor risk-adjusted returns (Sharpe Ratio of -0.59) indicate a high-risk investment. Additionally, the company's high valuation (trailing P/E of 50 and forward P/E of 119) and high debt-to-equity ratio (118) are areas of concern. The mixed news sentiment and lackluster weekly performance further support a sell decision."
+}

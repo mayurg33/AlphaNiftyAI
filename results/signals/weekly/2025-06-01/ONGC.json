@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 10.77,
+  "sharpe_ratio": -0.99,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but its strong dividend yield and low P/E ratio suggest undervaluation. The company's financial health is stable, but growth concerns and high debt-to-equity ratio are weaknesses. The mixed news sentiment and neutral macroeconomic environment do not provide a clear direction, hence a hold decision."
+}

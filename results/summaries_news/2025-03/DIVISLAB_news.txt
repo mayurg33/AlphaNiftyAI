@@ -1,0 +1,8 @@
+Based on the recent headlines, I have summarized the overall news sentiment as follows:
+
+* Positive sentiment: 5 articles (BusinessLine, Simply Wall Street, Mint, Business Today)
+* Neutral sentiment: 2 articles (The Economic Times)
+* Negative sentiment: 1 article (Business Standard, but it's about Infosys, not Divis Labs)
+
+Final Decision: BUY
+Reason: The majority of the articles have a positive sentiment towards Divis Labs, with experts recommending a "buy" rating and predicting a bullish outlook ahead, driven by its strong stock price momentum and growth potential.

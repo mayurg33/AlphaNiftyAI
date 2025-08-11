@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor price trends and technicals, combined with the overwhelmingly negative news sentiment and the RBI's curbs and penalties, outweigh the decent fundamentals, suggesting a likely decline in price.

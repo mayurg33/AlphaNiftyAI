@@ -1,0 +1,10 @@
+**Weekly News Sentiment:** Negative
+
+**Notable Events:**
+
+* Sensex and Nifty slumped over 1% due to geopolitical tensions and weak global market trends.
+* ONGC and Hindalco were gainers, while Shriram Finance and Wipro were draggers.
+
+**News Tone:** Negative
+
+The news tone is negative due to the significant decline in Sensex and Nifty, which is attributed to geopolitical tensions and weak global market trends. The gainers, ONGC and Hindalco, are not enough to offset the overall negative sentiment. The historical similar news also suggests a negative impact, with an average impact of -0.55%.

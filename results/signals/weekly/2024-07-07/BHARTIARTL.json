@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 21.3,
+  "sharpe_ratio": -0.31,
+  "reasoning": "The stock's high volatility and negative return make it an unattractive investment option for the week. However, the company's strong profitability profile, efficient use of shareholder capital, and promising growth prospects suggest that it may be a good investment in the long run. The news sentiment is neutral to positive, with potential upside from the stake sale by Singtel. Considering these factors, I would recommend a HOLD decision for now."
+}

@@ -1,0 +1,5 @@
+Based on the current week's news, the sentiment is NEUTRAL.
+
+The notable event is that Bajaj Auto's total sales in May remain flat year-over-year (YoY).
+
+The news tone is neutral because the sales figure is flat, neither increasing nor decreasing significantly. This lack of growth or decline suggests that the company's performance is stable, but not particularly impressive. The historical similar news events show that the stock price has reacted positively to a decline in sales (+3.18%) and neutrally to an increase in sales (+0.20%), which further supports the neutral sentiment.

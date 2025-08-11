@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 23.96,
+  "sharpe_ratio": -0.38,
+  "reasoning": "The stock's weekly performance was disappointing, but its financial health appears stable with strengths in profitability metrics. The news sentiment is neutral to positive, and the macroeconomic environment is supportive of the IT sector. However, the revenue growth rate is a weakness, and the debt-to-equity ratio could be improved. Overall, I'm holding the stock, but with caution."
+}

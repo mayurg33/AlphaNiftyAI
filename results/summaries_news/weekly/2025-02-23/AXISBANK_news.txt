@@ -1,0 +1,5 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+The notable event is the statement from Mishra, suggesting that the RBI should focus on liquidity to support growth.
+
+The tone of the news is neutral because the historical similar news has shown mixed impacts on the stock price. While some news items have had a positive impact (+1.20% and +0.05%), another news item has had a negative impact (-2.41%). Therefore, it is difficult to determine a clear positive or negative tone for the stock based on this news.

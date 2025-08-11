@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock's poor price trends, high volatility, and negative Sharpe Ratio suggest a SELL, but the decent ROE and positive earnings growth indicate some intrinsic value. The high debt levels and low profit margin are causes for concern. The macroeconomic environment is generally positive, with growth in agriculture, services, and manufacturing, which could support the company's performance. However, the regulatory concerns and data breach issues need to be monitored."
+}

@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 34.55,
+  "sharpe_ratio": -0.22,
+  "reasoning": "The stock's dismal weekly performance, high volatility, and poor fundamentals such as declining revenue and earnings growth, as well as a high debt-to-equity ratio, indicate a high-risk investment. Additionally, the macroeconomic environment, although showing some positive signs, does not seem to be supporting the company's growth prospects. Therefore, it is recommended to sell the stock."
+}

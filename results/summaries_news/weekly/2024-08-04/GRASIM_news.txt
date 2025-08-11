@@ -1,0 +1,8 @@
+Based on the historical similar news and price impact, the current week's news sentiment appears to be NEUTRAL. The news tone is not strongly positive or negative, as the benchmarks ended flat, indicating a lack of significant movement in the market.
+
+Notable events mentioned in the news include:
+
+* Benchmarks ending flat
+* Smallcap stocks performing well
+
+The historical data suggests that similar news in the past has had a mixed impact on the market, with some instances resulting in positive gains (6.25% and 5.59%) and others having a minimal impact (0.04%). This mixed bag of results contributes to the neutral sentiment of the current week's news.

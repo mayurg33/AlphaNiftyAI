@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 12.86,
+  "sharpe_ratio": -1.24,
+  "reasoning": "The stock's poor weekly performance and low Sharpe Ratio indicate poor risk-adjusted returns. However, the positive news sentiment and strong financial performance in Q4 and FY25 suggest a potential rebound. Additionally, the macroeconomic environment appears stable, with growth prospects in various sectors. Given the mixed signals, a HOLD decision is warranted, with a moderate confidence level."
+}

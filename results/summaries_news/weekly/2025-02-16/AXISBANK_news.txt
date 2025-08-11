@@ -1,0 +1,5 @@
+Based on the historical news data, the current week's news sentiment is **Positive** for Axis Bank.
+
+The notable event is the recommendation by ICICI Securities to buy Axis Bank with a target price of Rs 1,200.
+
+The tone of the news is positive, as the historical data suggests that similar news has led to a price increase in the past. The previous instances of positive news, such as the recommendation to buy ICICI Bank and the stake sale in Axis Bank, have resulted in a price impact of +1.18% and +5.70%, respectively. Therefore, it is likely that the current news will have a similar positive impact on the stock price.

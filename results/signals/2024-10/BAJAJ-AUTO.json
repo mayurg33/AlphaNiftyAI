@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's poor performance, high volatility, and negative Sharpe Ratio suggest that the risks associated with holding this stock outweigh the potential benefits. Additionally, the Max Drawdown indicates that the stock has already experienced a significant decline, and it may take some time for it to recover. The high valuation multiples, modest revenue growth, and declining earnings also support a sell decision."
+}

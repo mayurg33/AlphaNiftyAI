@@ -1,0 +1,3 @@
+LTIM had a strong weekly performance, returning 5.36% and outperforming its peers. The stock's volatility was high at 27.52%, indicating significant price fluctuations. Despite the risk, LTIM's Sharpe Ratio of 0.76 suggests that its returns were relatively stable compared to its peers. Overall, LTIM outperformed its peers, with TECHM and ITC trailing behind, and TITAN experiencing a decline.
+
+[Volatility: 27.52%]

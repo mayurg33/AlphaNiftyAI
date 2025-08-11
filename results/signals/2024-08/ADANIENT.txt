@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's negative returns over the past 12 months, high volatility, and poor risk-adjusted performance, combined with its high debt-to-equity ratio and low profitability, suggest a strong likelihood of underperformance. Additionally, the mixed news sentiment and regulatory issues surrounding Adani Group further justify a SELL signal.

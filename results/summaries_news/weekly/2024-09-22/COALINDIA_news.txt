@@ -1,0 +1,11 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Query 1: Dividend Stocks: Vedanta, ITC, BPCL, Coal India among top 15 Large Cap stocks by Axis Securities**
+
+The news tone is **Positive**. The historical data suggests that similar news has led to positive price impacts in the past, with an average impact of +2.21%. The notable event is the inclusion of Vedanta, ITC, BPCL, and Coal India in the top 15 Large Cap stocks by Axis Securities, which is likely to boost investor confidence.
+
+**Query 2: Stocks to buy for 1 year: MOFSL picks these 5 stocks for up to 31% gains; check out targets**
+
+The news tone is **Neutral**. The historical data shows a mixed bag of price impacts, with an average impact of -0.62%. While some similar news has led to positive price impacts, others have resulted in negative impacts. The notable event is MOFSL's pick of 5 stocks for up to 31% gains, which may attract investor attention, but the overall sentiment is neutral due to the mixed historical performance.
+
+Overall, the news tone for the current week is **Positive-Neutral**, with a slight bias towards positivity due to the first query's positive sentiment.

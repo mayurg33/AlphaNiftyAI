@@ -1,0 +1,12 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is **NEUTRAL**.
+
+**Notable Events:**
+
+1. **Audit profession under great pressure: Kotak**: This news may have a negative impact on Kotak Bank's stock, as the historical data suggests a -1.31% impact.
+2. **RBI decision on IDBI Bank bidders soon**: This news may have a positive impact on IDBI Bank's stock, as the historical data suggests a +6.39% impact.
+
+**News Tone:**
+
+The overall news tone is neutral, with one news item having a potentially negative impact and the other having a potentially positive impact. The audit profession being under pressure may affect Kotak Bank's stock, while the RBI's decision on IDBI Bank bidders may boost IDBI Bank's stock.

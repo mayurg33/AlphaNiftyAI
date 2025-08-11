@@ -1,0 +1,1 @@
+Based on the metrics, I would recommend a HOLD position on TCS. The negative returns over various time periods are concerning, but the relatively low volatility and positive Sharpe Ratio indicate that the return to risk taken is acceptable, making it not ideal to exit the investment just yet.

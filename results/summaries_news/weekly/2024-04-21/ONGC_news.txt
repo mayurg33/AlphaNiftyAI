@@ -1,0 +1,21 @@
+Here is a summary of the current week's news sentiment:
+
+**ONGC, Indraprastha Gas among 5 stocks that may gain from rising crude oil prices**
+
+* Sentiment: Positive
+* Notable event: The news suggests that ONGC and Indraprastha Gas may benefit from rising crude oil prices, which could lead to an increase in their stock prices.
+* Historical impact: The historical data shows that similar news has had a positive impact on ONGC's stock price, with an average impact of +3.07%.
+
+**bp simplifies organisational structure and announces executive team changes**
+
+* Sentiment: Neutral
+* Notable event: The news is about bp's internal restructuring and executive team changes, which may not have a direct impact on the stock price.
+* Historical impact: The historical data shows that similar news has had a mixed impact on bp's stock price, with an average impact of -0.29%.
+
+**Osaka Gas, Sumitomo, and JOIN to Invest in Expanding City Gas Distribution Business in India**
+
+* Sentiment: Positive
+* Notable event: The news suggests that Osaka Gas, Sumitomo, and JOIN are investing in expanding the city gas distribution business in India, which could lead to growth opportunities for companies in this sector.
+* Historical impact: The historical data shows that similar news has had a mixed impact on the stock prices of companies in this sector, with an average impact of -0.09%.
+
+Overall, the news tone is positive for ONGC and Indraprastha Gas, neutral for bp, and positive for companies in the city gas distribution business in India.

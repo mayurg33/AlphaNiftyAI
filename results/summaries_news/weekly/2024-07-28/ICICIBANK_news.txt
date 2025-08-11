@@ -1,0 +1,13 @@
+The current week's news sentiment is overall positive for ICICI Bank and neutral for Dr. Reddy's Laboratories.
+
+Notable events:
+
+* ICICI Bank's Q1FY25 results exceeded estimates, with a 15% YoY profit jump to Rs 11,059 crore, driven by strong loan growth and a 7% increase in Net Interest Income (NII).
+* Dr. Reddy's Laboratories reported a 0.8% decline in net profit to Rs 1,392 crore in Q1.
+
+News tone:
+
+* ICICI Bank: Positive. The news tone is upbeat, with multiple articles highlighting the bank's strong loan growth, improved profitability, and beating estimates. Historical data suggests that such news has led to a positive impact on the stock price, with an average increase of around 5-6%.
+* Dr. Reddy's Laboratories: Neutral. The news tone is mixed, with some articles reporting a decline in net profit, while others mention the company's efforts to improve its performance. Historical data suggests that the stock price impact has been inconsistent, with both positive and negative movements.
+
+Overall, the news tone is positive for ICICI Bank, indicating a potential increase in the stock price, while the tone is neutral for Dr. Reddy's Laboratories, suggesting a more uncertain impact on the stock price.

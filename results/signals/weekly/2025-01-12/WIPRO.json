@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 30.85,
+  "sharpe_ratio": 0.28,
+  "reasoning": "Wipro's financial health appears stable with strong profitability and reasonable valuation. However, the revenue growth rate is sluggish, and the debt-to-equity ratio is relatively high, which could be a concern. The macroeconomic environment is supportive, with a growing services sector and improving employment numbers. Given the mixed signals, I recommend a HOLD decision."
+}

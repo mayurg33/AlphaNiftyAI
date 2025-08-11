@@ -1,0 +1,11 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Slightly Negative
+
+**Notable Events:**
+
+1. Tata Consultancy Services (TCS) announces Sudeep Kunnumal as CHRO-designate, which has historically had a negative impact on the stock price (-2.90% to -3.83%).
+2. TCS shares are in focus due to the Rs 2,250 cr acquisition of Darshita Southern India Happy Homes, which has had mixed historical impacts on the stock price (ranging from -5.97% to +1.03%).
+3. Tata Communications board appoints N Ganapathy Subramaniam as Chairman, which has historically had a positive impact on the stock price (+3.03%).
+
+**Tone:** The overall tone of the news is neutral to slightly negative. While the appointment of a new Chairman at Tata Communications is a positive development, the historical impact of similar news events at TCS suggests a potential negative impact on the stock price. The acquisition news has had mixed impacts in the past, and its impact on the stock price is uncertain.

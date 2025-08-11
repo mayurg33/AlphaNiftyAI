@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 12.85,
+  "sharpe_ratio": -0.07,
+  "reasoning": "Wipro's stable weekly performance and lower volatility compared to its peers suggest a relatively safer investment. However, the Sharpe Ratio indicates that the return is not sufficient to compensate for the risk taken. Fundamentally, Wipro's strong profitability profile and reasonable valuation are positives, but the revenue growth rate is a concern. The news sentiment is neutral to positive, but not strong enough to warrant a buy decision. Therefore, I recommend holding the stock for now."
+}

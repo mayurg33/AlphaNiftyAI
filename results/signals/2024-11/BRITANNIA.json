@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock has underperformed in the past year with a 12-month return of -13.21%. The high volatility, negative Sharpe Ratio, and high maximum drawdown indicate poor risk-adjusted returns. Additionally, the company's financial performance, although decent, does not justify the high valuation multiples. The high debt-to-equity ratio is also a concern, making a SELL recommendation prudent."
+}

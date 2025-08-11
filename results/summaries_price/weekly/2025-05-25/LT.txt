@@ -1,0 +1,5 @@
+Here is a concise summary of the stock's weekly performance:
+
+Stock **LT** had a relatively flat week, with a weekly return of -0.01%, outperforming its peers RELIANCE, ULTRACEMCO, and ONGC. Despite its low return, LT's volatility of 18.62% was relatively moderate compared to its peers. The stock's Sharpe Ratio of 0.00 and Max Drawdown of -1.36% indicate a neutral risk profile for the week.
+
+[Volatility: 18.62%]

@@ -1,0 +1,14 @@
+Based on the current week's news, the sentiment is mixed to negative for the mentioned stocks.
+
+Notable events:
+
+* RIL, IndusInd Bank, Bajaj Finance, Maruti Suzuki India, and BPCL shares have been downgraded post Q2 results, indicating a negative sentiment.
+* Maruti Suzuki shares have fallen nearly 13% in a month, which could be a buying opportunity according to some analysts, but the overall sentiment is still negative.
+* Maruti Suzuki has partnered with HSBC India for dealer inventory funding, which is a positive development.
+
+News tone:
+
+* Negative for RIL, IndusInd Bank, Bajaj Finance, and BPCL due to downgrades post Q2 results.
+* Mixed for Maruti Suzuki India, with a negative sentiment due to the 13% fall in shares, but a positive development with the partnership with HSBC India for dealer inventory funding.
+
+Overall, the news tone is more negative than positive, with downgrades and share price falls dominating the headlines. However, the partnership with HSBC India is a positive development for Maruti Suzuki India.

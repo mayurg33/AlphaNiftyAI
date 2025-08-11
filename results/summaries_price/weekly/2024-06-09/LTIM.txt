@@ -1,0 +1,3 @@
+LTIM's weekly return of 7.05% was a strong performance, with a Sharpe Ratio of 1.00 indicating a good balance between return and risk. While its volatility of 27.52% was moderate, it was outperformed by TECHM but outpaced TITAN and ITC. Overall, LTIM's risk profile was relatively manageable this week. 
+
+[Volatility: 27.52%]

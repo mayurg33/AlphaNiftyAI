@@ -1,0 +1,9 @@
+Based on the historical news data, the current week's news sentiment for TCS is NEUTRAL.
+
+Notable events mentioned in the news include:
+
+* MCX selecting TCS for tech transformation (negative impact)
+* TCS being an IT stock in focus for trading (positive impact)
+* TCS's results and macro data driving markets (positive impact)
+
+The news tone is neutral because the positive and negative impacts seem to balance each other out. There is no overwhelmingly positive or negative sentiment dominating the news.

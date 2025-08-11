@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 29.79,
+  "sharpe_ratio": 0.55,
+  "reasoning": "The stock has delivered a strong weekly return, but its high volatility and potential for a max drawdown are concerns. The company's financial health is strong, but its valuation is stretched and debt levels are high. The news sentiment is neutral to slightly positive, and the macroeconomic environment is supportive of growth. However, the stock's high valuation and debt levels outweigh its positives, making it a hold for now."
+}

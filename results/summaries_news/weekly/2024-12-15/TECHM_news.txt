@@ -1,0 +1,10 @@
+Based on the current week's news, the sentiment is NEUTRAL.
+
+Notable events:
+
+1. Tech Mahindra gets board approval for the merger of its subsidiary Eventus Solutions with the parent company.
+2. Tech Mahindra collaborates with ServiceNow to offer Gen AI management solutions.
+
+Historical analysis suggests that the merger news might have a slightly positive impact on the stock, similar to the 2021-04-26 event (+0.99%). However, the collaboration news might have a mixed impact, as seen in the historical events (2022-02-07: -1.73%, 2022-02-16: +3.45%, and 2023-01-12: +0.52%).
+
+Overall, the news tone is neutral, as the positive and negative sentiments from the historical events cancel each other out. The actual impact on the stock price will depend on market conditions and investor reactions to these announcements.

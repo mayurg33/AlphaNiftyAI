@@ -1,0 +1,25 @@
+Symbol: NTPC
+Month: 2025-05
+Start Price: ₹348.70
+End Price: ₹333.90
+12M Return: -4.24%
+6M Return: -4.24%
+3M Return: -4.24%
+Volatility: 0.226
+Sharpe Ratio: -2.313
+Max Drawdown: -0.042
+Peer Correlation (POWERGRID): 0.7683
+Peer Correlation (COALINDIA): 0.6162
+Peer Correlation (ONGC): 0.6156
+Average Peer Correlation: 0.6667
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+NTPC, a leading Indian energy company, has experienced a decline in its stock price over the past 12 months, with a return of -4.24%. The stock's volatility is moderate at 0.226, and its Sharpe Ratio is -2.313, indicating that the return is not justified by the risk taken. The max drawdown is -0.042, which is relatively low. The stock exhibits high correlation with its peers, particularly POWERGRID (0.7683), and moderately high correlation with COALINDIA and ONGC.
+
+**Recommendation:**
+
+Based on the analysis, I would suggest a **HOLD** rating for NTPC. The stock's poor performance over the past 12 months, combined with its high correlation with its peers, suggests that the sector as a whole may be experiencing challenges. However, the moderate volatility and relatively low max drawdown indicate that the stock may not be overly risky. Additionally, the high correlation with POWERGRID could imply that NTPC may be a good hedge against POWERGRID's performance. I would recommend holding onto the stock for now and monitoring its performance, as well as the broader sector trends, before making a buy or sell decision.

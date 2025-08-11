@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While INFY's poor price trends and high volatility suggest a SELL, its reasonable valuation and decent ROE fundamentals warrant a HOLD. Additionally, the macroeconomic environment, with a stable repo rate and growing services sector, provides some optimism for the company's future performance.

@@ -1,0 +1,16 @@
+Based on the historical data, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Mixed
+
+**Notable Events:**
+
+1. Coal supply to power sector falls 5.4% to 58.07 mn tonnes in August: This news has a negative tone, indicating a decline in coal supply, which may impact the power sector.
+2. India's coal sector records 5.85% growth in FY 2024-25, reaches 411.62 MT despite challenges: This news has a positive tone, indicating growth in the coal sector despite challenges.
+
+**Tone Analysis:**
+
+The tone of the news is mixed, with one piece of news having a negative tone and the other having a positive tone. The first news item suggests a decline in coal supply, which may impact the power sector, whereas the second news item indicates growth in the coal sector, which is a positive development.
+
+Historically, similar news items have had varying impacts on the stock price. For example, a decline in coal production has led to both positive and negative impacts on the stock price in the past. Similarly, growth in coal offtake has also led to varying impacts on the stock price.
+
+Overall, the news tone is neutral, as the positive and negative news items balance each other out. However, investors should closely monitor the developments in the coal sector and their impact on the power sector to make informed investment decisions.

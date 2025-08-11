@@ -1,0 +1,8 @@
+Based on the historical similar news and price impact, the current week's news sentiment is **Positive**.
+
+Notable events mentioned in the news include:
+
+* The Tata Group FMCG stock has gained 763% in 10 years since the 1:10 stock split in 2010.
+* Analysts are bullish on the stock, expecting more gains ahead.
+
+The news tone is positive, with all the historical similar news having a positive impact on the stock price, ranging from +0.78% to +1.47%. This suggests that the market has reacted favorably to news related to the stock split and the company's performance.

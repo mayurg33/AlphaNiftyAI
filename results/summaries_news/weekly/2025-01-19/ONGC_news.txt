@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* Sagar Doshi of Nuvama suggests buying ONGC, Maruti Suzuki, and Bajaj Finance.
+
+The news tone is neutral because the historical similar news has shown mixed price impacts. While some news had a positive impact (+3.58%), others had a negative impact (-6.26% and -0.57%). This suggests that the market's reaction to the current news is uncertain and could go either way.

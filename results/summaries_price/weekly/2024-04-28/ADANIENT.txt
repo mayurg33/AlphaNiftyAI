@@ -1,0 +1,3 @@
+ADANIENT's weekly performance was modest, with a 0.56% return, outperforming ADANIPORTS but underperforming POWERGRID. The stock's volatility was relatively high at 24.61%, indicating a riskier investment environment. Compared to peers, ADANIENT's Sharpe Ratio of 0.10 suggests it was less efficient in generating returns per unit of risk taken. Overall, the stock's performance was lackluster, and investors should be cautious due to its high volatility.
+
+[Volatility: 24.61%]

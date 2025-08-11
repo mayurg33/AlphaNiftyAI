@@ -1,0 +1,7 @@
+**Weekly News Sentiment:** Neutral
+
+**Notable Event:** The Coal India Chairman reviewed the performance of Mahanadi Coalfields Limited (MCL), a subsidiary of Coal India.
+
+**News Tone:** The news tone is neutral as it is a routine review of performance and does not provide any specific information about the company's financials, production, or sales. The review could be a positive or negative assessment, but without further details, it is difficult to determine the impact on the stock.
+
+Historical context suggests that news related to coal production and availability can have a positive impact on the stock (e.g., +1.81% on 2022-07-03), while news about coal allocation to power producers can have a negative impact (e.g., -4.27% on 2021-10-11). However, in this case, the news is too vague to determine a clear sentiment.

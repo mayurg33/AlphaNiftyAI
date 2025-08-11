@@ -1,0 +1,13 @@
+Based on the historical news data, the current week's news sentiment is NEUTRAL for ICICI Bank.
+
+Notable events:
+
+* Motilal Oswal has chosen ICICI Bank as its top choice, indicating a positive outlook for the stock.
+* There is no significant negative news or events reported this week that could impact the stock's performance.
+
+Historical price impact:
+
+* The average price impact of similar news in the past is around -0.42% (calculated from the provided historical data).
+* However, there is a notable positive impact of +4.06% on 2021-02-10, which suggests that the stock can react positively to favorable news.
+
+Overall, the news tone is neutral, and investors may expect a stable or slightly positive performance from ICICI Bank in the short term.

@@ -1,0 +1,7 @@
+Based on the queries, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Negative
+
+**Notable Events:** Novelis' preliminary Q3 report looks bearish, which is impacting Hindalco's recent stock price.
+
+**Tone:** The news tone is negative for the stock. The historical data suggests that Novelis' bearish report has a negative impact on Hindalco's stock price, with a similar event in the past resulting in a -0.62% impact. Additionally, the other historical events mentioned also have a negative impact on the stock price, with the exception of one positive event. Overall, the news tone is bearish, indicating a potential decline in Hindalco's stock price.

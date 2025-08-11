@@ -1,0 +1,7 @@
+**Current Week's News Sentiment:** Negative
+
+**Notable Events:** IRDAI (Insurance Regulatory and Development Authority of India) has imposed a penalty of Rs 2 crore on HDFC Life Insurance for violating norms.
+
+**News Tone:** The news tone is negative for the stock. All four news articles report the same event, which is the penalty imposed by IRDAI on HDFC Life Insurance. The historical similar news and price impact suggest that such penalties have resulted in a negative impact on the stock price in the past, with an average impact of around -0.8% to -1.3%. The only positive impact mentioned in the historical data is related to a merger boost, which is not relevant to the current news.
+
+Overall, the news tone is negative, and investors may react negatively to the news, potentially leading to a decline in the stock price.

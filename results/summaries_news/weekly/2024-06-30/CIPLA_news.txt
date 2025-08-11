@@ -1,0 +1,20 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Stocks to watch on June 24: Sun Pharma, Cipla, Lupin, Vedanta, Tata Steel**
+
+The news tone is Neutral to Positive. The historical data suggests that similar news has led to a mixed impact on the stock prices, with some instances showing a positive impact (+1.23%, +2.31%) and others showing a negative impact (-0.77%). However, the overall trend seems to be leaning towards a positive impact.
+
+**For Cipla, repeated US FDA observations are a cause of concern | Stock Market News**
+
+The news tone is Negative. The historical data suggests that similar news has led to a mixed impact on the stock prices, but the negative impact (-0.09%) seems to be more prominent. The repeated US FDA observations are a cause of concern, which might lead to a negative impact on the stock price.
+
+**Elara Securities' positive outlook on Indian pharma sector with emphasis on US generics market**
+
+The news tone is Positive. The historical data suggests that similar news has led to a positive impact on the stock prices (+5.40%, +1.02%). The positive outlook on the Indian pharma sector, particularly in the US generics market, is likely to boost the stock prices of companies like Sun Pharma, Cipla, and Lupin.
+
+Notable events:
+
+* Cipla's repeated US FDA observations are a cause of concern.
+* Elara Securities' positive outlook on the Indian pharma sector, particularly in the US generics market.
+
+Overall, the news tone is Neutral to Positive, with a slight leaning towards a positive impact on the stock prices. However, the concerns surrounding Cipla's US FDA observations might temper the overall positive sentiment.

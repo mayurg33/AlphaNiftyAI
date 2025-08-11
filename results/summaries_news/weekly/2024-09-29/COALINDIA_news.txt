@@ -1,0 +1,16 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Stocks to Watch: Coal India, ONGC, Reliance Industries, OIL, Vedanta, Power Grid Corp**
+
+The news tone is **Positive** for this stock. The historical data shows that similar news has led to a positive impact on the stock price, with an average increase of +2.83% (calculated from the two positive impacts mentioned).
+
+**Coal India unions may seek 95,000-rupee/worker festival bonus**
+
+The news tone is **Negative** for this stock. The historical data shows that similar news has led to a negative impact on the stock price, with an average decrease of -4.16% (calculated from the three negative impacts mentioned).
+
+Notable events:
+
+* The "Stocks to Watch" news may have a positive impact on the stock prices of Coal India, ONGC, Reliance Industries, OIL, Vedanta, and Power Grid Corp.
+* The news about Coal India unions seeking a high festival bonus may have a negative impact on the stock price of Coal India.
+
+Overall, the news tone is mixed, with a positive tone for the "Stocks to Watch" news and a negative tone for the Coal India festival bonus news.

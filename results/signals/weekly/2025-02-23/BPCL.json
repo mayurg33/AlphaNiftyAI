@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 29.87,
+  "sharpe_ratio": -0.05,
+  "reasoning": "The stock's high volatility and negative returns make it a cautious investment opportunity. However, its relatively low trailing P/E ratio and decent dividend yield suggest undervaluation. The news sentiment is neutral to positive, but the removal from the Nifty 50 index may have a negative impact on the stock price. Overall, it's a hold decision due to mixed signals."
+}

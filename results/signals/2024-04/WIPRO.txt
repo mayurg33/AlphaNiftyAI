@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While the fundamental analysis suggests a BUY due to attractive valuations and strong earnings growth, the technical analysis indicates a SELL due to the stock's consistent decline and high correlation with other IT stocks. However, the news sentiment and macroeconomic environment suggest a potential for growth and stability, leading to a neutral HOLD signal.

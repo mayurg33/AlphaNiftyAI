@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 160.74,
+  "sharpe_ratio": -0.17,
+  "reasoning": "The stock's high volatility and poor returns make it a risky investment. However, the company's strong valuation, high dividend yield, and decent profitability metrics are positives. The news sentiment is neutral to slightly negative, and the macroeconomic environment is supportive of growth. Overall, it's a hold decision, as the stock's risks and rewards are balanced."
+}

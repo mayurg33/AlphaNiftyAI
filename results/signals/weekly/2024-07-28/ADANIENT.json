@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 31.57,
+  "sharpe_ratio": 0.34,
+  "reasoning": "The stock's moderate performance and decent Sharpe Ratio suggest it's not a clear buy or sell. However, the high volatility and stretched valuation are concerns. Additionally, the company's high debt-to-equity ratio and negative revenue growth rate are major weaknesses. Given the mixed fundamentals and uncertain macroeconomic environment, a hold decision is warranted."
+}

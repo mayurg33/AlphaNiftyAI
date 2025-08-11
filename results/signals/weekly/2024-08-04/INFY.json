@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 13.29,
+  "sharpe_ratio": -0.80,
+  "reasoning": "The stock's lackluster performance and negative Sharpe Ratio indicate that the return is not justified by its risk. However, the company's strong profitability profile and reasonable valuation provide some comfort. The news sentiment is mixed with a slight negative tone, but the macroeconomic environment is supportive of growth. Overall, it's a HOLD decision until the company's growth metrics improve and the GST demand notice is resolved."
+}

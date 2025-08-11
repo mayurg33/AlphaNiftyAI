@@ -1,0 +1,9 @@
+Based on the historical similar news, the current week's news sentiment is NEUTRAL.
+
+Notable events mentioned in the historical news include:
+
+* Ultratech Cement raising funds via a US dollar denominated bond, which had a positive impact of +7.94% on the stock.
+* Key stocks in focus, including Tata Steel, Adani Green, and Vedanta, which had a negligible impact of -0.07% on the stock.
+* Singtel considering selling a part stake in Bharti Airtel, which had a positive impact of +3.86% on the stock.
+
+The news tone is neutral because the historical similar news does not show a consistent positive or negative trend. The impacts range from +7.94% to -0.07%, indicating that the news has had varying effects on the stock in the past. Therefore, it is difficult to predict the exact impact of the current news on the stock.

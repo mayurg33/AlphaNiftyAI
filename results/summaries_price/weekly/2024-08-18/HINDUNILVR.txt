@@ -1,0 +1,3 @@
+HINDUNILVR had a lackluster week, with a meager return of -0.02% and a Sharpe Ratio of -0.00, indicating poor risk-adjusted performance. The stock's volatility was moderate at 13.73%, but its Max Drawdown of -0.97% suggests a relatively high risk profile. Compared to its peers, HINDUNILVR underperformed, with RELIANCE, NESTLEIND, and TATACONSUM all posting higher returns. Overall, the stock's performance was disappointing and risky this week.
+
+[Volatility: 13.73%]

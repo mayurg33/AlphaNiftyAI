@@ -1,0 +1,20 @@
+**Weekly News Sentiment Summary**
+
+The overall sentiment of this week's news is **Positive**.
+
+**Notable Events:**
+
+1. Hospital stocks are seen as a bright spot for investors, with three stocks recommended to add to the watchlist.
+2. KKR is close to buying cancer chain HCG, which could be a significant development in the healthcare sector.
+3. Inventurus Knowledge Solutions has set a price band for its ₹2498 IPO, attracting investor attention.
+
+**Sentiment Breakdown:**
+
+* **Positive Sentiment:** 2 news articles (Hospital stocks, Inventurus Knowledge Solutions' IPO)
+* **Negative Sentiment:** 1 news article (KKR close to buying cancer chain HCG)
+
+**Historical Context:**
+
+Based on historical data, news related to hospital stocks and pharmaceutical companies has generally had a positive impact on stock prices, with average gains ranging from 2.18% to 7.48%. In contrast, news related to HCG has had a negative impact on stock prices, with average losses ranging from -5.68% to -7.74%. The IPO news has had a mixed impact, with both positive and negative effects on stock prices.
+
+Overall, the positive sentiment around hospital stocks and the IPO news outweighs the negative sentiment around the HCG acquisition, making the overall tone of the news positive for the stock.

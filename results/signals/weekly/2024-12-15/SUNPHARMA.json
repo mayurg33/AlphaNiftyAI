@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 6.26,
+  "sharpe_ratio": 0.24,
+  "reasoning": "The stock's modest weekly performance and moderate risk-adjusted return suggest a hold decision. Although the company's fundamentals are strong, the high debt-to-equity ratio and declining earnings growth are concerns. The neutral news sentiment and stable macroeconomic environment do not provide a strong catalyst for a buy or sell decision."
+}

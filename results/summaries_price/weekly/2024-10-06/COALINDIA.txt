@@ -1,0 +1,3 @@
+COALINDIA's weekly performance was disappointing, with a return of -2.54% and a Sharpe Ratio of -1.82, indicating poor risk-adjusted returns. The stock's volatility was moderate at 7.42%, but its Max Drawdown of -2.54% suggests a relatively stable decline. Compared to peers, COALINDIA outperformed TATACONSUM and POWERGRID but underperformed TATASTEEL. Overall, the stock was moderately risky this week.
+
+[Volatility: 7.42%]

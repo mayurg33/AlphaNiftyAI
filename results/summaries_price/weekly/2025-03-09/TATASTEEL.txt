@@ -1,0 +1,3 @@
+TATASTEEL had a stellar week, delivering a 9.37% return, significantly outperforming its peers. The stock's volatility was relatively high at 32.3%, but its Sharpe Ratio of 1.12 indicates that the returns were sufficient to compensate for the risk taken. Compared to its peers, TATASTEEL outperformed TATAMOTORS and JSWSTEEL, and far surpassed TATACONSUM. Overall, the stock's performance was impressive, but investors should be aware of the elevated risk.
+
+[Volatility: 32.3%]

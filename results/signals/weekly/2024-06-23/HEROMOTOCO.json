@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 12.57,
+  "sharpe_ratio": -2.25,
+  "reasoning": "The stock's poor weekly performance and high Max Drawdown suggest caution. However, the company's strong profitability profile, attractive dividend yield, and reasonable valuation metrics are positives. The macroeconomic environment, particularly in the automotive industry, is also supportive. Given the mixed signals, a hold decision is warranted to monitor the stock's performance and adjust the position accordingly."
+}

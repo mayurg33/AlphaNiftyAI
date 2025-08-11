@@ -1,0 +1,9 @@
+Based on the historical news data, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* There is no new news article for the current week, only historical data is available.
+
+News tone:
+
+* The historical data shows a mix of positive and negative news tone. One article from 2023-04-26 has a positive tone with an impact of +3.79%, while two articles from 2021 have a negative tone with impacts of -8.42% and -4.23%. Since there is no new news for the current week, the overall tone is neutral.

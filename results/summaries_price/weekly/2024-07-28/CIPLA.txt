@@ -1,0 +1,3 @@
+CIPLA's weekly performance was strong, with a 5.7% return, outperforming GRASIM but underperforming SUNPHARMA. The stock's volatility was relatively high at 38.23%, higher than its peers except for DIVISLAB. Despite a decent Sharpe Ratio of 0.59, the stock's risk profile was elevated, with a Max Drawdown of -0.23%. Overall, CIPLA's performance was decent but came with higher risk.
+
+[Volatility: 38.23%]

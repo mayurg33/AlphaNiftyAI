@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 42.06,
+  "sharpe_ratio": 0.36,
+  "reasoning": "The stock has a high volatility, which is a concern. However, its Sharpe Ratio suggests that the returns are somewhat justified by the level of risk taken. The company's financial health is stable, but it needs to improve its profitability and debt position. Given the neutral news sentiment and mixed macroeconomic environment, I recommend a HOLD decision."
+}

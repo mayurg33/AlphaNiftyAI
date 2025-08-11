@@ -1,0 +1,9 @@
+Based on the historical similar news and price impact, the current week's news sentiment appears to be NEUTRAL for the stocks mentioned (Zomato, Paytm, Tata Motors, IndusInd Bank, and Metropolis Healthcare).
+
+The notable events mentioned in the historical news are:
+
+* Tata Motors being mentioned as a top stock idea along with other stocks (2022-12-06), which had a positive impact of +1.73%.
+* Tata Motors being mentioned among 51 stocks sending bullish signals (2021-06-29), which had a negative impact of -0.92%.
+* Zomato being mentioned along with other stocks in focus (2021-10-06), which had a positive impact of +6.04%.
+
+Overall, the news tone is neutral as the historical impact is mixed, with both positive and negative price movements. However, the most recent mention of Tata Motors as a top stock idea had a positive impact, which could suggest a slightly positive bias for the stock.

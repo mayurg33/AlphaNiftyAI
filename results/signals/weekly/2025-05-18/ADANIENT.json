@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 12.13,
+  "sharpe_ratio": 1.72,
+  "reasoning": "The stock has a strong weekly performance with a high Sharpe Ratio, indicating a good return for its risk. However, the company's financial health is fragile with high leverage and stretched valuation. The negative news sentiment and reduction in mutual fund holdings are also concerns. Therefore, I would recommend a HOLD decision, as the stock's strong performance is offset by its underlying financial health issues."
+}

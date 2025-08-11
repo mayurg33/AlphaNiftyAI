@@ -1,0 +1,3 @@
+HDFCLIFE's weekly performance was disappointing, with a return of -1.76% and a Sharpe Ratio of -0.75, indicating poor risk-adjusted returns. The stock's volatility was relatively high at 9.35%, contributing to its underperformance. Compared to its peers, HDFCLIFE outperformed HDFCBANK but underperformed SBILIFE and HINDUNILVR. Overall, the stock was relatively risky this week.
+
+[Volatility: 9.35%]

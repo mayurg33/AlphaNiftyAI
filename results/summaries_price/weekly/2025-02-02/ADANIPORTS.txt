@@ -1,0 +1,3 @@
+ADANIPORTS had a lackluster week, returning 0.19% with a Sharpe Ratio of 0.03, indicating a relatively poor risk-adjusted performance. The stock's volatility was moderate at 27.22%, but its Max Drawdown of -1.81% suggests some downside risk. Compared to its peers, ADANIPORTS underperformed ADANIENT and SBIN, but outperformed MARUTI in terms of volatility. Overall, the stock's performance was mediocre, and its risk profile was moderate.
+
+[Volatility: 27.22%]

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 31.78,
+  "sharpe_ratio": -0.17,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns. However, the company's strong profitability profile and reasonable valuation are positives. The macroeconomic environment is also supportive, with a growing services sector and low inflation. Given the mixed signals, I recommend a HOLD decision."
+}

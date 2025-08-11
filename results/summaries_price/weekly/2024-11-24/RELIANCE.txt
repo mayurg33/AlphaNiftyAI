@@ -1,0 +1,3 @@
+RELIANCE's weekly performance was lackluster, with a return of 0.37%, underperforming its peers LT and GRASIM. The stock's volatility was high at 45.6%, indicating a risky investment environment. Despite this, the Sharpe Ratio of 0.05 suggests that the returns were not entirely justified by the level of risk taken. Overall, RELIANCE underperformed its peers and exhibited high risk this week.
+
+[Volatility: 45.6%]

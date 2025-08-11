@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 87.81,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's high volatility and poor Sharpe Ratio indicate a high-risk investment. Although the company has a strong profitability profile, its high debt-to-equity ratio and stretched valuation (P/E ratio of 70.12535) are major concerns. Furthermore, the macroeconomic environment, while positive, does not seem to have a direct impact on the company's performance. Therefore, I would recommend selling the stock."
+}

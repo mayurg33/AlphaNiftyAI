@@ -1,0 +1,25 @@
+Symbol: BRITANNIA
+Month: 2025-05
+Start Price: ₹5301.00
+End Price: ₹5510.50
+12M Return: 3.95%
+6M Return: 3.95%
+3M Return: 3.95%
+Volatility: 0.184
+Sharpe Ratio: 2.744
+Max Drawdown: -0.032
+Peer Correlation (NESTLEIND): 0.677
+Peer Correlation (GRASIM): 0.422
+Peer Correlation (RELIANCE): 0.6728
+Average Peer Correlation: 0.5906
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Britannia Industries Ltd. (BRITANNIA) has demonstrated a steady performance in the past 12 months, with a return of 3.95%. The stock's volatility is relatively low at 0.184, indicating a stable price movement. The Sharpe Ratio of 2.744 suggests that the returns are generated with relatively low risk. The maximum drawdown of -0.032 indicates that the stock has not experienced a significant decline in value. In terms of peer correlation, Britannia has a moderate correlation with its peers, particularly NESTLEIND and RELIANCE.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **BUY** for Britannia Industries Ltd. (BRITANNIA). The stock's stable performance, low volatility, and attractive Sharpe Ratio indicate a strong investment opportunity. The moderate correlation with peers suggests that the stock is not overly dependent on industry trends, making it a relatively safer bet. With a 12-month return of 3.95%, the stock has shown consistent growth, and I expect this trend to continue.

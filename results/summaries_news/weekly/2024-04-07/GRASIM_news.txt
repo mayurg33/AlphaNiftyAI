@@ -1,0 +1,11 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+The news headline "Share Market Highlights April 5th, 2024: Sensex, Nifty trade flat; bank stocks shine" suggests that the market is trading flat, but bank stocks are performing well. This mixed sentiment is reflected in the historical similar news, which shows a mix of positive and negative impacts.
+
+Notable events mentioned in the historical similar news include:
+
+* Bank stocks such as Axis Bank and SBI being expected to give up to 10% return in a month (negative impact)
+* Large and midcap stocks, including Titan and Crisil, surpassing their 50-day SMA (positive impact)
+* Tech Mahindra divesting its stake in SARL Djazatech (positive impact)
+
+Overall, the news tone is neutral, as the market is trading flat, but there are positive developments in the banking sector.

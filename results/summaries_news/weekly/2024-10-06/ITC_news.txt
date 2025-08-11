@@ -1,0 +1,17 @@
+Based on the historical data, here's a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to slightly Negative
+
+**Notable Events:**
+
+1. ITC Demerger Latest News: BIG Update from NCLT; Check ITC Hotels share ratio - This news suggests a significant development in the demerger process of ITC Hotels, which could have a significant impact on the stock price.
+2. ITC shares in news today on Rs 485-crore acquisition in IT space - This news indicates ITC's expansion into the IT space, which could be a positive development for the company.
+
+**Historical Context:**
+
+* Demerger-related news has historically had a negative impact on the stock price, with an average impact of -3.33% (based on the two historical instances).
+* Acquisition-related news has had a mixed impact, with one instance being positive (+0.81%) and two instances being negative (-1.58% and -2.57%).
+
+**Overall Tone:**
+
+While the demerger news might have a negative impact, the acquisition news could be seen as a positive development. However, given the historical context, the overall tone of the news is slightly negative. Investors might be cautious about the demerger process and its potential impact on the stock price, which could outweigh the positive sentiment from the acquisition news.

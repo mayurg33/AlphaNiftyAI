@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 31.99,
+  "sharpe_ratio": -0.34,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns. However, the company's strong financial health and manageable debt position are positives. The mixed news sentiment and neutral tone do not provide a clear direction. Considering the macroeconomic environment, the automotive industry is performing well, but the company's valuation seems rich. Therefore, I recommend a HOLD decision, awaiting further clarification on the company's future performance."
+}

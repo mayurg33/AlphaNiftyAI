@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 43.32,
+  "sharpe_ratio": 0.19,
+  "reasoning": "The stock's high volatility and relatively low Sharpe Ratio indicate a high level of risk. Additionally, the company's high debt-to-equity ratio and overvalued stock price are concerns. The negative news sentiment and recent decline in share price due to the rights issue announcement further support a sell decision."
+}

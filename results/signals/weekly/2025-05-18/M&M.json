@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 23.99,
+  "sharpe_ratio": 0.17,
+  "reasoning": "The stock's modest return and high volatility indicate a moderate level of risk. While the company's profitability profile is strong, its high debt levels are a concern. The news sentiment is neutral to positive, but the macroeconomic environment is stable, with a projected agricultural growth of 4.5% and stable rural spending. Overall, the stock's strengths and weaknesses are balanced, making it a hold decision."
+}

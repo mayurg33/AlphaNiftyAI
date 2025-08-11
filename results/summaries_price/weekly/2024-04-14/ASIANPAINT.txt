@@ -1,0 +1,3 @@
+ASIANPAINT's weekly performance was disappointing, with a -1.3% return, outperforming only MARUTI among its peers. The stock's volatility was relatively high at 24.99%, which is concerning. Despite this, its Sharpe Ratio of -0.27 suggests that the return was not justified by the level of risk taken. Overall, ASIANPAINT underperformed its peers in terms of risk-adjusted returns.
+
+[Volatility: 24.99%]

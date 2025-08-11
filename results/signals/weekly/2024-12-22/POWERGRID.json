@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 17.01,
+  "sharpe_ratio": -1.36,
+  "reasoning": "The stock's high volatility and negative returns make it a cautious investment opportunity. However, the company's financial health is strong, with a strong valuation and efficient operations. The news sentiment is neutral, and the macroeconomic environment is supportive of growth. Given the mixed signals, a hold decision is recommended to wait for further clarity on the company's growth and debt concerns."
+}

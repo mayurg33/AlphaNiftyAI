@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+The news report states that Adani is planning to raise $1.2 billion for its flagship firm via a share sale, which could be a significant event for the company. However, the historical data suggests that the impact of such news on the stock price is uncertain.
+
+In the past, similar news has had varying effects on the stock price, ranging from a -20.26% decline to a +3.93% increase. The most recent event, where Adani increased its stake in Adani Enterprises and Adani Ports, had a positive impact of +2.66%.
+
+Overall, the news tone is neutral, as it is unclear how the market will react to this news. It may be viewed as a positive development, as it could provide additional capital for the company's growth, or it could be seen as a negative, as it may lead to dilution of existing shareholders' stakes.

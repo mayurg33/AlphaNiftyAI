@@ -1,0 +1,17 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Slightly Negative
+
+**Notable Events:**
+
+* BPCL is negotiating a crude oil deal with Saudi Arabia for its Andhra refinery.
+* BPCL has inked a term contract with Petrobras for Brazilian crude oil.
+* Bharat Petroleum has entered into a strategic term contract with Petrobras.
+
+**Tone Analysis:**
+
+The news tone is neutral to slightly negative for the stock. The historical data suggests that news related to crude oil deals and contracts has had a mixed impact on the stock price. While some deals have resulted in positive price movements (e.g., +4.79% and +3.12%), others have led to negative price movements (e.g., -3.56%, -3.41%, and -1.96%).
+
+The current week's news is focused on BPCL's efforts to diversify its crude oil sourcing, which could be seen as a positive development. However, the historical data suggests that the market may not react positively to such news, and the tone is more neutral to slightly negative.
+
+Overall, the news sentiment is neutral to slightly negative, indicating that the stock price may not experience a significant upward movement in response to these news events.

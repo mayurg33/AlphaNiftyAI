@@ -1,0 +1,16 @@
+Based on the historical data, here's a summary of the current week's news sentiment:
+
+**Query 1: Best Auto Stock: Hyundai Motor India vs Maruti Suzuki**
+
+The news tone is Neutral for Maruti Suzuki. The historical data shows a mix of positive and negative impacts, with a significant negative impact (-12.68%) on one occasion. However, the overall sentiment is neutral, indicating that the news is not strongly biased towards a particular direction.
+
+**Query 2: Q2 results this week: Airtel, Maruti Suzuki, L&T among 392 companies to announce earnings**
+
+The news tone is Positive for Airtel and Maruti Suzuki. The historical data shows a consistent positive impact, with all three instances resulting in a positive impact (+2.70%, +4.68%, and +2.53%). This suggests that the news is generally optimistic about the companies' earnings announcements.
+
+Notable events for the week:
+
+* Q2 results announcements for Airtel, Maruti Suzuki, L&T, and 392 other companies
+* Comparison of Hyundai Motor India and Maruti Suzuki as the best auto stock
+
+Overall, the news tone is slightly positive, driven by the optimistic sentiment around earnings announcements. However, the auto stock comparison news is neutral, which may not have a significant impact on the stock prices.

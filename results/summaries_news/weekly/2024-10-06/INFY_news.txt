@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, the current week's news sentiment for Infosys is NEUTRAL.
+
+The notable event is the announcement of Infosys Q2 FY 2024-25 results date and time, with a decision likely on interim dividend. This news is neutral in tone, as it is a routine quarterly earnings schedule announcement.
+
+The historical news articles mentioned have varying impacts on the stock price, ranging from +6.69% to -3.61%. However, the overall tone of the news is not overwhelmingly positive or negative, suggesting a neutral sentiment for the stock.
+
+It's worth noting that the news about deferring salary hikes for employees had a positive impact on the stock price (+6.69%), while the news about trading ex-dividend had a slightly negative impact (-0.35%). The news about Infosys being in the spotlight along with other companies had a more significant negative impact (-3.61%).

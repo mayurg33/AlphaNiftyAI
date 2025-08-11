@@ -1,0 +1,3 @@
+HEROMOTOCO had a strong weekly performance, with a 4.17% return, outperforming its peers MARUTI and M&M, but slightly underperforming BAJAJ-AUTO. The stock's volatility was relatively moderate at 16.68%, lower than its peers. The Sharpe Ratio of 0.98 indicates a favorable risk-return tradeoff, and the Max Drawdown of -0.15% suggests that the stock was relatively resilient to losses. Overall, HEROMOTOCO demonstrated a strong and relatively stable performance this week.
+
+[Volatility: 16.68%]

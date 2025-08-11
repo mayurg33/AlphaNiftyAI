@@ -1,0 +1,25 @@
+Symbol: INFY
+Month: 2025-04
+Start Price: ₹1505.32
+End Price: ₹1479.29
+12M Return: -1.73%
+6M Return: -1.73%
+3M Return: -1.73%
+Volatility: 0.327
+Sharpe Ratio: -0.591
+Max Drawdown: -0.099
+Peer Correlation (TCS): 0.7957
+Peer Correlation (ITC): -0.1409
+Peer Correlation (WIPRO): 0.7098
+Average Peer Correlation: 0.4549
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Infosys (INFY) has underperformed in the past 12 months, with a return of -1.73%, indicating a decline in stock value. The stock's volatility is moderate at 0.327, and its Sharpe Ratio is -0.591, suggesting that the returns are not justified by the risk taken. The maximum drawdown is 9.9%, indicating a significant decline in stock value during this period. The peer correlation analysis suggests that INFY has a strong positive correlation with TCS and WIPRO, but a negative correlation with ITC.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **HOLD** on Infosys (INFY) for now. The stock's underperformance and negative Sharpe Ratio suggest that there may be better investment opportunities available. Additionally, the moderate volatility and maximum drawdown indicate that the stock is not a stable investment option. However, the strong positive correlation with TCS and WIPRO suggests that INFY may follow the trend of its peers, which could be a positive sign. Therefore, I would recommend holding onto INFY for now and monitoring its performance closely before making a buy or sell decision.

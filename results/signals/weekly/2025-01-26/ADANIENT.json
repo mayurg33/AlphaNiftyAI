@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 25.18,
+  "sharpe_ratio": -0.83,
+  "reasoning": "The stock's high volatility and poor risk-adjusted returns indicate a cautious investment opportunity. Additionally, the company's financial health is a concern due to its high debt-to-equity ratio and rich valuation. The macroeconomic environment is generally positive, but it may not be enough to offset the company's internal issues, leading me to recommend a sell decision."
+}

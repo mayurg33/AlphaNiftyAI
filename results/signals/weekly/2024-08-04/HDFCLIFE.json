@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 24.46,
+  "sharpe_ratio": 0.25,
+  "reasoning": "The stock's high volatility and low Sharpe Ratio indicate a high-risk investment. The company's high valuation and debt position are also concerns. Furthermore, the negative news sentiment and penalty imposed by IRDAI may lead to a decline in stock price. Overall, the risks outweigh the potential benefits, making it a SELL decision."
+}

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 2.67,
+  "sharpe_ratio": -4.89,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but its strong fundamentals, including high ROE and EBITDA margins, suggest a potential rebound. The positive news sentiment and macroeconomic environment, particularly in the automotive industry, also support a hold decision. However, the high valuation and debt position are drawbacks that prevent a buy recommendation."
+}

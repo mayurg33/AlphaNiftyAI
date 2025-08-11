@@ -1,0 +1,3 @@
+INFY's weekly performance was dismal, with a return of -7.15%, significantly underperforming its peers. The stock's volatility was exceptionally high at 28.33%, indicating a highly turbulent week. Compared to its peers, INFY's return was worse than TCS and WIPRO, but its volatility was the highest among the three. The stock's risk profile was extremely high this week, as reflected in its Sharpe Ratio of -1.36.
+
+[Volatility: 28.33%]

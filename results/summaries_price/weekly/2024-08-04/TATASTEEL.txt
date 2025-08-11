@@ -1,0 +1,3 @@
+TATASTEEL's weekly performance was disappointing, with a return of -2.86%, indicating a decline in stock value. The stock's volatility was moderate at 28.72%, which is relatively lower compared to its peers. Despite this, TATASTEEL underperformed its peers, with only TATAMOTORS faring worse. The stock's Sharpe ratio of -0.39 and max drawdown of -4.3% suggest a high level of risk this week. 
+
+[Volatility: 28.72%]

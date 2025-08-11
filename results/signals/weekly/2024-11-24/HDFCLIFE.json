@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 29.86,
+  "sharpe_ratio": -0.05,
+  "reasoning": "The stock's poor weekly performance, high volatility, and negative Sharpe Ratio indicate poor risk-adjusted returns. Additionally, the news sentiment is negative due to the Finance Minister's advice to banks to deter from selling insurance, which has historically had a negative impact on the stock. Furthermore, the company's high debt-to-equity ratio and stretched valuation ratios are concerns. Therefore, it's a good time to sell the stock."
+}

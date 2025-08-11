@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 24.86,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's poor weekly performance and high volatility make it a risky investment. However, the company's strong financial health, with high gross margins and EBITDA margins, suggests profitability. The mixed news sentiment and neutral macroeconomic environment also contribute to a hold decision, as the stock's valuation appears rich and may be overvalued."
+}

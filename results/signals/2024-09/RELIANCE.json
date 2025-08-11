@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock's poor 12-month return and Sharpe Ratio indicate a poor risk-adjusted return. However, the moderate volatility and low maximum drawdown suggest a relatively low risk of significant losses. The peer correlations indicate some diversification benefits. Fundamentally, the stock appears fairly valued with decent profitability and growth prospects, but high leverage is a concern. The positive news sentiment is offset by the macroeconomic environment, which suggests a stable but not exceptional growth outlook."
+}

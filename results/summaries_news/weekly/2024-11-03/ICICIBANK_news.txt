@@ -1,0 +1,18 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Overall Sentiment:** Neutral to Positive
+
+**Notable Events:**
+
+* ICICI Securities has previously commented positively on Coal India, with a significant price impact of +7.21% on July 4, 2022.
+* There is also a positive mention of India Inc, which could have a broader impact on the market and the stocks mentioned.
+
+**Stock-wise Sentiment:**
+
+* ICICI Bank: Neutral (no specific sentiment mentioned)
+* IndiGo: Neutral (no specific sentiment mentioned)
+* Coal India: Positive (previous positive comments from ICICI Securities)
+* ITD Cement: Neutral (no specific sentiment mentioned)
+* Hindustan Zinc: Neutral (no specific sentiment mentioned)
+
+Overall, the news tone is neutral to positive, with a slight bias towards positivity due to the previous positive comments on Coal India and the broader positive mention of India Inc.

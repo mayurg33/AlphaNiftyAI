@@ -1,0 +1,5 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "reasoning": "The stock's consistent decline over different time periods, high volatility, and poor Sharpe Ratio indicate that the risk is not being rewarded with adequate returns. Additionally, the maximum drawdown suggests that the stock has been under pressure. Although the company's earnings growth is strong, its revenue growth is slow, and the stock is relatively expensive. The high debt-to-equity ratio is also a concern. Overall, the negative price trends and mixed fundamentals outweigh the positive news sentiment and macroeconomic environment, leading to a SELL recommendation."
+}

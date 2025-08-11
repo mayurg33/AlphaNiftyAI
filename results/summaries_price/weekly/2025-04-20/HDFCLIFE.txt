@@ -1,0 +1,3 @@
+HDFCLIFE delivered a solid weekly return of 2.18%, outperforming HINDUNILVR but underperforming SBILIFE. The stock's volatility of 11.81% was higher than HDFCBANK's but lower than SBILIFE's. With a Sharpe Ratio of 1.46, HDFCLIFE demonstrated a relatively balanced risk-return profile. Overall, the stock's performance was decent, but its volatility was moderate, indicating some risk.
+
+[Volatility: 11.81%]

@@ -1,0 +1,25 @@
+Symbol: ITC
+Month: 2025-01
+Start Price: ₹467.81
+End Price: ₹432.58
+12M Return: -7.53%
+6M Return: -7.53%
+3M Return: -7.53%
+Volatility: 0.323
+Sharpe Ratio: -2.609
+Max Drawdown: -0.115
+Peer Correlation (ICICIBANK): -0.0661
+Peer Correlation (RELIANCE): 0.5478
+Peer Correlation (HINDUNILVR): 0.4137
+Average Peer Correlation: 0.2985
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+ITC, a prominent Indian conglomerate, has experienced a decline in its stock price over the past 12 months, resulting in a -7.53% return. The stock's volatility is moderate at 0.323, and its Sharpe Ratio is negative, indicating poor risk-adjusted performance. The maximum drawdown is -11.5%, suggesting a relatively high risk. Correlation analysis reveals that ITC has a low correlation with ICICIBANK, but moderate to high correlations with RELIANCE and HINDUNILVR.
+
+**Recommendation:**
+
+Based on the negative returns, high volatility, and poor risk-adjusted performance, I would recommend a **SELL** or **HOLD** position in ITC. The stock's decline over the past year, combined with its high maximum drawdown, suggests that the risk of further price erosion is significant. While the correlations with peer stocks are informative, they do not alter the overall negative outlook. Investors may consider reallocating their portfolio to more attractive opportunities with better risk-return profiles.

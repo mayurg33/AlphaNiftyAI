@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While TATACONSUM shows a stable upward trend with moderate volatility and a decent Sharpe Ratio, its high valuation and low ROE are concerns. Additionally, the neutral to slightly negative news sentiment and mixed macroeconomic environment do not justify a strong buy signal, leading to a HOLD recommendation.

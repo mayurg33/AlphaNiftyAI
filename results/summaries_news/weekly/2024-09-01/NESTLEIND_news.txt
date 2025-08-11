@@ -1,0 +1,9 @@
+Based on the current week's news, the sentiment is NEUTRAL. The news headline "Sensex ends flat, Nifty shields 25k after scaling new high; IT leads" suggests that the market has ended flat, but the Nifty has managed to hold onto the 25,000 mark after reaching a new high, led by the IT sector. This indicates a mixed tone, with no significant gains or losses.
+
+Notable events mentioned in the news include:
+
+* Sensex ending flat
+* Nifty holding onto 25,000 after scaling a new high
+* IT sector leading the market
+
+The tone of the news is neutral because it doesn't convey a strong positive or negative sentiment. The use of words like "ends flat" and "shields" suggests a sense of stability, rather than excitement or concern. Overall, the news tone is neutral, indicating a lack of significant market movement.

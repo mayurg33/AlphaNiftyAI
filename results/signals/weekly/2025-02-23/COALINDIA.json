@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 9.5,
+  "sharpe_ratio": 1.13,
+  "reasoning": "The stock's weekly performance was strong, but the news sentiment is neutral to negative, indicating a potential downward trend. The company's financial health is mixed, with attractive valuation and income potential, but concerns around growth prospects and debt position. The macroeconomic environment is generally positive, but the impact on Coal India's specific industry is unclear. Overall, it's a HOLD decision, as the stock's performance is respectable, but the concerns outweigh the positives."
+}

@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The consistently negative returns, high Sharpe Ratio, and high correlation with peers suggest that PowerGrid's stock is not generating sufficient returns to justify the risk. Additionally, the high debt-to-equity ratio and slow growth in revenue and earnings are concerns, and the current valuation may be overvalued.

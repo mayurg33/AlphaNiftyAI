@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 20.23,
+  "sharpe_ratio": 0.22,
+  "reasoning": "ITC's modest weekly return and high volatility suggest a turbulent ride for investors. Although the company's fundamentals are strong, with high profitability and growth metrics, the valuation is on the higher side. The macroeconomic environment is supportive, with a growing services sector and improving employment numbers. However, the high volatility and relatively low Sharpe Ratio indicate that the stock may not be the best choice for risk-averse investors, hence a HOLD decision."
+}

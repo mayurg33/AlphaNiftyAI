@@ -1,0 +1,5 @@
+Based on the historical similar news, the sentiment for the current week's news is NEUTRAL.
+
+The news tone is neutral because the historical impact is mixed. There are instances of negative impact (-1.31% and -1.29%) as well as a positive impact (+3.91%). This suggests that the market reaction to Q1 earnings announcements can be unpredictable and influenced by various factors.
+
+Notable events for the week include top companies declaring their Q1 results between July 22 and July 27. This will likely drive market movements and investor sentiment.

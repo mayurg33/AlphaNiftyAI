@@ -1,0 +1,30 @@
+**Weekly News Sentiment:** The overall sentiment of the news is **Positive**.
+
+**Notable Events:**
+
+1. SBI posts a record profit of $9.2 billion in FY25, driven by its digital cohort, which is a significant achievement.
+2. The bank targets 12-13% loan growth, despite tariff uncertainty, indicating confidence in its growth prospects.
+3. SBI plans to raise $3 billion in a share sale, which could provide a boost to its capital base.
+
+**Positive News:**
+
+* Record profit in FY25 driven by digital cohort (Query 1 and 7)
+* Loan growth target of 12-13% despite tariff uncertainty (Query 2)
+* Plans to raise $3 billion in a share sale (Query 5)
+* Beats expectations in full-year 2025 earnings (Query 8)
+
+**Neutral News:**
+
+* Net profit falls by 9.9% Y-o-Y to Rs 18,643 crore (Query 4)
+* India's bank credit growth slows sharply in May 2025 (Query 6)
+
+**Negative News:**
+
+* None of the news articles have a significantly negative tone.
+
+**Historical Price Impact:**
+
+* The historical data suggests that positive news related to SBI's profit, loan growth, and fundraising plans have led to a positive impact on the stock price, with an average increase of around 5-6%.
+* However, negative news related to profit decline or credit growth slowdown has led to a negative impact, with an average decrease of around 2-3%.
+
+Overall, the positive news and notable events in the current week are likely to have a positive impact on the stock price.

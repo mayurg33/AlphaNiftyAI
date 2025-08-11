@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 6.95,
+  "sharpe_ratio": 0.06,
+  "reasoning": "The stock's weekly performance was flat, and its volatility is relatively low. Fundamentally, the company appears healthy with a strong track record of profitability and reasonable valuation. However, the news sentiment is negative due to the SEBI warning, which could impact the stock price. Given the mixed signals, I recommend a HOLD decision."
+}

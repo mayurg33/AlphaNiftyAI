@@ -1,0 +1,10 @@
+Based on the news articles, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Negative
+
+**Notable Events:**
+
+* The government is considering taking action against Infosys, which led to a 1.2% decline in its stock price.
+* Trading strategies are being discussed for Infosys, Tata Communications, and HAL, indicating market volatility and uncertainty.
+
+**News Tone:** The news tone is negative, primarily due to the government's potential action against Infosys, which has led to a decline in its stock price. The trading strategies article may be neutral, but the overall sentiment is dragged down by the negative news surrounding Infosys.

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 23.5,
+  "sharpe_ratio": -0.67,
+  "reasoning": "The stock's poor risk-adjusted returns and high volatility are concerns, but its strong profitability profile and attractive dividend yield are positives. The positive news sentiment and strong Q1 results are also encouraging. However, the stretched valuation and negative earnings growth are areas of concern, leading me to recommend a HOLD decision."
+}

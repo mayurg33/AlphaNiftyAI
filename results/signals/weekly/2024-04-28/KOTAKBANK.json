@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 88.97,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's weekly performance was dismal, with a return of -11.13%, and high volatility of 88.97%, indicating a highly risky investment environment. The news sentiment is also negative, with the RBI imposing restrictions on the bank, resulting in a significant decline in its stock price. Although the company's fundamentals appear strong, with a high ROE and profit margin, its growth metrics are a concern, and the lack of debt-to-equity ratio data raises uncertainty. Therefore, it's a sell decision."
+}

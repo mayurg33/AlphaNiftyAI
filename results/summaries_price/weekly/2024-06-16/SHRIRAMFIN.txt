@@ -1,0 +1,3 @@
+SHRIRAMFIN had a stellar week, delivering a return of 8.46%, significantly outperforming its peers. The stock's volatility was relatively high at 27.77%, but its Sharpe Ratio of 1.18 suggests that the returns were generated with relatively low risk. In comparison, peers BAJFINANCE and M&M had lower returns, while BAJAJFINSV had a lower return with lower volatility. Overall, SHRIRAMFIN was a high-return, high-volatility stock this week.
+
+[Volatility: 27.77%]

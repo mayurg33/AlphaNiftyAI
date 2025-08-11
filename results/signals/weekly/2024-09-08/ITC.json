@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "volatility": 18.52,
+  "sharpe_ratio": -0.35,
+  "reasoning": "ITC's financial health is strong, with high profitability and reasonable valuation. However, the revenue growth rate is relatively low, which could be a concern. The news sentiment is positive, indicating a strong upward momentum in the stock market. Given the mixed signals, I recommend a HOLD decision, as the stock's volatility is moderate and the Sharpe Ratio is poor."
+}

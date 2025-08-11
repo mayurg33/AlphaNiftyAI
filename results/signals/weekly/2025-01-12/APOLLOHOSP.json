@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 28.44,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's poor weekly performance and high volatility make it a risky investment. Although the company's fundamentals appear strong, the rich valuation and high debt-to-equity ratio are concerns. The neutral to positive news sentiment is not enough to outweigh the negative factors, leading me to recommend a sell decision."
+}

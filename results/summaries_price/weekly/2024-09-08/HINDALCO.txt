@@ -1,0 +1,3 @@
+HINDALCO's weekly performance was disappointing, with a return of -2.46% and a Sharpe Ratio of -0.66, indicating poor risk-adjusted returns. The stock's volatility was moderate at 14.76%, but its Max Drawdown of -2.5% suggests a significant decline in value. Compared to its peers, HINDALCO underperformed ITC and ULTRACEMCO, but outperformed HCLTECH. Overall, the stock was relatively risky this week.
+
+[Volatility: 14.76%]

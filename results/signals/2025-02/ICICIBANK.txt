@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Despite the stock's underperformance and high volatility, its reasonable valuation, strong profitability, and solid balance sheet suggest a HOLD position. Additionally, the neutral-positive news sentiment and supportive macroeconomic environment, particularly in the services sector, do not warrant a SELL signal.

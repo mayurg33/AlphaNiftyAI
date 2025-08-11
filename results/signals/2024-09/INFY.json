@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock's poor performance over the past year, combined with its high volatility and negative Sharpe Ratio, suggest that it may not be an attractive investment opportunity at present. However, the strong correlation with TCS and moderate correlation with WIPRO indicate that INFY is still closely tied to the overall performance of the IT sector. Additionally, the macroeconomic environment suggests a stable growth trajectory for the Indian economy, which could benefit the IT sector. Therefore, a HOLD rating is warranted until the company can demonstrate improvement in its growth prospects and debt management."
+}

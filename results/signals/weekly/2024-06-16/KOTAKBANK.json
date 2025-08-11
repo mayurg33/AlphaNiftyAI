@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 13.65,
+  "sharpe_ratio": -0.47,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but its strong profitability and reasonable valuation are positives. The neutral news sentiment and lack of strong directional move also support a hold decision. However, the weak growth prospects and uncertain debt-to-equity ratio are drawbacks that prevent a buy decision."
+}

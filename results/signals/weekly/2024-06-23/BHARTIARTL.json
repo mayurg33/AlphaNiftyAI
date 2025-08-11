@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 40.74,
+  "sharpe_ratio": -0.10,
+  "reasoning": "The stock's high volatility and negative Sharpe Ratio indicate a risky investment. The company's high debt-to-equity ratio and low ROE are areas of concern. Additionally, the negative news sentiment and decline in Sensex and Nifty suggest a downward trend in the stock market, making it a good time to sell."
+}

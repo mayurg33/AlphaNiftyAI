@@ -1,0 +1,7 @@
+Based on the current week's news, the sentiment is NEUTRAL.
+
+The news tone is neutral because both news headlines report the same event, which is HDFC Standard Life buying PNB Housing Finance's shares worth Rs 90 cr. This acquisition is a significant event, but the tone of the news is simply informative, without any emotional or sensational language.
+
+Notable events: HDFC Standard Life's acquisition of a stake in PNB Housing Finance is the main event of the week.
+
+Historical context: The historical news and price impact data suggest that HDFC-related news can have a significant impact on the stock price. In the past, positive news has led to a price increase of up to 5.04%, while negative news has led to a price decrease of up to 5.56%. However, in this case, the news tone is neutral, and the impact on the stock price is uncertain.

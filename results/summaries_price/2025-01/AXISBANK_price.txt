@@ -1,0 +1,25 @@
+Symbol: AXISBANK
+Month: 2025-01
+Start Price: ₹1071.80
+End Price: ₹986.10
+12M Return: -8.00%
+6M Return: -8.00%
+3M Return: -8.00%
+Volatility: 0.261
+Sharpe Ratio: -3.530
+Max Drawdown: -0.127
+Peer Correlation (INDUSINDBK): 0.4401
+Peer Correlation (SBIN): 0.3753
+Peer Correlation (ICICIBANK): 0.5092
+Average Peer Correlation: 0.4415
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+Axis Bank's stock performance has been disappointing, with a 12-month return of -8.00%, indicating a decline in value. The stock's volatility is moderate at 0.261, and its Sharpe Ratio is -3.530, suggesting that the returns have not been commensurate with the risk taken. The Max Drawdown of -0.127 indicates that the stock has experienced a significant decline in value. In terms of peer correlation, Axis Bank's correlation with IndusInd Bank, SBI, and ICICI Bank is moderate to high, indicating that it moves in tandem with its peers.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **SELL**. The negative returns across all time frames, high volatility, and poor Sharpe Ratio indicate that the stock is not a good investment opportunity at present. Additionally, the high correlation with its peers suggests that the stock is likely to continue to move in tandem with the sector, which has been experiencing a downturn. Therefore, it may be prudent to exit the stock and explore other investment opportunities with better risk-return profiles.

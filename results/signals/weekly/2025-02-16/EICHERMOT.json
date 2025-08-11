@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 41.82,
+  "sharpe_ratio": -1.17,
+  "reasoning": "The stock's dismal weekly performance, high volatility, and poor risk-adjusted return (Sharpe Ratio) suggest a high-risk investment environment. The news sentiment is predominantly negative, indicating investor caution about the company's growth prospects. Although the company has a strong profitability profile, its high valuation and debt position are concerns. Overall, the risks outweigh the benefits, leading to a SELL decision."
+}

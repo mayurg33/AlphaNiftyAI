@@ -1,0 +1,11 @@
+Based on the historical news data, the current week's news sentiment is NEUTRAL.
+
+Notable events:
+
+* The comparison between Wipro and Tech Mahindra as the best IT stock is a neutral event, as it doesn't provide a clear positive or negative outlook for either stock.
+
+Historical context:
+
+* The previous news articles had a mixed impact on the stock price. The news about TCS being the second most valuable IT services brand globally had a negative impact (-11.17%), while the news about IT companies' margins declining to a decade-low had a positive impact (+1.92%). The news about auto stocks picking up speed and tech being on a collision course had a negative impact (-4.97%).
+
+Overall, the news tone is neutral, as it doesn't provide a clear direction for the stock price. The comparison between Wipro and Tech Mahindra is more of a neutral, analytical piece rather than a news event that would significantly impact the stock price.

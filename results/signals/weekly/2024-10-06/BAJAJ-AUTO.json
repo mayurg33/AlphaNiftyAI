@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 20.77,
+  "sharpe_ratio": -1.19,
+  "reasoning": "The stock's high volatility and negative Sharpe Ratio indicate a risky investment. However, the company's strong profitability profile and low debt-to-equity ratio suggest financial health. The valuation seems rich, but the macroeconomic environment is supportive of the automotive industry. Therefore, I'm holding the stock for now, awaiting a more favorable entry point or a correction in valuation."
+}

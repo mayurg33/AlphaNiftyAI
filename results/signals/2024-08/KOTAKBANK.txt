@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: Despite the negative price trends and technicals, the fundamental analysis suggests a reasonable valuation and decent profitability, while the news sentiment is positive, indicating growth prospects. However, the macroeconomic environment, although supportive, does not provide a strong catalyst for a BUY signal, hence a neutral HOLD recommendation.

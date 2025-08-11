@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 24.27,
+  "sharpe_ratio": -0.84,
+  "reasoning": "The stock's high volatility and poor risk-adjusted returns make it an unattractive investment option. The company's financial health is fragile, with a high debt-to-equity ratio and negative revenue growth. Although the news sentiment is neutral to positive, the historical data suggests that the market reaction to such news can be unpredictable, and the stock price may not always react positively to positive news."
+}

@@ -1,0 +1,11 @@
+**Weekly News Sentiment:** Negative
+
+**Notable Event:** The passing of former Suzuki Chairman Osamu Suzuki at the age of 94.
+
+**Historical Similar News and Price Impact:**
+
+* In 2021, Osamu Suzuki's retirement at 91 led to a -6.24% impact on the stock price.
+* In 2022, the passing of Rahul Bajaj, Former Chairman of Bajaj Auto, resulted in a +2.25% impact on the stock price.
+* In 2023, Maruti's acquisition of Suzuki Motor's manufacturing facility in Gujarat had a -2.07% impact on the stock price.
+
+Based on historical data, the news tone is likely to be **Negative** for the stock, given the passing of a prominent figure in the company's history. The impact on the stock price may be similar to Osamu Suzuki's retirement in 2021, which resulted in a decline of 6.24%.

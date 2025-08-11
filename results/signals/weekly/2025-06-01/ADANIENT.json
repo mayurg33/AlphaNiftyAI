@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 14.53,
+  "sharpe_ratio": -0.30,
+  "reasoning": "The stock's poor risk-adjusted returns, high volatility, and high Max Drawdown indicate a relatively high risk profile. Additionally, the company's financial health is a mixed bag, with high debt levels and a stretched valuation. Although the news sentiment is neutral to positive, the macroeconomic environment is not particularly supportive, with a projected trade deficit and high inflation. Therefore, I would recommend selling the stock."
+}

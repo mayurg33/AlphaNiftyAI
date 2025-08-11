@@ -1,0 +1,3 @@
+NESTLEIND had a dismal week, with a return of -4.54% and a Sharpe Ratio of -0.98, indicating poor risk-adjusted performance. The stock's volatility was significantly higher than its peers, at 24.75%. Compared to its peers, NESTLEIND underperformed HINDUNILVR and TATACONSUM, but outperformed BRITANNIA. Overall, the stock was very risky this week, with a Max Drawdown of -4.54%. 
+
+[Volatility: 24.75%]

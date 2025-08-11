@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 60.49,
+  "sharpe_ratio": 0.15,
+  "reasoning": "The stock's moderate volatility and decent Sharpe Ratio suggest a relatively stable performance. However, the mixed fundamentals, with low P/E ratio and decent margins, but stagnant revenue growth and high debt-to-equity ratio, make it difficult to take a strong stance. Additionally, the neutral to slightly negative news sentiment and the macroeconomic environment, which is supportive of the automotive industry, but with some concerns, lead me to recommend a HOLD decision."
+}

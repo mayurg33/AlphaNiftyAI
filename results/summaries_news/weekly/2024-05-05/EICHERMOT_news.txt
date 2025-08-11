@@ -1,0 +1,7 @@
+Based on the historical similar news, the current week's news sentiment is positive. The news tone is positive for the stock.
+
+Notable events:
+
+* Indian automakers, including Maruti, Hyundai, and Tata Motors, have reported higher car and two-wheeler sales in April, indicating a strong demand in the market.
+
+The historical data suggests that similar news in the past has had a positive impact on the stock, with an average impact of around +2.5%. The most recent similar news on May 1, 2023, had a positive impact of +0.85%. Therefore, it is likely that the current news will also have a positive impact on the stock.

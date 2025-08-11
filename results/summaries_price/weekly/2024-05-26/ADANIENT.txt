@@ -1,0 +1,3 @@
+ADANIENT had a strong weekly performance, with a return of 8.58%, outperforming its peers ADANIPORTS and RELIANCE. The stock's high volatility of 69.06% indicates a risky investment, but its Sharpe Ratio of 0.65 suggests that the returns were somewhat justified by the level of risk taken. Compared to its peers, ADANIENT's performance was exceptional, with a significant gap in returns. However, investors should be cautious due to the high volatility and potential for large drawdowns.
+
+[Volatility: 69.06%]

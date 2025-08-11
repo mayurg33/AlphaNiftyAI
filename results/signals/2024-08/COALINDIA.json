@@ -1,0 +1,5 @@
+{
+  "decision": "HOLD",
+  "confidence": 7,
+  "reasoning": "The stock's underperformance and negative Sharpe Ratio suggest a SELL, but the low trailing PE and moderate profitability indicate potential value. The macroeconomic environment is generally positive, with growth in agriculture, services, and manufacturing, which could benefit the company. However, the high debt-to-equity ratio and industry-specific risks warrant caution, leading to a HOLD recommendation."
+}

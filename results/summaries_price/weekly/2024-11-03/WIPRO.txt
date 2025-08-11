@@ -1,0 +1,3 @@
+WIPRO's weekly performance was lackluster, with a -1.3% return, outperforming peers INFY and TCS but underperforming POWERGRID. The stock's volatility was relatively high at 22.4%, indicating a moderate level of risk. Despite a lower return, WIPRO's Sharpe Ratio was relatively better than its peers, suggesting a slightly more favorable risk-return profile. Overall, WIPRO's performance was mediocre, with room for improvement.
+
+[Volatility: 22.4%]

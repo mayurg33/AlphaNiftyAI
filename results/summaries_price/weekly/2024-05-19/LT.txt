@@ -1,0 +1,3 @@
+LT had a strong weekly performance, returning 4.76% and outperforming its peers. The stock's volatility was relatively high at 18.97%, but its Sharpe Ratio of 0.98 suggests that the returns were somewhat justified by the risk taken. Compared to its peers, LT's return was the highest, and its Sharpe Ratio was the best, indicating that it was a top performer this week. However, the Max Drawdown of -0.28% suggests that the stock was still somewhat risky.
+
+[Volatility: 18.97%]

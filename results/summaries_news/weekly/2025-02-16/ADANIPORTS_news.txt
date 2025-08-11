@@ -1,0 +1,12 @@
+**Weekly News Sentiment Summary**
+
+The current week's news sentiment is mixed, with one positive and one neutral/negative news article.
+
+**Notable Events:**
+
+1. **5 Sensex stocks need 40-70% rally to revisit 52-week highs; worth buying?**: This article discusses the potential upside of certain Sensex stocks, which could be a positive signal for investors. However, the historical news impact suggests a mixed response, with one negative (-3.09%) and two positive (+10.24% and +4.12%) outcomes.
+2. **Adani Green Energy pulls out of $1 billion Sri Lanka project**: This news is neutral to negative, as it indicates a setback for Adani Green Energy's expansion plans. Historical news impact suggests a mixed response, with two positive (+9.26% and +17.26%) and one negative (-3.81%) outcomes.
+
+**Overall Sentiment:**
+
+The news tone is neutral, with a slight lean towards positivity. While one article discusses the potential upside of certain Sensex stocks, the other article reports on a setback for Adani Green Energy. The historical news impact suggests that the market response to these news articles can be unpredictable, with both positive and negative outcomes possible.

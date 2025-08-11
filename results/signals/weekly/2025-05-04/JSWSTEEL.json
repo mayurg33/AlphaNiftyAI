@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 45.75,
+  "sharpe_ratio": -0.97,
+  "reasoning": "The stock's dismal weekly performance, high volatility, and negative Sharpe Ratio indicate a high-risk investment. The company's high debt-to-equity ratio is a concern, and the recent Supreme Court order scrapping the Bhushan Power and Steel deal is a significant negative development. Although the company's financial health is stable, the news tone is neutral to negative, and the macroeconomic environment is not particularly supportive. Therefore, I recommend selling the stock."
+}

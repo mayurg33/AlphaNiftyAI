@@ -1,0 +1,25 @@
+Symbol: ADANIPORTS
+Month: 2025-02
+Start Price: ₹1078.85
+End Price: ₹1064.22
+12M Return: -1.36%
+6M Return: -1.36%
+3M Return: -1.36%
+Volatility: 0.302
+Sharpe Ratio: -0.456
+Max Drawdown: -0.087
+Peer Correlation (ADANIENT): 0.6368
+Peer Correlation (MARUTI): 0.0529
+Peer Correlation (SBIN): 0.4606
+Average Peer Correlation: 0.3834
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+**Summary:**
+
+ADANIPORTS has underperformed in the last 12 months, with a return of -1.36%. The stock's volatility is moderate at 0.302, and its Sharpe Ratio is negative, indicating that the return is not sufficient to justify the risk taken. The maximum drawdown is relatively low at 8.7%. The stock has a high correlation with ADANIENT (63.68%) and moderate correlations with SBIN (46.06%) and MARUTI (5.29%). The average peer correlation is 38.34%.
+
+**Recommendation:**
+
+Based on the analysis, I would recommend a **HOLD** position on ADANIPORTS. The stock's underperformance in the last 12 months and negative Sharpe Ratio suggest that it may not be an attractive investment opportunity at present. However, the moderate volatility and relatively low maximum drawdown indicate that the stock is not extremely risky. Additionally, the high correlation with ADANIENT and moderate correlations with SBIN and MARUTI suggest that the stock's performance is influenced by industry and market factors, rather than company-specific factors. Therefore, it is essential to monitor the stock's performance and re-evaluate the investment decision if there are any significant changes in the market or industry trends.

@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 30.77,
+  "sharpe_ratio": -1.24,
+  "reasoning": "The stock's poor weekly performance and high volatility are concerns, but its strong profitability profile and reasonable valuation are positives. The negative news sentiment and high debt-to-equity ratio are also red flags. However, the macroeconomic environment is supportive, with a growing services sector and low unemployment. Overall, I'm neutral on the stock, and a HOLD decision is warranted."
+}

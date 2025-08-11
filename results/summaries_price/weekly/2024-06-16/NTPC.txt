@@ -1,0 +1,3 @@
+NTPC's weekly performance was modest, with a return of 0.97%, accompanied by relatively low volatility of 11.79%. Compared to its peers, NTPC underperformed in terms of returns, but demonstrated lower volatility. The stock's Sharpe Ratio of 0.33 suggests a relatively low risk-adjusted return. Overall, NTPC's weekly performance was characterized by stability, but lacked significant growth.
+
+[Volatility: 11.79%]

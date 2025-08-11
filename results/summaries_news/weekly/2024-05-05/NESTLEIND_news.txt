@@ -1,0 +1,16 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**Breakingviews - Unilever and Nestlé offer two flavours of India**
+
+The news tone is NEUTRAL for Hindustan Unilever (HUL) and Nestle India. The historical data shows that news related to Unilever and Nestle India has had varying impacts on the stock price, ranging from +3.51% to -3.11%. This suggests that the market reaction to this news is uncertain and may depend on the specific details of the "two flavours of India" being offered.
+
+**Stock Market Highlight: Markets nosedive, give up gains for the week! Nifty below 22,450, Sensex down 730 points dragged by realty and IT**
+
+The news tone is NEGATIVE for the overall market. The historical data shows that news related to market performance, especially when it's negative, has had a significant impact on the stock price. The mention of specific sectors like realty and IT being dragged down suggests that these sectors may be particularly affected. The impact on individual stocks may vary, but the overall market sentiment is bearish.
+
+Notable events:
+
+* Unilever and Nestle India offering "two flavours of India" may have implications for their business strategies and market share in India.
+* The market nosedive and loss of gains for the week may lead to increased volatility and uncertainty in the short term.
+
+Overall, the news tone is mixed, with a neutral tone for HUL and Nestle India, and a negative tone for the overall market.

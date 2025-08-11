@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 28.39,
+  "sharpe_ratio": 0.16,
+  "reasoning": "The stock's high volatility and low Sharpe Ratio indicate a relatively risky investment. While the company's profitability metrics are decent, the negative revenue and earnings growth rates are concerning. The news sentiment is neutral to positive, but the RBI fine and compliance concerns may still weigh on investor sentiment. Overall, it's a HOLD decision due to the mixed signals."
+}

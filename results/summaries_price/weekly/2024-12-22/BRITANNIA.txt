@@ -1,0 +1,3 @@
+Britannia's weekly performance was disappointing, with a return of -3.06% and a Sharpe Ratio of -0.76, indicating poor risk-adjusted returns. The stock's volatility was moderate at 16.06%, but still higher than its peer NESTLEIND. Britannia outperformed GRASIM and RELIANCE, but underperformed NESTLEIND in terms of returns. Overall, the stock was moderately risky this week.
+
+[Volatility: 16.06%]

@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: While Maruti's technicals suggest a strong performance with a high Sharpe Ratio and low volatility, its fundamentals are mixed with high PE ratios and modest revenue growth. Additionally, the macroeconomic environment is supportive of the automotive industry, but the news sentiment is mixed, warranting a cautious approach.

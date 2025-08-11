@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 4.98,
+  "sharpe_ratio": -2.14,
+  "reasoning": "The stock's poor risk-adjusted performance and high volatility indicate caution. However, the positive news sentiment and decent dividend yield are supporting factors. Additionally, the macroeconomic environment suggests a stable growth outlook for the automotive industry. Considering these mixed signals, a hold decision is recommended."
+}

@@ -1,0 +1,2 @@
+Signal: HOLD
+Reason: The stock's underwhelming price performance, moderate volatility, and negative Sharpe Ratio suggest caution, while the reasonable valuation, decent profitability, and lack of debt provide some comfort. Meanwhile, the neutral news sentiment and supportive macroeconomic environment, particularly in the services sector and rural consumption, warrant a HOLD recommendation.

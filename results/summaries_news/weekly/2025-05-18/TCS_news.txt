@@ -1,0 +1,11 @@
+The current week's news sentiment for TCS is mixed, with both positive and negative news.
+
+Notable events:
+
+* TCS partners with Khan Bank to future-proof its operations, enhance customer experience, and propel innovation leveraging AI and ML. This is a positive development, as it showcases TCS's capabilities in AI and ML and its ability to secure partnerships with prominent banks.
+* TCS shares are faring worst among IT peers and group leaders, which is a negative sentiment. This news may indicate concerns about TCS's performance and growth prospects.
+* TCS emerges as a payout master in India's IT industry, which is a positive development. This news highlights TCS's commitment to rewarding its employees and may improve morale and retention.
+
+Overall, the news tone is neutral, as the positive developments are balanced by the negative sentiment. The partnership with Khan Bank and the payout master title are positive developments, but the concerns about TCS's performance and growth prospects may weigh on investor sentiment.
+
+Based on historical data, the impact of similar news on TCS's stock price has been varied. The partnership with Khan Bank may have a positive impact, similar to the +5.66% impact of the SBI partnership extension in 2021. However, the concerns about TCS's performance may have a negative impact, similar to the -3.00% impact of the IDC MarketScape report in 2021. The payout master title may have a positive impact, similar to the +4.51% impact of the variable pay announcement in 2023.

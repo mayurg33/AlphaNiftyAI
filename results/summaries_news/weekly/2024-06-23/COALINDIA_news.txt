@@ -1,0 +1,10 @@
+Based on the historical similar news and price impact, here is a summary of the current week's news sentiment:
+
+**News Sentiment:** Neutral to Negative
+
+**Notable Events:**
+
+1. Coal India awards 23 closed and discontinued mines to private sector players: This news may have a negative impact on the stock, as historical data suggests that similar news led to a price drop of around 9-10%.
+2. Coal India exploring lithium assets in Argentina with U.S. firm: This news may have a neutral to slightly positive impact on the stock, as historical data suggests that similar news related to diversification and EVs had a mixed impact, ranging from -2.10% to +1.05%.
+
+**Overall Tone:** The tone of the news is neutral to negative, with the first news item potentially having a more significant negative impact on the stock. The second news item may not have a significant impact, but it could be seen as a positive step towards diversification. However, the overall sentiment is cautious, and investors may react negatively to the news of awarding mines to private sector players.

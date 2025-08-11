@@ -1,0 +1,17 @@
+**Current Week's News Sentiment:**
+
+The overall sentiment of the news is **Positive** for the IT sector, particularly for stocks like TCS, Infosys, and HCL Tech. The news tone is driven by the US election outcome, which is expected to have a positive impact on the Indian IT sector.
+
+**Notable Events:**
+
+1. The Nifty IT index jumped 4% ahead of the US election outcome, with TCS and Infosys being among the lead gainers.
+2. IT stocks like Persistent Systems, LTIM, TCS, and Infosys surged up to 5% on November 6.
+3. The US election results led to a rally in IT stocks, with TCS, Infosys, HCL Tech, and TechM being among the top gainers.
+
+**Positive News Tone:**
+
+The news tone is positive for the IT sector, driven by the expectation of a favorable US election outcome. The sector is expected to benefit from a potential increase in outsourcing and technology spending in the US. The news articles highlight the potential for IT stocks to lead the market rally, with some experts predicting a strong comeback for the sector.
+
+**Stock Impact:**
+
+Based on the historical data, the impact of similar news on the stock prices has been mostly positive. For example, in 2023-07-15, a news article titled "IT sector will make a strong comeback; metal stocks to follow: Rajesh Palviya" had a positive impact of +6.69% on the stock price. Similarly, in 2023-04-25, a news article titled "TCS Stocks | HCL Stocks: IT will lead next market rally; TCS & HCL Tech can be bellwethers: Sanjiv Bhasin" had a positive impact of +2.02% on the stock price.

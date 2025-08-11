@@ -1,0 +1,3 @@
+ADANIENT's weekly performance was dismal, with a return of -11.68%, indicating a significant decline in value. The stock's volatility was extremely high at 180.74%, suggesting intense price fluctuations. Compared to its peers, ADANIENT underperformed ADANIPORTS but outperformed RELIANCE and POWERGRID in terms of returns. Overall, the stock was very risky this week, with a Sharpe Ratio of -0.22 and a Max Drawdown of -19.31%.
+
+[Volatility: 180.74%]

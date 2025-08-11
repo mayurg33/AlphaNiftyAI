@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's poor performance, high volatility, and negative Sharpe Ratio suggest a high-risk investment. Additionally, the company's financials, such as negative revenue and earnings growth, high debt-to-equity ratio, and decent but not exceptional ROE, do not justify its high valuation. Furthermore, the negative news sentiment and weak Q3 results add to the bearish outlook.

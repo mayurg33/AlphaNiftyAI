@@ -1,0 +1,1 @@
+Based on the metrics, I would recommend a HOLD. The 12M return is positive, indicating a long-term trend, while the short-term returns are volatile, suggesting a correction, and the Sharpe Ratio indicates a decent risk-adjusted return.

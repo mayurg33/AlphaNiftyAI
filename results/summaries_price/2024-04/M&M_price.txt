@@ -1,0 +1,25 @@
+Symbol: M&M
+Month: 2024-04
+Start Price: ₹1902.02
+End Price: ₹2140.68
+12M Return: 12.55%
+6M Return: 12.55%
+3M Return: 12.55%
+Volatility: 0.282
+Sharpe Ratio: 5.701
+Max Drawdown: -0.032
+Peer Correlation (TECHM): -0.2633
+Peer Correlation (MARUTI): 0.4536
+Peer Correlation (KOTAKBANK): -0.1834
+Average Peer Correlation: 0.0023
+
+Generate a short summary and suggest whether to BUY, SELL, or HOLD.
+
+--- LLM Output ---
+Here is a short summary and recommendation:
+
+**Summary:**
+M&M has delivered a strong performance over the past year, with a 12.55% return over 12 months, 6 months, and 3 months, indicating consistent growth. The stock has a relatively low volatility of 0.282, which suggests a stable performance. The Sharpe Ratio of 5.701 indicates that the returns are significantly higher than the risk taken. The Max Drawdown of -0.032 is relatively low, indicating that the stock has not experienced significant losses. Correlation analysis with peers shows a mixed bag, with a positive correlation with MARUTI and negative correlations with TECHM and KOTAKBANK, indicating that M&M's performance is not strongly linked to its peers.
+
+**Recommendation:**
+Based on the strong performance, low volatility, and high Sharpe Ratio, I would recommend a **BUY**. The stock's consistent growth and low Max Drawdown suggest that it is a relatively safe investment, and the lack of strong correlation with peers indicates that it can be a valuable addition to a diversified portfolio.

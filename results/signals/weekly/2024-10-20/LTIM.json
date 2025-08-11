@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 50.01,
+  "sharpe_ratio": 0,
+  "reasoning": "The stock's dismal weekly performance, high volatility, and low Sharpe Ratio suggest a high-risk, underperforming stock. The negative news sentiment, particularly regarding the degrowth in Europe business, adds to the bearish tone. Although the company's fundamentals appear strong, the rich valuation and high debt-to-equity ratio are concerns. Given these factors, I would recommend a SELL decision."
+}

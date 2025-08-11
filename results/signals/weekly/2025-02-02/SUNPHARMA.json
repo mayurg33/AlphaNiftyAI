@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 37.87,
+  "sharpe_ratio": -0.20,
+  "reasoning": "The stock's high volatility and negative Sharpe Ratio indicate a poor risk-return profile. Additionally, the company's mixed financial health, with low ROE and negative earnings growth, raises concerns. Although the news sentiment is neutral to positive, the macroeconomic environment suggests a stable economy, but the company's fundamentals do not justify a buy decision."
+}

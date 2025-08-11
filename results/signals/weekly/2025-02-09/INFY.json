@@ -1,0 +1,7 @@
+{
+  "decision": "HOLD",
+  "confidence": 6,
+  "volatility": 17.91,
+  "sharpe_ratio": 0.48,
+  "reasoning": "The stock has a decent weekly performance with a return of 2.17%, but its volatility is moderate. Fundamentally, Infosys has a strong profitability profile, but its growth metrics are a concern. The news sentiment is neutral to slightly negative, and the macroeconomic environment is supportive. Considering these factors, I recommend a HOLD decision, as the stock's strengths are balanced by its weaknesses."
+}

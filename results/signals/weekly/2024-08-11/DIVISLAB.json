@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 30.68,
+  "sharpe_ratio": 0.02,
+  "reasoning": "The stock's lackluster weekly performance, high volatility, and low Sharpe Ratio indicate a risky investment environment. Additionally, the company's valuation appears to be rich, with a high P/E ratio, which may not be justified by its fundamentals. Furthermore, its peers, such as CIPLA and DRREDDY, have delivered better returns with relatively lower volatility, making them more attractive options."
+}

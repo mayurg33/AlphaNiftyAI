@@ -1,0 +1,7 @@
+Based on the historical similar news, the current week's news sentiment is POSITIVE. The news tone is upbeat, indicating a potential increase in stock prices.
+
+Notable events mentioned in the news include the market capitalization of the top 9 firms rising, with LIC and HDFC Bank leading the pack. This suggests that these companies are performing well and contributing to the growth of the market.
+
+The historical similar news also supports a positive sentiment, with two out of three instances showing a positive impact on stock prices. The average impact of these similar news instances is +1.30%, indicating a potential increase in stock prices.
+
+Overall, the news tone is positive, suggesting that investors may react positively to this news, leading to a potential increase in stock prices.

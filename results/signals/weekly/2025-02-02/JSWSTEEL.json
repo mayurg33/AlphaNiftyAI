@@ -1,0 +1,7 @@
+{
+  "decision": "SELL",
+  "confidence": 8,
+  "volatility": 23.45,
+  "sharpe_ratio": 0.22,
+  "reasoning": "The stock's lackluster performance, high volatility, and low Sharpe Ratio indicate a poor risk-return profile. Additionally, the negative news sentiment and significant drop in quarterly profits are major concerns. Although the company's financial health is stable, the high debt-to-equity ratio and potential overvaluation are red flags. Overall, the risks outweigh the potential benefits, making it a sell decision."
+}

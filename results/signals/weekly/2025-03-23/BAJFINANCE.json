@@ -1,0 +1,7 @@
+{
+  "decision": "BUY",
+  "confidence": 8,
+  "volatility": 24.41,
+  "sharpe_ratio": 0.63,
+  "reasoning": "The stock has delivered a strong weekly return of 3.91%, outperforming AXISBANK, and has a decent Sharpe Ratio of 0.63, indicating that the returns are somewhat justified by the level of risk taken. The fundamentals are strong, with a high ROE and profit margin, and the news sentiment is overwhelmingly positive. Although the debt-to-equity ratio is a concern, the overall macroeconomic environment is supportive, with a growing services sector and low unemployment rate, which should benefit the company's financial performance."
+}

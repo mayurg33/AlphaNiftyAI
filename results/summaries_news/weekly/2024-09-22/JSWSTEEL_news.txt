@@ -1,0 +1,17 @@
+**Weekly News Sentiment Summary**
+
+The overall sentiment of this week's news is **Positive**.
+
+**Notable Events:**
+
+1. JSW Steel shares jumped 4% after Macquarie upgraded the stock to overweight and hiked the target price to Rs 1,077.
+2. Bajaj Housing Finance debuted with a massive 136% gain.
+3. The Sensex and Nifty closed higher after the Fed rate cut, although profit-booking capped gains.
+
+**Stock-wise Sentiment:**
+
+1. **JSW Steel**: The news tone is **Positive**, with a significant price jump of 4% due to the Macquarie upgrade.
+2. **Bajaj Housing Finance**: The news tone is **Extremely Positive**, with a remarkable 136% gain on debut.
+3. **Sensex and Nifty**: The news tone is **Positive**, with the indices closing higher after the Fed rate cut, although profit-booking limited the gains.
+
+Overall, the news sentiment is positive, driven by the significant gains in JSW Steel and Bajaj Housing Finance, as well as the positive market reaction to the Fed rate cut.

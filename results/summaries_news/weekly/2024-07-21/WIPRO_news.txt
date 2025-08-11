@@ -1,0 +1,13 @@
+**Weekly News Sentiment:** Negative
+
+The current week's news sentiment for Wipro is predominantly negative. The company's Q1 results were a mixed bag, with net profit up 4.6% year-on-year, but revenue missing estimates, leading to a decline in shares. The guidance raised by the company was not enough to offset the disappointment.
+
+**Notable Events:**
+
+* Wipro's Q1 revenue missed estimates, leading to a decline in shares.
+* The company's ADR (American Depositary Receipt) fell over 11% due to a tepid outlook.
+* Wipro lagged its IT peers in terms of revenue growth, with a decline of nearly 5% in the June quarter.
+
+**News Tone:** Negative
+
+The news tone is negative due to the revenue miss and the subsequent decline in shares. Although the company's net profit was up and guidance was raised, the overall sentiment is negative due to the disappointment in revenue growth. The historical data suggests that Wipro's stock has been positively impacted by strong IT services outlook and deal wins, but the current week's news has been dominated by the revenue miss and tepid outlook.

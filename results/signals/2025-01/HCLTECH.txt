@@ -1,0 +1,2 @@
+Signal: SELL
+Reason: The stock's dismal performance, high volatility, and poor risk-adjusted return, combined with the negative news sentiment and high debt levels, suggest a strong likelihood of further decline in price. Additionally, the macroeconomic environment, although generally positive, does not provide a compelling reason to hold or buy the stock.

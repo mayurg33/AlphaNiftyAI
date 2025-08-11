@@ -1,0 +1,7 @@
+Based on the historical similar news and price impact, the current week's news sentiment is NEUTRAL.
+
+The notable event is Kotak's take on the Vi deal, which is being referred to as "robbing Peter to pay Paul". This phrase suggests that the deal might not be beneficial or sustainable in the long run.
+
+The historical news and price impact show a mix of positive and negative sentiments. The 2022-02-26 news about Bharti Airtel buying an additional stake in Indus Towers had a positive impact of +2.69%. On the other hand, the 2023-03-19 news about Kotak Mahindra Bank mulling to hive off Kotak 811 as a subsidiary had a negative impact of -0.35%. The 2022-04-14 news about Kotak Mahindra Bank denying allegations of restrictive practices had a mildly positive impact of +0.26%.
+
+Overall, the tone of the news is neutral, as it doesn't convey a strong positive or negative sentiment. The "robbing Peter to pay Paul" phrase suggests some skepticism about the deal, but the historical news and price impact don't indicate a strong directional move.
