@@ -1,4 +1,4 @@
-Guide for runnig the project:
+**Guide for runnig the project:**
 Requirements-
 - Python should be installed (https://www.python.org/downloads/).
 - Also make sure you have VS code installed for viewing the code. Step by step guide to download VS code can be found on https://code.visualstudio.com/download
