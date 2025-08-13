@@ -9,7 +9,6 @@ pandas
 playwright
 plotly
 python-dotenv
-sentence-transformers
 setuptools
 simplejson
 tqdm==4.67.1
