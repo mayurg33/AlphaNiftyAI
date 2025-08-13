@@ -87,5 +87,40 @@ GROQ_API_KEY=
 
 
 To make a Groq api key, visit https://console.groq.com/keys
+now open the project folder in vs code 
+Though all the data is already fetch and is in the data folder yet if want to fetch then read below instructions:
+  For fetching the monthly data go inside the monthly_llama70b folder and run :
+     Fundamentals data-
+     fetch_fundamentals_loop.py
+     Stock price data-
+ 	 fetch_price_by_month.py
+     News-
+	 fetch_news_playwright_loop.py
+     -Microeconomic data was manually fetched fron NSE and worldbank website
+	 generating peer map-
+      generate_peer_map.py
+  for summarising:
+   fundamentals data:
+   open summarixe_fundamentals_loop.py
+   paste the groq api key in client = Groq(api_key="")
+    run summarixe_fundamentals_loop.py
+   News:
+   open summarize_news_loop.py
+   paste the groq api key in client = Groq(api_key="")
+    run summarize_news_loop.py
+   stock data:
+    open summarize_price_loop.py
+    paste the groq api key in client = Groq(api_key="")
+     run summarize_price_loop.py
 
+   micro economic data was summarized manually but it is in data folder
+    for final signal genration-
+	 run genrate_signal_confidence.py
+  
+ **Evaluation**
+ Run ALl the files Sarting with "MS"
 
+ 
+ 
+
+																										
